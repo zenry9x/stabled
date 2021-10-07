@@ -1,0 +1,417 @@
+{
+    "view": {
+        "002": {
+            "x": -175,
+            "y": 0,
+            "width": 350,
+            "height": 350
+        },
+        "003": {
+            "x": -160,
+            "y": 0,
+            "width": 320,
+            "height": 320
+        },
+        "012": {
+            "x": -200,
+            "y": -0,
+            "width": 400,
+            "height": 400
+        },
+        "015": {
+            "x": -175,
+            "y": 0,
+            "width": 350,
+            "height": 350
+        },
+        "016": {
+            "x": -165,
+            "y": -0,
+            "width": 330,
+            "height": 330
+        }
+    },
+    "animations": {
+        "002": [
+            "skill1",
+            "skill2",
+            "stand"
+        ],
+        "003": [
+            "skill2",
+            "stand"
+        ],
+        "012": [
+            "skill1",
+            "skill3",
+            "stand"
+        ],
+        "016": [
+            "attack2",
+            "skill3",
+            "stand"
+        ]
+    },
+    "spineFile": {
+        "002": "WJ0089",
+        "003": "WJ0033",
+        "012": "WJ0034",
+        "015": "WJ0069",
+        "016": "WJ0086_1"
+    },
+    "cardCode": {
+        "28": "001",
+        "37": "002",
+        "192": "003",
+        "215": "004",
+        "19": "005",
+        "48": "006",
+        "196": "007",
+        "50": "008",
+        "49": "009",
+        "214": "010",
+        "14": "011",
+        "193": "012",
+        "198": "013",
+        "52": "014",
+        "53": "015",
+        "184": "016",
+        "199": "017",
+        "194": "018",
+        "36": "019",
+        "195": "020"
+    },
+    "002": {
+        "default_skin": "xam",
+        "skins": [
+            "xam",
+            "luc2",
+            "lam3",
+            "tim4",
+            "vang5"
+        ],
+        "attachment_wp": [
+            "acs_1",
+            "wuqi_011"
+        ],
+        "attachment_h": [
+            "jiao11",
+            "tou11",
+            "neck1",
+            "toufa_011",
+            "toufa11",
+            "xiaolian11"
+        ],
+        "attachment_a": [
+            "skirt_back1",
+            "xiabai_L_011",
+            "xiabai_R_011",
+            "xiong1",
+            "yifu_011",
+            "yifu_021",
+            "xiabai_L_031"
+        ],
+        "attachment_l": [
+            "Xiaotui_L_021",
+            "Xiaotui_r_021",
+            "Xiaotui_L_0111",
+            "Xiaotui_r_011",
+            "jiao_L_011",
+            "jiao_R_011"
+        ],
+        "attachment_s": [
+            "jianjia1"
+        ],
+        "attachment_ar": [
+            "shoubi_R_021",
+            "shouzi_R_011",
+            "shouzhang_R_011",
+            "shoubi_R_011",
+            "shou_L_031",
+            "shou_L_021",
+            "shou_L_011"
+        ],
+        "attachment_p": [
+            "thankhi"
+        ],
+        "attachment_e": [
+            "Shadow",
+            "shadownguhanh"
+        ]
+    },
+    "003": {
+        "default_skin": "xam",
+        "skins": [
+            "xam",
+            "luc2",
+            "lam3",
+            "tim4",
+            "vang5"
+        ],
+        "attachment_wp": [
+            "wepon2",
+            "jiuhu2",
+            "jiuhu_1"
+        ],
+        "attachment_h": [
+            "top2",
+            "top3",
+            "longmay_l",
+            "longmay_r",
+            "eyes_01",
+            "top4",
+            "zuiba_01",
+            "zuiba_02"
+        ],
+        "attachment_a": [
+            "bone3",
+            "bone4",
+            "center",
+            "yaodai2",
+            "piaodai01_l2",
+            "piaodai01_r2",
+            "diaozui_r2",
+            "diaozui_l2",
+            "piaodai_M2"
+        ],
+        "attachment_l": [
+            "datui_l2",
+            "datui_r2",
+            "xiaotui_r2",
+            "xiaotui_l2",
+            "foot_l2",
+            "foot_r2"
+        ],
+        "attachment_s": [
+            "jianjia_l2",
+            "jianjia_r2"
+        ],
+        "attachment_ar": [
+            "xiuxi_r2",
+            "bone6",
+            "hand_r2",
+            "bone8",
+            "xiaobi_l2",
+            "hand01_l2",
+            "bone10"
+        ],
+        "attachment_p": [
+            "thankhi"
+        ],
+        "attachment_e": [
+            "Shadow",
+            "nguhanh"
+        ]
+    },
+    "012": {
+        "default_skin": "xam",
+        "skins": [
+            "xam",
+            "luc2",
+            "lam3",
+            "tim4",
+            "vang5"
+        ],
+        "attachment_wp": [
+            "wepon1",
+            "wepon2",
+            "wepon3"
+        ],
+        "attachment_h": [
+            "tou2",
+            "toufa",
+            "top3",
+            "eyes_01",
+            "top4",
+            "top",
+            "zuiba01"
+        ],
+        "attachment_a": [
+            "body2",
+            "yaodai2",
+            "bone3",
+            "qunbai2",
+            "tuikai_r2",
+            "tuikai_l2"
+        ],
+        "attachment_l": [
+            "datui_r2",
+            "datui_r3",
+            "bone23",
+            "xiaotui_r2",
+            "foot_r2",
+            "foot_l2",
+            "xiaotui_l2"
+        ],
+        "attachment_s": [
+            "jianjia_r2",
+            "top2",
+            "bone13",
+            "huashou_l2"
+        ],
+        "attachment_ar": [
+            "hand_l2",
+            "huwan_l2",
+            "bone7",
+            "xiaobi_r2",
+            "hand_r2",
+            "dabi_r2",
+            "xiaobi_l2"
+        ],
+        "attachment_p": [
+            "than"
+        ],
+        "attachment_e": [
+            "Shadow",
+            "nguhanh"
+        ]
+    },
+    "015": {
+        "default_skin": "xam1",
+        "skins": [
+            "xam1",
+            "luc2",
+            "lam3",
+            "tim4",
+            "vang5"
+        ],
+        "attachment_wp": [
+            "Yuxi-1",
+            "Wuqi-1",
+            "Wuqi-2",
+            "Wuqi-3",
+            "Wuqi-4",
+            "Wuqi-5",
+            "Wuqi-6"
+        ],
+        "attachment_h": [
+            "Hungguan-1",
+            "Hungguan-2",
+            "Hungguan-3",
+            "Hungguan-4",
+            "Hungguan-5",
+            "Hungguan-6",
+            "Hungguan-7",
+            "Toufa-2",
+            "Toufa-04",
+            "bone6",
+            "Toufa-3",
+            "Toufa-5",
+            "top",
+            "Tou-1",
+            "Yanjing-01",
+            "Zui-01"
+        ],
+        "attachment_a": [
+            "Pifeng-3",
+            "bone4",
+            "Qugan-1",
+            "Pifeng-2",
+            "Pifeng-1",
+            "Yao-1",
+            "Xiabai-5",
+            "Xiabai-6",
+            "Xiabai-7",
+            "Xiabai-9",
+            "Xiabai-4",
+            "Xiabai-1",
+            "Xiabai-8"
+        ],
+        "attachment_l": [
+            "Datui-R-3",
+            "Datui-R-2",
+            "Xiaotui-R-1",
+            "Xiaotui-L-1",
+            "Jiaoi-R-1",
+            "Jiaoi-L-1"
+        ],
+        "attachment_s": [
+            "bone65",
+            "Dabi-R-1",
+            "bone7",
+            "Dabi-L-2"
+        ],
+        "attachment_ar": [
+            "Shou-L-1",
+            "Xiaobi-L-1",
+            "bone12",
+            "Dabi-L-3",
+            "Xiaobi-R-1",
+            "bone8",
+            "bone9",
+            "Shou-R-1"
+        ],
+        "attachment_p": [
+            "thankhi"
+        ],
+        "attachment_e": [
+            "Shadow",
+            "nguhanh"
+        ]
+    },
+    "016": {
+        "default_skin": "xam1",
+        "skins": [
+            "xam1",
+            "luc2",
+            "lam3",
+            "tim4",
+            "vang5"
+        ],
+        "attachment_wp": [
+            "wepon2"
+        ],
+        "attachment_h": [
+            "weibo2",
+            "hat",
+            "hat_2",
+            "hear3",
+            "top4",
+            "hear1",
+            "Hair_1",
+            "top",
+            "yan1",
+            "Eyes_R",
+            "Ear_R",
+            "zui1"
+        ],
+        "attachment_a": [
+            "weijing2",
+            "bone3",
+            "bone4",
+            "yaodai2",
+            "yaokai01_r2",
+            "tuikai_r2",
+            "center",
+            "center2",
+            "yaokai01_l2",
+            "piaodai2"
+        ],
+        "attachment_l": [
+            "xiaotui_l2",
+            "datui_l2",
+            "datui_r2",
+            "foot_r2"
+        ],
+        "attachment_s": [
+            "jianjia_r",
+            "bone25"
+        ],
+        "attachment_ar": [
+            "bone21",
+            "xiaobi_r2",
+            "dabi_l2",
+            "xiaobi_l2",
+            "hand_l2",
+            "hand_r",
+            "hand_l-02"
+        ],
+        "attachment_p": [
+            "thankhi"
+        ],
+        "attachment_e": [
+            "Shadow",
+            "nguhanh"
+        ]
+    }
+}

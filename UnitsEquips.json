@@ -1,0 +1,857 @@
+{
+  "4000": {
+    "attrs": {
+      "atk": 9
+    },
+    "name": "Elite Soldier Iron Sword",
+    "require_level": 2,
+    "id": 4000,
+    "quality": 1,
+    "icon": "4000.png",
+    "des": "Normal military equipment, made from cast iron, a bit litte clumsy. Promotion materials Infantry low level."
+  },
+  "4001": {
+    "attrs": {
+      "def": 7
+    },
+    "name": "Elite Soldier Headscarf",
+    "require_level": 3,
+    "id": 4001,
+    "quality": 1,
+    "icon": "4001.png",
+    "des": "Normal military equipment, sewn with coarse fabric, focusing on form. Promotion materials Infantry low level."
+  },
+  "4002": {
+    "attrs": {
+      "maxhp": 143
+    },
+    "name": "Elite Soldier Leather Armor",
+    "require_level": 5,
+    "id": 4002,
+    "quality": 1,
+    "icon": "4002.png",
+    "des": "Normal military equipment, Made of leather, avoid injury. promotion materials Infantry low level."
+  },
+  "4003": {
+    "attrs": {
+      "def": 5,
+      "maxhp": 48
+    },
+    "name": "Elite Soldier Iron Shield",
+    "require_level": 7,
+    "id": 4003,
+    "quality": 1,
+    "icon": "4003.png",
+    "des": "Normal military equipment, made of raw iron. Promotion materials Infantry low level."
+  },
+  "4004": {
+    "attrs": {
+      "atk": 6,
+      "maxhp": 48
+    },
+    "name": "Beginner Body Training Book",
+    "require_level": 9,
+    "id": 4004,
+    "quality": 1,
+    "icon": "4004.png",
+    "des": "Book for common soldiers, Basic training curriculum. Promotion materials Infantry low level."
+  },
+  "4005": {
+    "attrs": {
+      "atk": 11
+    },
+    "name": "Elite Soldier Long Spear",
+    "require_level": 2,
+    "id": 4005,
+    "quality": 1,
+    "icon": "4005.png",
+    "des": "Normal military equipment, very long feature. Level low Cavalry promotion materials."
+  },
+  "4006": {
+    "attrs": {
+      "def": 5
+    },
+    "name": "Elite Soldier Headkerchief",
+    "require_level": 3,
+    "id": 4006,
+    "quality": 1,
+    "icon": "4006.png",
+    "des": "Normal military equipment, In case of long hair falling, a lot of bald people wear it. Level low Cavalry promotion materials."
+  },
+  "4007": {
+    "attrs": {
+      "maxhp": 130
+    },
+    "name": "Elite Soldier War Armor",
+    "require_level": 5,
+    "id": 4007,
+    "quality": 1,
+    "icon": "4007.png",
+    "des": "Normal military equipment, pretty cheap price. Level low Cavalry promotion materials."
+  },
+  "4008": {
+    "attrs": {
+      "def": 4,
+      "maxhp": 43
+    },
+    "name": "Elite Soldier Horse Saddle",
+    "require_level": 7,
+    "id": 4008,
+    "quality": 1,
+    "icon": "4008.png",
+    "des": "Normal military equipment, after using butt pain. Level low Cavalry promotion materials."
+  },
+  "4009": {
+    "attrs": {
+      "atk": 7,
+      "maxhp": 43
+    },
+    "name": "Low Level Training Hourse",
+    "require_level": 9,
+    "id": 4009,
+    "quality": 1,
+    "icon": "4009.png",
+    "des": "Book for common soldiers, It's actually all horses reading. Level low Cavalry promotion materials."
+  },
+  "4010": {
+    "attrs": {
+      "atk": 14
+    },
+    "name": "Elite Soldier Short Bow",
+    "require_level": 2,
+    "id": 4010,
+    "quality": 1,
+    "icon": "4010.png",
+    "des": "Normal military equipment, small and fast. Level low Archery promotion materials."
+  },
+  "4011": {
+    "attrs": {
+      "def": 3
+    },
+    "name": "Elite Soldier Headbands",
+    "require_level": 3,
+    "id": 4011,
+    "quality": 1,
+    "icon": "4011.png",
+    "des": "Normal military equipment, There is an extra block of cast iron in the middle of the forehead. Level low Archery promotion materials."
+  },
+  "4012": {
+    "attrs": {
+      "maxhp": 117
+    },
+    "name": "Elite Soldier Battle Shirt",
+    "require_level": 5,
+    "id": 4012,
+    "quality": 1,
+    "icon": "4012.png",
+    "des": "Normal military equipment, Relatively tight, suitable for pulling bows. Level low Archery promotion materials."
+  },
+  "4013": {
+    "attrs": {
+      "def": 2,
+      "maxhp": 39
+    },
+    "name": "Elite Soldier Shape Arrow",
+    "require_level": 7,
+    "id": 4013,
+    "quality": 1,
+    "icon": "4013.png",
+    "des": "Normal military equipment, Arrow has been honing. Level low Archery promotion materials."
+  },
+  "4014": {
+    "attrs": {
+      "atk": 9,
+      "maxhp": 39
+    },
+    "name": "Low Level Arrow Arts",
+    "require_level": 9,
+    "id": 4014,
+    "quality": 1,
+    "icon": "4014.png",
+    "des": "Book for common soldiers, popular book to teach archery. Level low Archery promotion materials."
+  },
+  "4015": {
+    "attrs": {
+      "atk": 14
+    },
+    "name": "Elite Soldier Long Spear",
+    "require_level": 2,
+    "id": 4015,
+    "quality": 1,
+    "icon": "4015.png",
+    "des": "Normal military equipment, spearhead made from cast iron. Level low Spear Army promotion materials."
+  },
+  "4016": {
+    "attrs": {
+      "def": 3
+    },
+    "name": "Elite Soldier Helmet",
+    "require_level": 3,
+    "id": 4016,
+    "quality": 1,
+    "icon": "4016.png",
+    "des": "Normal military equipment. Level low Spear Army promotion materials."
+  },
+  "4017": {
+    "attrs": {
+      "maxhp": 117
+    },
+    "name": "Elite Soldier Light Armor",
+    "require_level": 5,
+    "id": 4017,
+    "quality": 1,
+    "icon": "4017.png",
+    "des": "Normal military equipment, light and thin. Level low Spear Army promotion materials."
+  },
+  "4018": {
+    "attrs": {
+      "def": 2,
+      "maxhp": 39
+    },
+    "name": "Elite Soldier Shoulder Armor",
+    "require_level": 7,
+    "id": 4018,
+    "quality": 1,
+    "icon": "4018.png",
+    "des": "Normal military equipment, increase shoulder protection, prevent skin scratches when carrying spears. Level low Spear Army promotion materials."
+  },
+  "4019": {
+    "attrs": {
+      "atk": 9,
+      "maxhp": 39
+    },
+    "name": "Low level Sudden Mine",
+    "require_level": 9,
+    "id": 4019,
+    "quality": 1,
+    "icon": "4019.png",
+    "des": "Book for common soldiers, Presentation and analysis of the importance of the formation. Level low Spear Army promotion materials."
+  },
+  "4020": {
+    "attrs": {
+      "atk": 14
+    },
+    "name": "Scholar Magic Staff",
+    "require_level": 2,
+    "id": 4020,
+    "quality": 1,
+    "icon": "4020.png",
+    "des": "Normal military equipment, wand shaped like a dry branch. Level low Master Mind promotion materials."
+  },
+  "4021": {
+    "attrs": {
+      "def": 3
+    },
+    "name": "Scholar Helmet",
+    "require_level": 3,
+    "id": 4021,
+    "quality": 1,
+    "icon": "4021.png",
+    "des": "Normal military equipment, Costume of the reader. Level low Master Mind promotion materials."
+  },
+  "4022": {
+    "attrs": {
+      "maxhp": 104
+    },
+    "name": "Scholar Magic Robe",
+    "require_level": 5,
+    "id": 4022,
+    "quality": 1,
+    "icon": "4022.png",
+    "des": "Normal military equipment, The top coat has some random symbols on it. Level low Master Mind promotion materials."
+  },
+  "4023": {
+    "attrs": {
+      "def": 2,
+      "maxhp": 35
+    },
+    "name": "Scholar Belt",
+    "require_level": 7,
+    "id": 4023,
+    "quality": 1,
+    "icon": "4023.png",
+    "des": "Normal military equipment, wear pretty good. Level low Master Mind promotion materials."
+  },
+  "4024": {
+    "attrs": {
+      "atk": 10,
+      "maxhp": 35
+    },
+    "name": "Low level Magic Ball",
+    "require_level": 9,
+    "id": 4024,
+    "quality": 1,
+    "icon": "4024.png",
+    "des": "Book for common soldiers, popularize the principle of creating magic. Level low Master Mind promotion materials."
+  },
+  "4050": {
+    "attrs": {
+      "atk": 27
+    },
+    "name": "Golden Great Sword",
+    "require_level": 12,
+    "id": 4050,
+    "quality": 2,
+    "icon": "4050.png",
+    "des": "Intermediate military equipment, crafted from hard iron, exceptionally sharp. Mid-level Infantry promotion materials."
+  },
+  "4051": {
+    "attrs": {
+      "def": 21
+    },
+    "name": "Golden Helmet",
+    "require_level": 13,
+    "id": 4051,
+    "quality": 2,
+    "icon": "4051.png",
+    "des": "Intermediate military equipment, crafted from hard iron, full head protection. Mid-level Infantry promotion materials."
+  },
+  "4052": {
+    "attrs": {
+      "maxhp": 453
+    },
+    "name": "Golden Full Armor",
+    "require_level": 15,
+    "id": 4052,
+    "quality": 2,
+    "icon": "4052.png",
+    "des": "Intermediate military equipment, Good at Defense in front of Archers. Mid-level Infantry promotion materials."
+  },
+  "4053": {
+    "attrs": {
+      "def": 14,
+      "maxhp": 151
+    },
+    "name": "Golden Iron Shield",
+    "require_level": 17,
+    "id": 4053,
+    "quality": 2,
+    "icon": "4053.png",
+    "des": "Intermediate military equipment, crafted from hard iron, very solid. Mid-level Infantry promotion materials."
+  },
+  "4054": {
+    "attrs": {
+      "atk": 18,
+      "maxhp": 151
+    },
+    "name": "Mid Level Body Training Book",
+    "require_level": 19,
+    "id": 4054,
+    "quality": 2,
+    "icon": "4054.png",
+    "des": "Mid Level Infantry secret, good for melee. Mid-level Infantry promotion materials."
+  },
+  "4055": {
+    "attrs": {
+      "atk": 34
+    },
+    "name": "Golden Long Spear",
+    "require_level": 12,
+    "id": 4055,
+    "quality": 2,
+    "icon": "4055.png",
+    "des": "Intermediate military equipment, Crafted from crystal, the Long Spear always hits the enemy person first. Mid-level Cavalry promotion materials."
+  },
+  "4056": {
+    "attrs": {
+      "def": 17
+    },
+    "name": "Golden Helmet",
+    "require_level": 13,
+    "id": 4056,
+    "quality": 2,
+    "icon": "4056.png",
+    "des": "Intermediate military equipment, Cavalry dedicated, lightweight durable. Mid-level Cavalry promotion materials."
+  },
+  "4057": {
+    "attrs": {
+      "maxhp": 412
+    },
+    "name": "Golden War Armor",
+    "require_level": 15,
+    "id": 4057,
+    "quality": 2,
+    "icon": "4057.png",
+    "des": "Intermediate military equipment, War Armor Dedicated Cavalry. Mid-level Cavalry promotion materials."
+  },
+  "4058": {
+    "attrs": {
+      "def": 11,
+      "maxhp": 137
+    },
+    "name": "Golden Horse Saddle",
+    "require_level": 17,
+    "id": 4058,
+    "quality": 2,
+    "icon": "4058.png",
+    "des": "Intermediate military equipment, sturdy and durable, suitable for long trips. Mid-level Cavalry promotion materials."
+  },
+  "4059": {
+    "attrs": {
+      "atk": 23,
+      "maxhp": 137
+    },
+    "name": "Mid Level Training Horse",
+    "require_level": 19,
+    "id": 4059,
+    "quality": 2,
+    "icon": "4059.png",
+    "des": "Mid Level soldier secret, man and horse merge, fly like flying. Mid-level Cavalry promotion materials."
+  },
+  "4060": {
+    "attrs": {
+      "atk": 43
+    },
+    "name": "Golden Long Bow",
+    "require_level": 12,
+    "id": 4060,
+    "quality": 2,
+    "icon": "4060.png",
+    "des": "Intermediate military equipment, Increase strong bowstring, used to shoot heavy arrows. Mid-level Archery promotion materials."
+  },
+  "4061": {
+    "attrs": {
+      "def": 10
+    },
+    "name": "Golden Head Protector",
+    "require_level": 13,
+    "id": 4061,
+    "quality": 2,
+    "icon": "4061.png",
+    "des": "Intermediate military equipment, comprehensive protection. Mid-level Archery promotion materials."
+  },
+  "4062": {
+    "attrs": {
+      "maxhp": 371
+    },
+    "name": "Golden War Armor",
+    "require_level": 15,
+    "id": 4062,
+    "quality": 2,
+    "icon": "4062.png",
+    "des": "Intermediate military equipment, Reduce weight, do not reduce protection. Mid-level Archery promotion materials."
+  },
+  "4063": {
+    "attrs": {
+      "def": 7,
+      "maxhp": 124
+    },
+    "name": "Golden Heavy Arrow",
+    "require_level": 17,
+    "id": 4063,
+    "quality": 2,
+    "icon": "4063.png",
+    "des": "Intermediate military equipment, Arrow head is more heavy more powerful. Mid-level Archery promotion materials."
+  },
+  "4064": {
+    "attrs": {
+      "atk": 29,
+      "maxhp": 124
+    },
+    "name": "Mid Level Ranger Skill",
+    "require_level": 19,
+    "id": 4064,
+    "quality": 2,
+    "icon": "4064.png",
+    "des": "Mid Level soldier secret, very small, used to train eyesight. Mid-level Archery promotion materials."
+  },
+  "4065": {
+    "attrs": {
+      "atk": 43
+    },
+    "name": "Golden Long Spear",
+    "require_level": 12,
+    "id": 4065,
+    "quality": 2,
+    "icon": "4065.png",
+    "des": "Intermediate military equipment, Long Spear. Mid-level Spear Army promotion materials."
+  },
+  "4066": {
+    "attrs": {
+      "def": 10
+    },
+    "name": "Golden Helmet",
+    "require_level": 13,
+    "id": 4066,
+    "quality": 2,
+    "icon": "4066.png",
+    "des": "Intermediate military equipment, Mid-level Spear Army promotion materials."
+  },
+  "4067": {
+    "attrs": {
+      "maxhp": 371
+    },
+    "name": "Golden Light Armor",
+    "require_level": 15,
+    "id": 4067,
+    "quality": 2,
+    "icon": "4067.png",
+    "des": "Intermediate military equipment, Designed to protect against thorny grass. Mid-level Spear Army promotion materials."
+  },
+  "4068": {
+    "attrs": {
+      "def": 7,
+      "maxhp": 124
+    },
+    "name": "Golden Shoulder Armor",
+    "require_level": 17,
+    "id": 4068,
+    "quality": 2,
+    "icon": "4068.png",
+    "des": "Intermediate military equipment, Metal inside, gold plated outside. Mid-level Spear Army promotion materials."
+  },
+  "4069": {
+    "attrs": {
+      "atk": 29,
+      "maxhp": 124
+    },
+    "name": "Mid Level Sudden Mine",
+    "require_level": 19,
+    "id": 4069,
+    "quality": 2,
+    "icon": "4069.png",
+    "des": "Mid Level soldier secret, secret formation. Mid-level Spear Army promotion materials."
+  },
+  "4070": {
+    "attrs": {
+      "atk": 46
+    },
+    "name": "Golden Magic Staff",
+    "require_level": 12,
+    "id": 4070,
+    "quality": 2,
+    "icon": "4070.png",
+    "des": "Intermediate military equipment, sculpted raw wood. Mid-level Master Mind promotion materials."
+  },
+  "4071": {
+    "attrs": {
+      "def": 9
+    },
+    "name": "Golden  Helmet",
+    "require_level": 13,
+    "id": 4071,
+    "quality": 2,
+    "icon": "4071.png",
+    "des": "Intermediate military equipment, very temperament. Mid-level Master Mind promotion materials."
+  },
+  "4072": {
+    "attrs": {
+      "maxhp": 329
+    },
+    "name": "Golden Magic Robe",
+    "require_level": 15,
+    "id": 4072,
+    "quality": 2,
+    "icon": "4072.png",
+    "des": "Intermediate military equipment, Made in Sichuan Silk. Mid-level Master Mind promotion materials."
+  },
+  "4073": {
+    "attrs": {
+      "def": 6,
+      "maxhp": 110
+    },
+    "name": "Golden Belt",
+    "require_level": 17,
+    "id": 4073,
+    "quality": 2,
+    "icon": "4073.png",
+    "des": "Intermediate military equipment, belt with metal buckle. Mid-level Master Mind promotion materials."
+  },
+  "4074": {
+    "attrs": {
+      "atk": 31,
+      "maxhp": 110
+    },
+    "name": "Mid Level Magic Ball",
+    "require_level": 19,
+    "id": 4074,
+    "quality": 2,
+    "icon": "4074.png",
+    "des": "Mid Level Master Mind book, instructions for creating magic ball. Mid-level Master Mind promotion materials."
+  },
+  "4100": {
+    "attrs": {
+      "atk": 72
+    },
+    "name": "Heroic Strong Sword",
+    "require_level": 32,
+    "id": 4100,
+    "quality": 3,
+    "icon": "4100.png",
+    "des": "High-class military equipment, Big sharp, can attack and defend. High level Infantry promotion materials."
+  },
+  "4101": {
+    "attrs": {
+      "def": 58
+    },
+    "name": "Heroic Helmet",
+    "require_level": 33,
+    "id": 4101,
+    "quality": 3,
+    "icon": "4101.png",
+    "des": "High-class military equipment, can defend against the great sword. High level Infantry promotion materials."
+  },
+  "4102": {
+    "attrs": {
+      "maxhp": 1200
+    },
+    "name": "Heroic Full Armor",
+    "require_level": 35,
+    "id": 4102,
+    "quality": 3,
+    "icon": "4102.png",
+    "des": "High-class military equipment, thick and heavy, can't slash. High level Infantry promotion materials."
+  },
+  "4103": {
+    "attrs": {
+      "def": 38,
+      "maxhp": 400
+    },
+    "name": "Heroic Great Shield",
+    "require_level": 37,
+    "id": 4103,
+    "quality": 3,
+    "icon": "4103.png",
+    "des": "High-class military equipment, Full body defense. High level Infantry promotion materials."
+  },
+  "4104": {
+    "attrs": {
+      "atk": 48,
+      "maxhp": 400
+    },
+    "name": "High-class Body Training Book",
+    "require_level": 39,
+    "id": 4104,
+    "quality": 3,
+    "icon": "4104.png",
+    "des": "High-class Infantry skill, defence counterattack. High level Infantry promotion materials."
+  },
+  "4105": {
+    "attrs": {
+      "atk": 91
+    },
+    "name": "Heroic Long Spear",
+    "require_level": 32,
+    "id": 4105,
+    "quality": 3,
+    "icon": "4105.png",
+    "des": "High-class military equipment, The spear head undergoes meticulous training, so it's unusually sharp. High level Cavalry promotion materials."
+  },
+  "4106": {
+    "attrs": {
+      "def": 45
+    },
+    "name": "Heroic War Helmet",
+    "require_level": 33,
+    "id": 4106,
+    "quality": 3,
+    "icon": "4106.png",
+    "des": "High-class military equipment, decorated with eagle feathers. High level Cavalry promotion materials."
+  },
+  "4107": {
+    "attrs": {
+      "maxhp": 1091
+    },
+    "name": "Heroic Heart Protection Armor",
+    "require_level": 35,
+    "id": 4107,
+    "quality": 3,
+    "icon": "4107.png",
+    "des": "High-class military equipment, Light Armor is a good fit, balanced weight and protection. High level Cavalry promotion materials."
+  },
+  "4108": {
+    "attrs": {
+      "def": 30,
+      "maxhp": 364
+    },
+    "name": "Heroic Horse Armor",
+    "require_level": 37,
+    "id": 4108,
+    "quality": 3,
+    "icon": "4108.png",
+    "des": "High-class military equipment, equipment Steed. High level Cavalry promotion materials."
+  },
+  "4109": {
+    "attrs": {
+      "atk": 61,
+      "maxhp": 364
+    },
+    "name": "High-class Training Horse",
+    "require_level": 39,
+    "id": 4109,
+    "quality": 3,
+    "icon": "4109.png",
+    "des": "High-class Cavalry skill. High level Cavalry promotion materials."
+  },
+  "4110": {
+    "attrs": {
+      "atk": 114
+    },
+    "name": "Heroic Strong Bow",
+    "require_level": 32,
+    "id": 4110,
+    "quality": 3,
+    "icon": "4110.png",
+    "des": "High-class military equipment, Made of solid wood, Deer tendons make bowstrings. High level Archery promotion materials."
+  },
+  "4111": {
+    "attrs": {
+      "def": 26
+    },
+    "name": "Heroic Head Protector",
+    "require_level": 33,
+    "id": 4111,
+    "quality": 3,
+    "icon": "4111.png",
+    "des": "High-class military equipment, Head Protector made of diamond stone, extremely tough. High level Archery promotion materials."
+  },
+  "4112": {
+    "attrs": {
+      "maxhp": 982
+    },
+    "name": "Heroic War Armor",
+    "require_level": 35,
+    "id": 4112,
+    "quality": 3,
+    "icon": "4112.png",
+    "des": "High-class military equipment, can Increase power. High level Archery promotion materials."
+  },
+  "4113": {
+    "attrs": {
+      "def": 18,
+      "maxhp": 327
+    },
+    "name": "Heroic Arrow",
+    "require_level": 37,
+    "id": 4113,
+    "quality": 3,
+    "icon": "4113.png",
+    "des": "High-class military equipment, exquisitely made with feathers. High level Archery promotion materials."
+  },
+  "4114": {
+    "attrs": {
+      "atk": 76,
+      "maxhp": 327
+    },
+    "name": "High-class Ranger Skill",
+    "require_level": 39,
+    "id": 4114,
+    "quality": 3,
+    "icon": "4114.png",
+    "des": "High-class Archers skill, study guide for shooting practice, high-class tactical missile. High level Archery promotion materials."
+  },
+  "4115": {
+    "attrs": {
+      "atk": 114
+    },
+    "name": "Heroic Horse Slayer Blade",
+    "require_level": 32,
+    "id": 4115,
+    "quality": 3,
+    "icon": "4115.png",
+    "des": "High-class military equipment, specializes in cutting horse legs. High level Spear Army promotion materials."
+  },
+  "4116": {
+    "attrs": {
+      "def": 26
+    },
+    "name": "Heroic Leather Hat",
+    "require_level": 33,
+    "id": 4116,
+    "quality": 3,
+    "icon": "4116.png",
+    "des": "High-class military equipment, made from goat hair. High level Spear Army promotion materials."
+  },
+  "4117": {
+    "attrs": {
+      "maxhp": 982
+    },
+    "name": "Heroic Light Armor",
+    "require_level": 35,
+    "id": 4117,
+    "quality": 3,
+    "icon": "4117.png",
+    "des": "High-class military equipment, equipment to protect the heart. High level Spear Army promotion materials."
+  },
+  "4118": {
+    "attrs": {
+      "def": 18,
+      "maxhp": 327
+    },
+    "name": "Heroic Shoulder Armor",
+    "require_level": 37,
+    "id": 4118,
+    "quality": 3,
+    "icon": "4118.png",
+    "des": "High-class military equipment, Use forged diamonds for protection. High level Spear Army promotion materials."
+  },
+  "4119": {
+    "attrs": {
+      "atk": 76,
+      "maxhp": 327
+    },
+    "name": "High-class Sudden Mine",
+    "require_level": 39,
+    "id": 4119,
+    "quality": 3,
+    "icon": "4119.png",
+    "des": "High-class Spear Army tactics. High level Spear Army promotion materials."
+  },
+  "4120": {
+    "attrs": {
+      "atk": 122
+    },
+    "name": "Sage Magic Staff",
+    "require_level": 32,
+    "id": 4120,
+    "quality": 3,
+    "icon": "4120.png",
+    "des": "High-class military equipment, Made of ebony wood, has a spirit. High level Master Mind promotion materials."
+  },
+  "4121": {
+    "attrs": {
+      "def": 23
+    },
+    "name": "Sage Helmet",
+    "require_level": 33,
+    "id": 4121,
+    "quality": 3,
+    "icon": "4121.png",
+    "des": "High-class military equipment, made from crane feathers, wisdom symbolism. High level Master Mind promotion materials."
+  },
+  "4122": {
+    "attrs": {
+      "maxhp": 873
+    },
+    "name": "Sage Magic Robe",
+    "require_level": 35,
+    "id": 4122,
+    "quality": 3,
+    "icon": "4122.png",
+    "des": "High-class military equipment, Made from brocade fabric, the top is embroidered with Tai Chi patterns. High level Master Mind promotion materials."
+  },
+  "4123": {
+    "attrs": {
+      "def": 15,
+      "maxhp": 291
+    },
+    "name": "Sage Belt",
+    "require_level": 37,
+    "id": 4123,
+    "quality": 3,
+    "icon": "4123.png",
+    "des": "High-class military equipment, sculptured byBlack magic stone. High level Master Mind promotion materials."
+  },
+  "4124": {
+    "attrs": {
+      "atk": 81,
+      "maxhp": 291
+    },
+    "name": "High-class Magic Ball",
+    "require_level": 39,
+    "id": 4124,
+    "quality": 3,
+    "icon": "4124.png",
+    "des": "High-class magical skill, record the magical secret. High level Master Mind promotion materials."
+  }
+}

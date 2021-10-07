@@ -1,0 +1,1809 @@
+{
+  "unit_cd": [
+    60,
+    360,
+    900,
+    1800,
+    3600,
+    5400,
+    7200,
+    10800,
+    14400,
+    21600,
+    28800,
+    36000,
+    46800,
+    51600,
+    75000
+  ],
+  "unitPos": [
+    [
+      535,
+      178
+    ],
+    [
+      730,
+      158
+    ],
+    [
+      1350,
+      160
+    ],
+    [
+      1425,
+      160
+    ],
+    [
+      1500,
+      160
+    ],
+    [
+      1600,
+      70
+    ],
+    [
+      2047,
+      41
+    ],
+    [
+      2118,
+      162
+    ],
+    [
+      2237,
+      230
+    ],
+    [
+      2514,
+      316
+    ],
+    [
+      2237,
+      230
+    ],
+    [
+      2118,
+      162
+    ],
+    [
+      2102,
+      19
+    ],
+    [
+      2784,
+      13
+    ],
+    [
+      2856,
+      114
+    ],
+    [
+      2856,
+      223
+    ],
+    [
+      2868,
+      326
+    ],
+    [
+      2856,
+      223
+    ],
+    [
+      2837,
+      114
+    ],
+    [
+      2784,
+      8
+    ],
+    [
+      2102,
+      15
+    ],
+    [
+      2016,
+      46
+    ],
+    [
+      1599,
+      61
+    ],
+    [
+      1500,
+      130
+    ],
+    [
+      1350,
+      140
+    ],
+    [
+      730,
+      158
+    ]
+  ],
+  "quiz_cd": [
+    120,
+    720,
+    2160,
+    5400,
+    10800,
+    21600,
+    46800,
+    75000
+  ],
+  "open": [
+    "09:00",
+    "24:00"
+  ],
+  "dialog_cd": [
+    360,
+    720,
+    1440,
+    2880,
+    5760
+  ],
+  "unit_money_coefs": [
+    200,
+    30
+  ],
+  "dialogs_2": [
+    [
+      "Report Boss！What is there to assign？",
+      1
+    ],
+    [
+      "My boss, you say you want to slash someone, I will slash him",
+      1
+    ],
+    [
+      "Heard that checking-in 1 times gets 100 Gold. Really?",
+      1
+    ],
+    [
+      "Ouchs! my stamen can be poked if you say you want to poke me?",
+      1
+    ],
+    [
+      "You indecent...",
+      1
+    ],
+    [
+      "Don't disturb me doing his duty！",
+      1
+    ],
+    [
+      "Boss is Good！Bright Boss！",
+      1
+    ],
+    [
+      "I heard that the admin turned himself into the strongest general in the game",
+      1
+    ],
+    [
+      "Heard, brothers I went to the furnace and didn't see anyone returning, I was so scared...",
+      1
+    ],
+    [
+      "Our boss, when will the weapons on the body be changed？",
+      1
+    ],
+    [
+      "Our boss, we are not polite, if you don't give me a new one, I'll go to the blacksmith",
+      1
+    ],
+    [
+      "Boss, Diaochan borrowed my horse for two days? Oh no, I said, Red Hare...",
+      1
+    ]
+  ],
+  "dialogs_1": [
+    [
+      "Meet the devil, Isn't there a toilet on this street？！",
+      1
+    ],
+    [
+      "The Great King sent me to patrol",
+      1
+    ],
+    [
+      "How can I wear it when it's hot like this",
+      1
+    ],
+    [
+      "In the city looks normal",
+      1
+    ],
+    [
+      "Increase is on patrol？",
+      1
+    ],
+    [
+      "I went to the tavern to find Diaochan to drink a cup...",
+      1
+    ],
+    [
+      "Receive Once you've finished your salary, go upgrade your equipment ~",
+      1
+    ],
+    [
+      "Our boss doesn't show the battle",
+      1
+    ],
+    [
+      "Today has consumed 500 calories",
+      1
+    ],
+    [
+      "Feeling cute myself",
+      1
+    ],
+    [
+      "What's the Wall Attacker? I also raise a team like that",
+      1
+    ],
+    [
+      "Who should be voted as Miss？",
+      1
+    ],
+    [
+      "Don't tell me your feelings, use bronze coin says.",
+      1
+    ],
+    [
+      "Completing the quest can attract Xiao Qiao!",
+      1
+    ],
+    [
+      "Our boss has said many times that, the skill corps can use a.",
+      1
+    ],
+    [
+      "The formation is wrong, me and I ran ~",
+      1
+    ],
+    [
+      "What is the Crossbow machine? Just seeing it hurts so much aa",
+      1
+    ],
+    [
+      "Heard Diaochan has one the epic Chest",
+      1
+    ],
+    [
+      "What the hell is an Ambush army? Why do you keep losing HP",
+      1
+    ],
+    [
+      "I heard someone one times from the tavern recruited 6 epic generals , really lucky",
+      1
+    ]
+  ],
+  "quiz": {
+    "qna": [
+      {
+        "q": "There is a monkey on the tree, under the tree there are 7 monkeys, how many monkeys are there in total ？",
+        "a": [
+          [
+            1,
+            "Hai a",
+            "Your 1st grade math teacher, suddenly get married?",
+            1
+          ],
+          [
+            2,
+            "Eight monkeys",
+            "Congrats for the correct answer. ！",
+            2
+          ],
+          [
+            3,
+            "I see you as a monkey",
+            "Ha ha, You has this ability？",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Is this game good？",
+        "a": [
+          [
+            1,
+            "This game is the top of the top of the top, I can't get bored of it",
+            1
+          ],
+          [
+            2,
+            "I trust you one times！",
+            "Thank you for your support！",
+            2
+          ],
+          [
+            3,
+            "You didn't disappoint me, the game was great！",
+            "Ha ha ha... Thank you for your praise.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What is the first and most important task Liu Bei request for Zhuge Liang？",
+        "a": [
+          [
+            1,
+            "restore the Han Dynasty",
+            "That's right, you look so smart",
+            1
+          ],
+          [
+            2,
+            "Unify Zhongyuan",
+            "I thought you were like...",
+            2
+          ],
+          [
+            3,
+            "Defeat Cao Cao",
+            "Haizz...That's stupid",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What did Zhang Fei use to hit Doc Biao?",
+        "a": [
+          [
+            1,
+            "Willow branch",
+            "Very good, that's right",
+            1
+          ],
+          [
+            2,
+            "Steel bar",
+            "No one had invented it yet",
+            2
+          ],
+          [
+            3,
+            "Whip",
+            "Stop!Unfortunately Zhang Fei is male",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "At the time of Taoyuan's friendship, except for using horses as sacrifices, what buffaloes were used for sacrifices？",
+        "a": [
+          [
+            1,
+            "Black Buffalo",
+            "Black Bull is necessary！",
+            1
+          ],
+          [
+            2,
+            "Mother Buffalo",
+            "Give up who will raise the baby calves？",
+            2
+          ],
+          [
+            3,
+            " Dairy cow",
+            "Oh that's also a good idea,...",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "《Way of the Taiping》who gave Nanhua Laotian 3 books of heaven？",
+        "a": [
+          [
+            1,
+            "Zhang Jue",
+            "Yes, very good",
+            1
+          ],
+          [
+            2,
+            "Zhang Nhi Bao",
+            "Zhang Nhi Bao in 1800 years is exactly free to read online",
+            2
+          ],
+          [
+            3,
+            "Zhang Toan Egg",
+            "Answer the wrong times, no more eggs to eat.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Liu Bei followed Guan Yu's advice, where did he put his seal to resign？",
+        "a": [
+          [
+            1,
+            "Hang on Dou Biao's neck",
+            "Yes! Then it fits his personality！",
+            1
+          ],
+          [
+            2,
+            "Put it on the ground",
+            "Wrong, not like you imaginary",
+            2
+          ],
+          [
+            3,
+            "Hang on the tree",
+            "Wrong, it's not what you think.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Receive God's destiny, last forever is the 8 words on the nation's jade seal, who is it engraved on ？",
+        "a": [
+          [
+            1,
+            "Ly Tu",
+            "Congrats, correct answer",
+            1
+          ],
+          [
+            2,
+            "Trieu Co",
+            "He was busy taking a bath at that time",
+            2
+          ],
+          [
+            3,
+            "Zhang Jue",
+            "his ancestor was busy taking a bath",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Great War of Red Cliffs is famous for winning more with less, how many troops in the Great War of Red Cliffs ？",
+        "a": [
+          [
+            1,
+            "20 thousand",
+            "Bingo, correct answer",
+            1
+          ],
+          [
+            2,
+            "1 million",
+            "Ha ha! Please reply seriously！",
+            2
+          ],
+          [
+            3,
+            "40 million",
+            "Indiscriminate answer, I wonder if you're a robot？",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "This person in the story has no beard？",
+        "a": [
+          [
+            1,
+            "Zhuge Liang",
+            "Correct answer, your IQ is higher than expected",
+            1
+          ],
+          [
+            2,
+            "Cao Cao",
+            "wrong answer, answer back？",
+            2
+          ],
+          [
+            3,
+            "Yang Xiu",
+            "Rambly replies.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Who was the first owner of Zhao Yun？",
+        "a": [
+          [
+            1,
+            "Yuan Shao",
+            "Accurate",
+            1
+          ],
+          [
+            2,
+            "Liu Bei",
+            "I remember recruiting later",
+            2
+          ],
+          [
+            3,
+            "Yang Xiu",
+            " Wrong ",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Who is good at interpreting dreams？",
+        "a": [
+          [
+            1,
+            "Ji Jing",
+            "Yes, your IQ is very high",
+            1
+          ],
+          [
+            2,
+            "Chu Jianping",
+            "Wrong, answer again",
+            2
+          ],
+          [
+            3,
+            "Du kui",
+            "Wrong, answer again",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "One of two people rate Cao Cao very High, 1 is Qiao xian, who is the other one ?",
+        "a": [
+          [
+            1,
+            "Huatai",
+            "This is also known！I respect",
+            1
+          ],
+          [
+            2,
+            "Jia Ma",
+            "Answer my meaning, ha ha ha, but wrong！",
+            2
+          ],
+          [
+            3,
+            "Bruce Lee",
+            "Who is this?",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Who is it that is called ask for money?",
+        "a": [
+          [
+            1,
+            "Cao Yan",
+            "The answer is correct, the IQ of people is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Huang Zu",
+            "failure is the mother of success. successful, wrong many times will have 1 right times.",
+            2
+          ],
+          [
+            3,
+            "Xiahou Dun",
+            "failure is the mother of success, Wrong many times will have 1 right times.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "After the Great Red Cliffs war, who did Cao Cao command to defend the Southern District?",
+        "a": [
+          [
+            1,
+            "Xiahou Yuan",
+            "The answer is correct, your IQ is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Xiahou Dun",
+            "I agree with you. , unfortunately you, Cao Cao is not.",
+            2
+          ],
+          [
+            3,
+            "Cao Cao",
+            "I agree with you, unfortunately you are not Cao Cao.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Who is the top five princes of Wei?",
+        "a": [
+          [
+            1,
+            "Zhang Liao",
+            "The answer is correct, your IQ is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Xu Huang",
+            "First, please note mind, first.",
+            2
+          ],
+          [
+            3,
+            "Yue Jin",
+            "First, please pay attention, first.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What year AD did Sima Yi die?",
+        "a": [
+          [
+            1,
+            "251 years",
+            "though you're correct, but I know you're just using an elimination method, huh!",
+            1
+          ],
+          [
+            2,
+            "233 years",
+            "Wrong",
+            2
+          ],
+          [
+            3,
+            "666 years",
+            "False",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Lu Meng praises who is brave?",
+        "a": [
+          [
+            1,
+            "Chu Jan",
+            "Yes, the IQ of a person is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Sun Quan",
+            "Is he human you fan",
+            2
+          ],
+          [
+            3,
+            "Zhou Yu",
+            "Is he your fan?",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "The best man is Lu Bu, so which horse is the best?",
+        "a": [
+          [
+            1,
+            "Red Hare",
+            "yes, this is Diaochan.",
+            1
+          ],
+          [
+            2,
+            "Diaochan",
+            "no need! ",
+            2
+          ],
+          [
+            3,
+            "Lu",
+            "no, think again (this question is all wrong, presumably your mother of language is English).",
+            2
+          ]
+        ]
+      },
+      {
+        "q": " What year was the Counter-Dong Zhuo ally founded?",
+        "a": [
+          [
+            1,
+            "189 years and 12 months",
+            "Yes, Baidu is very proficient!",
+            1
+          ],
+          [
+            2,
+            "189 years and 11 months",
+            "wrong, why is Google 404 today? ",
+            2
+          ],
+          [
+            3,
+            "189 years and 10 months",
+            "wrong, is Google 404 again today?",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What is the name of the daughter Lu Bu?",
+        "a": [
+          [
+            1,
+            "Lu Lingqi",
+            "Answer is correct, human's IQ is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Lu Bingbing",
+            "ai! She she is also a shy flower.",
+            2
+          ],
+          [
+            3,
+            "Lu Jia",
+            "ai, actually she is Lu Bu and Red Hare's daughter",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What kind of battle did the master attack Xinye show that was broken by Xu Shu and defeated?",
+        "a": [
+          [
+            1,
+            "Golden Eight Gates",
+            "The answer is correct, the intelligence of people is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Dunjia Tatics",
+            "This battle never been solved in history! -- Zhuge Liang",
+            2
+          ],
+          [
+            3,
+            "Long and snake tatics",
+            "This battle can be broken by anyone.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Who is righteous and brave to coordinate with the army to destroy the main force of Yellow Turban?",
+        "a": [
+          [
+            1,
+            "Dingtao",
+            "Yes, your IQ is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Jieqiao",
+            "Wrong, not like you thought.",
+            2
+          ],
+          [
+            3,
+            "Ding Chuan",
+            "wrong, the IQ of people is lower than I imagined..",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Who's the smartest Namman?",
+        "a": [
+          [
+            1,
+            "Duosi Great King",
+            "Correct answer, human's IQ is higher than I thought.",
+            1
+          ],
+          [
+            2,
+            "Wanyan Aguda",
+            "Haizz ~~",
+            2
+          ],
+          [
+            3,
+            "Dongtuna",
+            "How does this read?",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Which of the following is not a characteristic of the three kingdoms?",
+        "a": [
+          [
+            1,
+            "Tiger Cavalry",
+            "Yes, very smart!",
+            1
+          ],
+          [
+            2,
+            "Crossbow Army",
+            "failure is the mother of success, Wrong many times will have 1 times true.",
+            2
+          ],
+          [
+            3,
+            "Elephant army",
+            "Failure is the mother of success, Wrong many times will have 1 times as true.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What level furnace will unlock?",
+        "a": [
+          [
+            1,
+            "Level 25",
+            "The answer is correct, your IQ is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "level 45",
+            "Failure is the mother of success. success, Wrong many times will have 1 correct times.",
+            2
+          ],
+          [
+            3,
+            "Level 35",
+            "Failure is the mother of success, Wrong many times will have 1 right times.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Who below is not Cao Cao's son?",
+        "a": [
+          [
+            1,
+            "Cao Zhen",
+            "The answer is correct, your IQ is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Cao Ang",
+            "Failure is the mother of success. success, wrong many times will have 1 times right.",
+            2
+          ],
+          [
+            3,
+            "Kaohsiung",
+            "Failure is the mother of success, wrong many times will have 1 times is true.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "At what level is the Pass Gate Slash Enemy unlocked?",
+        "a": [
+          [
+            1,
+            "30",
+            "Yes, the IQ of people is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "20",
+            "Nga ha ha ha ha it's really You can't even google it.",
+            2
+          ],
+          [
+            3,
+            "10",
+            "nga ha ha ha ha, in fact, even a google search won't come up.",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Jiang Wei plotted a secret rebellion, who was defeated in the end?",
+        "a": [
+          [
+            1,
+            "Ve Guan",
+            "Yes, your IQ is higher than I imagined.",
+            1
+          ],
+          [
+            2,
+            "Wu Ban",
+            "nga ha ha ha ha Actually, there's an object that calls Google, although you can't open it.",
+            2
+          ],
+          [
+            3,
+            "Van Wu",
+            "nga ha ha ha ha, there's actually an object that calls Google, although you can't open it. .",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "In the game, what features does the black market hide inside?",
+        "a": [
+          [
+            1,
+            "Forge",
+            "The answer is correct, hey you have found it, it's not easy!",
+            1
+          ],
+          [
+            2,
+            "Tarvern",
+            "I want to cry, obviously used to hero recruitment",
+            2
+          ],
+          [
+            3,
+            "Don't hide anything",
+            "Tears, wrong",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Which of the following items cannot be exchanged at the arena shop?",
+        "a": [
+          [
+            1,
+            "Small treasure piece",
+            "The answer is correct, you have found it, it's not easy!",
+            1
+          ],
+          [
+            2,
+            "Sichuan brocade",
+            "Wrong again, want to drop water eyes",
+            2
+          ],
+          [
+            3,
+            "Battle of the Supreme Card",
+            "Tears, wrong again",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "How does Pass Gate Slash Enemy play?",
+        "a": [
+          [
+            1,
+            "Fun to play",
+            "ha ha ha ha ha of course!",
+            1
+          ],
+          [
+            2,
+            "Not the right idea, too difficult!",
+            "Pay attention to the small soldier level up! , how did the infantry general live?",
+            2
+          ],
+          [
+            3,
+            "Is there a reward?",
+            "What are you waiting for to come in and play!",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What does refining a Treasure consume?",
+        "a": [
+          [
+            1,
+            "Soul's museum pieces",
+            "Yes! Use the furnace to solve it",
+            [
+              1
+            ],
+            [
+              2,
+              "Sichuan brocade",
+              "Wrong again",
+              2
+            ],
+            [
+              3,
+              " Black Iron",
+              "Wrong again, want to cry",
+              2
+            ]
+          ]
+        ]
+      },
+      {
+        "q": "What materials do training troops require to consume?",
+        "a": [
+          [
+            1,
+            "Commander's seal",
+            "Yes! You can also get a large amount of commander's seal through sweeping stages",
+            1
+          ],
+          [
+            2,
+            "Military equipment",
+            "Haizz ... This is used to level up the army... Remember ~~",
+            2
+          ],
+          [
+            3,
+            "gold leaf",
+            "corn... This is used to exchange Copper Coin ~~ ",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Which hero quality can the medium furnace produce",
+        "a": [
+          [
+            1,
+            "Practice it all",
+            "oh, you seem to know it too!",
+            1
+          ],
+          [
+            2,
+            "epic color",
+            "for the quality is possible, isn't it good not really strong?",
+            2
+          ],
+          [
+            3,
+            "red",
+            "temporarily no such beauty",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What can black iron be used for?",
+        "a": [
+          [
+            1,
+            "Enhance equipment",
+            "That's right! Pass Gate Slash Enemy, black market can be changed",
+            1
+          ],
+          [
+            2,
+            "Upgrade hero",
+            "Not true, not true, level up The main wear is Sichuan brocade",
+            2
+          ],
+          [
+            3,
+            "Thang Giai Army",
+            "not true, not true, the military rank-up consumable is the bracelet",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Which army is against Cavalry?",
+        "a": [
+          [
+            1,
+            "Spear Army",
+            "That's right! Hit it right away!",
+            1
+          ],
+          [
+            2,
+            "Infantry",
+            "Cavalry volunteered once and broke.",
+            2
+          ],
+          [
+            3,
+            "Archery",
+            "Read the instructions again and then answer",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Enhanced equipment has to be decomposed, you will get the materials back, right?",
+        "a": [
+          [
+            1,
+            "How is that possible!",
+            "Yes, except for the possibility of high-class equipment, all the enhancement costs will be returned!",
+            1
+          ],
+          [
+            2,
+            "Lost Copper Coin",
+            "how is that possible! 100%, all of, even, still paying you!",
+            2
+          ],
+          [
+            3,
+            "Fail to cry",
+            "No, failure is equivalent to selling a store, anyway spend wasting resources will return",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Which of the following is not a beneficial high-ranking arena?",
+        "a": [
+          [
+            1,
+            "Title of pig brain",
+            "I use my conscience to tell you, pig brain doesn't enjoy this game...",
+            1
+          ],
+          [
+            2,
+            "Honor points",
+            " Everyday can also get reward rating, refreshing!",
+            2
+          ],
+          [
+            3,
+            "Ranking bonus",
+            "Ranking more higher, better reward! Remember Everyday check mailbox ~",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Check-in did not receive any of the following items",
+        "a": [
+          [
+            1,
+            "junk item",
+            "master, this game really has a conscience, gives epic champion and free resources!",
+            1
+          ],
+          [
+            2,
+            "Aquire epic champion! ",
+            "Gives epics and resources,",
+            2
+          ],
+          [
+            3,
+            "Gives gold coins",
+            "gold coins will stabilize production, satisfy. Have fun",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Where to see fate?",
+        "a": [
+          [
+            1,
+            "Open the backpack so you can see",
+            "That's right!",
+            1
+          ],
+          [
+            2,
+            "Go to battle ",
+            "No need! That's too annoying for players!",
+            2
+          ],
+          [
+            3,
+            "It takes money!",
+            "The game features a lot of free features, fighting!",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "What level does epic Quality Heroes's second skill unlock?",
+        "a": [
+          [
+            1,
+            "+3",
+            "Correct answer, open the second skill to add more fighting power!",
+            1
+          ],
+          [
+            2,
+            "+7",
+            "not so long ^^",
+            2
+          ],
+          [
+            3,
+            "+5",
+            "no such thing ^_^",
+            2
+          ]
+        ]
+      },
+      {
+        "q": " How many pieces of equipment epic does it require to form?",
+        "a": [
+          [
+            1,
+            "30",
+            "Correct answer",
+            1
+          ],
+          [
+            2,
+            "40",
+            "Open the inventory to see the answer",
+            2
+          ],
+          [
+            3,
+            "20",
+            "Open the warehouse and look and find the answer",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Epic treasures are very rare, why do you want to depart?",
+        "a": [
+          [
+            1,
+            "For refining!",
+            "That's right! Refining will drop a lot of precious items",
+            1
+          ],
+          [
+            2,
+            "As you wish!",
+            "I won't stop you. ..",
+            2
+          ],
+          [
+            3,
+            "Mispress...",
+            "Blue sky, did your finger slip?",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "How to get Gold monthly card everyday?",
+        "a": [
+          [
+            1,
+            "Activate",
+            "That's right, hurry in to receive the offer, only profit and no loss!",
+            1
+          ],
+          [
+            2,
+            "Check in",
+            "still search again? ",
+            2
+          ],
+          [
+            3,
+            "My friend said he was a blacksmith",
+            "This guy is unbelievable...",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "How many heroes can each time furnace train?",
+        "a": [
+          [
+            1,
+            "5",
+            "Grace, That's right!",
+            1
+          ],
+          [
+            2,
+            "10",
+            "Go try the furnace! Level 25 unlocks",
+            2
+          ],
+          [
+            3,
+            "1",
+            "1 can't be enough, are you right?",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Can only receive purple heroes in Taverns?",
+        "a": [
+          [
+            1,
+            "There's still a stage or black market",
+            "Aye, that's right! Of course there's also Active Attendance~",
+            1
+          ],
+          [
+            2,
+            "Only tavern",
+            "Da Gia! Sometimes more than maintenance!",
+            2
+          ],
+          [
+            3,
+            "I don't know",
+            "Thank you! Don't try!",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Is the Equipment divided by army?",
+        "a": [
+          [
+            1,
+            "Yes, suitable army, Increase power",
+            "quick, go and collect it!",
+            1
+          ],
+          [
+            2,
+            "Does the game still have this feature?",
+            " Not only that, but it's also very interesting, blue equipment is available",
+            2
+          ],
+          [
+            3,
+            "Gam Cards don't have any division",
+            "You don't have to be sure I don't have?",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Where can I see my ID?",
+        "a": [
+          [
+            1,
+            "Select a profile picture",
+            "Not bad, very knowledgeable about the game!",
+            1
+          ],
+          [
+            2,
+            "Press the back button",
+            "Click on the portrait image to try it out! ",
+            2
+          ],
+          [
+            3,
+            "Open your wallet and get your id!",
+            "Ha ha ha ha funny!",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "First Recharge, earn Huang Yueying, is it worth it?",
+        "a": [
+          [
+            1,
+            "Absolutely!,hear HP and support, such a strong champion you deserve!",
+            1
+          ],
+          [
+            2,
+            "Does an old woman have skills?",
+            " Pass Gate Slash Enemy, Elite this checkpoint is extremely difficult, it takes an auxiliary champion to pass",
+            2
+          ],
+          [
+            3,
+            "The female hero is definitely weak",
+            "Auxiliary, very good blood pump, make your generals immortal on the battlefield.!",
+            2
+          ]
+        ]
+      },
+      {
+        "q": "Is Dong Zhuo worth it?",
+        "a": [
+          [
+            1,
+            "Definitely!",
+            "Easy to obtain, strong tank, self-destructive skill, arena is king",
+            1
+          ],
+          [
+            2,
+            "Self-violence looks cowardly",
+            "Self-violence great deal damage a~",
+            2
+          ],
+          [
+            3,
+            "Diaochan is worth it",
+            "You only look at beauty",
+            2
+          ]
+        ]
+      }
+    ],
+    "rewards": [
+      {
+        "money": 10,
+        "gamemoney_coef": 400,
+        "items": [
+          [
+            1100,
+            1,
+            100
+          ],
+          [
+            1101,
+            1,
+            100
+          ],
+          [
+            1102,
+            1,
+            10
+          ],
+          [
+            1103,
+            1,
+            1
+          ],
+          [
+            1600,
+            1,
+            100
+          ],
+          [
+            1601,
+            1,
+            100
+          ],
+          [
+            1602,
+            1,
+            10
+          ],
+          [
+            1603,
+            1,
+            1
+          ]
+        ],
+        "reward_prob": [
+          10,
+          1,
+          10
+        ]
+      },
+      {
+        "money": 10,
+        "gamemoney_coef": 5,
+        "items": [
+          [
+            1100,
+            1,
+            100
+          ],
+          [
+            1101,
+            1,
+            100
+          ],
+          [
+            1102,
+            1,
+            10
+          ],
+          [
+            1103,
+            1,
+            1
+          ],
+          [
+            1600,
+            1,
+            100
+          ],
+          [
+            1601,
+            1,
+            100
+          ],
+          [
+            1602,
+            1,
+            10
+          ],
+          [
+            1603,
+            1,
+            1
+          ]
+        ],
+        "reward_prob": [
+          10,
+          0,
+          0
+        ]
+      },
+      {
+        "money": 10,
+        "gamemoney_coef": 400,
+        "items": [
+          [
+            1100,
+            1,
+            100
+          ],
+          [
+            1101,
+            1,
+            100
+          ],
+          [
+            1102,
+            1,
+            10
+          ],
+          [
+            1103,
+            1,
+            1
+          ],
+          [
+            1600,
+            1,
+            100
+          ],
+          [
+            1601,
+            1,
+            100
+          ],
+          [
+            1602,
+            1,
+            10
+          ],
+          [
+            1603,
+            1,
+            1
+          ]
+        ],
+        "reward_prob": [
+          10,
+          1,
+          10
+        ]
+      }
+    ]
+  },
+  "stayTime": 86400,
+  "unitPath": [
+    [
+      [
+        535,
+        178
+      ],
+      [
+        730,
+        158
+      ],
+      [
+        1350,
+        160
+      ],
+      [
+        1425,
+        160
+      ],
+      [
+        1500,
+        160
+      ],
+      [
+        1500,
+        130
+      ],
+      [
+        1350,
+        140
+      ],
+      [
+        730,
+        158
+      ]
+    ],
+    [
+      [
+        1546,
+        62
+      ],
+      [
+        1600,
+        70
+      ],
+      [
+        2047,
+        41
+      ],
+      [
+        2213,
+        107
+      ],
+      [
+        2300,
+        194
+      ],
+      [
+        2385,
+        194
+      ],
+      [
+        2548,
+        245
+      ],
+      [
+        2385,
+        194
+      ],
+      [
+        2300,
+        194
+      ],
+      [
+        2213,
+        127
+      ],
+      [
+        2016,
+        46
+      ],
+      [
+        1546,
+        62
+      ]
+    ],
+    [
+      [
+        2084,
+        33
+      ],
+      [
+        2184,
+        34
+      ],
+      [
+        2299,
+        46
+      ],
+      [
+        2413,
+        87
+      ],
+      [
+        2299,
+        46
+      ],
+      [
+        2184,
+        34
+      ],
+      [
+        2084,
+        33
+      ]
+    ]
+  ],
+  "pos": [
+    [
+      687,
+      188
+    ],
+    [
+      687,
+      188
+    ],
+    [
+      1350,
+      140
+    ],
+    [
+      1425,
+      140
+    ],
+    [
+      1500,
+      130
+    ],
+    [
+      1600,
+      70
+    ],
+    [
+      2047,
+      41
+    ],
+    [
+      2222,
+      118
+    ],
+    [
+      2291,
+      194
+    ],
+    [
+      2385,
+      194
+    ],
+    [
+      2528,
+      245
+    ],
+    [
+      2385,
+      194
+    ],
+    [
+      2291,
+      194
+    ],
+    [
+      2291,
+      185
+    ],
+    [
+      2016,
+      46
+    ],
+    [
+      1599,
+      61
+    ],
+    [
+      1500,
+      130
+    ],
+    [
+      1350,
+      140
+    ],
+    [
+      700,
+      182
+    ]
+  ]
+}

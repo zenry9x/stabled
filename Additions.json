@@ -1,0 +1,12079 @@
+{
+  "192": {
+    "name": "hero",
+    "rate": {
+      "def": 13
+    },
+    "id": 192,
+    "tri_coef": [
+      111,
+      114
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Zhi, ",
+      "L",
+      "Kong Xiu",
+      ", Defense +13%"
+    ]
+  },
+  "193": {
+    "name": "Wen YU xiaoshun",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 193,
+    "tri_coef": [
+      111,
+      121
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Zhi, ",
+      "L",
+      "Han Fu",
+      ", max HP +11%"
+    ]
+  },
+  "194": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 194,
+    "tri_coef": [
+      112,
+      123
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Kuang, ",
+      "L",
+      "Dong Cheng",
+      ", HP increase +12%"
+    ]
+  },
+  "195": {
+    "name": "Respectful Love Respectful Sentimental",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 195,
+    "tri_coef": [
+      112,
+      140
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Kuang, ",
+      "L",
+      "Zhang Ji",
+      ", HP increase +11%"
+    ]
+  },
+  "196": {
+    "name": "The Greatest Dancer",
+    "rate": {
+      "atk": 7
+    },
+    "id": 196,
+    "tri_coef": [
+      113,
+      101
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Bian Xi, ",
+      "L",
+      "Zhang Shao",
+      ", Attack +7%"
+    ]
+  },
+  "197": {
+    "name": "hero",
+    "rate": {
+      "def": 13
+    },
+    "id": 197,
+    "tri_coef": [
+      113,
+      109
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Bian Xi, ",
+      "L",
+      "Pan Shi",
+      ", Defense +13%"
+    ]
+  },
+  "198": {
+    "name": "The Greatest Dancer",
+    "rate": {
+      "atk": 7
+    },
+    "id": 198,
+    "tri_coef": [
+      114,
+      121
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Kong Xiu, ",
+      "L",
+      "Han Fu",
+      ", Attack +7%"
+    ]
+  },
+  "199": {
+    "name": "hero",
+    "rate": {
+      "def": 13
+    },
+    "id": 199,
+    "tri_coef": [
+      114,
+      111
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Kong Xiu, ",
+      "L",
+      "Wang Zhi",
+      ", Defense +13%"
+    ]
+  },
+  "202": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 202,
+    "tri_coef": [
+      116,
+      125
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dao Tu, ",
+      "L",
+      "Chen Lin",
+      ", HP increase +12%"
+    ]
+  },
+  "203": {
+    "name": "The Same Enemy",
+    "rate": {
+      "atk": 8
+    },
+    "id": 203,
+    "tri_coef": [
+      116,
+      126
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dao Tu, ",
+      "L",
+      "Han Tang",
+      ", Attack +8%"
+    ]
+  },
+  "204": {
+    "name": "Respectful Love Respectful Sentimental",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 204,
+    "tri_coef": [
+      117,
+      118
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Han Hao, ",
+      "L",
+      "Qin Qi",
+      ", HP increase +11%"
+    ]
+  },
+  "205": {
+    "name": "In Danger Not Afraid",
+    "rate": {
+      "def": 12
+    },
+    "id": 205,
+    "tri_coef": [
+      117,
+      127
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Han Hao, ",
+      "L",
+      "Zu Mao",
+      ", Defense +12%"
+    ]
+  },
+  "206": {
+    "name": "Respectful Love Respectful Sentimental",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 206,
+    "tri_coef": [
+      118,
+      117
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Qin Qi, ",
+      "L",
+      "Han Hao",
+      ", HP increase +11%"
+    ]
+  },
+  "207": {
+    "name": "If you can advance, you can go back",
+    "rate": {
+      "def": 13
+    },
+    "id": 207,
+    "tri_coef": [
+      118,
+      119
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Qin Qi, ",
+      "L",
+      "Meng Tan",
+      ", Defense +13%"
+    ]
+  },
+  "208": {
+    "name": "The power to hit thousands of people",
+    "rate": {
+      "atk": 7
+    },
+    "id": 208,
+    "tri_coef": [
+      119,
+      126
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Meng Tan, ",
+      "L",
+      "Han Tang",
+      ", Attack +7%"
+    ]
+  },
+  "209": {
+    "name": "If you can advance, you can go back",
+    "rate": {
+      "def": 13
+    },
+    "id": 209,
+    "tri_coef": [
+      119,
+      118
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Meng Tan, ",
+      "L",
+      "Qin Qi",
+      ", Defense +13%"
+    ]
+  },
+  "210": {
+    "name": "Wild buffalo screams",
+    "rate": {
+      "atk": 8
+    },
+    "id": 210,
+    "tri_coef": [
+      120,
+      128
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jin Lin, ",
+      "L",
+      "Chen Ji",
+      ", Attack +8%"
+    ]
+  },
+  "211": {
+    "name": "In Danger Not Afraid",
+    "rate": {
+      "def": 12
+    },
+    "id": 211,
+    "tri_coef": [
+      120,
+      125
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jin Lin, ",
+      "L",
+      "Chen Lin",
+      ", Defense +12%"
+    ]
+  },
+  "212": {
+    "name": "The Greatest Dancer",
+    "rate": {
+      "atk": 7
+    },
+    "id": 212,
+    "tri_coef": [
+      121,
+      114
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Han Fu, ",
+      "L",
+      "Kong Xiu",
+      ", Attack +7%"
+    ]
+  },
+  "213": {
+    "name": "Gentle like the sea",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 213,
+    "tri_coef": [
+      121,
+      111
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Han Fu, ",
+      "L",
+      "Wang Zhi",
+      ", HP increase +11%"
+    ]
+  },
+  "214": {
+    "name": "Strong Defense",
+    "rate": {
+      "def": 14
+    },
+    "id": 214,
+    "tri_coef": [
+      122,
+      130
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jia Kui, ",
+      "L",
+      "Li Feng",
+      ", Defense +14%"
+    ]
+  },
+  "215": {
+    "name": "High morals",
+    "rate": {
+      "atk": 8
+    },
+    "id": 215,
+    "tri_coef": [
+      122,
+      125
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jia Kui, ",
+      "L",
+      "Chen Lin",
+      ", Attack +8%"
+    ]
+  },
+  "216": {
+    "name": "Strong Defense",
+    "rate": {
+      "def": 14
+    },
+    "id": 216,
+    "tri_coef": [
+      123,
+      112
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dong Cheng, ",
+      "L",
+      "Lu Kuang",
+      ", Defense +14%"
+    ]
+  },
+  "217": {
+    "name": "Life and Death Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 217,
+    "tri_coef": [
+      123,
+      115
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dong Cheng, ",
+      "L",
+      "Xin Xianying",
+      ", HP increase +12%"
+    ]
+  },
+  "218": {
+    "name": "Strong Defense",
+    "rate": {
+      "def": 14
+    },
+    "id": 218,
+    "tri_coef": [
+      124,
+      129
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xia Ni Hu, ",
+      "L",
+      "Zhang Xun",
+      ", Defense +14%"
+    ]
+  },
+  "219": {
+    "name": "If you can advance, you can go back",
+    "rate": {
+      "def": 13
+    },
+    "id": 219,
+    "tri_coef": [
+      124,
+      141
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xia Ni Hu, ",
+      "L",
+      "Ba Tai",
+      ", Defense +13%"
+    ]
+  },
+  "220": {
+    "name": "In Danger Not Afraid",
+    "rate": {
+      "def": 12
+    },
+    "id": 220,
+    "tri_coef": [
+      125,
+      120
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Lin, ",
+      "L",
+      "Jin Lin",
+      ", Defense +12%"
+    ]
+  },
+  "221": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 221,
+    "tri_coef": [
+      125,
+      116
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Lin, ",
+      "L",
+      "Dao Tu",
+      ", HP increase +12%"
+    ]
+  },
+  "222": {
+    "name": "Life and Death Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 222,
+    "tri_coef": [
+      126,
+      116
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Han Tang, ",
+      "L",
+      "Dao Tu",
+      ", HP increase +12%"
+    ]
+  },
+  "223": {
+    "name": "The power to hit thousands of people",
+    "rate": {
+      "atk": 7
+    },
+    "id": 223,
+    "tri_coef": [
+      126,
+      119
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Han Tang, ",
+      "L",
+      "Meng Tan",
+      ", Attack +7%"
+    ]
+  },
+  "224": {
+    "name": "The power to hit thousands of people",
+    "rate": {
+      "atk": 7
+    },
+    "id": 224,
+    "tri_coef": [
+      127,
+      131
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zu Mao, ",
+      "L",
+      "Yue Jiu",
+      ", Attack +7%"
+    ]
+  },
+  "225": {
+    "name": "If you can advance, you can go back",
+    "rate": {
+      "def": 13
+    },
+    "id": 225,
+    "tri_coef": [
+      127,
+      117
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zu Mao, ",
+      "L",
+      "Han Hao",
+      ", Defense +13%"
+    ]
+  },
+  "226": {
+    "name": "Strong Defense",
+    "rate": {
+      "def": 14
+    },
+    "id": 226,
+    "tri_coef": [
+      128,
+      120
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Ji, ",
+      "L",
+      "Jin Lin",
+      ", Defense +14%"
+    ]
+  },
+  "227": {
+    "name": "Life and Death Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 227,
+    "tri_coef": [
+      128,
+      129
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Ji, ",
+      "L",
+      "Zhang Xun",
+      ", HP increase +12%"
+    ]
+  },
+  "228": {
+    "name": "The Same Enemy",
+    "rate": {
+      "atk": 8
+    },
+    "id": 228,
+    "tri_coef": [
+      129,
+      124
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Xun, ",
+      "L",
+      "Xia Ni Hu",
+      ", Attack +8%"
+    ]
+  },
+  "229": {
+    "name": "Life and Death Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 229,
+    "tri_coef": [
+      129,
+      128
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Xun, ",
+      "L",
+      "Chen Ji",
+      ", HP increase +12%"
+    ]
+  },
+  "230": {
+    "name": "Strong Defense",
+    "rate": {
+      "def": 14
+    },
+    "id": 230,
+    "tri_coef": [
+      130,
+      122
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Li Feng, ",
+      "L",
+      "Jia Kui",
+      ", Defense +14%"
+    ]
+  },
+  "231": {
+    "name": "The Same Enemy",
+    "rate": {
+      "atk": 8
+    },
+    "id": 231,
+    "tri_coef": [
+      130,
+      140
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Li Feng, ",
+      "L",
+      "Zhang Ji",
+      ", Attack +8%"
+    ]
+  },
+  "232": {
+    "name": "The Same Enemy",
+    "rate": {
+      "atk": 8
+    },
+    "id": 232,
+    "tri_coef": [
+      131,
+      127
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yue Jiu, ",
+      "L",
+      "Zu Mao",
+      ", Attack +8%"
+    ]
+  },
+  "233": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 233,
+    "tri_coef": [
+      131,
+      140
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yue Jiu, ",
+      "L",
+      "Zhang Ji",
+      ", HP increase +12%"
+    ]
+  },
+  "234": {
+    "name": "Respectful Love Respectful Sentimental",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 234,
+    "tri_coef": [
+      132,
+      141
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Niu Fu, ",
+      "L",
+      "Ba Tai",
+      ", HP increase +11%"
+    ]
+  },
+  "235": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 235,
+    "tri_coef": [
+      132,
+      133
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Niu Fu, ",
+      "L",
+      "Zhang Miao",
+      ", HP increase +12%"
+    ]
+  },
+  "236": {
+    "name": "In Danger Not Afraid",
+    "rate": {
+      "def": 12
+    },
+    "id": 236,
+    "tri_coef": [
+      133,
+      134
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Miao, ",
+      "L",
+      "Cheng Lian",
+      ", Defense +12%"
+    ]
+  },
+  "237": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 237,
+    "tri_coef": [
+      133,
+      132
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Miao, ",
+      "L",
+      "Niu Fu",
+      ", HP increase +12%"
+    ]
+  },
+  "238": {
+    "name": "Zodiac Bull Fighting",
+    "rate": {
+      "atk": 8
+    },
+    "id": 238,
+    "tri_coef": [
+      134,
+      135
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cheng Lian, ",
+      "L",
+      "Cao Bao",
+      ", Attack +8%"
+    ]
+  },
+  "239": {
+    "name": "In Danger Not Afraid",
+    "rate": {
+      "def": 12
+    },
+    "id": 239,
+    "tri_coef": [
+      134,
+      133
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cheng Lian, ",
+      "L",
+      "Zhang Miao",
+      ", Defense +12%"
+    ]
+  },
+  "240": {
+    "name": "Respectful Love Respectful Sentimental",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 240,
+    "tri_coef": [
+      135,
+      136
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Bao, ",
+      "L",
+      "Fan foru",
+      ", HP increase +11%"
+    ]
+  },
+  "241": {
+    "name": "Zodiac Bull Fighting",
+    "rate": {
+      "atk": 8
+    },
+    "id": 241,
+    "tri_coef": [
+      135,
+      134
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Bao, ",
+      "L",
+      "Cheng Lian",
+      ", Attack +8%"
+    ]
+  },
+  "242": {
+    "name": "If you can advance, you can go back",
+    "rate": {
+      "def": 13
+    },
+    "id": 242,
+    "tri_coef": [
+      136,
+      137
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Fan foru, ",
+      "L",
+      "Guo Si",
+      ", Defense +13%"
+    ]
+  },
+  "243": {
+    "name": "Respectful Love Respectful Sentimental",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 243,
+    "tri_coef": [
+      136,
+      135
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Fan foru, ",
+      "L",
+      "Cao Bao",
+      ", HP increase +11%"
+    ]
+  },
+  "244": {
+    "name": "The power to hit thousands of people",
+    "rate": {
+      "atk": 7
+    },
+    "id": 244,
+    "tri_coef": [
+      137,
+      138
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Si, ",
+      "L",
+      "Lizhi",
+      ", Attack +7%"
+    ]
+  },
+  "245": {
+    "name": "If you can advance, you can go back",
+    "rate": {
+      "def": 13
+    },
+    "id": 245,
+    "tri_coef": [
+      137,
+      136
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Si, ",
+      "L",
+      "Fan foru",
+      ", Defense +13%"
+    ]
+  },
+  "246": {
+    "name": "Life and Death Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 246,
+    "tri_coef": [
+      138,
+      123
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lizhi, ",
+      "L",
+      "Dong Cheng",
+      ", HP increase +12%"
+    ]
+  },
+  "247": {
+    "name": "The power to hit thousands of people",
+    "rate": {
+      "atk": 7
+    },
+    "id": 247,
+    "tri_coef": [
+      138,
+      137
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lizhi, ",
+      "L",
+      "Guo Si",
+      ", Attack +7%"
+    ]
+  },
+  "248": {
+    "name": "Zodiac Bull Fighting",
+    "rate": {
+      "atk": 8
+    },
+    "id": 248,
+    "tri_coef": [
+      139,
+      115
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Rong, ",
+      "L",
+      "Xin Xianying",
+      ", Attack +8%"
+    ]
+  },
+  "249": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 249,
+    "tri_coef": [
+      139,
+      143
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Rong, ",
+      "L",
+      "Defense",
+      ", HP increase +12%"
+    ]
+  },
+  "250": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 250,
+    "tri_coef": [
+      140,
+      131
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Ji, ",
+      "L",
+      "Yue Jiu",
+      ", HP increase +12%"
+    ]
+  },
+  "251": {
+    "name": "The Same Enemy",
+    "rate": {
+      "atk": 8
+    },
+    "id": 251,
+    "tri_coef": [
+      140,
+      112
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Ji, ",
+      "L",
+      "Lu Kuang",
+      ", Attack +8%"
+    ]
+  },
+  "252": {
+    "name": "Life and Death Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 252,
+    "tri_coef": [
+      141,
+      124
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ba Tai, ",
+      "L",
+      "Xia Ni Hu",
+      ", HP increase +12%"
+    ]
+  },
+  "253": {
+    "name": "Respectful Love Respectful Sentimental",
+    "rate": {
+      "maxhp": 11
+    },
+    "id": 253,
+    "tri_coef": [
+      141,
+      132
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ba Tai, ",
+      "L",
+      "Niu Fu",
+      ", HP increase +11%"
+    ]
+  },
+  "254": {
+    "name": "In Danger Not Afraid",
+    "rate": {
+      "def": 12
+    },
+    "id": 254,
+    "tri_coef": [
+      142,
+      144
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Man Cheng, ",
+      "L",
+      "Pei Yuanshao",
+      ", Defense +12%"
+    ]
+  },
+  "255": {
+    "name": "Indomitable",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 255,
+    "tri_coef": [
+      142,
+      139
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Man Cheng, ",
+      "L",
+      "Xu Rong",
+      ", HP increase +12%"
+    ]
+  },
+  "298": {
+    "name": "Heroes Yellow Turban",
+    "rate": {
+      "atk": 11
+    },
+    "id": 298,
+    "tri_coef": [
+      256,
+      103
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Hai, ",
+      "L",
+      "Zhang Yan",
+      ", Attack +11%"
+    ]
+  },
+  "2000": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2000,
+    "tri_coef": [
+      1,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Deng, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2001": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2001,
+    "tri_coef": [
+      1,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Deng, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2002": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2002,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2003": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2003,
+    "tri_coef": [
+      15,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Yuan, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2004": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2004,
+    "tri_coef": [
+      15,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Yuan, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2005": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2005,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2006": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2006,
+    "tri_coef": [
+      22,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Su, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2007": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2007,
+    "tri_coef": [
+      22,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Su, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2008": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2008,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2009": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2009,
+    "tri_coef": [
+      25,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Shi, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2010": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2010,
+    "tri_coef": [
+      25,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Shi, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2011": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2011,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2012": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2012,
+    "tri_coef": [
+      26,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Shu, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2013": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2013,
+    "tri_coef": [
+      26,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Shu, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2014": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2014,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2015": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2015,
+    "tri_coef": [
+      35,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yue Jin, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2016": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2016,
+    "tri_coef": [
+      35,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yue Jin, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2017": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2017,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2018": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2018,
+    "tri_coef": [
+      45,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ding Feng, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2019": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2019,
+    "tri_coef": [
+      45,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ding Feng, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2020": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2020,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2021": {
+    "name": "Literature and martial arts complement each other",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2021,
+    "tri_coef": [
+      63,
+      71
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Chunhua, ",
+      "L",
+      "Cao Ngang",
+      ", HP increase +19%"
+    ]
+  },
+  "2022": {
+    "name": "Quick Mouth and Smooth-tongued",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2022,
+    "tri_coef": [
+      63,
+      76
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Chunhua, ",
+      "L",
+      "Lady Gan",
+      ", Attack +13%"
+    ]
+  },
+  "2023": {
+    "name": "More Educated Than People",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2023,
+    "tri_coef": [
+      3010
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Letters Analects",
+      ", Attack +15%"
+    ]
+  },
+  "2024": {
+    "name": "Lucky Summon",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2024,
+    "tri_coef": [
+      64,
+      81
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Empress Dowager Bian, ",
+      "L",
+      "Lady Mi",
+      ", HP increase +17%"
+    ]
+  },
+  "2025": {
+    "name": "More Talented Than People",
+    "rate": {
+      "atk": 11
+    },
+    "id": 2025,
+    "tri_coef": [
+      64,
+      76
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Empress Dowager Bian, ",
+      "L",
+      "Lady Gan",
+      ", Attack +11%"
+    ]
+  },
+  "2026": {
+    "name": "Study hard",
+    "rate": {
+      "def": 15
+    },
+    "id": 2026,
+    "tri_coef": [
+      3001
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military document",
+      ", Defense +15%"
+    ]
+  },
+  "2027": {
+    "name": "Male and Female Coordination",
+    "rate": {
+      "atk": 28
+    },
+    "id": 2027,
+    "tri_coef": [
+      65,
+      35
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Nüwang, ",
+      "L",
+      "Yue Jin",
+      ", Attack +28%"
+    ]
+  },
+  "2028": {
+    "name": "Unparalleled Talent and Beauty",
+    "rate": {
+      "maxhp": 30
+    },
+    "id": 2028,
+    "tri_coef": [
+      65,
+      84
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Nüwang, ",
+      "L",
+      "Sun Huan",
+      ", HP increase +30%"
+    ]
+  },
+  "2029": {
+    "name": "The Storm Document",
+    "rate": {
+      "def": 26
+    },
+    "id": 2029,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Blue Book",
+      ", Defense +26%"
+    ]
+  },
+  "2030": {
+    "name": "Proud",
+    "rate": {
+      "maxhp": 18
+    },
+    "id": 2030,
+    "tri_coef": [
+      66,
+      68
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Li Dian, ",
+      "L",
+      "Man forng",
+      ", HP increase +18%"
+    ]
+  },
+  "2031": {
+    "name": "Chief of the fight",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2031,
+    "tri_coef": [
+      66,
+      67,
+      68
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Li Dian, ",
+      "L",
+      "Wen Cheng, ",
+      "L",
+      "Man forng",
+      ", Attack +19%"
+    ]
+  },
+  "2032": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2032,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2033": {
+    "name": "The pain of losing a child",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2033,
+    "tri_coef": [
+      67,
+      70
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wen Cheng, ",
+      "L",
+      "Xu You",
+      ", HP increase +19%"
+    ]
+  },
+  "2034": {
+    "name": "War of the chief",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2034,
+    "tri_coef": [
+      67,
+      68,
+      66
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wen Cheng, ",
+      "L",
+      "Man forng, ",
+      "L",
+      "Li Dian",
+      ", Attack +19%"
+    ]
+  },
+  "2035": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2035,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2036": {
+    "name": "Strict Compliance",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2036,
+    "tri_coef": [
+      68,
+      66
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Man forng, ",
+      "L",
+      "Li Dian",
+      ", HP increase +17%"
+    ]
+  },
+  "2037": {
+    "name": "War of the chief",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2037,
+    "tri_coef": [
+      68,
+      67,
+      66
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Man forng, ",
+      "L",
+      "Wen Cheng, ",
+      "L",
+      "Li Dian",
+      ", Attack +19%"
+    ]
+  },
+  "2038": {
+    "name": "Origin of religion",
+    "rate": {
+      "def": 17
+    },
+    "id": 2038,
+    "tri_coef": [
+      3011
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "The Book of war",
+      ", Defense +17%"
+    ]
+  },
+  "2039": {
+    "name": "Practicing Martial Arts and Literature",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2039,
+    "tri_coef": [
+      69,
+      77
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Mi, ",
+      "L",
+      "Zhou Cang",
+      ", HP increase +17%"
+    ]
+  },
+  "2040": {
+    "name": "Thirty-Six Stratagems",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2040,
+    "tri_coef": [
+      69,
+      78
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Mi, ",
+      "L",
+      "Cai Shi",
+      ", Attack +13%"
+    ]
+  },
+  "2041": {
+    "name": "The History of Vi Giam",
+    "rate": {
+      "def": 17
+    },
+    "id": 2041,
+    "tri_coef": [
+      3007
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Six Secret Teachings",
+      ", Defense +17%"
+    ]
+  },
+  "2042": {
+    "name": "Respect Learning",
+    "rate": {
+      "atk": 11
+    },
+    "id": 2042,
+    "tri_coef": [
+      70,
+      66
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu You, ",
+      "L",
+      "Li Dian",
+      ", Attack +11%"
+    ]
+  },
+  "2043": {
+    "name": "The pain of losing a child",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2043,
+    "tri_coef": [
+      70,
+      67
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu You, ",
+      "L",
+      "Wen Cheng",
+      ", HP increase +19%"
+    ]
+  },
+  "2044": {
+    "name": "Hundred Sforols of Thought",
+    "rate": {
+      "def": 17
+    },
+    "id": 2044,
+    "tri_coef": [
+      3008
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Book of three schemes",
+      ", Defense +17%"
+    ]
+  },
+  "2045": {
+    "name": "Courageous Insight Hero",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2045,
+    "tri_coef": [
+      71,
+      63
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Ngang, ",
+      "L",
+      "Zhang Chunhua",
+      ", Attack +13%"
+    ]
+  },
+  "2046": {
+    "name": "Cao Family",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2046,
+    "tri_coef": [
+      71,
+      72
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Ngang, ",
+      "L",
+      "Cao Hong",
+      ", HP increase +17%"
+    ]
+  },
+  "2047": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2047,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2048": {
+    "name": "Tiger and Wolf Master",
+    "rate": {
+      "maxhp": 23
+    },
+    "id": 2048,
+    "tri_coef": [
+      72,
+      71
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Hong, ",
+      "L",
+      "Cao Ngang",
+      ", HP increase +23%"
+    ]
+  },
+  "2049": {
+    "name": "Go forward bravely",
+    "rate": {
+      "atk": 20
+    },
+    "id": 2049,
+    "tri_coef": [
+      72,
+      101,
+      82
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Hong, ",
+      "L",
+      "Zhang Xiu, ",
+      "L",
+      "Zhang Bao",
+      ", Attack +20%"
+    ]
+  },
+  "2050": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2050,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2051": {
+    "name": "Beautiful and smart",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2051,
+    "tri_coef": [
+      73,
+      83
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Quan anping, ",
+      "L",
+      "Zhang Xīng Cai",
+      ", HP increase +20%"
+    ]
+  },
+  "2052": {
+    "name": "Three Guan Heroes",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2052,
+    "tri_coef": [
+      73,
+      75,
+      74
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Quan anping, ",
+      "L",
+      "Guan Ping, ",
+      "L",
+      "Guan Xing",
+      ", Attack +19%"
+    ]
+  },
+  "2053": {
+    "name": "Fast as Lightning",
+    "rate": {
+      "atk": 11
+    },
+    "id": 2053,
+    "tri_coef": [
+      3102
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder",
+      ", Attack +11%"
+    ]
+  },
+  "2054": {
+    "name": "Extraordinary Bravery",
+    "rate": {
+      "maxhp": 18
+    },
+    "id": 2054,
+    "tri_coef": [
+      74,
+      82
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Xing, ",
+      "L",
+      "Zhang Bao",
+      ", HP increase +18%"
+    ]
+  },
+  "2055": {
+    "name": "Three Guan Heroes",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2055,
+    "tri_coef": [
+      74,
+      75,
+      73
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Xing, ",
+      "L",
+      "Guan Ping, ",
+      "L",
+      "Quan anping",
+      ", Attack +19%"
+    ]
+  },
+  "2056": {
+    "name": "Son of Heroes",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2056,
+    "tri_coef": [
+      3108
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Shapi",
+      ", Attack +15%"
+    ]
+  },
+  "2057": {
+    "name": "Quick Hand And Eye",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2057,
+    "tri_coef": [
+      75,
+      97
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Ping, ",
+      "L",
+      "Ji Ling",
+      ", HP increase +19%"
+    ]
+  },
+  "2058": {
+    "name": "Three Guan Heroes",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2058,
+    "tri_coef": [
+      75,
+      74,
+      73
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Ping, ",
+      "L",
+      "Guan Xing, ",
+      "L",
+      "Quan anping",
+      ", Attack +19%"
+    ]
+  },
+  "2059": {
+    "name": "The Book of Ma Bon Dang",
+    "rate": {
+      "def": 17
+    },
+    "id": 2059,
+    "tri_coef": [
+      3111
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Unusual",
+      ", Defense +17%"
+    ]
+  },
+  "2060": {
+    "name": "Quick Mouth and Smooth-tongued",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2060,
+    "tri_coef": [
+      76,
+      63
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Gan, ",
+      "L",
+      "Zhang Chunhua",
+      ", Attack +13%"
+    ]
+  },
+  "2061": {
+    "name": "More Talented Than People",
+    "rate": {
+      "atk": 11
+    },
+    "id": 2061,
+    "tri_coef": [
+      76,
+      64
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Gan, ",
+      "L",
+      "Empress Dowager Bian",
+      ", Attack +11%"
+    ]
+  },
+  "2062": {
+    "name": "More Educated Than People",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2062,
+    "tri_coef": [
+      3010
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Letters Analects",
+      ", Attack +15%"
+    ]
+  },
+  "2063": {
+    "name": "Practicing Martial Arts and Literature",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2063,
+    "tri_coef": [
+      77,
+      69
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Cang, ",
+      "L",
+      "Wang Mi",
+      ", HP increase +17%"
+    ]
+  },
+  "2064": {
+    "name": "Left Hugging Right Hugging",
+    "rate": {
+      "def": 17
+    },
+    "id": 2064,
+    "tri_coef": [
+      77,
+      109
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Cang, ",
+      "L",
+      "Pan Shi",
+      ", Defense +17%"
+    ]
+  },
+  "2065": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2065,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2066": {
+    "name": "Thirty-Six Stratagems",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2066,
+    "tri_coef": [
+      78,
+      69
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cai Shi, ",
+      "L",
+      "Wang Mi",
+      ", Attack +13%"
+    ]
+  },
+  "2067": {
+    "name": "Great luck Great Position",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2067,
+    "tri_coef": [
+      78,
+      81,
+      83
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cai Shi, ",
+      "L",
+      "Lady Mi, ",
+      "L",
+      "Zhang Xīng Cai",
+      ", HP increase +20%"
+    ]
+  },
+  "2068": {
+    "name": "Cultivating Body and Nurturing Nature",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2068,
+    "tri_coef": [
+      3006
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Way of the Taiping",
+      ", Attack +15%"
+    ]
+  },
+  "2072": {
+    "name": "Calculating fate",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2072,
+    "tri_coef": [
+      80,
+      82
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Dai, ",
+      "L",
+      "Zhang Bao",
+      ", HP increase +20%"
+    ]
+  },
+  "2073": {
+    "name": "Male and Female Coordination",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2073,
+    "tri_coef": [
+      80,
+      65
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Dai, ",
+      "L",
+      "Guo Nüwang",
+      ", Attack +12%"
+    ]
+  },
+  "2074": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2074,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2075": {
+    "name": "Lucky Summon",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2075,
+    "tri_coef": [
+      81,
+      64
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Mi, ",
+      "L",
+      "Empress Dowager Bian",
+      ", HP increase +17%"
+    ]
+  },
+  "2076": {
+    "name": "Great luck Great Position",
+    "rate": {
+      "maxhp": 23
+    },
+    "id": 2076,
+    "tri_coef": [
+      81,
+      78,
+      83
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Mi, ",
+      "L",
+      "Cai Shi, ",
+      "L",
+      "Zhang Xīng Cai",
+      ", HP increase +23%"
+    ]
+  },
+  "2077": {
+    "name": "More Educated Than People",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2077,
+    "tri_coef": [
+      3010
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Letters Analects",
+      ", Attack +15%"
+    ]
+  },
+  "2078": {
+    "name": "Zhang Brother and sister",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2078,
+    "tri_coef": [
+      82,
+      83
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Bao, ",
+      "L",
+      "Zhang Xīng Cai",
+      ", HP increase +20%"
+    ]
+  },
+  "2079": {
+    "name": "Go forward bravely",
+    "rate": {
+      "atk": 20
+    },
+    "id": 2079,
+    "tri_coef": [
+      82,
+      72,
+      101
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Bao, ",
+      "L",
+      "Cao Hong, ",
+      "L",
+      "Zhang Xiu",
+      ", Attack +20%"
+    ]
+  },
+  "2080": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2080,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2081": {
+    "name": "Beautiful and smart",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2081,
+    "tri_coef": [
+      83,
+      73
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Xīng Cai, ",
+      "L",
+      "Quan anping",
+      ", HP increase +20%"
+    ]
+  },
+  "2082": {
+    "name": "Zhang Brother and sister",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2082,
+    "tri_coef": [
+      83,
+      82
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Xīng Cai, ",
+      "L",
+      "Zhang Bao",
+      ", HP increase +20%"
+    ]
+  },
+  "2083": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2083,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2084": {
+    "name": "Xiaoting Partner",
+    "rate": {
+      "maxhp": 16
+    },
+    "id": 2084,
+    "tri_coef": [
+      84,
+      95
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Huan, ",
+      "L",
+      "Zhang Wu",
+      ", HP increase +16%"
+    ]
+  },
+  "2085": {
+    "name": "Completely Compatible",
+    "rate": {
+      "atk": 14
+    },
+    "id": 2085,
+    "tri_coef": [
+      84,
+      65
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Huan, ",
+      "L",
+      "Guo Nüwang",
+      ", Attack +14%"
+    ]
+  },
+  "2086": {
+    "name": "Jiangdong Hero",
+    "rate": {
+      "def": 17
+    },
+    "id": 2086,
+    "tri_coef": [
+      3110
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Dragon Gem",
+      ", Defense +17%"
+    ]
+  },
+  "2087": {
+    "name": "Ling Father and Son",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2087,
+    "tri_coef": [
+      85,
+      93
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ling Cao, ",
+      "L",
+      "Ling Tong",
+      ", Attack +13%"
+    ]
+  },
+  "2088": {
+    "name": "Snow Soldiers",
+    "rate": {
+      "def": 18
+    },
+    "id": 2088,
+    "tri_coef": [
+      85,
+      86
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ling Cao, ",
+      "L",
+      "Zhang Zhao",
+      ", Defense +18%"
+    ]
+  },
+  "2089": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2089,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2090": {
+    "name": "Eastern Wu Important Officials.",
+    "rate": {
+      "def": 20
+    },
+    "id": 2090,
+    "tri_coef": [
+      86,
+      85
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Zhao, ",
+      "L",
+      "Ling Cao",
+      ", Defense +20%"
+    ]
+  },
+  "2091": {
+    "name": "Jiangdong Stone Pillar",
+    "rate": {
+      "atk": 29
+    },
+    "id": 2091,
+    "tri_coef": [
+      86,
+      46,
+      56
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Zhao, ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Xiao Qiao",
+      ", Attack +29%"
+    ]
+  },
+  "2092": {
+    "name": "The History of Vi Giam",
+    "rate": {
+      "def": 17
+    },
+    "id": 2092,
+    "tri_coef": [
+      3007
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Six Secret Teachings",
+      ", Defense +17%"
+    ]
+  },
+  "2093": {
+    "name": "Glory to the ancestors",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2093,
+    "tri_coef": [
+      87,
+      96
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xing Daorong, ",
+      "L",
+      "Huang Zu",
+      ", HP increase +19%"
+    ]
+  },
+  "2094": {
+    "name": "Contempt Good Fear Evil",
+    "rate": {
+      "def": 16
+    },
+    "id": 2094,
+    "tri_coef": [
+      87,
+      95
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xing Daorong, ",
+      "L",
+      "Zhang Wu",
+      ", Defense +16%"
+    ]
+  },
+  "2095": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2095,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2096": {
+    "name": "Trusted",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2096,
+    "tri_coef": [
+      88,
+      92
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wu Tai, ",
+      "L",
+      "Zhuge Jin",
+      ", HP increase +19%"
+    ]
+  },
+  "2097": {
+    "name": "Anti-Aging and Rejuvenate",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2097,
+    "tri_coef": [
+      88,
+      99
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wu Tai, ",
+      "L",
+      "Lady Ha",
+      ", HP increase +17%"
+    ]
+  },
+  "2098": {
+    "name": "Hundred Sforols of Thought",
+    "rate": {
+      "def": 17
+    },
+    "id": 2098,
+    "tri_coef": [
+      3008
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Book of three schemes",
+      ", Defense +17%"
+    ]
+  },
+  "2099": {
+    "name": "Heroic sacrifice",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2099,
+    "tri_coef": [
+      89,
+      93
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Kang, ",
+      "L",
+      "Ling Tong",
+      ", Attack +12%"
+    ]
+  },
+  "2100": {
+    "name": "Go Through Life and Death",
+    "rate": {
+      "atk": 10
+    },
+    "id": 2100,
+    "tri_coef": [
+      89,
+      90
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Kang, ",
+      "L",
+      "Cheng Pu",
+      ", Attack +10%"
+    ]
+  },
+  "2101": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2101,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2102": {
+    "name": "Fight Together",
+    "rate": {
+      "def": 17
+    },
+    "id": 2102,
+    "tri_coef": [
+      90,
+      89
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cheng Pu, ",
+      "L",
+      "Lu Kang",
+      ", Defense +17%"
+    ]
+  },
+  "2103": {
+    "name": "Love of fellowship",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2103,
+    "tri_coef": [
+      90,
+      97,
+      105
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cheng Pu, ",
+      "L",
+      "Ji Ling, ",
+      "L",
+      "Huangfu Song",
+      ", HP increase +20%"
+    ]
+  },
+  "2104": {
+    "name": "The Wind Book of Qin Yun",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2104,
+    "tri_coef": [
+      3109
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Shadow Illusion",
+      ", Attack +15%"
+    ]
+  },
+  "2105": {
+    "name": "Righteousness and Justice",
+    "rate": {
+      "def": 20
+    },
+    "id": 2105,
+    "tri_coef": [
+      91,
+      93
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Bu Lianshi, ",
+      "L",
+      "Ling Tong",
+      ", Defense +20%"
+    ]
+  },
+  "2106": {
+    "name": "National Beauty",
+    "rate": {
+      "def": 18
+    },
+    "id": 2106,
+    "tri_coef": [
+      91,
+      56
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Bu Lianshi, ",
+      "L",
+      "Xiao Qiao",
+      ", Defense +18%"
+    ]
+  },
+  "2107": {
+    "name": "More Educated Than People",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2107,
+    "tri_coef": [
+      3010
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Letters Analects",
+      ", Attack +15%"
+    ]
+  },
+  "2108": {
+    "name": "Trusted",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2108,
+    "tri_coef": [
+      92,
+      88
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhuge Jin, ",
+      "L",
+      "Wu Tai",
+      ", HP increase +19%"
+    ]
+  },
+  "2109": {
+    "name": "Full of Medals",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2109,
+    "tri_coef": [
+      92,
+      108
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhuge Jin, ",
+      "L",
+      "Li Ru",
+      ", HP increase +17%"
+    ]
+  },
+  "2110": {
+    "name": "More Educated Than People",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2110,
+    "tri_coef": [
+      3010
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Letters Analects",
+      ", Attack +15%"
+    ]
+  },
+  "2111": {
+    "name": "Heroic sacrifice",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2111,
+    "tri_coef": [
+      93,
+      89
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ling Tong, ",
+      "L",
+      "Lu Kang",
+      ", Attack +12%"
+    ]
+  },
+  "2112": {
+    "name": "Righteousness and Justice",
+    "rate": {
+      "def": 20
+    },
+    "id": 2112,
+    "tri_coef": [
+      93,
+      91
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ling Tong, ",
+      "L",
+      "Bu Lianshi",
+      ", Defense +20%"
+    ]
+  },
+  "2113": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2113,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2114": {
+    "name": "Firstly Attack to Control",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2114,
+    "tri_coef": [
+      94,
+      98
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Kuai Yue, ",
+      "L",
+      "Liu Biao",
+      ", HP increase +20%"
+    ]
+  },
+  "2115": {
+    "name": "Book of Weng Gui",
+    "rate": {
+      "def": 19
+    },
+    "id": 2115,
+    "tri_coef": [
+      94,
+      96
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Kuai Yue, ",
+      "L",
+      "Huang Zu",
+      ", Defense +19%"
+    ]
+  },
+  "2116": {
+    "name": "The Way of War",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2116,
+    "tri_coef": [
+      3009
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Sun Bin's Art of War",
+      ", Attack +15%"
+    ]
+  },
+  "2117": {
+    "name": "Smart Qi Huai",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2117,
+    "tri_coef": [
+      95,
+      84
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Wu, ",
+      "L",
+      "Sun Huan",
+      ", HP increase +19%"
+    ]
+  },
+  "2118": {
+    "name": "Contempt Good Fear Evil",
+    "rate": {
+      "def": 16
+    },
+    "id": 2118,
+    "tri_coef": [
+      95,
+      87
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Wu, ",
+      "L",
+      "Xing Daorong",
+      ", Defense +16%"
+    ]
+  },
+  "2119": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2119,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2120": {
+    "name": "Glory to the ancestors",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2120,
+    "tri_coef": [
+      96,
+      87
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Zu, ",
+      "L",
+      "Xing Daorong",
+      ", HP increase +19%"
+    ]
+  },
+  "2121": {
+    "name": "Local Pride",
+    "rate": {
+      "def": 19
+    },
+    "id": 2121,
+    "tri_coef": [
+      96,
+      94
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Zu, ",
+      "L",
+      "Kuai Yue",
+      ", Defense +19%"
+    ]
+  },
+  "2122": {
+    "name": "Study hard",
+    "rate": {
+      "def": 15
+    },
+    "id": 2122,
+    "tri_coef": [
+      3001
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military document",
+      ", Defense +15%"
+    ]
+  },
+  "2123": {
+    "name": "Yuan Jia Great Hero",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2123,
+    "tri_coef": [
+      97,
+      100
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ji Ling, ",
+      "L",
+      "Yuan Shu",
+      ", Attack +13%"
+    ]
+  },
+  "2124": {
+    "name": "Love of fellowship",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2124,
+    "tri_coef": [
+      97,
+      105,
+      90
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ji Ling, ",
+      "L",
+      "Huangfu Song, ",
+      "L",
+      "Cheng Pu",
+      ", HP increase +20%"
+    ]
+  },
+  "2125": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2125,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2126": {
+    "name": "Han Dynasty rules",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2126,
+    "tri_coef": [
+      98,
+      110,
+      101
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liu Biao, ",
+      "L",
+      "Ding Yuan, ",
+      "L",
+      "Zhang Xiu",
+      ", Attack +13%"
+    ]
+  },
+  "2127": {
+    "name": "All hero of Chaos",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2127,
+    "tri_coef": [
+      98,
+      107,
+      100
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liu Biao, ",
+      "L",
+      "Zhang Bao, ",
+      "L",
+      "Yuan Shu",
+      ", Attack +19%"
+    ]
+  },
+  "2128": {
+    "name": "Study hard",
+    "rate": {
+      "def": 15
+    },
+    "id": 2128,
+    "tri_coef": [
+      3001
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military document",
+      ", Defense +15%"
+    ]
+  },
+  "2129": {
+    "name": "Anti-Aging and Rejuvenate",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2129,
+    "tri_coef": [
+      99,
+      88
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Ha, ",
+      "L",
+      "Wu Tai",
+      ", HP increase +17%"
+    ]
+  },
+  "2130": {
+    "name": "Coup plot",
+    "rate": {
+      "atk": 10
+    },
+    "id": 2130,
+    "tri_coef": [
+      99,
+      106
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Ha, ",
+      "L",
+      "Chunyu Qiong",
+      ", Attack +10%"
+    ]
+  },
+  "2131": {
+    "name": "Poetry and War",
+    "rate": {
+      "maxhp": 15
+    },
+    "id": 2131,
+    "tri_coef": [
+      3005
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Classic of Poetry",
+      ", HP increase +15%"
+    ]
+  },
+  "2132": {
+    "name": "Yuan Jia Great Hero",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2132,
+    "tri_coef": [
+      100,
+      97
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yuan Shu, ",
+      "L",
+      "Ji Ling",
+      ", Attack +13%"
+    ]
+  },
+  "2133": {
+    "name": "All hero of Chaos",
+    "rate": {
+      "atk": 19
+    },
+    "id": 2133,
+    "tri_coef": [
+      100,
+      107,
+      98
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yuan Shu, ",
+      "L",
+      "Zhang Bao, ",
+      "L",
+      "Liu Biao",
+      ", Attack +19%"
+    ]
+  },
+  "2134": {
+    "name": "Cultivating Body and Nurturing Nature",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2134,
+    "tri_coef": [
+      3006
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Way of the Taiping",
+      ", Attack +15%"
+    ]
+  },
+  "2135": {
+    "name": "Han Dynasty rules",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2135,
+    "tri_coef": [
+      101,
+      98,
+      110
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Xiu, ",
+      "L",
+      "Liu Biao, ",
+      "L",
+      "Ding Yuan",
+      ", Attack +13%"
+    ]
+  },
+  "2136": {
+    "name": "Go forward bravely",
+    "rate": {
+      "atk": 20
+    },
+    "id": 2136,
+    "tri_coef": [
+      101,
+      72,
+      82
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Xiu, ",
+      "L",
+      "Cao Hong, ",
+      "L",
+      "Zhang Bao",
+      ", Attack +20%"
+    ]
+  },
+  "2137": {
+    "name": "The Book of Ma Bon Dang",
+    "rate": {
+      "def": 17
+    },
+    "id": 2137,
+    "tri_coef": [
+      3111
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Unusual",
+      ", Defense +17%"
+    ]
+  },
+  "2138": {
+    "name": "Yu Gong move the mountain",
+    "rate": {
+      "def": 17
+    },
+    "id": 2138,
+    "tri_coef": [
+      102,
+      104
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Zhi, ",
+      "L",
+      "Wang Yun",
+      ", Defense +17%"
+    ]
+  },
+  "2139": {
+    "name": "Destroy the Rebel Army",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2139,
+    "tri_coef": [
+      102,
+      103
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Zhi, ",
+      "L",
+      "Zhang Yan",
+      ", HP increase +17%"
+    ]
+  },
+  "2140": {
+    "name": "The Way of War",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2140,
+    "tri_coef": [
+      3009
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Sun Bin's Art of War",
+      ", Attack +15%"
+    ]
+  },
+  "2141": {
+    "name": "Heroes Yellow Turban",
+    "rate": {
+      "atk": 11
+    },
+    "id": 2141,
+    "tri_coef": [
+      103,
+      256
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Yan, ",
+      "L",
+      "Guan Hai",
+      ", Attack +11%"
+    ]
+  },
+  "2142": {
+    "name": "Destroy the Rebel Army",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2142,
+    "tri_coef": [
+      103,
+      102
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Yan, ",
+      "L",
+      "Lu Zhi",
+      ", HP increase +17%"
+    ]
+  },
+  "2143": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2143,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2144": {
+    "name": "Accounting Agency",
+    "rate": {
+      "def": 17
+    },
+    "id": 2144,
+    "tri_coef": [
+      104,
+      78
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Yun, ",
+      "L",
+      "Cai Shi",
+      ", Defense +17%"
+    ]
+  },
+  "2145": {
+    "name": "Yu Gong move the mountain",
+    "rate": {
+      "def": 17
+    },
+    "id": 2145,
+    "tri_coef": [
+      104,
+      102
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Yun, ",
+      "L",
+      "Lu Zhi",
+      ", Defense +17%"
+    ]
+  },
+  "2146": {
+    "name": "The History of Vi Giam",
+    "rate": {
+      "def": 17
+    },
+    "id": 2146,
+    "tri_coef": [
+      3007
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Six Secret Teachings",
+      ", Defense +17%"
+    ]
+  },
+  "2147": {
+    "name": "Loyalty and Dedication",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2147,
+    "tri_coef": [
+      105,
+      108
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huangfu Song, ",
+      "L",
+      "Li Ru",
+      ", Attack +12%"
+    ]
+  },
+  "2148": {
+    "name": "Love of fellowship",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 2148,
+    "tri_coef": [
+      105,
+      97,
+      90
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huangfu Song, ",
+      "L",
+      "Ji Ling, ",
+      "L",
+      "Cheng Pu",
+      ", HP increase +20%"
+    ]
+  },
+  "2149": {
+    "name": "War of the Four Directions",
+    "rate": {
+      "def": 17
+    },
+    "id": 2149,
+    "tri_coef": [
+      3103
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed White flamingoes",
+      ", Defense +17%"
+    ]
+  },
+  "2150": {
+    "name": "Seven Disciples",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2150,
+    "tri_coef": [
+      106,
+      102
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chunyu Qiong, ",
+      "L",
+      "Lu Zhi",
+      ", HP increase +17%"
+    ]
+  },
+  "2151": {
+    "name": "Coup plot",
+    "rate": {
+      "atk": 10
+    },
+    "id": 2151,
+    "tri_coef": [
+      106,
+      99
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chunyu Qiong, ",
+      "L",
+      "Lady Ha",
+      ", Attack +10%"
+    ]
+  },
+  "2152": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2152,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2153": {
+    "name": "Zhang Brotherhood",
+    "rate": {
+      "atk": 11
+    },
+    "id": 2153,
+    "tri_coef": [
+      107,
+      42
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Bao, ",
+      "L",
+      "Zhang Liang",
+      ", Attack +11%"
+    ]
+  },
+  "2154": {
+    "name": "All hero of Chaos",
+    "rate": {
+      "atk": 16
+    },
+    "id": 2154,
+    "tri_coef": [
+      107,
+      98,
+      100
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Bao, ",
+      "L",
+      "Liu Biao, ",
+      "L",
+      "Yuan Shu",
+      ", Attack +16%"
+    ]
+  },
+  "2155": {
+    "name": "Way of Taiping Heavenly",
+    "rate": {
+      "maxhp": 18
+    },
+    "id": 2155,
+    "tri_coef": [
+      3006
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Way of the Taiping",
+      ", HP increase +18%"
+    ]
+  },
+  "2156": {
+    "name": "Zhang Brotherhood",
+    "rate": {
+      "atk": 11
+    },
+    "id": 2156,
+    "tri_coef": [
+      42,
+      107
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Liang, ",
+      "L",
+      "Zhang Bao",
+      ", Attack +11%"
+    ]
+  },
+  "2157": {
+    "name": "Archenemy",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 2157,
+    "tri_coef": [
+      42,
+      105
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Liang, ",
+      "L",
+      "Huangfu Song",
+      ", HP increase +12%"
+    ]
+  },
+  "2158": {
+    "name": "Way of Taiping Heavenly",
+    "rate": {
+      "maxhp": 18
+    },
+    "id": 2158,
+    "tri_coef": [
+      3006
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Way of the Taiping",
+      ", HP increase +18%"
+    ]
+  },
+  "2159": {
+    "name": "Loyalty and Dedication",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2159,
+    "tri_coef": [
+      108,
+      105
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Li Ru, ",
+      "L",
+      "Huangfu Song",
+      ", Attack +12%"
+    ]
+  },
+  "2160": {
+    "name": "Full of Medals",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2160,
+    "tri_coef": [
+      108,
+      92
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Li Ru, ",
+      "L",
+      "Zhuge Jin",
+      ", HP increase +17%"
+    ]
+  },
+  "2161": {
+    "name": "Study hard",
+    "rate": {
+      "def": 15
+    },
+    "id": 2161,
+    "tri_coef": [
+      3001
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military document",
+      ", Defense +15%"
+    ]
+  },
+  "2162": {
+    "name": "Left Hugging Right Hugging",
+    "rate": {
+      "def": 17
+    },
+    "id": 2162,
+    "tri_coef": [
+      109,
+      77
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pan Shi, ",
+      "L",
+      "Zhou Cang",
+      ", Defense +17%"
+    ]
+  },
+  "2163": {
+    "name": "Together in tribulation",
+    "rate": {
+      "maxhp": 17
+    },
+    "id": 2163,
+    "tri_coef": [
+      109,
+      83
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pan Shi, ",
+      "L",
+      "Zhang Xīng Cai",
+      ", HP increase +17%"
+    ]
+  },
+  "2164": {
+    "name": "Hundred Sforols of Thought",
+    "rate": {
+      "def": 17
+    },
+    "id": 2164,
+    "tri_coef": [
+      3008
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Book of three schemes",
+      ", Defense +17%"
+    ]
+  },
+  "2165": {
+    "name": "Han Dynasty rules",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2165,
+    "tri_coef": [
+      110,
+      98,
+      101
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ding Yuan, ",
+      "L",
+      "Liu Biao, ",
+      "L",
+      "Zhang Xiu",
+      ", Attack +13%"
+    ]
+  },
+  "2166": {
+    "name": "Half father and son",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2166,
+    "tri_coef": [
+      110,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ding Yuan, ",
+      "L",
+      "Lu Bu",
+      ", Attack +12%"
+    ]
+  },
+  "2167": {
+    "name": "The Book of Ma Bon Dang",
+    "rate": {
+      "def": 17
+    },
+    "id": 2167,
+    "tri_coef": [
+      3111
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Unusual",
+      ", Defense +17%"
+    ]
+  },
+  "2168": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2168,
+    "tri_coef": [
+      180,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pang De, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2169": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2169,
+    "tri_coef": [
+      180,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pang De, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2170": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2170,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2171": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2171,
+    "tri_coef": [
+      182,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liu Zhang, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2172": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2172,
+    "tri_coef": [
+      182,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liu Zhang, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2173": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2173,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2174": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2174,
+    "tri_coef": [
+      183,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Hu, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2175": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2175,
+    "tri_coef": [
+      183,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Hu, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2176": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2176,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2177": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2177,
+    "tri_coef": [
+      185,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou En, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2178": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2178,
+    "tri_coef": [
+      185,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou En, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2179": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2179,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2180": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2180,
+    "tri_coef": [
+      186,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Jie, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2181": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2181,
+    "tri_coef": [
+      186,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Jie, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2182": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2182,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2183": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2183,
+    "tri_coef": [
+      187,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sa Ma Kha, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2184": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2184,
+    "tri_coef": [
+      187,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sa Ma Kha, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2185": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2185,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2186": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2186,
+    "tri_coef": [
+      189,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cai Mao, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2187": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2187,
+    "tri_coef": [
+      189,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cai Mao, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2188": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2188,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2189": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2189,
+    "tri_coef": [
+      190,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chang Yün, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2190": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2190,
+    "tri_coef": [
+      190,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chang Yün, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2191": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2191,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2192": {
+    "name": "Careful Prevention",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2192,
+    "tri_coef": [
+      191,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Teng, ",
+      "L",
+      "Lu Bu",
+      ", HP increase +19%"
+    ]
+  },
+  "2193": {
+    "name": "Real and Fake are intertwined",
+    "rate": {
+      "atk": 13
+    },
+    "id": 2193,
+    "tri_coef": [
+      191,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Teng, ",
+      "L",
+      "Guan Yu",
+      ", Attack +13%"
+    ]
+  },
+  "2194": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2194,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2195": {
+    "name": "Good wife, good mother",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2195,
+    "tri_coef": [
+      200,
+      203,
+      115
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Yuanji, ",
+      "L",
+      "Li Wen Ko, ",
+      "L",
+      "Xin Xianying",
+      ", Attack +15%"
+    ]
+  },
+  "2196": {
+    "name": "music, chess, poetry, drawing",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2196,
+    "tri_coef": [
+      200,
+      205,
+      207
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Yuanji, ",
+      "L",
+      "Wang Dao, ",
+      "L",
+      "Wushi",
+      ", HP increase +19%"
+    ]
+  },
+  "2197": {
+    "name": "Understanding the past to the future",
+    "rate": {
+      "maxhp": 13
+    },
+    "id": 2197,
+    "tri_coef": [
+      3000
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Chronicles",
+      ", HP increase +13%"
+    ]
+  },
+  "2198": {
+    "name": "Good wife, good mother",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2198,
+    "tri_coef": [
+      115,
+      200,
+      203
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xin Xianying, ",
+      "L",
+      "Wang Yuanji, ",
+      "L",
+      "Li Wen Ko",
+      ", Attack +15%"
+    ]
+  },
+  "2199": {
+    "name": "Study hard",
+    "rate": {
+      "def": 15
+    },
+    "id": 2199,
+    "tri_coef": [
+      3001
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military document",
+      ", Defense +15%"
+    ]
+  },
+  "2200": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2200,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2201": {
+    "name": "Heroine",
+    "rate": {
+      "atk": 20
+    },
+    "id": 2201,
+    "tri_coef": [
+      202,
+      73,
+      204,
+      206
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Yunlu, ",
+      "L",
+      "Quan anping, ",
+      "L",
+      "Bao Sanniang, ",
+      "L",
+      "Lü Lingqi",
+      ", Attack +20%"
+    ]
+  },
+  "2202": {
+    "name": "Shangwu family",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2202,
+    "tri_coef": [
+      3110
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Dragon Gem",
+      ", Attack +15%"
+    ]
+  },
+  "2203": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2203,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2204": {
+    "name": "Good wife, good mother",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2204,
+    "tri_coef": [
+      203,
+      200,
+      115
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Li Wen Ko, ",
+      "L",
+      "Wang Yuanji, ",
+      "L",
+      "Xin Xianying",
+      ", Attack +15%"
+    ]
+  },
+  "2205": {
+    "name": "Shu Poison Military Book",
+    "rate": {
+      "def": 17
+    },
+    "id": 2205,
+    "tri_coef": [
+      3007
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Six Secret Teachings",
+      ", Defense +17%"
+    ]
+  },
+  "2206": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2206,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2207": {
+    "name": "Heroine",
+    "rate": {
+      "atk": 20
+    },
+    "id": 2207,
+    "tri_coef": [
+      204,
+      73,
+      202,
+      206
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Bao Sanniang, ",
+      "L",
+      "Quan anping, ",
+      "L",
+      "Ma Yunlu, ",
+      "L",
+      "Lü Lingqi",
+      ", Attack +20%"
+    ]
+  },
+  "2208": {
+    "name": "Heroine",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2208,
+    "tri_coef": [
+      3109
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Shadow Illusion",
+      ", Attack +15%"
+    ]
+  },
+  "2209": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2209,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2210": {
+    "name": "music, chess, poetry, drawing",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2210,
+    "tri_coef": [
+      205,
+      200,
+      207
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Dao, ",
+      "L",
+      "Wang Yuanji, ",
+      "L",
+      "Wushi",
+      ", HP increase +19%"
+    ]
+  },
+  "2211": {
+    "name": "Shu Poison Military Book",
+    "rate": {
+      "maxhp": 15
+    },
+    "id": 2211,
+    "tri_coef": [
+      3002
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Wei Gongzi Tactic",
+      ", HP increase +15%"
+    ]
+  },
+  "2212": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2212,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2213": {
+    "name": "Heroine",
+    "rate": {
+      "atk": 20
+    },
+    "id": 2213,
+    "tri_coef": [
+      206,
+      73,
+      202,
+      204
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lü Lingqi, ",
+      "L",
+      "Quan anping, ",
+      "L",
+      "Ma Yunlu, ",
+      "L",
+      "Bao Sanniang",
+      ", Attack +20%"
+    ]
+  },
+  "2214": {
+    "name": "Female generals",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2214,
+    "tri_coef": [
+      3108
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Shapi",
+      ", Attack +15%"
+    ]
+  },
+  "2215": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2215,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2216": {
+    "name": "music, chess, poetry, drawing",
+    "rate": {
+      "maxhp": 19
+    },
+    "id": 2216,
+    "tri_coef": [
+      207,
+      200,
+      205
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wushi, ",
+      "L",
+      "Wang Yuanji, ",
+      "L",
+      "Wang Dao",
+      ", HP increase +19%"
+    ]
+  },
+  "2217": {
+    "name": "Talking about the past and the future",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2217,
+    "tri_coef": [
+      3004
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Methods of the Sima",
+      ", Attack +15%"
+    ]
+  },
+  "2218": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2218,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2219": {
+    "name": "Central Courage",
+    "rate": {
+      "def": 18
+    },
+    "id": 2219,
+    "tri_coef": [
+      208,
+      209,
+      211
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Ren, ",
+      "L",
+      "Guo Huai, ",
+      "L",
+      "Quan Cong",
+      ", Defense +18%"
+    ]
+  },
+  "2220": {
+    "name": "Light as birds nest",
+    "rate": {
+      "def": 15
+    },
+    "id": 2220,
+    "tri_coef": [
+      3100
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Bai Mao",
+      ", Defense +15%"
+    ]
+  },
+  "2221": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2221,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2222": {
+    "name": "Central Courage",
+    "rate": {
+      "def": 18
+    },
+    "id": 2222,
+    "tri_coef": [
+      209,
+      208,
+      211
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Huai, ",
+      "L",
+      "Zhang Ren, ",
+      "L",
+      "Quan Cong",
+      ", Defense +18%"
+    ]
+  },
+  "2223": {
+    "name": "The History of Vi Giam",
+    "rate": {
+      "def": 17
+    },
+    "id": 2223,
+    "tri_coef": [
+      3007
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Six Secret Teachings",
+      ", Defense +17%"
+    ]
+  },
+  "2224": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2224,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2225": {
+    "name": "Transformation of the hero",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 2225,
+    "tri_coef": [
+      210,
+      212
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Ba, ",
+      "L",
+      "Tian Yu",
+      ", HP increase +12%"
+    ]
+  },
+  "2226": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 15
+    },
+    "id": 2226,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +15%"
+    ]
+  },
+  "2227": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2227,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2228": {
+    "name": "Central Courage",
+    "rate": {
+      "def": 18
+    },
+    "id": 2228,
+    "tri_coef": [
+      211,
+      208,
+      209
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Quan Cong, ",
+      "L",
+      "Zhang Ren, ",
+      "L",
+      "Guo Huai",
+      ", Defense +18%"
+    ]
+  },
+  "2229": {
+    "name": "Understanding the past to the future",
+    "rate": {
+      "maxhp": 13
+    },
+    "id": 2229,
+    "tri_coef": [
+      3000
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Chronicles",
+      ", HP increase +13%"
+    ]
+  },
+  "2230": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2230,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2231": {
+    "name": "Transformation of the hero",
+    "rate": {
+      "maxhp": 12
+    },
+    "id": 2231,
+    "tri_coef": [
+      212,
+      210
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Tian Yu, ",
+      "L",
+      "Xiahou Ba",
+      ", HP increase +12%"
+    ]
+  },
+  "2232": {
+    "name": "Shu Poison Military Book",
+    "rate": {
+      "maxhp": 15
+    },
+    "id": 2232,
+    "tri_coef": [
+      3002
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Wei Gongzi Tactic",
+      ", HP increase +15%"
+    ]
+  },
+  "2233": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2233,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2234": {
+    "name": "Double Shu heroes",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2234,
+    "tri_coef": [
+      213,
+      258
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wu Yi, ",
+      "L",
+      "Liao Hua",
+      ", Attack +12%"
+    ]
+  },
+  "2235": {
+    "name": "Poetry and War",
+    "rate": {
+      "maxhp": 15
+    },
+    "id": 2235,
+    "tri_coef": [
+      3005
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Classic of Poetry",
+      ", HP increase +15%"
+    ]
+  },
+  "2236": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2236,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2237": {
+    "name": "Double Shu heroes",
+    "rate": {
+      "atk": 12
+    },
+    "id": 2237,
+    "tri_coef": [
+      258,
+      213
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liao Hua, ",
+      "L",
+      "Wu Yi",
+      ", Attack +12%"
+    ]
+  },
+  "2238": {
+    "name": "Roaring everywhere",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2238,
+    "tri_coef": [
+      3101
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Ou chu",
+      ", Attack +15%"
+    ]
+  },
+  "2239": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2239,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2240": {
+    "name": "Talented Shu Han",
+    "rate": {
+      "def": 13
+    },
+    "id": 2240,
+    "tri_coef": [
+      260,
+      266,
+      271
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pang Tong, ",
+      "L",
+      "Ma Liang, ",
+      "L",
+      "Wang Ping",
+      ", Defense +13%"
+    ]
+  },
+  "2241": {
+    "name": "Talking about the past and the future",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2241,
+    "tri_coef": [
+      3004
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Methods of the Sima",
+      ", Attack +15%"
+    ]
+  },
+  "2242": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2242,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2243": {
+    "name": "Talented Shu Han",
+    "rate": {
+      "def": 13
+    },
+    "id": 2243,
+    "tri_coef": [
+      266,
+      260,
+      271
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Liang, ",
+      "L",
+      "Pang Tong, ",
+      "L",
+      "Wang Ping",
+      ", Defense +13%"
+    ]
+  },
+  "2244": {
+    "name": "Study hard",
+    "rate": {
+      "def": 15
+    },
+    "id": 2244,
+    "tri_coef": [
+      3001
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military document",
+      ", Defense +15%"
+    ]
+  },
+  "2245": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2245,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2246": {
+    "name": "Talented Shu Han",
+    "rate": {
+      "def": 13
+    },
+    "id": 2246,
+    "tri_coef": [
+      271,
+      260,
+      266
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wang Ping, ",
+      "L",
+      "Pang Tong, ",
+      "L",
+      "Ma Liang",
+      ", Defense +13%"
+    ]
+  },
+  "2247": {
+    "name": "Black Cloud Immortal",
+    "rate": {
+      "def": 17
+    },
+    "id": 2247,
+    "tri_coef": [
+      3104
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Cloud",
+      ", Defense +17%"
+    ]
+  },
+  "2248": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2248,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2249": {
+    "name": "Jiangdong Main Force",
+    "rate": {
+      "maxhp": 23
+    },
+    "id": 2249,
+    "tri_coef": [
+      278,
+      282,
+      287,
+      293
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhu Huan, ",
+      "L",
+      "Jiang Qin, ",
+      "L",
+      "Zhuge Ke, ",
+      "L",
+      "Zhu Zhi",
+      ", HP increase +23%"
+    ]
+  },
+  "2250": {
+    "name": "The wind blows the clouds away",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2250,
+    "tri_coef": [
+      3109
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Shadow Illusion",
+      ", Attack +15%"
+    ]
+  },
+  "2251": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2251,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2252": {
+    "name": "Jiangdong Main Force",
+    "rate": {
+      "maxhp": 23
+    },
+    "id": 2252,
+    "tri_coef": [
+      282,
+      278,
+      287,
+      293
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jiang Qin, ",
+      "L",
+      "Zhu Huan, ",
+      "L",
+      "Zhuge Ke, ",
+      "L",
+      "Zhu Zhi",
+      ", HP increase +23%"
+    ]
+  },
+  "2253": {
+    "name": "The Way of War",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2253,
+    "tri_coef": [
+      3009
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Sun Bin's Art of War",
+      ", Attack +15%"
+    ]
+  },
+  "2254": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2254,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2255": {
+    "name": "Jiangdong Main Force",
+    "rate": {
+      "maxhp": 23
+    },
+    "id": 2255,
+    "tri_coef": [
+      287,
+      278,
+      282,
+      293
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhuge Ke, ",
+      "L",
+      "Zhu Huan, ",
+      "L",
+      "Jiang Qin, ",
+      "L",
+      "Zhu Zhi",
+      ", HP increase +23%"
+    ]
+  },
+  "2256": {
+    "name": "Origin of religion",
+    "rate": {
+      "def": 17
+    },
+    "id": 2256,
+    "tri_coef": [
+      3011
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "The Book of war",
+      ", Defense +17%"
+    ]
+  },
+  "2257": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2257,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "2258": {
+    "name": "Jiangdong Main Force",
+    "rate": {
+      "maxhp": 23
+    },
+    "id": 2258,
+    "tri_coef": [
+      293,
+      278,
+      287,
+      282
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhu Zhi, ",
+      "L",
+      "Zhu Huan, ",
+      "L",
+      "Zhuge Ke, ",
+      "L",
+      "Jiang Qin",
+      ", HP increase +23%"
+    ]
+  },
+  "2259": {
+    "name": "Walk on the wall",
+    "rate": {
+      "maxhp": 18
+    },
+    "id": 2259,
+    "tri_coef": [
+      3106
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Wind",
+      ", HP increase +18%"
+    ]
+  },
+  "2260": {
+    "name": "Heaven Never Dies",
+    "rate": {
+      "atk": 15
+    },
+    "id": 2260,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +15%"
+    ]
+  },
+  "3000": {
+    "name": "Like Tiger With Wings",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3000,
+    "tri_coef": [
+      2,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Gong, ",
+      "L",
+      "Lu Bu",
+      ", Attack +25%"
+    ]
+  },
+  "3001": {
+    "name": "Have both Wisdom and Courage",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3001,
+    "tri_coef": [
+      2,
+      9
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Gong, ",
+      "L",
+      "Yan Liang",
+      ", HP increase +26%"
+    ]
+  },
+  "3002": {
+    "name": "Humble Careful",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3002,
+    "tri_coef": [
+      2,
+      4
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Chen Gong, ",
+      "L",
+      "Gao Shun",
+      ", HP increase +32%"
+    ]
+  },
+  "3003": {
+    "name": "Golden Iron Horse",
+    "rate": {
+      "def": 22
+    },
+    "id": 3003,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Defense +22%"
+    ]
+  },
+  "3004": {
+    "name": "Taiping Fairy Arts",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3004,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Attack +22%"
+    ]
+  },
+  "3005": {
+    "name": "Tiger and Bear Monster",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3005,
+    "tri_coef": [
+      3,
+      5
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dong Zhuo, ",
+      "L",
+      "Hua Xiong",
+      ", HP increase +26%"
+    ]
+  },
+  "3006": {
+    "name": "Can't go the same way",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3006,
+    "tri_coef": [
+      3,
+      11
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dong Zhuo, ",
+      "L",
+      "Yuan Shao",
+      ", HP increase +24%"
+    ]
+  },
+  "3007": {
+    "name": "Chaos of Heaven",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3007,
+    "tri_coef": [
+      3,
+      148,
+      7,
+      11,
+      12
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dong Zhuo, ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Jia Xu, ",
+      "L",
+      "Yuan Shao, ",
+      "L",
+      "Zhang Jue",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3008": {
+    "name": "Golden Iron Horse",
+    "rate": {
+      "def": 22
+    },
+    "id": 3008,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Defense +22%"
+    ]
+  },
+  "3009": {
+    "name": "Way of Taiping Heavenly",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3009,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Attack +20%"
+    ]
+  },
+  "3010": {
+    "name": "Courage and strength",
+    "rate": {
+      "atk": 21
+    },
+    "id": 3010,
+    "tri_coef": [
+      4,
+      39
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Gao Shun, ",
+      "L",
+      "Xu Chu",
+      ", Attack +21%"
+    ]
+  },
+  "3011": {
+    "name": "Six Shields",
+    "rate": {
+      "maxhp": 21
+    },
+    "id": 3011,
+    "tri_coef": [
+      4,
+      98
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Gao Shun, ",
+      "L",
+      "Liu Biao",
+      ", HP increase +21%"
+    ]
+  },
+  "3012": {
+    "name": "Humble Careful",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3012,
+    "tri_coef": [
+      4,
+      1
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Gao Shun, ",
+      "L",
+      "Chen Deng",
+      ", HP increase +32%"
+    ]
+  },
+  "3013": {
+    "name": "Great fantasy",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3013,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", Attack +20%"
+    ]
+  },
+  "3014": {
+    "name": "Cultivating Body and Nurturing Nature",
+    "rate": {
+      "def": 20
+    },
+    "id": 3014,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", Defense +20%"
+    ]
+  },
+  "3015": {
+    "name": "Super Strong Swords",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3015,
+    "tri_coef": [
+      5,
+      8
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Hua Xiong, ",
+      "L",
+      "Wen foru",
+      ", Attack +23%"
+    ]
+  },
+  "3016": {
+    "name": "Tiger and Bear Monster",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3016,
+    "tri_coef": [
+      5,
+      3
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Hua Xiong, ",
+      "L",
+      "Dong Zhuo",
+      ", HP increase +26%"
+    ]
+  },
+  "3017": {
+    "name": "Blood Killer",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3017,
+    "tri_coef": [
+      5,
+      33,
+      31
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Hua Xiong, ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Cao He",
+      ", Attack +30%"
+    ]
+  },
+  "3018": {
+    "name": "Great Fantasy",
+    "rate": {
+      "def": 22
+    },
+    "id": 3018,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", Defense +22%"
+    ]
+  },
+  "3019": {
+    "name": "Cultivating Body and Nurturing Nature",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3019,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", HP increase +22%"
+    ]
+  },
+  "3020": {
+    "name": "Bone Spear",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3020,
+    "tri_coef": [
+      6,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Hou Tou, ",
+      "L",
+      "Guan Yu",
+      ", HP increase +29%"
+    ]
+  },
+  "3021": {
+    "name": "God of agriculture",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3021,
+    "tri_coef": [
+      6,
+      7
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Hou Tou, ",
+      "L",
+      "Jia Xu",
+      ", HP increase +29%"
+    ]
+  },
+  "3022": {
+    "name": "Medical Research",
+    "rate": {
+      "def": 42
+    },
+    "id": 3022,
+    "tri_coef": [
+      6,
+      43,
+      19
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Hou Tou, ",
+      "L",
+      "Lady Zhen, ",
+      "L",
+      "Jiang Wei",
+      ", Defense +42%"
+    ]
+  },
+  "3023": {
+    "name": "Golden Iron",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3023,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", HP increase +25%"
+    ]
+  },
+  "3024": {
+    "name": "Fantasy Summon",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3024,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", Attack +25%"
+    ]
+  },
+  "3025": {
+    "name": "Evil heart",
+    "rate": {
+      "atk": 27
+    },
+    "id": 3025,
+    "tri_coef": [
+      7,
+      36
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jia Xu, ",
+      "L",
+      "Sima Yi",
+      ", Attack +27%"
+    ]
+  },
+  "3026": {
+    "name": "God of agriculture",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3026,
+    "tri_coef": [
+      7,
+      6
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jia Xu, ",
+      "L",
+      "Hou Tou",
+      ", HP increase +29%"
+    ]
+  },
+  "3027": {
+    "name": "Chaos of Heaven",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3027,
+    "tri_coef": [
+      7,
+      12,
+      148,
+      11,
+      3
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jia Xu, ",
+      "L",
+      "Zhang Jue, ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Yuan Shao, ",
+      "L",
+      "Dong Zhuo",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3028": {
+    "name": "One hundred mile walk",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3028,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", HP increase +25%"
+    ]
+  },
+  "3029": {
+    "name": "Keep The Country Quiet",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3029,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", Attack +25%"
+    ]
+  },
+  "3030": {
+    "name": "Together with Life and Death",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3030,
+    "tri_coef": [
+      8,
+      9
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wen foru, ",
+      "L",
+      "Yan Liang",
+      ", Attack +23%"
+    ]
+  },
+  "3031": {
+    "name": "Super Strong Swords",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3031,
+    "tri_coef": [
+      8,
+      5
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wen foru",
+      "L",
+      "Hua Xiong",
+      ", Attack +23%"
+    ]
+  },
+  "3032": {
+    "name": "Wen foru Nymph",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3032,
+    "tri_coef": [
+      8,
+      43
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wen foru, ",
+      "L",
+      "Lady Zhen",
+      ", HP increase +24%"
+    ]
+  },
+  "3033": {
+    "name": "Roamed Rain and Wind",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3033,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", HP increase +22%"
+    ]
+  },
+  "3034": {
+    "name": "Hundred Sforols of Thought",
+    "rate": {
+      "def": 22
+    },
+    "id": 3034,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", Defense +22%"
+    ]
+  },
+  "3035": {
+    "name": "Together with Life and Death",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3035,
+    "tri_coef": [
+      9,
+      8
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yan Liang, ",
+      "L",
+      "Wen foru",
+      ", Attack +23%"
+    ]
+  },
+  "3036": {
+    "name": "Center Like One",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3036,
+    "tri_coef": [
+      9,
+      11
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yan Liang, ",
+      "L",
+      "Yuan Shao",
+      ", HP increase +26%"
+    ]
+  },
+  "3037": {
+    "name": "Slashing Blades",
+    "rate": {
+      "atk": 19
+    },
+    "id": 3037,
+    "tri_coef": [
+      9,
+      38
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yan Liang, ",
+      "L",
+      "Xu Huang",
+      ", Attack +19%"
+    ]
+  },
+  "3038": {
+    "name": "Surfing on the sand",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3038,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +22%"
+    ]
+  },
+  "3039": {
+    "name": "Punishment Forbidden Violence",
+    "rate": {
+      "def": 22
+    },
+    "id": 3039,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", Defense +22%"
+    ]
+  },
+  "3040": {
+    "name": "Taiping Arts",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3040,
+    "tri_coef": [
+      10,
+      12
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yu Ji, ",
+      "L",
+      "Zhang Jue",
+      ", HP increase +29%"
+    ]
+  },
+  "3041": {
+    "name": "Many times successful",
+    "rate": {
+      "maxhp": 28
+    },
+    "id": 3041,
+    "tri_coef": [
+      10,
+      14
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yu Ji, ",
+      "L",
+      "Fa Zheng",
+      ", HP increase +28%"
+    ]
+  },
+  "3042": {
+    "name": "Control the Storm",
+    "rate": {
+      "atk": 38
+    },
+    "id": 3042,
+    "tri_coef": [
+      10,
+      17,
+      28
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yu Ji, ",
+      "L",
+      "Huang Yueying, ",
+      "L",
+      "Zhuge Liang",
+      ", Attack +38%"
+    ]
+  },
+  "3043": {
+    "name": "Victory Returns",
+    "rate": {
+      "maxhp": 28
+    },
+    "id": 3043,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", HP increase +28%"
+    ]
+  },
+  "3044": {
+    "name": "Star Night",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3044,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", Attack +28%"
+    ]
+  },
+  "3045": {
+    "name": "I Don't Hear You",
+    "rate": {
+      "atk": 21
+    },
+    "id": 3045,
+    "tri_coef": [
+      11,
+      61
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yuan Shao, ",
+      "L",
+      "Zhang He",
+      ", Attack +21%"
+    ]
+  },
+  "3046": {
+    "name": "Can't go the same way",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3046,
+    "tri_coef": [
+      11,
+      3
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yuan Shao, ",
+      "L",
+      "Dong Zhuo",
+      ", HP increase +24%"
+    ]
+  },
+  "3047": {
+    "name": "Chaos of Heaven",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3047,
+    "tri_coef": [
+      11,
+      12,
+      148,
+      3,
+      7
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yuan Shao, ",
+      "L",
+      "Zhang Jue, ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Dong Zhuo, ",
+      "L",
+      "Jia Xu",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3048": {
+    "name": "Roamed Rain and Wind",
+    "rate": {
+      "def": 20
+    },
+    "id": 3048,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", Defense +20%"
+    ]
+  },
+  "3049": {
+    "name": "Way of Taiping Heavenly",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3049,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Attack +20%"
+    ]
+  },
+  "3050": {
+    "name": "Evil In The Middle Of The Road",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3050,
+    "tri_coef": [
+      12,
+      10
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Jue, ",
+      "L",
+      "Yu Ji",
+      ", HP increase +29%"
+    ]
+  },
+  "3051": {
+    "name": "Taiping Arts",
+    "rate": {
+      "atk": 29
+    },
+    "id": 3051,
+    "tri_coef": [
+      12,
+      17
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Jue, ",
+      "L",
+      "Huang Yueying",
+      ", Attack +29%"
+    ]
+  },
+  "3052": {
+    "name": "Chaos of Heaven",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3052,
+    "tri_coef": [
+      12,
+      148,
+      7,
+      11,
+      3
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Jue, ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Jia Xu, ",
+      "L",
+      "Yuan Shao, ",
+      "L",
+      "Dong Zhuo",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3053": {
+    "name": "Roamed Rain and Wind",
+    "rate": {
+      "def": 22
+    },
+    "id": 3053,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", Defense +22%"
+    ]
+  },
+  "3054": {
+    "name": "Taiping Fairy Arts",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3054,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Attack +22%"
+    ]
+  },
+  "3055": {
+    "name": "Alone Wolf Protects The Moon",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3055,
+    "tri_coef": [
+      13,
+      37
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Diaochan, ",
+      "L",
+      "Xiahou Dun",
+      ", HP increase +29%"
+    ]
+  },
+  "3056": {
+    "name": "Heroic Nymph",
+    "rate": {
+      "atk": 27
+    },
+    "id": 3056,
+    "tri_coef": [
+      13,
+      148
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Diaochan, ",
+      "L",
+      "Lu Bu",
+      ", Attack +27%"
+    ]
+  },
+  "3057": {
+    "name": "Nine Songs",
+    "rate": {
+      "maxhp": 36
+    },
+    "id": 3057,
+    "tri_coef": [
+      13,
+      26,
+      17
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Diaochan, ",
+      "L",
+      "Xu Shu, ",
+      "L",
+      "Huang Yueying",
+      ", HP increase +36%"
+    ]
+  },
+  "3058": {
+    "name": "Ma Zhong Red Hare",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3058,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", HP increase +25%"
+    ]
+  },
+  "3059": {
+    "name": "Fall of Weakness",
+    "rate": {
+      "def": 25
+    },
+    "id": 3059,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", Defense +25%"
+    ]
+  },
+  "3060": {
+    "name": "Great Righteousness",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3060,
+    "tri_coef": [
+      14,
+      147
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Fa Zheng, ",
+      "L",
+      "Zhao Yun",
+      ", Attack +25%"
+    ]
+  },
+  "3061": {
+    "name": "Take the excess compensation for the lack of",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3061,
+    "tri_coef": [
+      14,
+      28
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Fa Zheng, ",
+      "L",
+      "Zhuge Liang",
+      ", HP increase +29%"
+    ]
+  },
+  "3062": {
+    "name": "Great Strategy",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3062,
+    "tri_coef": [
+      14,
+      20
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Fa Zheng, ",
+      "L",
+      "Liu Bei",
+      ", HP increase +26%"
+    ]
+  },
+  "3063": {
+    "name": "Surfing on the sand",
+    "rate": {
+      "def": 22
+    },
+    "id": 3063,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Defense +22%"
+    ]
+  },
+  "3064": {
+    "name": "Way of Taiping Heavenly",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3064,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Attack +22%"
+    ]
+  },
+  "3065": {
+    "name": "Bone Spear",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3065,
+    "tri_coef": [
+      16,
+      6
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Hou Tou",
+      ", HP increase +29%"
+    ]
+  },
+  "3066": {
+    "name": "Blood brother",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3066,
+    "tri_coef": [
+      16,
+      20,
+      27
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Liu Bei, ",
+      "L",
+      "Zhang Fei",
+      ", Attack +30%"
+    ]
+  },
+  "3067": {
+    "name": "Five Tiger Generals",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3067,
+    "tri_coef": [
+      16,
+      27,
+      147,
+      21,
+      18
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhang Fei, ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Ma Chao, ",
+      "L",
+      "Huang Zhong",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3068": {
+    "name": "Ma Zhong Red Hare",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3068,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", Attack +25%"
+    ]
+  },
+  "3069": {
+    "name": "Impermanent Glory",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3069,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", HP increase +25%"
+    ]
+  },
+  "3070": {
+    "name": "Wings of Dragon",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3070,
+    "tri_coef": [
+      17,
+      147
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Yueying, ",
+      "L",
+      "Zhao Yun",
+      ", HP increase +29%"
+    ]
+  },
+  "3071": {
+    "name": "The Difficulty Emerges The Wisdom",
+    "rate": {
+      "def": 28
+    },
+    "id": 3071,
+    "tri_coef": [
+      17,
+      60
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Yueying, ",
+      "L",
+      "Cai Yan",
+      ", Defense +28%"
+    ]
+  },
+  "3072": {
+    "name": "Nine Songs",
+    "rate": {
+      "maxhp": 36
+    },
+    "id": 3072,
+    "tri_coef": [
+      17,
+      13,
+      26
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Yueying, ",
+      "L",
+      "Diaochan, ",
+      "L",
+      "Xu Shu",
+      ", HP increase +36%"
+    ]
+  },
+  "3073": {
+    "name": "Precious horses pull fragrant carriages",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3073,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", HP increase +22%"
+    ]
+  },
+  "3074": {
+    "name": "Sublime Medical Arts",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3074,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", Attack +22%"
+    ]
+  },
+  "3075": {
+    "name": "The Older The More Tough",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3075,
+    "tri_coef": [
+      18,
+      47
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Zhong, ",
+      "L",
+      "Huang Gai",
+      ", HP increase +27%"
+    ]
+  },
+  "3076": {
+    "name": "Good Defense",
+    "rate": {
+      "def": 28
+    },
+    "id": 3076,
+    "tri_coef": [
+      18,
+      48
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Zhong, ",
+      "L",
+      "Lu Su",
+      ", Defense +28%"
+    ]
+  },
+  "3077": {
+    "name": "Five Tiger Generals",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3077,
+    "tri_coef": [
+      18,
+      16,
+      27,
+      147,
+      21
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Zhong, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhang Fei, ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Ma Chao",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3078": {
+    "name": "Surfing on the sand",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3078,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +22%"
+    ]
+  },
+  "3079": {
+    "name": "Support of Heaven and earth",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3079,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", HP increase +22%"
+    ]
+  },
+  "3080": {
+    "name": "Have the Liver and the Conspiracy",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3080,
+    "tri_coef": [
+      19,
+      27
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jiang Wei, ",
+      "L",
+      "Zhang Fei",
+      ", HP increase +27%"
+    ]
+  },
+  "3081": {
+    "name": "Teenager",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3081,
+    "tri_coef": [
+      19,
+      55,
+      184
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jiang Wei, ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Sun Ce",
+      ", Attack +30%"
+    ]
+  },
+  "3082": {
+    "name": "Medical Research",
+    "rate": {
+      "def": 42
+    },
+    "id": 3082,
+    "tri_coef": [
+      19,
+      6,
+      43
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Jiang Wei, ",
+      "L",
+      "Hou Tou, ",
+      "L",
+      "Lady Zhen",
+      ", Defense +42%"
+    ]
+  },
+  "3083": {
+    "name": "Horses pedaling birds nests",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3083,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", HP increase +22%"
+    ]
+  },
+  "3084": {
+    "name": "Five elements formation",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3084,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", Attack +22%"
+    ]
+  },
+  "3085": {
+    "name": "Animal Falling",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3085,
+    "tri_coef": [
+      20,
+      54
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liu Bei, ",
+      "L",
+      "Lady Sun",
+      ", Attack +23%"
+    ]
+  },
+  "3086": {
+    "name": "Great Strategy",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3086,
+    "tri_coef": [
+      20,
+      14
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liu Bei, ",
+      "L",
+      "Fa Zheng",
+      ", HP increase +26%"
+    ]
+  },
+  "3087": {
+    "name": "Blood brother",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3087,
+    "tri_coef": [
+      20,
+      16,
+      27
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Liu Bei, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhang Fei",
+      ", Attack +30%"
+    ]
+  },
+  "3088": {
+    "name": "Horses Jumping",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3088,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", HP increase +22%"
+    ]
+  },
+  "3089": {
+    "name": "Cause and Effect",
+    "rate": {
+      "def": 22
+    },
+    "id": 3089,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", Defense +22%"
+    ]
+  },
+  "3090": {
+    "name": "You Attack, I Defend",
+    "rate": {
+      "maxhp": 30
+    },
+    "id": 3090,
+    "tri_coef": [
+      21,
+      31
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Chao, ",
+      "L",
+      "Cao He",
+      ", HP increase +30%"
+    ]
+  },
+  "3091": {
+    "name": "Heroic",
+    "rate": {
+      "atk": 24
+    },
+    "id": 3091,
+    "tri_coef": [
+      21,
+      55
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Chao, ",
+      "L",
+      "Taishi Ci",
+      ", Attack +24%"
+    ]
+  },
+  "3092": {
+    "name": "Five Tiger Generals",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3092,
+    "tri_coef": [
+      21,
+      16,
+      27,
+      147,
+      18
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Ma Chao, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhang Fei, ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Huang Zhong",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3093": {
+    "name": "Ma Zhong Red Hare",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3093,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", HP increase +25%"
+    ]
+  },
+  "3094": {
+    "name": "Keep The Country Quiet",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3094,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", Attack +25%"
+    ]
+  },
+  "3095": {
+    "name": "Seven times Catch Seven times free",
+    "rate": {
+      "atk": 24
+    },
+    "id": 3095,
+    "tri_coef": [
+      23,
+      28
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Meng Huo, ",
+      "L",
+      "Zhuge Liang",
+      ", Attack +24%"
+    ]
+  },
+  "3096": {
+    "name": "Extraordinary Bravery",
+    "rate": {
+      "maxhp": 21
+    },
+    "id": 3096,
+    "tri_coef": [
+      23,
+      74
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Meng Huo, ",
+      "L",
+      "Guan Xing",
+      ", HP increase +21%"
+    ]
+  },
+  "3097": {
+    "name": "Shu Enter Xichuan",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3097,
+    "tri_coef": [
+      23,
+      20,
+      29
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Meng Huo, ",
+      "L",
+      "Liu Bei, ",
+      "L",
+      "Zhurong",
+      ", Attack +28%"
+    ]
+  },
+  "3098": {
+    "name": "Precious horses pull fragrant carriages",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 3098,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", HP increase +20%"
+    ]
+  },
+  "3099": {
+    "name": "Punishment Forbidden Violence",
+    "rate": {
+      "def": 20
+    },
+    "id": 3099,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", Defense +20%"
+    ]
+  },
+  "3100": {
+    "name": "Body of Martial God",
+    "rate": {
+      "atk": 24
+    },
+    "id": 3100,
+    "tri_coef": [
+      24,
+      16
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wei Yan, ",
+      "L",
+      "Guan Yu",
+      ", Attack +24%"
+    ]
+  },
+  "3101": {
+    "name": "Crazy War of Heaven",
+    "rate": {
+      "atk": 24
+    },
+    "id": 3101,
+    "tri_coef": [
+      24,
+      27
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wei Yan, ",
+      "L",
+      "Zhang Fei",
+      ", Attack +24%"
+    ]
+  },
+  "3102": {
+    "name": "In Danger Do Not Fun",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3102,
+    "tri_coef": [
+      24,
+      33,
+      39
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Wei Yan, ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Xu Chu",
+      ", Attack +30%"
+    ]
+  },
+  "3103": {
+    "name": "Surfing on the sand",
+    "rate": {
+      "def": 22
+    },
+    "id": 3103,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Defense +22%"
+    ]
+  },
+  "3104": {
+    "name": "Support of Heaven and earth",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3104,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", HP increase +22%"
+    ]
+  },
+  "3105": {
+    "name": "Have the Liver and the Conspiracy",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3105,
+    "tri_coef": [
+      27,
+      19
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Fei, ",
+      "L",
+      "Jiang Wei",
+      ", HP increase +27%"
+    ]
+  },
+  "3106": {
+    "name": "Blood brother",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3106,
+    "tri_coef": [
+      27,
+      16,
+      20
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Fei, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Liu Bei",
+      ", Attack +30%"
+    ]
+  },
+  "3107": {
+    "name": "Five Tiger Generals",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3107,
+    "tri_coef": [
+      27,
+      16,
+      147,
+      21,
+      18
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Fei, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Ma Chao, ",
+      "L",
+      "Huang Zhong",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3108": {
+    "name": "Crossing the river then break the bridge",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3108,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", Attack +25%"
+    ]
+  },
+  "3109": {
+    "name": "Must-learn books",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3109,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", HP increase +25%"
+    ]
+  },
+  "3110": {
+    "name": "Take the excess compensation for the lack of",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3110,
+    "tri_coef": [
+      28,
+      14
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhuge Liang, ",
+      "L",
+      "Fa Zheng",
+      ", HP increase +29%"
+    ]
+  },
+  "3111": {
+    "name": "The three kingdoms Cloud and wind",
+    "rate": {
+      "atk": 25,
+      "maxhp": 30
+    },
+    "id": 3111,
+    "tri_coef": [
+      28,
+      59,
+      36
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhuge Liang, ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Sima Yi",
+      ", HP increase +30%, Attack +25%"
+    ]
+  },
+  "3112": {
+    "name": "The Imperial House of the Han Dynasty",
+    "rate": {
+      "atk": 35
+    },
+    "id": 3112,
+    "tri_coef": [
+      28,
+      20,
+      147
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhuge Liang, ",
+      "L",
+      "Liu Bei, ",
+      "L",
+      "Zhao Yun",
+      ", Attack +35%"
+    ]
+  },
+  "3113": {
+    "name": " Can't Touch Great Fantasy",
+    "rate": {
+      "maxhp": 28
+    },
+    "id": 3113,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", HP increase +28%"
+    ]
+  },
+  "3114": {
+    "name": "Star Night",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3114,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", Attack +28%"
+    ]
+  },
+  "3115": {
+    "name": "Practice Martial Arts Since Childhood",
+    "rate": {
+      "maxhp": 21
+    },
+    "id": 3115,
+    "tri_coef": [
+      29,
+      73
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhurong, ",
+      "L",
+      "Quan anping",
+      ", HP increase +21%"
+    ]
+  },
+  "3116": {
+    "name": "Brave female general",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3116,
+    "tri_coef": [
+      29,
+      44
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhurong, ",
+      "L",
+      "Da Qiao",
+      ", Attack +20%"
+    ]
+  },
+  "3117": {
+    "name": "Shu Enter Xichuan",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3117,
+    "tri_coef": [
+      29,
+      20,
+      23
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhurong, ",
+      "L",
+      "Liu Bei, ",
+      "L",
+      "Meng Huo",
+      ", Attack +28%"
+    ]
+  },
+  "3118": {
+    "name": "Precious horses pull fragrant carriages",
+    "rate": {
+      "def": 20
+    },
+    "id": 3118,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", Defense +20%"
+    ]
+  },
+  "3119": {
+    "name": "Support of Heaven and earth",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 3119,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", HP increase +20%"
+    ]
+  },
+  "3120": {
+    "name": "The Great War of Red Cliff",
+    "rate": {
+      "maxhp": 30
+    },
+    "id": 3120,
+    "tri_coef": [
+      30,
+      62
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Cao, ",
+      "L",
+      "Zhang Liao",
+      ", HP increase +30%"
+    ]
+  },
+  "3121": {
+    "name": "Fengxiao",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3121,
+    "tri_coef": [
+      30,
+      34
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Cao, ",
+      "L",
+      "Guo Jia",
+      ", HP increase +29%"
+    ]
+  },
+  "3122": {
+    "name": "Bucking Masterpiece",
+    "rate": {
+      "maxhp": 38
+    },
+    "id": 3122,
+    "tri_coef": [
+      30,
+      32,
+      36
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Cao, ",
+      "L",
+      "Cao Pi, ",
+      "L",
+      "Sima Yi",
+      ", HP increase +38%"
+    ]
+  },
+  "3123": {
+    "name": "Victory Returns",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3123,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", HP increase +25%"
+    ]
+  },
+  "3124": {
+    "name": "Half Life of War Horse",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3124,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", Attack +25%"
+    ]
+  },
+  "3125": {
+    "name": "You Attack, I Defend",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3125,
+    "tri_coef": [
+      31,
+      21
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao He, ",
+      "L",
+      "Ma Chao",
+      ", HP increase +27%"
+    ]
+  },
+  "3126": {
+    "name": "Copper Iron Wall",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3126,
+    "tri_coef": [
+      31,
+      39
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao He, ",
+      "L",
+      "Xu Chu",
+      ", HP increase +26%"
+    ]
+  },
+  "3127": {
+    "name": "Blood Killer",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3127,
+    "tri_coef": [
+      31,
+      33,
+      5
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao He, ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Hua Xiong",
+      ", Attack +30%"
+    ]
+  },
+  "3128": {
+    "name": "Great Fantasy",
+    "rate": {
+      "def": 22
+    },
+    "id": 3128,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", Defense +22%"
+    ]
+  },
+  "3129": {
+    "name": "The will of Cao Cao",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3129,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", HP increase +22%"
+    ]
+  },
+  "3130": {
+    "name": "Face Doesn't Change Color",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3130,
+    "tri_coef": [
+      32,
+      33
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Pi, ",
+      "L",
+      "Dian Wei",
+      ", HP increase +24%"
+    ]
+  },
+  "3131": {
+    "name": "Fake Queen",
+    "rate": {
+      "def": 28
+    },
+    "id": 3131,
+    "tri_coef": [
+      32,
+      43
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Pi, ",
+      "L",
+      "Lady Zhen",
+      ", Defense +28%"
+    ]
+  },
+  "3132": {
+    "name": "Bucking Masterpiece",
+    "rate": {
+      "maxhp": 38
+    },
+    "id": 3132,
+    "tri_coef": [
+      32,
+      30,
+      36
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cao Pi, ",
+      "L",
+      "Cao Cao, ",
+      "L",
+      "Sima Yi",
+      ", HP increase +38%"
+    ]
+  },
+  "3133": {
+    "name": "Luxurious House",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3133,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", Attack +20%"
+    ]
+  },
+  "3134": {
+    "name": "Hundred Sforols of Thought",
+    "rate": {
+      "maxhp": 20
+    },
+    "id": 3134,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", HP increase +20%"
+    ]
+  },
+  "3135": {
+    "name": "Ancient Evil Slayer",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3135,
+    "tri_coef": [
+      33,
+      38
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Xu Huang",
+      ", HP increase +26%"
+    ]
+  },
+  "3136": {
+    "name": "Face Doesn't Change Color",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3136,
+    "tri_coef": [
+      33,
+      32
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Cao Pi",
+      ", HP increase +24%"
+    ]
+  },
+  "3137": {
+    "name": "Blood Killer",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3137,
+    "tri_coef": [
+      33,
+      31,
+      5
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Cao He, ",
+      "L",
+      "Hua Xiong",
+      ", Attack +30%"
+    ]
+  },
+  "3138": {
+    "name": "In Danger Do Not Fun",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3138,
+    "tri_coef": [
+      33,
+      24,
+      39
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Wei Yan, ",
+      "L",
+      "Xu Chu",
+      ", Attack +30%"
+    ]
+  },
+  "3139": {
+    "name": "Roamed Rain and Wind",
+    "rate": {
+      "def": 22
+    },
+    "id": 3139,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", Defense +22%"
+    ]
+  },
+  "3140": {
+    "name": "Fengxiao",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3140,
+    "tri_coef": [
+      34,
+      30
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Jia, ",
+      "L",
+      "Cao Cao",
+      ", HP increase +29%"
+    ]
+  },
+  "3141": {
+    "name": "Demon Bible",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3141,
+    "tri_coef": [
+      34,
+      43
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Jia, ",
+      "L",
+      "Lady Zhen",
+      ", HP increase +27%"
+    ]
+  },
+  "3142": {
+    "name": "Scared Devil",
+    "rate": {
+      "atk": 33
+    },
+    "id": 3142,
+    "tri_coef": [
+      34,
+      37,
+      38
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Jia, ",
+      "L",
+      "Xiahou Dun, ",
+      "L",
+      "Xu Huang",
+      ", Attack +33%"
+    ]
+  },
+  "3143": {
+    "name": " Can't Touch Great Fantasy",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3143,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", HP increase +25%"
+    ]
+  },
+  "3144": {
+    "name": "The will of Cao Cao",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3144,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", HP increase +22%"
+    ]
+  },
+  "3145": {
+    "name": "Better Than People",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3145,
+    "tri_coef": [
+      36,
+      62
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sima Yi, ",
+      "L",
+      "Zhang Liao",
+      ", HP increase +32%"
+    ]
+  },
+  "3146": {
+    "name": "The three kingdoms Cloud and wind",
+    "rate": {
+      "atk": 25,
+      "maxhp": 30
+    },
+    "id": 3146,
+    "tri_coef": [
+      36,
+      28,
+      59
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sima Yi, ",
+      "L",
+      "Zhuge Liang, ",
+      "L",
+      "Zhou Yu",
+      ", HP increase +30%, Attack +25%"
+    ]
+  },
+  "3147": {
+    "name": "Bucking Masterpiece",
+    "rate": {
+      "maxhp": 38
+    },
+    "id": 3147,
+    "tri_coef": [
+      36,
+      32,
+      30
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sima Yi, ",
+      "L",
+      "Cao Pi, ",
+      "L",
+      "Cao Cao",
+      ", HP increase +38%"
+    ]
+  },
+  "3148": {
+    "name": " Can't Touch Great Fantasy",
+    "rate": {
+      "def": 28
+    },
+    "id": 3148,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", Defense +28%"
+    ]
+  },
+  "3149": {
+    "name": "Quick-witted, Many Tricks",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3149,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", Attack +28%"
+    ]
+  },
+  "3150": {
+    "name": "Alone Wolf contemplate the Moon",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3150,
+    "tri_coef": [
+      37,
+      13
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Dun, ",
+      "L",
+      "Diaochan",
+      ", HP increase +29%"
+    ]
+  },
+  "3151": {
+    "name": "Building the country",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3151,
+    "tri_coef": [
+      37,
+      61
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Dun, ",
+      "L",
+      "Zhang He",
+      ", HP increase +27%"
+    ]
+  },
+  "3152": {
+    "name": "Scared Devil",
+    "rate": {
+      "atk": 33
+    },
+    "id": 3152,
+    "tri_coef": [
+      37,
+      34,
+      38
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Dun, ",
+      "L",
+      "Guo Jia, ",
+      "L",
+      "Xu Huang",
+      ", Attack +33%"
+    ]
+  },
+  "3153": {
+    "name": "Victory Returns",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3153,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +25%"
+    ]
+  },
+  "3154": {
+    "name": "The will of Cao Cao",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3154,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", HP increase +25%"
+    ]
+  },
+  "3155": {
+    "name": "Ancient Evil Slayer",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3155,
+    "tri_coef": [
+      38,
+      33
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Huang, ",
+      "L",
+      "Dian Wei",
+      ", HP increase +26%"
+    ]
+  },
+  "3156": {
+    "name": "Support of Food King",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3156,
+    "tri_coef": [
+      38,
+      39
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Huang, ",
+      "L",
+      "Xu Chu",
+      ", HP increase +26%"
+    ]
+  },
+  "3157": {
+    "name": "Five Elite Generals",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3157,
+    "tri_coef": [
+      38,
+      62,
+      35,
+      41
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Huang, ",
+      "L",
+      "Zhang Liao, ",
+      "L",
+      "Zhang He, ",
+      "L",
+      "Yue Jin, ",
+      "L",
+      "Yu Jin",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3158": {
+    "name": "Scared Devil",
+    "rate": {
+      "atk": 33
+    },
+    "id": 3158,
+    "tri_coef": [
+      38,
+      37,
+      34
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Huang, ",
+      "L",
+      "Xiahou Dun, ",
+      "L",
+      "Guo Jia",
+      ", Attack +33%"
+    ]
+  },
+  "3159": {
+    "name": "Horses pedaling birds nests",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3159,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", Attack +22%"
+    ]
+  },
+  "3160": {
+    "name": "Support of Food King",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3160,
+    "tri_coef": [
+      39,
+      38
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Chu, ",
+      "L",
+      "Xu Huang",
+      ", HP increase +26%"
+    ]
+  },
+  "3161": {
+    "name": "Courage and strength",
+    "rate": {
+      "atk": 21
+    },
+    "id": 3161,
+    "tri_coef": [
+      39,
+      31
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Chu, ",
+      "L",
+      "Cao He",
+      ", Attack +21%"
+    ]
+  },
+  "3162": {
+    "name": "In Danger Do Not Fun",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3162,
+    "tri_coef": [
+      39,
+      33,
+      24
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Chu, ",
+      "L",
+      "Dian Wei, ",
+      "L",
+      "Wei Yan",
+      ", Attack +30%"
+    ]
+  },
+  "3163": {
+    "name": "Surfing on the sand",
+    "rate": {
+      "def": 22
+    },
+    "id": 3163,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Defense +22%"
+    ]
+  },
+  "3164": {
+    "name": "The will of Cao Cao",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3164,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", HP increase +22%"
+    ]
+  },
+  "3165": {
+    "name": "Wise Education",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3165,
+    "tri_coef": [
+      40,
+      34
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yang Xiu, ",
+      "L",
+      "Guo Jia",
+      ", HP increase +26%"
+    ]
+  },
+  "3166": {
+    "name": "Tough like chicken tendons",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3166,
+    "tri_coef": [
+      40,
+      30
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yang Xiu, ",
+      "L",
+      "Cao Cao",
+      ", HP increase +26%"
+    ]
+  },
+  "3167": {
+    "name": "Enter the Strange Map",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3167,
+    "tri_coef": [
+      40,
+      32
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yang Xiu, ",
+      "L",
+      "Cao Pi",
+      ", HP increase +24%"
+    ]
+  },
+  "3168": {
+    "name": "Golden Iron Horse",
+    "rate": {
+      "def": 20
+    },
+    "id": 3168,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Defense +20%"
+    ]
+  },
+  "3169": {
+    "name": "Star Night",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3169,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", Attack +20%"
+    ]
+  },
+  "3170": {
+    "name": "Copper Iron Wall",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3170,
+    "tri_coef": [
+      41,
+      31
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yu Jin, ",
+      "L",
+      "Cao He",
+      ", HP increase +26%"
+    ]
+  },
+  "3171": {
+    "name": "Many times successful",
+    "rate": {
+      "maxhp": 23
+    },
+    "id": 3171,
+    "tri_coef": [
+      41,
+      68
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yu Jin, ",
+      "L",
+      "Man forng",
+      ", HP increase +23%"
+    ]
+  },
+  "3172": {
+    "name": "Five Elite Generals",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3172,
+    "tri_coef": [
+      41,
+      38,
+      35,
+      62
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Yu Jin, ",
+      "L",
+      "Xu Huang, ",
+      "L",
+      "Zhang He, ",
+      "L",
+      "Yue Jin, ",
+      "L",
+      "Zhang Liao",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3173": {
+    "name": "Surfing on the sand",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3173,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +22%"
+    ]
+  },
+  "3174": {
+    "name": "Punishment Forbidden Violence",
+    "rate": {
+      "def": 22
+    },
+    "id": 3174,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", Defense +22%"
+    ]
+  },
+  "3175": {
+    "name": "Demon Bible",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3175,
+    "tri_coef": [
+      43,
+      34
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Zhen, ",
+      "L",
+      "Guo Jia",
+      ", HP increase +27%"
+    ]
+  },
+  "3176": {
+    "name": "Fake Queen",
+    "rate": {
+      "def": 28
+    },
+    "id": 3176,
+    "tri_coef": [
+      43,
+      32
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Zhen, ",
+      "L",
+      "Cao Pi",
+      ", Defense +28%"
+    ]
+  },
+  "3177": {
+    "name": "Medical Research",
+    "rate": {
+      "def": 42
+    },
+    "id": 3177,
+    "tri_coef": [
+      43,
+      6,
+      19
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Zhen, ",
+      "L",
+      "Hou Tou, ",
+      "L",
+      "Jiang Wei",
+      ", Defense +42%"
+    ]
+  },
+  "3178": {
+    "name": "Precious horses pull fragrant carriages",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3178,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", HP increase +22%"
+    ]
+  },
+  "3179": {
+    "name": "Punishment Forbidden Violence",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3179,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", Attack +22%"
+    ]
+  },
+  "3180": {
+    "name": "Love Couple",
+    "rate": {
+      "def": 34
+    },
+    "id": 3180,
+    "tri_coef": [
+      44,
+      184
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Da Qiao, ",
+      "L",
+      "Sun Ce",
+      ", Defense +34%"
+    ]
+  },
+  "3181": {
+    "name": "Brave female general",
+    "rate": {
+      "def": 25
+    },
+    "id": 3181,
+    "tri_coef": [
+      44,
+      29
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Da Qiao, ",
+      "L",
+      "Zhurong",
+      ", Defense +25%"
+    ]
+  },
+  "3182": {
+    "name": "Straightforward Heart",
+    "rate": {
+      "def": 41
+    },
+    "id": 3182,
+    "tri_coef": [
+      44,
+      56,
+      54
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Da Qiao, ",
+      "L",
+      "Xiao Qiao, ",
+      "L",
+      "Lady Sun",
+      ", Defense +41%"
+    ]
+  },
+  "3183": {
+    "name": "Horses pedaling birds nests",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3183,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", HP increase +22%"
+    ]
+  },
+  "3184": {
+    "name": "Cause and Effect",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3184,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", Attack +22%"
+    ]
+  },
+  "3185": {
+    "name": "Jiangdong Double Heroes",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3185,
+    "tri_coef": [
+      46,
+      58
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Zhou Tai",
+      ", HP increase +26%"
+    ]
+  },
+  "3186": {
+    "name": "Episode Jingzhou",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3186,
+    "tri_coef": [
+      46,
+      57
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Xu Sheng",
+      ", Attack +23%"
+    ]
+  },
+  "3187": {
+    "name": "Jiangdong Stone Pillar",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3187,
+    "tri_coef": [
+      46,
+      55,
+      59,
+      50,
+      52
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Lu Meng, ",
+      "L",
+      "Sun Jian",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3188": {
+    "name": "A Righteous Body",
+    "rate": {
+      "maxhp": 39
+    },
+    "id": 3188,
+    "tri_coef": [
+      46,
+      184,
+      53
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Sun Ce, ",
+      "L",
+      "Sun Quan",
+      ", HP increase +39%"
+    ]
+  },
+  "3189": {
+    "name": "One hundred mile walk",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3189,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", Attack +25%"
+    ]
+  },
+  "3190": {
+    "name": "Jiangdong Hegemony",
+    "rate": {
+      "maxhp": 28
+    },
+    "id": 3190,
+    "tri_coef": [
+      47,
+      184
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Gai, ",
+      "L",
+      "Sun Ce",
+      ", HP increase +28%"
+    ]
+  },
+  "3191": {
+    "name": "The Older The More Tough",
+    "rate": {
+      "atk": 21
+    },
+    "id": 3191,
+    "tri_coef": [
+      47,
+      18
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Gai, ",
+      "L",
+      "Huang Zhong",
+      ", Attack +21%"
+    ]
+  },
+  "3192": {
+    "name": "Fight Together",
+    "rate": {
+      "atk": 25,
+      "def": 28
+    },
+    "id": 3192,
+    "tri_coef": [
+      47,
+      58,
+      50
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Huang Gai, ",
+      "L",
+      "Zhou Tai, ",
+      "L",
+      "Lu Meng",
+      ", Attack +25%, Defense +28%"
+    ]
+  },
+  "3193": {
+    "name": "Great Fantasy",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3193,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", Attack +20%"
+    ]
+  },
+  "3194": {
+    "name": "Cause and Effect",
+    "rate": {
+      "def": 20
+    },
+    "id": 3194,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", Defense +20%"
+    ]
+  },
+  "3195": {
+    "name": "Jiangdong Patrimony",
+    "rate": {
+      "def": 26
+    },
+    "id": 3195,
+    "tri_coef": [
+      48,
+      46
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Su, ",
+      "L",
+      "Gan Ning",
+      ", Defense +26%"
+    ]
+  },
+  "3196": {
+    "name": "Useful Crossroads",
+    "rate": {
+      "atk": 32
+    },
+    "id": 3196,
+    "tri_coef": [
+      48,
+      18
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Su, ",
+      "L",
+      "Huang Zhong",
+      ", Attack +32%"
+    ]
+  },
+  "3197": {
+    "name": "Strange Plan",
+    "rate": {
+      "maxhp": 38
+    },
+    "id": 3197,
+    "tri_coef": [
+      48,
+      49,
+      59
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Su, ",
+      "L",
+      "Lu Xun, ",
+      "L",
+      "Zhou Yu",
+      ", HP increase +38%"
+    ]
+  },
+  "3198": {
+    "name": "Golden Iron Horse",
+    "rate": {
+      "def": 20
+    },
+    "id": 3198,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Defense +20%"
+    ]
+  },
+  "3199": {
+    "name": "Way of Taiping Heavenly",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3199,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Attack +20%"
+    ]
+  },
+  "3200": {
+    "name": "I am the Admiral",
+    "rate": {
+      "atk": 27
+    },
+    "id": 3200,
+    "tri_coef": [
+      49,
+      59
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Xun, ",
+      "L",
+      "Zhou Yu",
+      ", Attack +27%"
+    ]
+  },
+  "3201": {
+    "name": "Big Heart",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3201,
+    "tri_coef": [
+      49,
+      50
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Xun, ",
+      "L",
+      "Lu Meng",
+      ", HP increase +29%"
+    ]
+  },
+  "3202": {
+    "name": "Strange Plan",
+    "rate": {
+      "maxhp": 38
+    },
+    "id": 3202,
+    "tri_coef": [
+      49,
+      59,
+      48
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Xun, ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Lu Su",
+      ", HP increase +38%"
+    ]
+  },
+  "3203": {
+    "name": "Golden Iron",
+    "rate": {
+      "def": 25
+    },
+    "id": 3203,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Defense +25%"
+    ]
+  },
+  "3204": {
+    "name": "Keep The Country Quiet",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3204,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", Attack +25%"
+    ]
+  },
+  "3205": {
+    "name": "Big Heart",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3205,
+    "tri_coef": [
+      50,
+      49
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Meng, ",
+      "L",
+      "Lu Xun",
+      ", HP increase +29%"
+    ]
+  },
+  "3206": {
+    "name": "Fight Together",
+    "rate": {
+      "atk": 25,
+      "def": 28
+    },
+    "id": 3206,
+    "tri_coef": [
+      50,
+      47,
+      58
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Meng, ",
+      "L",
+      "Huang Gai, ",
+      "L",
+      "Zhou Tai",
+      ", Attack +25%, Defense +28%"
+    ]
+  },
+  "3207": {
+    "name": "Jiangdong Stone Pillar",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3207,
+    "tri_coef": [
+      50,
+      55,
+      59,
+      46,
+      52
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Meng, ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Sun Jian",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3208": {
+    "name": "Golden Iron",
+    "rate": {
+      "maxhp": 25
+    },
+    "id": 3208,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", HP increase +25%"
+    ]
+  },
+  "3209": {
+    "name": "Five elements formation",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3209,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", Attack +25%"
+    ]
+  },
+  "3210": {
+    "name": "Sweep Up Thieves",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3210,
+    "tri_coef": [
+      51,
+      57
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pan Zhang, ",
+      "L",
+      "Xu Sheng",
+      ", Attack +20%"
+    ]
+  },
+  "3211": {
+    "name": "Young Pride",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3211,
+    "tri_coef": [
+      51,
+      45
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pan Zhang, ",
+      "L",
+      "Ding Feng",
+      ", HP increase +26%"
+    ]
+  },
+  "3212": {
+    "name": "Kill the Hero to Win the Flag",
+    "rate": {
+      "atk": 21
+    },
+    "id": 3212,
+    "tri_coef": [
+      51,
+      278
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Pan Zhang, ",
+      "L",
+      "Zhu Huan",
+      ", Attack +21%"
+    ]
+  },
+  "3213": {
+    "name": "Great Fantasy",
+    "rate": {
+      "def": 22
+    },
+    "id": 3213,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", Defense +22%"
+    ]
+  },
+  "3214": {
+    "name": "Cultivating Body and Nurturing Nature",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3214,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", HP increase +22%"
+    ]
+  },
+  "3215": {
+    "name": "Tongshi Father and Son",
+    "rate": {
+      "def": 30
+    },
+    "id": 3215,
+    "tri_coef": [
+      52,
+      53
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Jian, ",
+      "L",
+      "Sun Quan",
+      ", Defense +30%"
+    ]
+  },
+  "3216": {
+    "name": "Tongshi Father and Son",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3216,
+    "tri_coef": [
+      52,
+      54
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Jian, ",
+      "L",
+      "Lady Sun",
+      ", HP increase +26%"
+    ]
+  },
+  "3217": {
+    "name": "Jiangdong Stone Pillar",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3217,
+    "tri_coef": [
+      52,
+      55,
+      59,
+      46,
+      50
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Jian, ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Lu Meng",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3218": {
+    "name": "Golden Iron",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3218,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Attack +22%"
+    ]
+  },
+  "3219": {
+    "name": "Way of Taiping Heavenly",
+    "rate": {
+      "def": 22
+    },
+    "id": 3219,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Defense +22%"
+    ]
+  },
+  "3220": {
+    "name": "Wipe Your Eyes And See",
+    "rate": {
+      "def": 32
+    },
+    "id": 3220,
+    "tri_coef": [
+      53,
+      50
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Quan, ",
+      "L",
+      "Lu Meng",
+      ", Defense +32%"
+    ]
+  },
+  "3221": {
+    "name": "Recruit Talented People",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3221,
+    "tri_coef": [
+      53,
+      57
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Quan, ",
+      "L",
+      "Xu Sheng",
+      ", HP increase +24%"
+    ]
+  },
+  "3222": {
+    "name": "A Righteous Body",
+    "rate": {
+      "maxhp": 39
+    },
+    "id": 3222,
+    "tri_coef": [
+      53,
+      184,
+      46
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Quan, ",
+      "L",
+      "Sun Ce, ",
+      "L",
+      "Gan Ning",
+      ", HP increase +39%"
+    ]
+  },
+  "3223": {
+    "name": "Roamed Rain and Wind",
+    "rate": {
+      "def": 22
+    },
+    "id": 3223,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", Defense +22%"
+    ]
+  },
+  "3224": {
+    "name": "Taiping Fairy Arts",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3224,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", Attack +22%"
+    ]
+  },
+  "3225": {
+    "name": "Animal Falling",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3225,
+    "tri_coef": [
+      54,
+      20
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Sun, ",
+      "L",
+      "Liu Bei",
+      ", Attack +23%"
+    ]
+  },
+  "3226": {
+    "name": "Tongshi Father and Son",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3226,
+    "tri_coef": [
+      54,
+      52
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Sun, ",
+      "L",
+      "Sun Jian",
+      ", HP increase +26%"
+    ]
+  },
+  "3227": {
+    "name": "Straightforward Heart",
+    "rate": {
+      "def": 41
+    },
+    "id": 3227,
+    "tri_coef": [
+      54,
+      44,
+      56
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lady Sun, ",
+      "L",
+      "Da Qiao, ",
+      "L",
+      "Xiao Qiao",
+      ", Defense +41%"
+    ]
+  },
+  "3228": {
+    "name": "Golden Iron Horse",
+    "rate": {
+      "def": 22
+    },
+    "id": 3228,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Defense +22%"
+    ]
+  },
+  "3229": {
+    "name": "Punishment Forbidden Violence",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3229,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", Attack +22%"
+    ]
+  },
+  "3230": {
+    "name": "Heroic",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3230,
+    "tri_coef": [
+      55,
+      21
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Ma Chao",
+      ", HP increase +26%"
+    ]
+  },
+  "3231": {
+    "name": "Teenager",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3231,
+    "tri_coef": [
+      55,
+      19,
+      184
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Jiang Wei, ",
+      "L",
+      "Sun Ce",
+      ", Attack +30%"
+    ]
+  },
+  "3232": {
+    "name": "Jiangdong Stone Pillar",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3232,
+    "tri_coef": [
+      55,
+      59,
+      52,
+      46,
+      50
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Sun Jian, ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Lu Meng",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3233": {
+    "name": "Victory Returns",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3233,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +22%"
+    ]
+  },
+  "3234": {
+    "name": "Cause and Effect",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3234,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", HP increase +22%"
+    ]
+  },
+  "3235": {
+    "name": "Talented Boys and Beautiful Girls",
+    "rate": {
+      "maxhp": 34
+    },
+    "id": 3235,
+    "tri_coef": [
+      56,
+      59
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiao Qiao, ",
+      "L",
+      "Zhou Yu",
+      ", HP increase +34%"
+    ]
+  },
+  "3236": {
+    "name": "Gentle Personality",
+    "rate": {
+      "def": 25
+    },
+    "id": 3236,
+    "tri_coef": [
+      56,
+      91
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiao Qiao, ",
+      "L",
+      "Bu Lianshi",
+      ", Defense +25%"
+    ]
+  },
+  "3237": {
+    "name": "Straightforward Heart",
+    "rate": {
+      "def": 41
+    },
+    "id": 3237,
+    "tri_coef": [
+      56,
+      44,
+      54
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiao Qiao, ",
+      "L",
+      "Da Qiao, ",
+      "L",
+      "Lady Sun",
+      ", Defense +41%"
+    ]
+  },
+  "3238": {
+    "name": "Horses pedaling birds nests",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3238,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", HP increase +22%"
+    ]
+  },
+  "3239": {
+    "name": "Support of Heaven and earth",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3239,
+    "tri_coef": [
+      3015
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book The Art of War",
+      ", Attack +22%"
+    ]
+  },
+  "3240": {
+    "name": "Episode Jingzhou",
+    "rate": {
+      "atk": 23
+    },
+    "id": 3240,
+    "tri_coef": [
+      57,
+      46
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Sheng, ",
+      "L",
+      "Gan Ning",
+      ", Attack +23%"
+    ]
+  },
+  "3241": {
+    "name": "Recruit Talented People",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3241,
+    "tri_coef": [
+      57,
+      53
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Sheng, ",
+      "L",
+      "Sun Quan",
+      ", HP increase +24%"
+    ]
+  },
+  "3242": {
+    "name": "Go Through Life and Death",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3242,
+    "tri_coef": [
+      57,
+      58,
+      89
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xu Sheng, ",
+      "L",
+      "Zhou Tai, ",
+      "L",
+      "Lu Kang",
+      ", HP increase +32%"
+    ]
+  },
+  "3243": {
+    "name": "Horses pedaling birds nests",
+    "rate": {
+      "def": 20
+    },
+    "id": 3243,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", Defense +20%"
+    ]
+  },
+  "3244": {
+    "name": "Cause and Effect",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3244,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", Attack +20%"
+    ]
+  },
+  "3245": {
+    "name": "Jiangdong Double Heroes",
+    "rate": {
+      "def": 27
+    },
+    "id": 3245,
+    "tri_coef": [
+      58,
+      46
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Tai, ",
+      "L",
+      "Gan Ning",
+      ", Defense +27%"
+    ]
+  },
+  "3246": {
+    "name": "Absolute Courage",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3246,
+    "tri_coef": [
+      58,
+      93
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Tai, ",
+      "L",
+      "Ling Tong",
+      ", HP increase +24%"
+    ]
+  },
+  "3247": {
+    "name": "Fight Together",
+    "rate": {
+      "atk": 25,
+      "def": 28
+    },
+    "id": 3247,
+    "tri_coef": [
+      58,
+      47,
+      50
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Tai, ",
+      "L",
+      "Huang Gai, ",
+      "L",
+      "Lu Meng",
+      ", Attack +25%, Defense +28%"
+    ]
+  },
+  "3248": {
+    "name": "Go Through Life and Death",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3248,
+    "tri_coef": [
+      58,
+      57,
+      89
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Tai, ",
+      "L",
+      "Xu Sheng, ",
+      "L",
+      "Lu Kang",
+      ", HP increase +32%"
+    ]
+  },
+  "3249": {
+    "name": "Golden Iron Horse",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3249,
+    "tri_coef": [
+      3114
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Golden Iron",
+      ", Attack +25%"
+    ]
+  },
+  "3250": {
+    "name": "Talented Boys and Beautiful Girls",
+    "rate": {
+      "maxhp": 29
+    },
+    "id": 3250,
+    "tri_coef": [
+      59,
+      56
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Xiao Qiao",
+      ", HP increase +29%"
+    ]
+  },
+  "3251": {
+    "name": "The three kingdoms Cloud and wind",
+    "rate": {
+      "atk": 25,
+      "maxhp": 30
+    },
+    "id": 3251,
+    "tri_coef": [
+      59,
+      28,
+      36
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Zhuge Liang, ",
+      "L",
+      "Sima Yi",
+      ", HP increase +30%, Attack +25%"
+    ]
+  },
+  "3252": {
+    "name": "Jiangdong Stone Pillar",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3252,
+    "tri_coef": [
+      59,
+      55,
+      46,
+      50,
+      52
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhou Yu, ",
+      "L",
+      "Taishi Ci, ",
+      "L",
+      "Gan Ning, ",
+      "L",
+      "Lu Meng, ",
+      "L",
+      "Sun Jian",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3253": {
+    "name": " Can't Touch Great Fantasy",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3253,
+    "tri_coef": [
+      3115
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Great fantasy",
+      ", Attack +28%"
+    ]
+  },
+  "3254": {
+    "name": "Five elements formation",
+    "rate": {
+      "maxhp": 28
+    },
+    "id": 3254,
+    "tri_coef": [
+      3013
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Qimen Dunjia",
+      ", HP increase +28%"
+    ]
+  },
+  "3255": {
+    "name": "The Difficulty Emerges The Wisdom",
+    "rate": {
+      "def": 28
+    },
+    "id": 3255,
+    "tri_coef": [
+      60,
+      17
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cai Yan, ",
+      "L",
+      "Huang Yueying",
+      ", Defense +28%"
+    ]
+  },
+  "3256": {
+    "name": "Heroic Nymph",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3256,
+    "tri_coef": [
+      60,
+      181
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cai Yan, ",
+      "L",
+      "Xiahou Yuan",
+      ", HP increase +24%"
+    ]
+  },
+  "3257": {
+    "name": "Loyalty remains unchanged",
+    "rate": {
+      "maxhp": 26
+    },
+    "id": 3257,
+    "tri_coef": [
+      60,
+      76,
+      91
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Cai Yan, ",
+      "L",
+      "Lady Gan, ",
+      "L",
+      "Bu Lianshi",
+      ", HP increase +26%"
+    ]
+  },
+  "3258": {
+    "name": "Roamed Rain and Wind",
+    "rate": {
+      "def": 20
+    },
+    "id": 3258,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", Defense +20%"
+    ]
+  },
+  "3259": {
+    "name": "Cultivating Body and Nurturing Nature",
+    "rate": {
+      "atk": 20
+    },
+    "id": 3259,
+    "tri_coef": [
+      3016
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Blue Book",
+      ", Attack +20%"
+    ]
+  },
+  "3260": {
+    "name": "Building the country",
+    "rate": {
+      "maxhp": 27
+    },
+    "id": 3260,
+    "tri_coef": [
+      61,
+      37
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang He, ",
+      "L",
+      "Xiahou Dun",
+      ", HP increase +27%"
+    ]
+  },
+  "3261": {
+    "name": "I Don't Hear You",
+    "rate": {
+      "atk": 21
+    },
+    "id": 3261,
+    "tri_coef": [
+      61,
+      11
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang He, ",
+      "L",
+      "Yuan Shao",
+      ", Attack +21%"
+    ]
+  },
+  "3262": {
+    "name": "Five Elite Generals",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3262,
+    "tri_coef": [
+      61,
+      62,
+      38,
+      35,
+      41
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang He, ",
+      "L",
+      "Zhang Liao, ",
+      "L",
+      "Xu Huang, ",
+      "L",
+      "Yue Jin, ",
+      "L",
+      "Yu Jin",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3263": {
+    "name": "Luxurious House",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3263,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", Attack +22%"
+    ]
+  },
+  "3264": {
+    "name": "Hundred Sforols of Thought",
+    "rate": {
+      "maxhp": 22
+    },
+    "id": 3264,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", HP increase +22%"
+    ]
+  },
+  "3265": {
+    "name": "The Great War of Red Cliff",
+    "rate": {
+      "maxhp": 30
+    },
+    "id": 3265,
+    "tri_coef": [
+      62,
+      30
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Liao, ",
+      "L",
+      "Cao Cao",
+      ", HP increase +30%"
+    ]
+  },
+  "3266": {
+    "name": "Better Than People",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3266,
+    "tri_coef": [
+      62,
+      36
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Liao, ",
+      "L",
+      "Sima Yi",
+      ", HP increase +32%"
+    ]
+  },
+  "3267": {
+    "name": "Five Elite Generals",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3267,
+    "tri_coef": [
+      62,
+      61,
+      38,
+      35,
+      41
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhang Liao, ",
+      "L",
+      "Zhang He, ",
+      "L",
+      "Xu Huang, ",
+      "L",
+      "Yue Jin, ",
+      "L",
+      "Yu Jin",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3268": {
+    "name": "One hundred mile walk",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3268,
+    "tri_coef": [
+      3117
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Black Clouds Fly on Snow",
+      ", Attack +28%"
+    ]
+  },
+  "3269": {
+    "name": "The will of Cao Cao",
+    "rate": {
+      "def": 28
+    },
+    "id": 3269,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", Defense +28%"
+    ]
+  },
+  "3270": {
+    "name": "Great Righteousness",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3270,
+    "tri_coef": [
+      147,
+      14
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Fa Zheng",
+      ", Attack +25%"
+    ]
+  },
+  "3271": {
+    "name": "Five Tiger Generals",
+    "rate": {
+      "atk": 32,
+      "maxhp": 32
+    },
+    "id": 3271,
+    "tri_coef": [
+      147,
+      16,
+      27,
+      21,
+      18
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhang Fei, ",
+      "L",
+      "Ma Chao, ",
+      "L",
+      "Huang Zhong",
+      ", HP increase +32%, Attack +32%"
+    ]
+  },
+  "3272": {
+    "name": "Flying Dragon Phoenix Dance",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3272,
+    "tri_coef": [
+      147,
+      260,
+      28
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Pang Tong, ",
+      "L",
+      "Zhuge Liang",
+      ", HP increase +32%"
+    ]
+  },
+  "3273": {
+    "name": "Luxurious House",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3273,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", Attack +28%"
+    ]
+  },
+  "3274": {
+    "name": "Impermanent Clouds",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3274,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", HP increase +32%"
+    ]
+  },
+  "3275": {
+    "name": "Heroic Nymph",
+    "rate": {
+      "atk": 27
+    },
+    "id": 3275,
+    "tri_coef": [
+      148,
+      13
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Diaochan",
+      ", Attack +27%"
+    ]
+  },
+  "3276": {
+    "name": "Good on martial arts",
+    "rate": {
+      "atk": 25,
+      "maxhp": 30
+    },
+    "id": 3276,
+    "tri_coef": [
+      148,
+      16,
+      147,
+      184,
+      33
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhao Yun, ",
+      "L",
+      "Sun Ce, ",
+      "L",
+      "Dian Wei",
+      ", HP increase +30%, Attack +25%"
+    ]
+  },
+  "3277": {
+    "name": "Chaos of Heaven",
+    "rate": {
+      "atk": 30,
+      "maxhp": 30
+    },
+    "id": 3277,
+    "tri_coef": [
+      148,
+      7,
+      11,
+      12,
+      3
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Jia Xu, ",
+      "L",
+      "Yuan Shao, ",
+      "L",
+      "Zhang Jue, ",
+      "L",
+      "Dong Zhuo",
+      ", HP increase +30%, Attack +30%"
+    ]
+  },
+  "3278": {
+    "name": "the Best of Mankind",
+    "rate": {
+      "atk": 28
+    },
+    "id": 3278,
+    "tri_coef": [
+      3116
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Red Hare",
+      ", Attack +28%"
+    ]
+  },
+  "3279": {
+    "name": "Rich in knowledge",
+    "rate": {
+      "maxhp": 28
+    },
+    "id": 3279,
+    "tri_coef": [
+      3012
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Taiping Fairy Arts",
+      ", HP increase +28%"
+    ]
+  },
+  "3280": {
+    "name": "Brother of One Heart",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3280,
+    "tri_coef": [
+      181,
+      37
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Yuan, ",
+      "L",
+      "Xiahou Dun",
+      ", Attack +25%"
+    ]
+  },
+  "3281": {
+    "name": "Heroic Nymph",
+    "rate": {
+      "maxhp": 24
+    },
+    "id": 3281,
+    "tri_coef": [
+      181,
+      60
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Yuan, ",
+      "L",
+      "Cai Yan",
+      ", HP increase +24%"
+    ]
+  },
+  "3282": {
+    "name": "Center Like One",
+    "rate": {
+      "atk": 25,
+      "maxhp": 30
+    },
+    "id": 3282,
+    "tri_coef": [
+      181,
+      39,
+      72,
+      41
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Xiahou Yuan, ",
+      "L",
+      "Xu Chu, ",
+      "L",
+      "Cao Hong, ",
+      "L",
+      "Yu Jin",
+      ", HP increase +30%, Attack +25%"
+    ]
+  },
+  "3283": {
+    "name": "Luxurious House",
+    "rate": {
+      "atk": 22
+    },
+    "id": 3283,
+    "tri_coef": [
+      3112
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Lion Gem",
+      ", Attack +22%"
+    ]
+  },
+  "3284": {
+    "name": "The will of Cao Cao",
+    "rate": {
+      "def": 28
+    },
+    "id": 3284,
+    "tri_coef": [
+      3014
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Mengde arts of war",
+      ", Defense +28%"
+    ]
+  },
+  "3285": {
+    "name": "hero Thế Gia",
+    "rate": {
+      "def": 27
+    },
+    "id": 3285,
+    "tri_coef": [
+      184,
+      52,
+      53
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Ce, ",
+      "L",
+      "Sun Jian, ",
+      "L",
+      "Sun Quan",
+      ", Defense +27%"
+    ]
+  },
+  "3286": {
+    "name": "Teenager",
+    "rate": {
+      "atk": 30
+    },
+    "id": 3286,
+    "tri_coef": [
+      184,
+      19,
+      55
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Ce, ",
+      "L",
+      "Jiang Wei, ",
+      "L",
+      "Taishi Ci",
+      ", Attack +30%"
+    ]
+  },
+  "3287": {
+    "name": "Good on martial arts",
+    "rate": {
+      "atk": 25,
+      "maxhp": 30
+    },
+    "id": 3287,
+    "tri_coef": [
+      184,
+      148,
+      16,
+      147
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Sun Ce, ",
+      "L",
+      "Lu Bu, ",
+      "L",
+      "Guan Yu, ",
+      "L",
+      "Zhao Yun",
+      ", HP increase +30%, Attack +25%"
+    ]
+  },
+  "3288": {
+    "name": "Jiangdong Hegemony",
+    "rate": {
+      "atk": 25
+    },
+    "id": 3288,
+    "tri_coef": [
+      3113
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Steed Thunder Golden Claw",
+      ", Attack +25%"
+    ]
+  },
+  "3289": {
+    "name": "Impermanent Clouds",
+    "rate": {
+      "maxhp": 32
+    },
+    "id": 3289,
+    "tri_coef": [
+      3017
+    ],
+    "tri_type": 1,
+    "des": [
+      "equipment ",
+      "L",
+      "Military Book Thirty-Six Stratagems",
+      ", HP increase +32%"
+    ]
+  },
+  "3290": {
+    "name": "Love is as deep as the sea",
+    "rate": {
+      "def": 25
+    },
+    "id": 3290,
+    "tri_coef": [
+      65,
+      210
+    ],
+    "tri_type": 2,
+    "des": [
+      "Also get ",
+      "L",
+      "Guo Nüwang, ",
+      "L",
+      "Xiahou Ba",
+      ", Defense +25%"
+    ]
+  }
+}

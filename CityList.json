@@ -1,0 +1,686 @@
+[
+  {
+    "ChengID": 1,
+    "ChengName": "Luoyang",
+    "pointX": 3253,
+    "pointY": 465,
+    "img": "city_img_1",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 2,
+    "ChengName": "Xianyang",
+    "pointX": 2962,
+    "pointY": 284,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 3,
+    "ChengName": "Chang An",
+    "pointX": 2630,
+    "pointY": 447,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 4,
+    "ChengName": "Wuwei",
+    "pointX": 2242,
+    "pointY": 281,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 5,
+    "ChengName": "Hanzhong",
+    "pointX": 1850,
+    "pointY": 409,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 6,
+    "ChengName": "Puyang",
+    "pointX": 2143,
+    "pointY": 525,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 7,
+    "ChengName": "Ye Hebei",
+    "pointX": 1816,
+    "pointY": 801,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 8,
+    "ChengName": "Handan",
+    "pointX": 2158,
+    "pointY": 803,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 9,
+    "ChengName": "Chen Yang",
+    "pointX": 2338,
+    "pointY": 932,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 10,
+    "ChengName": "Bai Ma",
+    "pointX": 2798,
+    "pointY": 918,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 11,
+    "ChengName": "Ping Yuan",
+    "pointX": 3097,
+    "pointY": 690,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 12,
+    "ChengName": "Chen Lu",
+    "pointX": 2663,
+    "pointY": 1152,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 13,
+    "ChengName": "Ping Kao",
+    "pointX": 2764,
+    "pointY": 1365,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 14,
+    "ChengName": "Dongqu",
+    "pointX": 2904,
+    "pointY": 1745,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 15,
+    "ChengName": "Guandu",
+    "pointX": 3124,
+    "pointY": 1860,
+    "img": "city_img_3",
+    "countryType": 5,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 16,
+    "ChengName": "Donghai",
+    "pointX": 3417,
+    "pointY": 1729,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 17,
+    "ChengName": "Beihai",
+    "pointX": 3334,
+    "pointY": 1475,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 18,
+    "ChengName": "Beiping",
+    "pointX": 3311,
+    "pointY": 1133,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 19,
+    "ChengName": "Nanbi",
+    "pointX": 3044,
+    "pointY": 1554,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 20,
+    "ChengName": "Huáng yáng",
+    "pointX": 3429,
+    "pointY": 816,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 21,
+    "ChengName": "Xǔchāng",
+    "pointX": 3007,
+    "pointY": 1054,
+    "img": "city_img_2",
+    "countryType": 2,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 22,
+    "ChengName": "Dǒng quán",
+    "pointX": 1410,
+    "pointY": 597,
+    "img": "city_img_5",
+    "countryType": 5,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 23,
+    "ChengName": "Western Liang",
+    "pointX": 1205,
+    "pointY": 371,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 24,
+    "ChengName": "Hou cheng",
+    "pointX": 1038,
+    "pointY": 754,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 25,
+    "ChengName": "Bai di",
+    "pointX": 1376,
+    "pointY": 915,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 26,
+    "ChengName": "Tien Cui",
+    "pointX": 864,
+    "pointY": 271,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 27,
+    "ChengName": "Yongan",
+    "pointX": 717,
+    "pointY": 518,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 28,
+    "ChengName": "Longxi",
+    "pointX": 322,
+    "pointY": 345,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 29,
+    "ChengName": "Tudong",
+    "pointX": 805,
+    "pointY": 985,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 30,
+    "ChengName": "Fu lang",
+    "pointX": 1082,
+    "pointY": 1517,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 31,
+    "ChengName": "Wu yang",
+    "pointX": 488,
+    "pointY": 804,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 32,
+    "ChengName": "Cheng du",
+    "pointX": 445,
+    "pointY": 1203,
+    "img": "city_img_1",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 33,
+    "ChengName": "Jiangzhou",
+    "pointX": 805,
+    "pointY": 1250,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 34,
+    "ChengName": "Alang",
+    "pointX": 556,
+    "pointY": 1831,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 35,
+    "ChengName": "Sanqu",
+    "pointX": 865,
+    "pointY": 1805,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 36,
+    "ChengName": "Jian Ning",
+    "pointX": 820,
+    "pointY": 2130,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 37,
+    "ChengName": "Nan Jian Ning",
+    "pointX": 542,
+    "pointY": 2500,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 38,
+    "ChengName": "Han Shou",
+    "pointX": 768,
+    "pointY": 2400,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 39,
+    "ChengName": "Heng yang",
+    "pointX": 196,
+    "pointY": 2683,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 40,
+    "ChengName": "Zhangsha",
+    "pointX": 307,
+    "pointY": 2314,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 41,
+    "ChengName": "Linglang",
+    "pointX": 213,
+    "pointY": 1970,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 42,
+    "ChengName": "Yunam",
+    "pointX": 209,
+    "pointY": 1641,
+    "img": "city_img_2",
+    "countryType": 1,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 43,
+    "ChengName": "Habi",
+    "pointX": 2402,
+    "pointY": 1826,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 44,
+    "ChengName": "Xuzhou",
+    "pointX": 2930,
+    "pointY": 2054,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 45,
+    "ChengName": "Linsan",
+    "pointX": 3322,
+    "pointY": 2025,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 46,
+    "ChengName": "Shouchun",
+    "pointX": 2642,
+    "pointY": 2069,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 47,
+    "ChengName": "He fei",
+    "pointX": 3253,
+    "pointY": 2215,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 48,
+    "ChengName": "Song A",
+    "pointX": 2742,
+    "pointY": 2346,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 49,
+    "ChengName": "Yi Gu",
+    "pointX": 2029,
+    "pointY": 2364,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 50,
+    "ChengName": "Nanchang",
+    "pointX": 2439,
+    "pointY": 2374,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 51,
+    "ChengName": "Jiangdu",
+    "pointX": 3360,
+    "pointY": 2506,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 52,
+    "ChengName": "Jian'an",
+    "pointX": 3395,
+    "pointY": 2794,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 53,
+    "ChengName": "Guang lang",
+    "pointX": 2732,
+    "pointY": 2590,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 54,
+    "ChengName": "Han tan",
+    "pointX": 1490,
+    "pointY": 2704,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 55,
+    "ChengName": "Lu jiang",
+    "pointX": 2089,
+    "pointY": 2643,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 56,
+    "ChengName": "Wo lang",
+    "pointX": 1027,
+    "pointY": 2526,
+    "img": "city_img_4",
+    "countryType": 5,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 57,
+    "ChengName": "Danyang",
+    "pointX": 1500,
+    "pointY": 2490,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 58,
+    "ChengName": "Dilang",
+    "pointX": 760,
+    "pointY": 2769,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 59,
+    "ChengName": "Gao gui",
+    "pointX": 1019,
+    "pointY": 2865,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 60,
+    "ChengName": "Tan yang",
+    "pointX": 1366,
+    "pointY": 2956,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 61,
+    "ChengName": "Wuchang",
+    "pointX": 1740,
+    "pointY": 2955,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 62,
+    "ChengName": "Pan Yang",
+    "pointX": 2477,
+    "pointY": 2722,
+    "img": "city_img_2",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 63,
+    "ChengName": "Jianye ",
+    "pointX": 2799,
+    "pointY": 2875,
+    "img": "city_img_1",
+    "countryType": 3,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 64,
+    "ChengName": "Bowang",
+    "pointX": 1780,
+    "pointY": 1051,
+    "img": "city_img_6",
+    "countryType": 5,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 65,
+    "ChengName": "Chen Cheng",
+    "pointX": 1554,
+    "pointY": 1163,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 1
+  },
+  {
+    "ChengID": 66,
+    "ChengName": "Jian ping",
+    "pointX": 1445,
+    "pointY": 1410,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 1
+  },
+  {
+    "ChengID": 67,
+    "ChengName": "Wu xie",
+    "pointX": 1187,
+    "pointY": 1876,
+    "img": "city_img_4",
+    "countryType": 5,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 68,
+    "ChengName": "Nanqu",
+    "pointX": 1175,
+    "pointY": 2174,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 1
+  },
+  {
+    "ChengID": 69,
+    "ChengName": "Jingzhou",
+    "pointX": 1586,
+    "pointY": 2173,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 2
+  },
+  {
+    "ChengID": 70,
+    "ChengName": "Red Cliffs",
+    "pointX": 1827,
+    "pointY": 2138,
+    "img": "city_img_4",
+    "countryType": 5,
+    "Ziyuanlei": 3
+  },
+  {
+    "ChengID": 71,
+    "ChengName": "Jiang ha",
+    "pointX": 2365,
+    "pointY": 1463,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 2
+  },
+  {
+    "ChengID": 72,
+    "ChengName": "Tan da",
+    "pointX": 1976,
+    "pointY": 1322,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 1
+  },
+  {
+    "ChengID": 73,
+    "ChengName": "Yang Yang",
+    "pointX": 1696,
+    "pointY": 1524,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 2
+  },
+  {
+    "ChengID": 74,
+    "ChengName": "Xiangzhou",
+    "pointX": 1766,
+    "pointY": 1354,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 1
+  },
+  {
+    "ChengID": 75,
+    "ChengName": "Jiang lang",
+    "pointX": 1475,
+    "pointY": 1650,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 2
+  },
+  {
+    "ChengID": 76,
+    "ChengName": "Hoa Dung",
+    "pointX": 1674,
+    "pointY": 1863,
+    "img": "city_img_2",
+    "countryType": 4,
+    "Ziyuanlei": 2
+  }
+]

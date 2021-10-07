@@ -1,0 +1,105 @@
+{
+  "time_limit": 259200,
+  "dialogs_2": [
+    [
+      "Don't Poke me！",
+      1
+    ],
+    [
+      "Tickle ha ha！",
+      1
+    ]
+  ],
+  "rewards": [
+    {
+      "require_items": [
+        [
+          1000,
+          1
+        ],
+        [
+          1001,
+          1
+        ],
+        [
+          1002,
+          1
+        ]
+      ],
+      "reward_items": [
+        [
+          1004,
+          10
+        ],
+        [
+          1005,
+          10
+        ]
+      ],
+      "dialog": "Sell donuts here！3000 coin 1 piece！"
+    },
+    {
+      "require_items": [
+        [
+          1451,
+          50
+        ]
+      ],
+      "reward_items": [
+        [
+          1451,
+          200
+        ]
+      ],
+      "dialog": "Hurry to pay！"
+    }
+  ],
+  "dialogs_1": [
+    [
+      "What are you looking at?？",
+      1
+    ],
+    [
+      "Look again！",
+      1
+    ]
+  ],
+  "pos": [
+    [
+      2856,
+      223
+    ],
+    [
+      2837,
+      114
+    ],
+    [
+      2784,
+      8
+    ],
+    [
+      2102,
+      15
+    ],
+    [
+      2016,
+      46
+    ],
+    [
+      1599,
+      61
+    ],
+    [
+      1500,
+      130
+    ],
+    [
+      1350,
+      140
+    ],
+    [
+      700,
+      182
+    ]
+  ]
+}

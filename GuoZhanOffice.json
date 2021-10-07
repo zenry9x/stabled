@@ -1,0 +1,93 @@
+[
+  {
+    "title": "King",
+    "positions": [
+      "King"
+    ],
+    "count": 1
+  },
+  {
+    "title": "One Star",
+    "positions": [
+      "Xu Hong",
+      "Great General"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Two Star",
+    "positions": [
+      "Qingkuang",
+      "Adventure General"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Three Star",
+    "positions": [
+      "Grand Preceptor",
+      "Grand Tutor",
+      "Grand Protector"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Four Star",
+    "positions": [
+      "Military Master General",
+      "Wings Hero Army",
+      "Eastward General"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Five Star",
+    "positions": [
+      "Grand chancellor",
+      "Court of Imperial Entertainments",
+      "Fenbi Hero Army",
+      "Dragon Hero Army"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Six Star",
+    "positions": [
+      "Air Marshal",
+      "Prime Minister",
+      "Peace Hero Army",
+      "Dapo General"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Seven Star",
+    "positions": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Lieutenant-Commander",
+      "Commodore"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Eight Star",
+    "positions": [
+      "Air Commodore",
+      "Group Captain",
+      "Sub-Lieutenant",
+      "Lieutenant-Colonel"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nine Star",
+    "positions": [
+      "Knight",
+      "Squadron Leader",
+      "Brave Hero Army",
+      "Tiger Hero Army"
+    ],
+    "count": 4
+  }
+]

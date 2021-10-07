@@ -1,0 +1,257 @@
+{
+  "1455": {
+    "icon": "1455.png",
+    "quality": 1,
+    "name": "Honor",
+    "des": "Winning in the arena gets honor points! Challenge players to rank more higher, gain more honor."
+  },
+  "1004": {
+    "icon": "1004.png",
+    "quality": 3,
+    "name": "Black Iron",
+    "des": "Use for enchant equipment. Extremely rare mineral that can unlock mysterious attribute equipment."
+  },
+  "1450": {
+    "icon": "1450.png",
+    "quality": 2,
+    "name": "Copper Coin",
+    "des": ""
+  },
+  "1005": {
+    "icon": "1005.png",
+    "quality": 1,
+    "name": "Protect Card",
+    "des": "Don't hit, can't give money? Prevents other players from Robbery treasure for 4 hours."
+  },
+  "1452": {
+    "icon": "1452.png",
+    "quality": 1,
+    "name": "Army Experience",
+    "des": ""
+  },
+  "1006": {
+    "icon": "1006.png",
+    "quality": 0,
+    "name": "War diary",
+    "des": "War diary of normal soldier. Increase 200 point hero Experience."
+  },
+  "1113": {
+    "openbox": 1613,
+    "name": "Key of Epic Chest",
+    "quality": 3,
+    "icon": "1013.png",
+    "des": "Using to open Chest"
+  },
+  "1007": {
+    "icon": "1007.png",
+    "quality": 1,
+    "name": "Draft of military tactics",
+    "des": "The martial arts left by the elementary officers. Increase Experience hero 1000 point."
+  },
+  "1454": {
+    "icon": "1454.png",
+    "quality": 1,
+    "name": "Stamina",
+    "des": ""
+  },
+  "1008": {
+    "icon": "1008.png",
+    "quality": 2,
+    "name": "Training troop tutorial",
+    "des": "Military tactics left by General The three kingdoms. Increase 5000 point hero Experience."
+  },
+  "1453": {
+    "icon": "1453.png",
+    "quality": 1,
+    "name": "stamina",
+    "des": ""
+  },
+  "1009": {
+    "icon": "1009.png",
+    "quality": 3,
+    "name": "The secret of war tactics",
+    "des": "Art of War is valuable document for the Heroes need to read. Increase 25000 point Experience hero."
+  },
+  "1451": {
+    "icon": "1451.png",
+    "quality": 3,
+    "name": "Gold",
+    "des": "The most valuable currency in the game."
+  },
+  "1010": {
+    "icon": "1066.png",
+    "quality": 3,
+    "name": "Battle Card",
+    "des": "Credits are used for appointing subordinates to act. Use for scanning stage."
+  },
+  "1101": {
+    "openbox": 1601,
+    "name": "Bronze Key",
+    "quality": 1,
+    "icon": "1011.png",
+    "des": "Using to open Bronze Chest"
+  },
+  "1011": {
+    "icon": "1067.png",
+    "quality": 2,
+    "name": "Market Renewal Ticket",
+    "des": "Used to refresh the underground black market. Give it to the shop owner, he knows what to do."
+  },
+  "1104": {
+    "icon": "1065.png",
+    "quality": 3,
+    "name": "Commander's seal",
+    "des": "Military trusts. To upgrade the army"
+  },
+  "1012": {
+    "icon": "1068.png",
+    "quality": 3,
+    "name": "Formation adding slot 4",
+    "des": "Used to maximize the number of characters going to battle +4 slot"
+  },
+  "1112": {
+    "openbox": 1612,
+    "name": "Key Blue treasure Chest",
+    "quality": 2,
+    "icon": "1012.png",
+    "des": "Using to open Blue treasure Chest"
+  },
+  "1013": {
+    "icon": "1069.png",
+    "quality": 3,
+    "name": "Formation adding slot 5",
+    "des": "Used to maximize the number of characters going to battle +5 slot"
+  },
+  "1103": {
+    "openbox": 1603,
+    "name": "Key Golden",
+    "quality": 3,
+    "icon": "1013.png",
+    "des": "Using to open Chest Golden"
+  },
+  "1014": {
+    "icon": "1070.png",
+    "quality": 3,
+    "name": "Formation adding slot 6",
+    "des": "Used to maximize the number of characters going to battle +6 slot"
+  },
+  "1102": {
+    "openbox": 1602,
+    "name": "Key silver",
+    "quality": 2,
+    "icon": "1012.png",
+    "des": "Using to open Chest silver"
+  },
+  "1015": {
+    "icon": "1071.png",
+    "quality": 3,
+    "name": "Formation adding slot 7",
+    "des": "Used to maximize the number of characters going to battle +7 slot"
+  },
+  "1000": {
+    "icon": "1000.png",
+    "quality": 2,
+    "name": "Wine white",
+    "des": "Use recruiting in tavern Normal"
+  },
+  "1016": {
+    "icon": "1072.png",
+    "quality": 3,
+    "name": "Formation adding slot 8",
+    "des": "Used to maximize the number of characters going to battle +8 slot"
+  },
+  "1018": {
+    "icon": "1073.png",
+    "quality": 3,
+    "name": "Formation adding slot 9",
+    "des": "Used to maximize the number of characters going to battle +9 slot"
+  },
+  "1019": {
+    "icon": "1074.png",
+    "quality": 3,
+    "name": "Formation adding slot 10",
+    "des": "Used to maximize the number of characters going to battle +10 slot"
+  },
+  "1001": {
+    "icon": "1001.png",
+    "quality": 3,
+    "name": "Du Kang",
+    "des": "Used to recruit generals in the high-class Taverns. How to relieve anxiety, only Du Kang.."
+  },
+  "1017": {
+    "icon": "1050.png",
+    "quality": 3,
+    "name": "Soul of Museum piece",
+    "des": "Use upgrading high-class Museum piece."
+  },
+  "1002": {
+    "icon": "1002.png",
+    "quality": 3,
+    "name": "Sichuan Brocade",
+    "des": "Precious brocade made in Shu country is used to reward subordinates. Need for hero upgrade"
+  },
+  "1105": {
+    "icon": "1105.png",
+    "quality": 3,
+    "name": "Human head",
+    "des": "Icon of the victor, used to exchange items in battle"
+  },
+  "1003": {
+    "icon": "1003.png",
+    "quality": 3,
+    "name": "Tadpole Jade",
+    "des": "Very precious and can be exchanged for high-class generals and shoots on the black market. In the furnace function, it is obtained from hero decomposition, and the stronger the hero, the more decomposed."
+  },
+  "1100": {
+    "openbox": 1600,
+    "name": "Key wooden",
+    "quality": 0,
+    "icon": "1010.png",
+    "des": "Using to open Chest wooden"
+  },
+  "1456": {
+    "name": "VIP",
+    "quality": 3,
+    "icon": "1456.png",
+    "des": "Experience VIP"
+  },
+  "1060": {
+    "name": "Rune Hammer",
+    "quality": 2,
+    "icon": "1300.png",
+    "des": "Item to unlock Rune empty slot"
+  },
+  "1061": {
+    "name": "Small Blessing Jar",
+    "quality": 1,
+    "icon": "1301.png",
+    "des": "Used to Increase success rate of Rune merge, after use, Increase success rate up to +5%",
+    "addon": 50
+  },
+  "1062": {
+    "name": "Mid Blessing Jar",
+    "quality": 2,
+    "icon": "1302.png",
+    "des": "Used to Increase success rate of Rune merge, after use, Increase success rate up to +10%",
+    "addon": 100
+  },
+  "1063": {
+    "name": "Big Blessing Jar",
+    "quality": 3,
+    "icon": "1303.png",
+    "des": "Used to Increase success rate of Rune merge, after use, Increase success rate up to +20%",
+    "addon": 200
+  },
+  "1457": {
+    "icon": "1457.png",
+    "quality": 4,
+    "name": "MAT Token",
+    "des": ""
+  },
+  "1458": {
+    "icon": "1458.png",
+    "quality": 4,
+    "name": "MAT Token",
+    "des": ""
+  }
+}

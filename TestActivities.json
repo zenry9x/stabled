@@ -1,0 +1,759 @@
+[
+  {
+    "name": "7 days login to receive Ma Chao",
+    "day": 30,
+    "order": 1,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1602,
+            5
+          ],
+          [
+            1010,
+            30
+          ]
+        ],
+        "limit": [
+          1,
+          "Day %d get："
+        ],
+        "gamemoney": 10000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1102,
+            5
+          ],
+          [
+            2116,
+            1
+          ]
+        ],
+        "limit": [
+          2,
+          "Day %d get："
+        ],
+        "gamemoney": 50000
+      },
+      {
+        "money": 150,
+        "items": [
+          [
+            1003,
+            500
+          ],
+          [
+            1002,
+            100
+          ]
+        ],
+        "limit": [
+          3,
+          "Day %d get："
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            2106,
+            1
+          ],
+          [
+            1009,
+            5
+          ],
+          [
+            1004,
+            100
+          ]
+        ],
+        "limit": [
+          4,
+          "Day %d get："
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1205,
+            1
+          ],
+          [
+            1613,
+            1
+          ],
+          [
+            1113,
+            1
+          ],
+          [
+            1001,
+            1
+          ]
+        ],
+        "limit": [
+          5,
+          "Day %d get："
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 300,
+        "items": [
+          [
+            1603,
+            5
+          ],
+          [
+            1103,
+            5
+          ],
+          [
+            3113,
+            1
+          ]
+        ],
+        "limit": [
+          6,
+          "Day %d get："
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 500,
+        "items": [
+          [
+            1205,
+            5
+          ],
+          [
+            1002,
+            300
+          ],
+          [
+            21,
+            1
+          ]
+        ],
+        "limit": [
+          7,
+          "Day %d get："
+        ],
+        "gamemoney": 0
+      }
+    ],
+    "icon": "act1.png",
+    "des": "Players log in for the first 7 days, Everyday can get rewards. Day 7 get God hero Ma Chao！"
+  },
+  {
+    "name": "Level up to get gifts, help mature！",
+    "day": 30,
+    "order": 2,
+    "rewards": [
+      {
+        "money": 100,
+        "items": [
+          [
+            1002,
+            100
+          ]
+        ],
+        "limit": [
+          25,
+          "Level %d get："
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            10
+          ],
+          [
+            2114,
+            1
+          ]
+        ],
+        "limit": [
+          30,
+          "Level %d get："
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 200,
+        "items": [
+          [
+            1009,
+            5
+          ]
+        ],
+        "limit": [
+          35,
+          "Level %d get："
+        ],
+        "gamemoney": 100000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            3099,
+            5
+          ],
+          [
+            3199,
+            5
+          ]
+        ],
+        "limit": [
+          40,
+          "Level %d get："
+        ],
+        "gamemoney": 200000
+      },
+      {
+        "money": 300,
+        "items": [
+          [
+            1613,
+            1
+          ],
+          [
+            1113,
+            1
+          ],
+          [
+            1017,
+            5
+          ]
+        ],
+        "limit": [
+          50,
+          "Level %d get："
+        ],
+        "gamemoney": 0
+      }
+    ],
+    "icon": "act2.png",
+    "des": "Players who reach the required level can get rewards"
+  },
+  {
+    "name": "GIFTCODE",
+    "day": 0,
+    "order": 6,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            10
+          ],
+          [
+            1201,
+            2
+          ]
+        ],
+        "limit": [],
+        "gamemoney": 50000
+      },
+      {
+        "money": 500,
+        "items": [
+          [
+            1008,
+            50
+          ],
+          [
+            1201,
+            5
+          ]
+        ],
+        "limit": [],
+        "gamemoney": 500000
+      }
+    ],
+    "icon": "act5.png",
+    "des": ""
+  },
+  {
+    "name": "Pass stages, get Experience book with commander's seal！",
+    "day": 7,
+    "order": 3,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            10
+          ],
+          [
+            1104,
+            1000
+          ]
+        ],
+        "limit": [
+          410,
+          "Pass stage 3 stars times：%s"
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            15
+          ],
+          [
+            1104,
+            1500
+          ]
+        ],
+        "limit": [
+          610,
+          "Pass stage 3 stars times：%s"
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            20
+          ],
+          [
+            1104,
+            2000
+          ]
+        ],
+        "limit": [
+          810,
+          "Pass stage 3 stars times：%s"
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 100,
+        "items": [
+          [
+            1009,
+            5
+          ],
+          [
+            1104,
+            2500
+          ]
+        ],
+        "limit": [
+          1010,
+          "Pass stage 3 stars times：%s"
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 300,
+        "items": [
+          [
+            1009,
+            10
+          ],
+          [
+            1104,
+            3000
+          ]
+        ],
+        "limit": [
+          1210,
+          "Pass stage 3 stars times：%s"
+        ],
+        "gamemoney": 0
+      }
+    ],
+    "icon": "act3.png",
+    "des": "Pass stage 3 stars get reward Experience, commander's seal"
+  },
+  {
+    "name": "Pass stage Elite, comfortable shopping, legion level up！",
+    "day": 0,
+    "order": 4,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            1000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": [
+          310,
+          "Pass stage Elite 3 stars times：%s"
+        ],
+        "gamemoney": 10000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            2000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": [
+          410,
+          "Pass stage Elite 3 stars times：%s"
+        ],
+        "gamemoney": 20000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            3000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": [
+          510,
+          "Pass stage Elite 3 stars times：%s"
+        ],
+        "gamemoney": 30000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            4000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": [
+          610,
+          "Pass stage Elite 3 stars times：%s"
+        ],
+        "gamemoney": 40000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            5000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": [
+          710,
+          "Pass stage Elite 3 stars times：%s"
+        ],
+        "gamemoney": 50000
+      }
+    ],
+    "icon": "act4.png",
+    "des": "See who is the Elite regal, pass Elite stages 3 stars, get tadpoles jade and commander's seal. See who become Elite Royal, Complete Elite stage 3 stars, get tadpole jade and commander's seal."
+  },
+  {
+    "name": "Pioneer Dragon Head",
+    "day": 7,
+    "order": 5,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            5
+          ]
+        ],
+        "limit": [
+          10,
+          "Win arena %d times"
+        ],
+        "gamemoney": 10000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            5
+          ]
+        ],
+        "limit": [
+          20,
+          "Win arena %d times"
+        ],
+        "gamemoney": 20000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            10
+          ]
+        ],
+        "limit": [
+          40,
+          "Win arena %d times"
+        ],
+        "gamemoney": 50000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            15
+          ]
+        ],
+        "limit": [
+          60,
+          "Win arena %d times"
+        ],
+        "gamemoney": 75000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            20
+          ]
+        ],
+        "limit": [
+          80,
+          "Win arena %d times"
+        ],
+        "gamemoney": 100000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1009,
+            5
+          ]
+        ],
+        "limit": [
+          100,
+          "Win arena %d times"
+        ],
+        "gamemoney": 150000
+      }
+    ],
+    "icon": "act6.png",
+    "des": "In 7 days, in the arena, accumulate wins, get gifts according to level！"
+  },
+  {
+    "time": [
+      0,
+      0
+    ],
+    "name": "Activity Fund",
+    "day": 0,
+    "order": 7,
+    "rewards": [
+      {
+        "items": [
+          [
+            1206,
+            2
+          ]
+        ],
+        "limit": [
+          10,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 1,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            3
+          ]
+        ],
+        "limit": [
+          15,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 2,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            4
+          ]
+        ],
+        "limit": [
+          20,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 3,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            6
+          ]
+        ],
+        "limit": [
+          25,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 4,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            8
+          ]
+        ],
+        "limit": [
+          30,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 5,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            10
+          ]
+        ],
+        "limit": [
+          35,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 6,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            15
+          ]
+        ],
+        "limit": [
+          40,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 7,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            20
+          ]
+        ],
+        "limit": [
+          50,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 8,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1206,
+            30
+          ]
+        ],
+        "limit": [
+          60,
+          "VIP4 legion levels up %d receive："
+        ],
+        "money": 0,
+        "nSubID": 9,
+        "nState": 0,
+        "gamemoney": 0
+      }
+    ],
+    "icon": "act12.png",
+    "des": "During the event, if you reach VIP 4, you can get a part of the fund for free, and when you reach the higher level, the more rewards you get！"
+  }
+]

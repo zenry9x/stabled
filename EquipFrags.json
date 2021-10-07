@@ -1,0 +1,1178 @@
+{
+  "2522": {
+    "craft_num": 5,
+    "name": "Hundred Beast Armor  mall piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2022,
+    "des": "Used to combine Hundred Beast Armor （Armor for Archers）.",
+    "icon": "e72.png",
+    "quality": 2
+  },
+  "2554": {
+    "craft_num": 5,
+    "name": "Promise Necklace small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2054,
+    "des": "Used to combine Promise Necklace（Jewelry for Cavalry）.",
+    "icon": "e74.png",
+    "quality": 2
+  },
+  "2586": {
+    "craft_num": 10,
+    "name": "Moonlight Beast Armor small piece",
+    "equip": 2086,
+    "des": "Used to combine Moonlight Beast Armor（Armor for Archers）.",
+    "icon": "e211.png",
+    "quality": 3
+  },
+  "2523": {
+    "craft_num": 5,
+    "name": "Blessing War Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2023,
+    "des": "Used to combine Blessing War Armor（Armor for Infantry）.",
+    "icon": "e82.png",
+    "quality": 2
+  },
+  "2555": {
+    "craft_num": 5,
+    "name": "Green Words Ring small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2055,
+    "des": "Used to combine Green Words Ring（Jewelry for Spear Army）.",
+    "icon": "e84.png",
+    "quality": 2
+  },
+  "2587": {
+    "craft_num": 10,
+    "name": "Silk Hat small piece",
+    "equip": 2087,
+    "des": "Used to combine Silk Hat（Archers helmet）.",
+    "icon": "e212.png",
+    "quality": 3
+  },
+  "2524": {
+    "craft_num": 10,
+    "name": "Light Dragon War Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2024,
+    "des": "Used to combine Light Dragon War Armor（Light DragonCostume, Armor for Infantry）.",
+    "icon": "e62.png",
+    "quality": 2
+  },
+  "2556": {
+    "craft_num": 10,
+    "name": "Light Dragon Jewelry small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2056,
+    "des": "Used to combine Light Dragon Jewelry（Light DragonCostume, Infantry jewelry）.",
+    "icon": "e64.png",
+    "quality": 2
+  },
+  "2588": {
+    "craft_num": 10,
+    "name": "Forest Wind Medal small piece",
+    "equip": 2088,
+    "des": "Used to combineForest Wind Medal（Archers jewelry）.",
+    "icon": "e213.png",
+    "quality": 3
+  },
+  "2525": {
+    "craft_num": 5,
+    "name": "Frozen Flower Costume small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2025,
+    "des": "Used to combine Frozen Flower Costume（Master Mind armor）.",
+    "icon": "e102.png",
+    "quality": 2
+  },
+  "2557": {
+    "craft_num": 5,
+    "name": "Crystal Bracelet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2057,
+    "des": "Used to combine Crystal Bracelet（Master Mind jewelry）.",
+    "icon": "e104.png",
+    "quality": 2
+  },
+  "2589": {
+    "craft_num": 20,
+    "name": "Red Dragon Silver Spear small piece",
+    "equip": 2089,
+    "des": "Used to combine Red Dragon Silver Spear（Red DragonCostume, Spear Army weapon）.",
+    "icon": "e214.png",
+    "quality": 3
+  },
+  "2526": {
+    "craft_num": 10,
+    "name": "Shang Wu War Robes small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2026,
+    "des": "Used to combine Shang Wu War Robes.",
+    "icon": "e112.png",
+    "quality": 1
+  },
+  "2558": {
+    "craft_num": 10,
+    "name": "Heaven Ring small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2058,
+    "des": "Used to combine Heaven Ring.",
+    "icon": "e114.png",
+    "quality": 1
+  },
+  "2590": {
+    "craft_num": 20,
+    "name": "Red Dragon Inverse Scales Armor small piece",
+    "equip": 2090,
+    "des": "Used to combine Red Dragon Inverse Scales Armor（Red Dragon Costume, Spear Army armor）.",
+    "icon": "e215.png",
+    "quality": 3
+  },
+  "2527": {
+    "craft_num": 10,
+    "name": "Woodcutting Fabric Robe small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2027,
+    "des": "Used to combine Woodcutting Fabric Robe.",
+    "icon": "e122.png",
+    "quality": 1
+  },
+  "2559": {
+    "craft_num": 10,
+    "name": "Woodcutting Bracelet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2059,
+    "des": "Used to combine Woodcutting Bracelet.",
+    "icon": "e124.png",
+    "quality": 1
+  },
+  "2591": {
+    "craft_num": 20,
+    "name": "Red Dragon Black Gold Helmet small piece",
+    "equip": 2091,
+    "des": "Used to combine Red Dragon Black Gold Helmet（Red Dragon Costume, Spear Army helmet）.",
+    "icon": "e216.png",
+    "quality": 3
+  },
+  "2528": {
+    "craft_num": 10,
+    "name": "August Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2028,
+    "des": "Used to combine August Armor.",
+    "icon": "e132.png",
+    "quality": 1
+  },
+  "2560": {
+    "craft_num": 10,
+    "name": "White Jade small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2060,
+    "des": "Used to combine White Jade.",
+    "icon": "e134.png",
+    "quality": 1
+  },
+  "2592": {
+    "craft_num": 20,
+    "name": "Red Dragon Shinning Jade small piece",
+    "equip": 2092,
+    "des": "Used to combine Red Dragon Shinning Jade（Red Dragon Costume, Jewelry for Spear Army）.",
+    "icon": "e217.png",
+    "quality": 3
+  },
+  "2529": {
+    "craft_num": 10,
+    "name": "Green Robes small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2029,
+    "des": "Used to combine Green Robes.",
+    "icon": "e142.png",
+    "quality": 1
+  },
+  "2561": {
+    "craft_num": 10,
+    "name": "Roots Bracelet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2061,
+    "des": "Used to combine Roots Bracelet.",
+    "icon": "e144.png",
+    "quality": 1
+  },
+  "2593": {
+    "craft_num": 20,
+    "name": "Dragon Slayer Feather Fan small piece",
+    "equip": 2093,
+    "des": "Used to combine Dragon Slayer Feather Fan（Dragon SlayerCostume,  Master Mind weapon）.",
+    "icon": "e218.png",
+    "quality": 3
+  },
+  "2530": {
+    "craft_num": 10,
+    "name": "Copper Flower Robes small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2030,
+    "des": "Used to combine Copper Flower Robes.",
+    "icon": "e152.png",
+    "quality": 1
+  },
+  "2562": {
+    "craft_num": 10,
+    "name": "Lightning Jade Jewelry small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2062,
+    "des": "Used to combine Lightning Jade Jewelry.",
+    "icon": "e154.png",
+    "quality": 1
+  },
+  "2594": {
+    "craft_num": 20,
+    "name": "Dragon Slayer Emperor Robes small piece",
+    "equip": 2094,
+    "des": "Used to combine Dragon Slayer Emperor Robes（Dragon SlayerCostume,  Master Mind armor）.",
+    "icon": "e219.png",
+    "quality": 3
+  },
+  "2531": {
+    "craft_num": 10,
+    "name": "Fortitude Iron Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2031,
+    "des": "Used to combine Fortitude Iron Armor.",
+    "icon": "e162.png",
+    "quality": 1
+  },
+  "2563": {
+    "craft_num": 10,
+    "name": "Golden Ring Bracelet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2063,
+    "des": "Used to combine Golden Ring Bracelet.",
+    "icon": "e164.png",
+    "quality": 1
+  },
+  "2595": {
+    "craft_num": 20,
+    "name": "Dragon Slayer Helmet small piece",
+    "equip": 2095,
+    "des": "Used to combine Dragon Slayer Helmet（Dragon SlayerCostume,  Master Mind helmet）.",
+    "icon": "e220.png",
+    "quality": 3
+  },
+  "2500": {
+    "craft_num": 20,
+    "name": "Golden Dragon God Bow small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2000,
+    "des": "Used to combine Golden Dragon God Bow（Set Golden Dragon, Archers weapon）.",
+    "icon": "e11.png",
+    "quality": 3
+  },
+  "2532": {
+    "craft_num": 20,
+    "name": "Golden Dragon Cloud Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2032,
+    "des": "Used to combine Golden Dragon Cloud Armor（Set Golden Dragon, Archers helmet）.",
+    "icon": "e13.png",
+    "quality": 3
+  },
+  "2596": {
+    "craft_num": 20,
+    "name": "Dragon Slayer Magic Ring small piece",
+    "equip": 2096,
+    "des": "Used to combine Dragon Slayer Magic Ring（Dragon SlayerCostume,  Master Mind jewelry）.",
+    "icon": "e221.png",
+    "quality": 3
+  },
+  "2501": {
+    "craft_num": 10,
+    "name": "God's Command Spear small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2001,
+    "des": "Used to combine God's Command Spear（Spear Army weapon）.",
+    "icon": "e21.png",
+    "quality": 3
+  },
+  "2533": {
+    "craft_num": 10,
+    "name": "Light Dragon War Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2033,
+    "des": "Used to combine Light Dragon War Armor（Master Mind helmet）.",
+    "icon": "e23.png",
+    "quality": 3
+  },
+  "2597": {
+    "craft_num": 5,
+    "name": "God of martial arts War Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2097,
+    "des": "Used to combine God of martial arts War Armor（Infantry helmet）.",
+    "icon": "e222.png",
+    "quality": 2
+  },
+  "2502": {
+    "craft_num": 10,
+    "name": "Holy Heaven Bow small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2002,
+    "des": "Used to combine Holy Heaven Bow（Archers weapon）.",
+    "icon": "e31.png",
+    "quality": 3
+  },
+  "2534": {
+    "craft_num": 10,
+    "name": "Golden Scales Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2034,
+    "des": "Used to combine Golden Scales Helmet（Spear Army helmet）.",
+    "icon": "e33.png",
+    "quality": 3
+  },
+  "2598": {
+    "craft_num": 5,
+    "name": "Black Magic Necklace small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2098,
+    "des": "Used to combine Black Magic Necklace（Infantry jewelry）.",
+    "icon": "e223.png",
+    "quality": 2
+  },
+  "2503": {
+    "craft_num": 10,
+    "name": "Fantasy Sky Feather Fan small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2003,
+    "des": "Used to combine Fantasy Sky Feather Fan（ Master Mind weapon）.",
+    "icon": "e41.png",
+    "quality": 3
+  },
+  "2535": {
+    "craft_num": 10,
+    "name": "Epic Golden Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2035,
+    "des": "Used to combine Epic Golden Helmet（Master Mind helmet；Made of pure gold, inside contains Dead spirit）.",
+    "icon": "e43.png",
+    "quality": 3
+  },
+  "2599": {
+    "craft_num": 5,
+    "name": "Hornet Thorn Rider Spear small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2099,
+    "des": "Used to combine Hornet Thorn Rider Spear（Cavalry weapon）.",
+    "icon": "e224.png",
+    "quality": 2
+  },
+  "2504": {
+    "craft_num": 20,
+    "name": "Slashing Heaven Strong Sword small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2004,
+    "des": "Used to combine Slashing Heaven Strong Sword（Slashing Heaven Costume, Infantry weapon）.",
+    "icon": "e51.png",
+    "quality": 3
+  },
+  "2536": {
+    "craft_num": 20,
+    "name": "Slashing Heaven Zhou Yu Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2036,
+    "des": "Used to combine Slashing Heaven Zhou Yu Helmet（Slashing Heaven Costume, Infantry helmet）.",
+    "icon": "e53.png",
+    "quality": 3
+  },
+  "2600": {
+    "craft_num": 5,
+    "name": "Air Force cloak small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2100,
+    "des": "Used to combine Air Force cloak（Cavalry armor）.",
+    "icon": "e225.png",
+    "quality": 2
+  },
+  "2505": {
+    "craft_num": 10,
+    "name": "God of Divination Feather Fan small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2005,
+    "des": "Used to combine God of Divination Feather Fan（God of Divination Costume,  Master Mind weapon）.",
+    "icon": "e91.png",
+    "quality": 2
+  },
+  "2537": {
+    "craft_num": 10,
+    "name": "God of Divination Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2037,
+    "des": "Used to combine God of Divination Helmet（God of Divination  Costume；Master Mind helmet）.",
+    "icon": "e93.png",
+    "quality": 2
+  },
+  "2601": {
+    "craft_num": 10,
+    "name": "Cataphract Silver Spear small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2101,
+    "des": "Used to combine Cataphract Silver Spear（Cataphract Costume, Cavalry weapon）.",
+    "icon": "e226.png",
+    "quality": 2
+  },
+  "2506": {
+    "craft_num": 5,
+    "name": "Diamond Bow small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2006,
+    "des": "Used to combine Diamond Bow（Archers weapon）.",
+    "icon": "e71.png",
+    "quality": 2
+  },
+  "2538": {
+    "craft_num": 5,
+    "name": "Eagle Horn Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2038,
+    "des": "Used to combine Eagle Horn Helmet（Archers helmet）.",
+    "icon": "e73.png",
+    "quality": 2
+  },
+  "2602": {
+    "craft_num": 10,
+    "name": "Cataphract Golden Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2102,
+    "des": "Used to combine Cataphract Golden Armor（CataphractCostume, Cavalry armor）.",
+    "icon": "e227.png",
+    "quality": 2
+  },
+  "2507": {
+    "craft_num": 5,
+    "name": "Sharpen Fire Blade small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2007,
+    "des": "Used to combine Sharpen Fire Blade（Infantry weapon）.",
+    "icon": "e81.png",
+    "quality": 2
+  },
+  "2539": {
+    "craft_num": 5,
+    "name": "Golden Swallow Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2039,
+    "des": "Used to combine Golden Swallow Helmet（Cavalry helmet）.",
+    "icon": "e83.png",
+    "quality": 2
+  },
+  "2603": {
+    "craft_num": 10,
+    "name": "Cataphract Hard Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2103,
+    "des": "Used to combine Cataphract Hard Helmet（Cataphract Costume, Cavalry helmet）.",
+    "icon": "e228.png",
+    "quality": 2
+  },
+  "2508": {
+    "craft_num": 10,
+    "name": "Light Dragon Sword small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2008,
+    "des": "Used to combine Light Dragon Sword（Light DragonCostume, Infantry weapon）.",
+    "icon": "e61.png",
+    "quality": 2
+  },
+  "2540": {
+    "craft_num": 10,
+    "name": "Light Dragon Pure Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2040,
+    "des": "Used to combine Light Dragon Pure Helmet（Light DragonCostume, Infantry helmet）.",
+    "icon": "e63.png",
+    "quality": 2
+  },
+  "2604": {
+    "craft_num": 10,
+    "name": "Cataphract Jade Ring small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2104,
+    "des": "Used to combine Cataphract Jade Ring（Cataphract Costume, Jewelry for Cavalry）.",
+    "icon": "e229.png",
+    "quality": 2
+  },
+  "2509": {
+    "craft_num": 5,
+    "name": "Cold Feather Fan small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2009,
+    "des": "Used to combine Cold Feather Fan（Master Mind weapon）.",
+    "icon": "e101.png",
+    "quality": 2
+  },
+  "2541": {
+    "craft_num": 5,
+    "name": "Frozen Feather Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2041,
+    "des": "Used to combine Frozen Feather Helmet（Master Mind helmet）.",
+    "icon": "e103.png",
+    "quality": 2
+  },
+  "2605": {
+    "craft_num": 5,
+    "name": "archery Bracelet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2105,
+    "des": "Used to combine archery Bracelet（Archers jewelry）.",
+    "icon": "e230.png",
+    "quality": 2
+  },
+  "2510": {
+    "craft_num": 10,
+    "name": "Golden Bow small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2010,
+    "des": "Used to combine Golden Bow.",
+    "icon": "e111.png",
+    "quality": 1
+  },
+  "2542": {
+    "craft_num": 10,
+    "name": "Green Gem Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2042,
+    "des": "Used to combine Green Gem Helmet.",
+    "icon": "e113.png",
+    "quality": 1
+  },
+  "2606": {
+    "craft_num": 10,
+    "name": "God of Wind Bow small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2106,
+    "des": "Used to combine God of Wind Bow（God of Wind  Costume, Archers weapon）.",
+    "icon": "e231.png",
+    "quality": 2
+  },
+  "2511": {
+    "craft_num": 10,
+    "name": "Woodcutting Axe small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2011,
+    "des": "Used to combine Woodcutting Axe.",
+    "icon": "e121.png",
+    "quality": 1
+  },
+  "2543": {
+    "craft_num": 10,
+    "name": "Woodcutting Leather Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2043,
+    "des": "Used to combine Woodcutting Leather Helmet.",
+    "icon": "e123.png",
+    "quality": 1
+  },
+  "2607": {
+    "craft_num": 10,
+    "name": "God of Wind Leather Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2107,
+    "des": "Used to combine God of Wind Leather Armor（God of Wind  Costume, Armor for Archers）.",
+    "icon": "e232.png",
+    "quality": 2
+  },
+  "2512": {
+    "craft_num": 10,
+    "name": "Spirit Snake Bow small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2012,
+    "des": "Used to combine Spirit Snake Bow.",
+    "icon": "e131.png",
+    "quality": 1
+  },
+  "2544": {
+    "craft_num": 10,
+    "name": "Perfume Musk Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2044,
+    "des": "Used to combine Perfume Musk Helmet.",
+    "icon": "e133.png",
+    "quality": 1
+  },
+  "2576": {
+    "craft_num": 10,
+    "name": "Unicorn Blade small piece",
+    "equip": 2076,
+    "des": "Used to combine Unicorn Blade（Infantry weapon）.",
+    "icon": "e201.png",
+    "quality": 3
+  },
+  "2608": {
+    "craft_num": 10,
+    "name": "God of Wind Light Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2108,
+    "des": "Used to combine God of Wind Light Helmet（God of Wind  Costume, Archers helmet）.",
+    "icon": "e233.png",
+    "quality": 2
+  },
+  "2513": {
+    "craft_num": 10,
+    "name": "Peach Fan small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2013,
+    "des": "Used to combine Peach Fan.",
+    "icon": "e141.png",
+    "quality": 1
+  },
+  "2545": {
+    "craft_num": 10,
+    "name": "West Region Lake Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2045,
+    "des": "Used to combine West Region Lake Helmet.",
+    "icon": "e143.png",
+    "quality": 1
+  },
+  "2577": {
+    "craft_num": 10,
+    "name": "Black Feather Iron Face small piece",
+    "equip": 2077,
+    "des": "Used to combine Black Feather Iron Face（Infantry helmet）.",
+    "icon": "e202.png",
+    "quality": 3
+  },
+  "2609": {
+    "craft_num": 10,
+    "name": "God of Wind  Glove small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2109,
+    "des": "Used to combine God of Wind  Glove（God of Wind  Costume, Archers jewelry）.",
+    "icon": "e234.png",
+    "quality": 2
+  },
+  "2514": {
+    "craft_num": 10,
+    "name": "Fire Cloud Fan small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2014,
+    "des": "Used to combine Fire Cloud Fan.",
+    "icon": "e151.png",
+    "quality": 1
+  },
+  "2546": {
+    "craft_num": 10,
+    "name": "Space Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2046,
+    "des": "Used to combine Space Helmet.",
+    "icon": "e153.png",
+    "quality": 1
+  },
+  "2578": {
+    "craft_num": 10,
+    "name": "King of Diamonds Jewelry small piece",
+    "equip": 2078,
+    "des": "Used to combine King of Diamonds Jewelry（Infantry jewelry）.",
+    "icon": "e203.png",
+    "quality": 3
+  },
+  "2610": {
+    "craft_num": 5,
+    "name": "There Heads Two Blades Spear small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2110,
+    "des": "Used to combine There Heads Two Blades Spear（Spear Army weapon）.",
+    "icon": "e235.png",
+    "quality": 2
+  },
+  "2515": {
+    "craft_num": 10,
+    "name": "Mountain Break Axe small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2015,
+    "des": "Used to combine Mountain Break Axe.",
+    "icon": "e161.png",
+    "quality": 1
+  },
+  "2547": {
+    "craft_num": 10,
+    "name": "Courageous Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2047,
+    "des": "Used to combine Courageous Helmet.",
+    "icon": "e163.png",
+    "quality": 1
+  },
+  "2579": {
+    "craft_num": 10,
+    "name": "Red Dragon Sky Breaker Spear small piece",
+    "equip": 2079,
+    "des": "Used to combine Red Dragon Sky Breaker Spear（Cavalry weapon）.",
+    "icon": "e204.png",
+    "quality": 3
+  },
+  "2611": {
+    "craft_num": 5,
+    "name": "Special Iron Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2111,
+    "des": "Used to combine Special Iron Armor（Spear Army armor）.",
+    "icon": "e236.png",
+    "quality": 2
+  },
+  "2516": {
+    "craft_num": 20,
+    "name": "Golden Dragon Cloud Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2016,
+    "des": "Used to combine Golden Dragon Cloud Armor（Set Golden Dragon, Armor for Archers）.",
+    "icon": "e12.png",
+    "quality": 3
+  },
+  "2548": {
+    "craft_num": 20,
+    "name": "Golden Dragon Jewelry small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2048,
+    "des": "Used to combine Golden Dragon Jewelry（Set Golden Dragon, Archers jewelry）.",
+    "icon": "e14.png",
+    "quality": 3
+  },
+  "2580": {
+    "craft_num": 10,
+    "name": "Binding Dragon Bracelet Armor small piece",
+    "equip": 2080,
+    "des": "Used to combine Binding Dragon Bracelet Armor（Cavalry armor）.",
+    "icon": "e205.png",
+    "quality": 3
+  },
+  "2612": {
+    "craft_num": 5,
+    "name": "Sharp spikes War Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2112,
+    "des": "Used to combine Sharp spikes War Armor（Spear Army helmet）.",
+    "icon": "e237.png",
+    "quality": 2
+  },
+  "2517": {
+    "craft_num": 10,
+    "name": "Thunder Beast Scales Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2017,
+    "des": "Used to combine Thunder Beast Scales Armor（Spear Army armor）.",
+    "icon": "e22.png",
+    "quality": 3
+  },
+  "2549": {
+    "craft_num": 10,
+    "name": "Pink Feather small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2049,
+    "des": "Used to combine Pink Feather（Jewelry for Spear Army）.",
+    "icon": "e24.png",
+    "quality": 3
+  },
+  "2581": {
+    "craft_num": 10,
+    "name": "Pink Iron Face Helmet small piece",
+    "equip": 2081,
+    "des": "Used to combine Pink Iron Face Helmet（Cavalry helmet）.",
+    "icon": "e206.png",
+    "quality": 3
+  },
+  "2613": {
+    "craft_num": 10,
+    "name": "Dragon Horn Spear small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2113,
+    "des": "Used to combine Dragon Horn Spear（Set Dragon Horn, Spear Army weapon）.",
+    "icon": "e238.png",
+    "quality": 2
+  },
+  "2518": {
+    "craft_num": 10,
+    "name": "Glory War Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2018,
+    "des": "Used to combine Glory War Armor（Armor for Infantry）.",
+    "icon": "e32.png",
+    "quality": 3
+  },
+  "2550": {
+    "craft_num": 10,
+    "name": "Sky Cloud necklace small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2050,
+    "des": "Used to combine Sky Cloud necklace（Jewelry for Cavalry）.",
+    "icon": "e34.png",
+    "quality": 3
+  },
+  "2582": {
+    "craft_num": 20,
+    "name": "Chasing Wind Golden Spear small piece",
+    "equip": 2082,
+    "des": "Used to combine Chasing Wind Golden Spear（Set Chasing Wind, Cavalry weapon）.",
+    "icon": "e207.png",
+    "quality": 3
+  },
+  "2614": {
+    "craft_num": 10,
+    "name": "Dragon Horn Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2114,
+    "des": "Used to combine Dragon Horn Armor（Set Dragon Horn, Spear Army armor）.",
+    "icon": "e239.png",
+    "quality": 2
+  },
+  "2519": {
+    "craft_num": 10,
+    "name": "Chiyou God Emperor Robes small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2019,
+    "des": "Used to combine Chiyou God Emperor Robes（ Master Mind armor）.",
+    "icon": "e42.png",
+    "quality": 3
+  },
+  "2551": {
+    "craft_num": 10,
+    "name": "Moon River Necklace small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2051,
+    "des": "Used to combine Moon River Necklace（Master Mind jewelry）.",
+    "icon": "e44.png",
+    "quality": 3
+  },
+  "2583": {
+    "craft_num": 20,
+    "name": "Set Chasing Wind Hidden Sky Armor small piece",
+    "equip": 2083,
+    "des": "Used to combine Set Chasing Wind Hidden Sky Armor（Set Chasing Wind, Cavalry armor）.",
+    "icon": "e208.png",
+    "quality": 3
+  },
+  "2615": {
+    "craft_num": 10,
+    "name": "Dragon Horn Helmet small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2115,
+    "des": "Used to combine Dragon Horn Helmet（Set Dragon Horn, Spear Army helmet）.",
+    "icon": "e240.png",
+    "quality": 2
+  },
+  "2520": {
+    "craft_num": 20,
+    "name": "Slashing Heaven Golden Light Armor small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2020,
+    "des": "Used to combine Slashing Heaven Golden Light Armor（Slashing Heaven Costume, Armor for Infantry）.",
+    "icon": "e52.png",
+    "quality": 3
+  },
+  "2552": {
+    "craft_num": 20,
+    "name": "Slashing Heaven Necklace small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2052,
+    "des": "Used to combine Slashing Heaven Necklace（Slashing Heaven Costume, Infantry jewelry）.",
+    "icon": "e54.png",
+    "quality": 3
+  },
+  "2584": {
+    "craft_num": 20,
+    "name": "Set Chasing Wind Jade Face Helmet small piece",
+    "equip": 2084,
+    "des": "Used to combine Set Chasing Wind Jade Face Helmet（Set Chasing Wind, Cavalry helmet）.",
+    "icon": "e209.png",
+    "quality": 3
+  },
+  "2616": {
+    "craft_num": 10,
+    "name": "Dragon Horn Necklace small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2116,
+    "des": "Used to combine Dragon Horn Necklace（Set Dragon Horn, Jewelry for Spear Army）.",
+    "icon": "e241.png",
+    "quality": 2
+  },
+  "2521": {
+    "craft_num": 10,
+    "name": "God of Divination Golden Thread Robes small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2021,
+    "des": "Used to combine God of Divination Golden Thread Robes（God of Divination Costume,  Master Mind armor）.",
+    "icon": "e92.png",
+    "quality": 2
+  },
+  "2553": {
+    "craft_num": 10,
+    "name": "God of Divination Jade Seti small piece",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "equip": 2053,
+    "des": "Used to combine God of Divination Jade Seti（God of Divination Costume, Master Mind jewelry）.",
+    "icon": "e94.png",
+    "quality": 2
+  },
+  "2585": {
+    "craft_num": 20,
+    "name": "Set Chasing Wind Crystal Ring small piece",
+    "equip": 2085,
+    "des": "Used to combine Set Chasing Wind Crystal Ring（Set Chasing Wind, Jewelry for Cavalry）.",
+    "icon": "e210.png",
+    "quality": 3
+  }
+}

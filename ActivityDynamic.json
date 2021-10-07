@@ -1,0 +1,152 @@
+{
+  "11": {
+    "id": 11,
+    "name": "Accumulate recharge",
+    "icon": "act7",
+    "level_des": "Accumulate recharge %d Gold",
+    "type": 2
+  },
+  "12": {
+    "id": 12,
+    "name": "First time top up",
+    "icon": "act8",
+    "level_des": "",
+    "type": 2
+  },
+  "13": {
+    "id": 13,
+    "name": "Recharge Continuously",
+    "icon": "act9",
+    "level_des": "",
+    "type": 2
+  },
+  "14": {
+    "id": 14,
+    "name": "Daily top up",
+    "icon": "act10",
+    "level_des": "Recharge %d Gold",
+    "type": 2
+  },
+  "15": {
+    "id": 15,
+    "name": "Accumulate Spend",
+    "icon": "act11",
+    "level_des": "",
+    "type": 2
+  },
+  "16": {
+    "id": 16,
+    "name": "Daily Landing",
+    "icon": "act17",
+    "level_des": "Days",
+    "type": 3
+  },
+  "17": {
+    "id": 17,
+    "name": "Dragon Fight Ranking",
+    "icon": "act14",
+    "level_des": "",
+    "type": 2
+  },
+  "18": {
+    "id": 18,
+    "name": "Open Gold Chest X times",
+    "icon": "act16",
+    "level_des": "",
+    "type": 2
+  },
+  "19": {
+    "id": 19,
+    "name": "Open Chest Silver X times",
+    "icon": "act16",
+    "level_des": "",
+    "type": 2
+  },
+  "20": {
+    "id": 20,
+    "name": "Open Chest Bronze X times",
+    "icon": "act16",
+    "level_des": "",
+    "type": 2
+  },
+  "21": {
+    "id": 21,
+    "name": "Open Chest Bronze X times",
+    "icon": "act16",
+    "level_des": "",
+    "type": 2
+  },
+  "22": {
+    "id": 22,
+    "name": "Recruit in the Tavern X times",
+    "icon": "act15",
+    "level_des": "Recruit %d times",
+    "type": 2
+  },
+  "23": {
+    "id": 23,
+    "name": "Recruit in the Tavern 10 times X times",
+    "icon": "act15",
+    "level_des": "Recruit 10 times %d times",
+    "type": 2
+  },
+  "24": {
+    "id": 24,
+    "name": "Open the level rank",
+    "icon": "act22",
+    "level_des": "Rank %s",
+    "type": 2
+  },
+  "106": {
+    "id": 106,
+    "name": "Double Reward",
+    "icon": "act18",
+    "level_des": "",
+    "type": 2
+  },
+  "111": {
+    "id": 111,
+    "name": "Maturity Fund",
+    "icon": "act20",
+    "level_des": "",
+    "type": 2
+  },
+  "112": {
+    "id": 112,
+    "name": "People's Welfare",
+    "icon": "act25",
+    "level_des": "VIP%d , number of player join in: %d players",
+    "type": 2
+  },
+  "116": {
+    "id": 116,
+    "name": "Hero Gift Pack",
+    "icon": "act24",
+    "level_des": "%d Gold",
+    "level_des_wanba_ios": "%d⭐️",
+    "type": 2
+  },
+  "117": {
+    "id": 117,
+    "name": "Lucky wheel",
+    "icon": "act23",
+    "level_des": "",
+    "type": 2
+  },
+  "121": {
+    "id": 121,
+    "name": "Recharge 1 times",
+    "icon": "act21",
+    "level_des": "Recharge 1 times %d Gold",
+    "level_des_wanba_ios": "Recharge %d⭐️Gold",
+    "type": 2
+  },
+  "128": {
+    "id": 128,
+    "name": "Youth Fund",
+    "icon": "act19",
+    "level_des": "Fund %d Gold",
+    "level_des_wanba_ios": "%d⭐️ Fund",
+    "type": 2
+  }
+}

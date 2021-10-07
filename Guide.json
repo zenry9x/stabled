@@ -1,0 +1,2107 @@
+{
+  "guidelist": [
+    [
+      {
+        "dirc": "R",
+        "page": "OfflineRewardsWidget",
+        "talk": "Welcome back the marshal to the castle！Three-minute experience, free gifts！",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "The generals are really delicate, if you can find someone to help you, claim to be the hero of the world just at your fingertips",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "The pub is frequented by heroes, offer white wine to capture the hero！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 9
+      },
+      {
+        "dirc": "R",
+        "page": "RecruitManager",
+        "talk": "Marshal, let's see fate！",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "GetHeroPanel",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "RecruitManager",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "R",
+        "page": "HomeMainLayer",
+        "talk": "The military situation is urgent, let's quickly unite with the large army, ready for the enemy！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 13
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "talk": "Attack！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 7
+      },
+      {
+        "page": "StageSelectorLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 7
+      },
+      {
+        "dirc": "R",
+        "page": "EmbattleLayer",
+        "talk": "The heroes are all well prepared, choose a champion！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroOnLineLayer",
+        "talk": "Two heroes go to battle to kill the enemy！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroOnLineLayer",
+        "talk": "Two heroes go to battle to kill the enemy！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "R",
+        "page": "HeroOnLineLayer",
+        "talk": "Well done, let's start choosing formation.",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 6
+      },
+      {
+        "dirc": "R",
+        "page": "EmbattleLayer",
+        "talk": "Drag the hero icon to adjust the starting position.",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "EmbattleLayer",
+        "talk": "Good, ask the marshal to order, the whole army goes to battle",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "SuccessPanel",
+        "talk": "Marshal champion! We stole the enemy's equipment, please don't forget to put it on, marshal.",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "Marshal, it's a good weapon, it's a waste if you don't use it",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "lv": 2,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "Let's quickly run to the army camp and bring the small blade to reward the hero！！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "talk": "Sometimes the marshals give weapons to the most powerful hero.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroViewLayer",
+        "talk": "This place is a place to equip weapons",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": false,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StoreHouseLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 5
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Thank you for arming this hero.",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Marshals just need to select here, equipment can be successfully upgraded",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 7
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 11
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 7
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "When you're ready！please use the legion skill immediately, kill the Infantry enemy soldiers",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "See the bottom right corner! Accumulate enough and then get angry, the legend skill icon will light up",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Try shooting rocks at the enemy",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "The mission is open, the marshal quickly goes to receive the Reward.！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 102,
+        "tag": 1
+      },
+      {
+        "page": "StageSelectorLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 5
+      },
+      {
+        "dirc": "L",
+        "page": "MissionLayer",
+        "talk": "Congratulations Marshal, hurry and see what Rewards can be obtained this time.",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "MissionLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 7
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "No matter where the marshal fights, nothing can stop him! Victory don't forget to receive Reward",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "dirc": "R",
+        "page": "StageStarReward",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "Hurry to the tavern! See who is the predestined person.",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 9
+      },
+      {
+        "dirc": "R",
+        "page": "RecruitManager",
+        "talk": "Good wine for heroes, this place must have great Heroes to follow the marshal",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "R",
+        "page": "GetHeroPanel",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "RecruitManager",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "R",
+        "page": "HomeMainLayer",
+        "talk": "The new weapon in hand is very frustrating, hurry to the battlefield to test the blade,",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 13
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 7
+      },
+      {
+        "dirc": "R",
+        "page": "EmbattleLayer",
+        "talk": "The marshal arranges the newest Heroes to go to war.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroOnLineLayer",
+        "talk": "hero, show it off!",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 7
+      },
+      {
+        "dirc": "R",
+        "page": "HeroOnLineLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 6
+      },
+      {
+        "dirc": "L",
+        "page": "EmbattleLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 3
+      }
+    ],
+    [
+      {
+        "page": "HomeMainLayer",
+        "talk": "Marshal, everyone fights for the treasure in chaos, uses muscles to talk",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 405,
+        "tag": 8
+      },
+      {
+        "dirc": "R",
+        "page": "ActivityLayer",
+        "talk": "Marshal, under your command, there are many mighty generals like clouds, please lead us to win the world's treasures together!",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "SnatchMainLayer",
+        "talk": "This ancient art of the war is divided into many pieces, must be gathered enough to be able to revert to its original appearance.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "SnatchFragLayer",
+        "talk": "Let's go and steal the missing pieces of",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "SnatchListLayer",
+        "talk": "This brother, meeting us is considered unlucky, isn't it marshal！Ha Ha Ha Ha",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "EmbattleLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "SnatchWinPanel",
+        "talk": "We are certainly not the enemy! Looks like there's a Reward？",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "SnatchMainLayer",
+        "talk": "Marshal, small piece has been gathered, can match the strategy！",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "Congratulations marshal on getting the treasure, quickly equip it！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "talk": "Sometimes the marshal decides which hero to use for？",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "This place is a place for military equipment.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 4
+      },
+      {
+        "page": "StoreHouseLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 6
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "All heroes in the world are fighting for the first time! Marshal quickly go to the arena for our fame!",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 203,
+        "tag": 10
+      },
+      {
+        "dirc": "L",
+        "page": "ActivityLayer",
+        "talk": "The arena is this place",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "AreanMainLayer",
+        "talk": "soft oranges are easy to squeeze, decide where to fight high and low, let's try one, marshal.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "page": "EmbattleLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "AreanWinPanel",
+        "talk": "Choose first-class victory items",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "AreanMainLayer",
+        "talk": "It's great, was able to add a position to the battle in the new legion lineup",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "R",
+        "page": "AreanMainLayer",
+        "talk": "Change the Upper Battle Command to expand the number of heroes going to battle in the army squad",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 5
+      },
+      {
+        "page": "AreanBuyDialog",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "AreanMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 4
+      },
+      {
+        "page": "ActivityLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 13
+      },
+      {
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 8
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "talk": "In the short term, there is a lack of equipment for heroes, where can it be obtained?",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true,
+        "stage": 310
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "talk": "Marshal, just unlocked the Elite mode, passing the stage can get heroic hero sets and epic equipment",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 10
+      },
+      {
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 12
+      },
+      {
+        "dirc": "L",
+        "page": "EliteStageLayer",
+        "talk": "Complete stages will have a reward for marshals",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "EliteStageLayer",
+        "talk": "That's great, the lineup is expandable!",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "EliteStageLayer",
+        "talk": "Zuo Ci: In front is the BOSS, destroying has the ability to drop items",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "page": "EliteStageLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 210,
+        "tag": 1
+      },
+      {
+        "page": "HomeMainLayer",
+        "talk": "Knowledge is the ladder of progress for humanity. People need to read cleanly and have capacity to promote dissemination",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "talk": "Marshal, please decide which hero to send to study the strategy",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Good marshals, click here.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "R",
+        "page": "HeroStrengthLayer",
+        "talk": "Research will consume tactics or low level general cards",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroStrengthLayer",
+        "talk": "Marshal you have hundreds of thousands of jobs, that little thing you can give us to do",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Marshals don't panic, New skill Ambush army has been learned, try using Ambush army to attack the enemy's ranged soldiers, ！",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Please press the Ambush army skill",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Put the Ambush army here, hit them by surprise！",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Looks like it's time to bring them out to the great killing spree！- Go far! Go far! Go far",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Crossbow Machine is specialized to kill enemy hero, come here and try it for me！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Crossbow machine is weak, located in a safe place！",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "Marshals don't panic! See the bottom right corner has a green icon green healer？",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "talk": "healer can create an area for your minions to continuously healer hp, let's see！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "BattleLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "Marshal! Everyday through the quest, you can gain a lot of Experience! Thousands of times should not be missed.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 305,
+        "tag": 1
+      },
+      {
+        "page": "StageSelectorLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 6
+      },
+      {
+        "dirc": "L",
+        "page": "DayActivityLayer",
+        "talk": "Hurry up and get Reward Experience, you can level up！",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true,
+        "tag": 1
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "Training Camp is the place to Increase the skill of the legion, please take a look marshal.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 205,
+        "tag": 11
+      },
+      {
+        "dirc": "R",
+        "page": "TeamSkillLayer",
+        "talk": "Stars obtained during customs clearance can be used to increase army skill！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": false,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "TeamSkillUpgrade",
+        "talk": "Increase skill power , scare the enemy ！",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": false,
+        "tag": 1
+      },
+      {
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 13
+      },
+      {
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 8
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "underlings of hero are weak, now is the time to increase soldiers underlings of strength！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 207,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "We want to go to the military camp！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "talk": "The strongest hero should command the strongest soldiers",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Training troop can Increase the strength of soldiers, making soldiers stronger！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 6
+      },
+      {
+        "page": "ArmyUplevelDialog",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Congratulations marshal, your soldiers have reached the maximum level, can progress！",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Congratulations marshals have reached the highest level, hurry up and try to advance to the army ranks.",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "page": "ArmyEquipDialog",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "page": "ArmyEquipDialog",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "page": "ArmyEquipDialog",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "page": "ArmyEquipDialog",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "page": "ArmyEquipDialog",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 9
+      },
+      {
+        "page": "ArmyUpgradeDialog",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroViewLayer",
+        "talk": "Great Duke! The soldiers' strength increase a lot, hurry up and try to fight",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "R",
+        "page": "HeroViewLayer",
+        "talk": "Training heroes (Level 21 unlocked) and Normal level can both obtain bracelets. Don't forget to level up for hero troops！",
+        "role": 1,
+        "key": true,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "R",
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 11
+      },
+      {
+        "dirc": "R",
+        "page": "ArmyCampLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "Blacksmiths can refine items, to obtain higher-class items",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 510,
+        "tag": 12
+      },
+      {
+        "dirc": "R",
+        "page": "EsRoot",
+        "talk": "Pick equipment",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "EsMain",
+        "talk": "Invite marshals to refine equipment",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "EsMain",
+        "talk": "Regardless of success or failure in refining, ",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      }
+    ],
+    [
+      {
+        "dirc": "R",
+        "page": "EmbattleLayer",
+        "talk": "We can choose more than heroes to go to battle！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroOnLineLayer",
+        "talk": "Open new Highness, try to discover new hero",
+        "role": 1,
+        "key": true,
+        "st": true,
+        "force": true,
+        "tag": 4
+      },
+      {
+        "dirc": "R",
+        "page": "HeroOnLineLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 6
+      }
+    ],
+    [
+      {
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "lv": 21,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "dirc": "L",
+        "page": "ActivityLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 6
+      },
+      {
+        "dirc": "R",
+        "page": "ActivityLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 5
+      },
+      {
+        "page": "WeeklyBattleLayer",
+        "talk": "Training heroes Reward military equipment！ Note that each campaign has an opening time, don't miss it.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "SelectMissionsLayer",
+        "talk": "Intensity challenge is sequentially Increase, more higher is more difficult, Reward is also more higher, first try the lowest level ！",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "page": "SelectMissionsLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "EmbattleLayer",
+        "talk": "Each training is based on history, only the same hero power can go to battle, so the marshal needs another time to post the army and arrange the battle.",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "EmbattleLayer",
+        "talk": "Don't forget to adjust the hero position, everything is done and you can start training ",
+        "role": 1,
+        "key": true,
+        "st": true,
+        "force": true
+      }
+    ],
+    [
+      {
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "lv": 19,
+        "force": true,
+        "tag": 8
+      },
+      {
+        "dirc": "L",
+        "page": "ActivityLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 4
+      },
+      {
+        "dirc": "L",
+        "page": "EpicBattleLayer",
+        "talk": "Epic campaign divided into 2 types of Reward, Experience and Copper Coin, pay attention to different campaign opening time, don't miss it！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "page": "SelectMissionsLayer",
+        "talk": "The difficulty will increase gradually, the attach Reward is richer, try the easiest level first.！",
+        "role": 1,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "page": "SelectMissionsLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      }
+    ],
+    null,
+    [
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "talk": "War is getting more and more dangerous, is there any way to increase combat power？",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "lv": 32,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "talk": "Inside the war, we found 2 Museum piece Increase Experience, marshal quickly try to upgradeMuseum piece！",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "StoreHouseLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StoreHouseLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "TreasureStrengthen",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "TreasureStrengthen",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "TreasureStrengthen",
+        "talk": "Not bad! not bad! Leveled up treasure, great power Increase！",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "TreasureStrengthen",
+        "talk": "Treasures can increase the strength of the hero's battle, don't forget to upgrade",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "Last night, God announced a dream, only to find out that there is still a museum piece to be refined. The old man has a favorite Museum piece for the marshal！",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "lv": 35,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "StoreHouseLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StoreHouseLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 4
+      },
+      {
+        "dirc": "L",
+        "page": "StoreHouseLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "TreaRefineLayer",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "TreaRefineLayer",
+        "talk": "This is the original: Refined treasure, the feeling is so strong!",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "TreaRefineLayer",
+        "talk": "Museum piece hero can refine 10 lines, the effect will get better and better, marshal fighting！",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      }
+    ],
+    [
+      {
+        "dirc": "R",
+        "page": "BattleLayer",
+        "talk": "That's right！ Marshal, you can try the function Increase battle speed to help you quickly Bracelet into combat, in the left corner of the screen.",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "lv": 2,
+        "force": true
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 7
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "talk": "It's hard to deal with! Looks like I have to teach Increase to level heroes！",
+        "role": 3,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 410,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "talk": "Select the Army Camp icon",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "talk": "To be sharp, we must choose the best blade, we choose the strongest hero first.",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Select the Upgrade button",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 10
+      },
+      {
+        "dirc": "L",
+        "page": "HeroStageWidget",
+        "talk": "Increase level will spend Sichuan Brocade, which can be obtained at the arena shop, and the black market.！",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "War is getting harder and harder, but how about Increase your combat power？",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true,
+        "stage": 910,
+        "tag": null
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "Fumbling around, I found three enchant equipment materials, try it, marshal！",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 101,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "EquipInfoLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "EquipRefineLayer",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "EquipRefineLayer",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "EquipRefineLayer",
+        "talk": "Equipment attributes have been leveled up! Of course, every time you train your ability to go up or down, you have to look at the dignity of the marshal.",
+        "role": 2,
+        "key": false,
+        "st": true,
+        "force": true
+      },
+      {
+        "dirc": "L",
+        "page": "EquipRefineLayer",
+        "talk": "Use Advanced Purification, remove advanced attributes, have a chance to remove anti-heavenly attributes, marshal try it.",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "FirstPayLayer",
+        "talk": "King of the arena【Zhao Yun】, May you pass the stage gently, get a lot of Reward, thousands of times, don't miss it！",
+        "role": 1,
+        "key": true,
+        "st": true,
+        "force": true,
+        "stage": 105,
+        "tag": null
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "The war is over, let's see what other activities are available！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 202,
+        "tag": 15
+      },
+      {
+        "dirc": "R",
+        "page": "TestActivityLayer",
+        "talk": "Everyday activities are rich in Reward, don't forget to receive！",
+        "role": 2,
+        "key": true,
+        "st": true,
+        "force": true,
+        "stage": 104,
+        "tag": null
+      },
+      {
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 13
+      },
+      {
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 8
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "The first war is getting more and more dangerous, is there any way to Increase the hero's fighting power？",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 103,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "talk": "Put this Rune on the equipment hero！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "R",
+        "page": "ArmyCampLayer",
+        "talk": "Sometimes the marshals choose the strongest hero for mosaic",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "talk": "Select here to enter the Rune mosaic interface",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": false,
+        "tag": 12
+      },
+      {
+        "dirc": "R",
+        "page": "HeroRuneLayer",
+        "talk": "Select the left side of the inscription frame",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "HeroRuneLayer",
+        "talk": "Select the tile that can be mosaic",
+        "role": 2,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "R",
+        "page": "HeroRuneLayer",
+        "talk": "Engraved inscriptions can increase a large amount of hero ability, hurry to collect inscriptions",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "L",
+        "page": "HeroViewLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 11
+      },
+      {
+        "dirc": "L",
+        "page": "ArmyCampLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 7
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "There is a surplus of inscriptions, what to do now? let's try taking it to the blacksmith！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 104,
+        "tag": 12
+      },
+      {
+        "dirc": "R",
+        "page": "RuneCombinePanel",
+        "talk": "Sometimes the marshals choose the quality of engraved text",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "RuneCombinePanel",
+        "talk": "Choose Blessing Potion, Increase probability of successful fusion!",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "dirc": "R",
+        "page": "RuneCombinePanel",
+        "talk": "Regardless of whether the fusion succeeds or fails, the items will all disappear, the marshal bets his luck!",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "R",
+        "page": "RuneCombinePanel",
+        "talk": "Then you can equip new inscriptions！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 3
+      },
+      {
+        "dirc": "R",
+        "page": "HomeMainLayer",
+        "talk": "Make us keep fighting！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 13
+      },
+      {
+        "dirc": "L",
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 7
+      },
+      {
+        "dirc": "L",
+        "page": "StageSelectorLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 7
+      }
+    ],
+    [
+      {
+        "dirc": "L",
+        "page": "HomeMainLayer",
+        "talk": "Vip system because you prepared a lot of gifts, don't hurry to check it out！",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "stage": 201,
+        "tag": 14
+      },
+      {
+        "dirc": "R",
+        "page": "VipPayPanel",
+        "talk": "Click here to view VIP privileges！",
+        "role": 2,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 1
+      },
+      {
+        "dirc": "L",
+        "page": "VipPayPanel",
+        "talk": "Please receive Reward vip！The more higher Reward level, the more.",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 2
+      },
+      {
+        "page": "HomeMainLayer",
+        "role": 1,
+        "key": false,
+        "st": false,
+        "force": true,
+        "tag": 13
+      },
+      {
+        "page": "SectionMainLayer",
+        "role": 1,
+        "key": true,
+        "st": false,
+        "force": true,
+        "tag": 8
+      }
+    ]
+  ],
+  "searchbox": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "templates": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    null,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ]
+}

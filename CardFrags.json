@@ -1,0 +1,1466 @@
+{
+  "575": {
+    "craft_num": 15,
+    "name": "Piece of Lady Gan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 76,
+    "des": "Collect  15 pieces can summon Lady Gan. At the same time, it is also a promotion material Lady Gan up to +5.",
+    "icon": "blueMage2Purple",
+    "quality": 2
+  },
+  "583": {
+    "craft_num": 15,
+    "name": "Piece of Sun Huan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 84,
+    "des": "Collect 15 pieces can summon Sun Huan. At the same time, it is also a promotion material Sun Huan up to +5.",
+    "icon": "blueArcher1Blue",
+    "quality": 2
+  },
+  "591": {
+    "craft_num": 15,
+    "name": "Piece of Zhuge Jin",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 92,
+    "des": "Collect 15 pieces can summon Zhuge Jin. At the same time, it is also a promotion material Zhuge Jin up to +5.",
+    "icon": "blueMage1Red",
+    "quality": 2
+  },
+  "599": {
+    "craft_num": 15,
+    "name": "Piece of Yuan Shu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 100,
+    "des": "Collect 15 pieces can summon Yuan Shu. At the same time, it is also a promotion material Yuan Shu up to +5.",
+    "icon": "blueInfantry1White",
+    "quality": 2
+  },
+  "607": {
+    "craft_num": 15,
+    "name": "Piece of Li Ru",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 108,
+    "des": "Collect 15 pieces can summon Li Ru. At the same time, it is also a promotion material Li Ru up to +5.",
+    "icon": "blueMage1Red",
+    "quality": 2
+  },
+  "500": {
+    "craft_num": 30,
+    "name": "Piece of Chen Deng",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 1,
+    "des": "Collect 30 pieces can summon Chen Deng. At the same time, it is also a promotion material Chen Deng up to +5.",
+    "icon": "blueMage1White",
+    "quality": 2
+  },
+  "504": {
+    "craft_num": 30,
+    "name": "Piece of Hua Xiong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 5,
+    "des": "Collect 30 pieces can summon Hua Xiong. At the same time, it is also a promotion material Hua Xiong up to +5.",
+    "icon": "huaxiong",
+    "quality": 3
+  },
+  "508": {
+    "craft_num": 30,
+    "name": "Piece of Yan Liang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 9,
+    "des": "Collect 30 pieces can summon Yan Liang. At the same time, it is also a promotion material Yan Liang up to +5.",
+    "icon": "yanliang",
+    "quality": 3
+  },
+  "512": {
+    "craft_num": 30,
+    "name": "Piece of Diaochan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 13,
+    "des": "Collect 30 pieces can summon Diaochan. At the same time, it is also a promotion material Diaochan up to +5.",
+    "icon": "diaochan",
+    "quality": 3
+  },
+  "520": {
+    "craft_num": 30,
+    "name": "Piece of Ma Chao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 21,
+    "des": "Collect 30 pieces can summon Ma Chao. At the same time, it is also a promotion material Ma Chao up to +5.",
+    "icon": "machao",
+    "quality": 3
+  },
+  "528": {
+    "craft_num": 30,
+    "name": "Piece of Zhurong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 29,
+    "des": "Collect 30 pieces can summon Zhurong. At the same time, it is also a promotion material Zhurong up to +5.",
+    "icon": "zhurong",
+    "quality": 3
+  },
+  "536": {
+    "craft_num": 60,
+    "name": "Piece of God.Xiahou Dun",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 37,
+    "des": "Collect 60 pieces can summon God.Xiahou Dun. At the same time, it is also a promotion material God.Xiahou Dun up to +5.",
+    "icon": "WJ089",
+    "quality": 4
+  },
+  "544": {
+    "craft_num": 30,
+    "name": "Piece of Ding Feng",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 45,
+    "des": "Collect 30 pieces can summon Ding Feng. At the same time, it is also a promotion material Ding Feng up to +5.",
+    "icon": "dingfeng",
+    "quality": 2
+  },
+  "552": {
+    "craft_num": 60,
+    "name": "Piece of God.Sun Quan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 53,
+    "des": "Collect 60 pieces can summon God.Sun Quan. At the same time, it is also a promotion material God.Sun Quan up to +5.",
+    "icon": "WJ069",
+    "quality": 4
+  },
+  "560": {
+    "craft_num": 30,
+    "name": "Piece of Zhang He",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 61,
+    "des": "Collect 30 pieces can summon Zhang He. At the same time, it is also a promotion material Zhang He up to +5.",
+    "icon": "zhanghe",
+    "quality": 3
+  },
+  "568": {
+    "craft_num": 15,
+    "name": "Piece of Wang Mi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 69,
+    "des": "Collect 15 pieces can summon Wang Mi. At the same time, it is also a promotion material Wang Mi up to +5.",
+    "icon": "blueArcher4Red",
+    "quality": 2
+  },
+  "576": {
+    "craft_num": 15,
+    "name": "Piece of Zhou Cang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 77,
+    "des": "Collect 15 pieces can summon Zhou Cang. At the same time, it is also a promotion material Zhou Cang up to +5.",
+    "icon": "blueCavalry1Black",
+    "quality": 2
+  },
+  "584": {
+    "craft_num": 15,
+    "name": "Piece of Ling Cao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 85,
+    "des": "Collect 15 pieces can summon Ling Cao. At the same time, it is also a promotion material Ling Cao up to +5.",
+    "icon": "blueInfantry1Blue",
+    "quality": 2
+  },
+  "592": {
+    "craft_num": 15,
+    "name": "Piece of Ling Tong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 93,
+    "des": "Collect 15 pieces can summon Ling Tong. At the same time, it is also a promotion material Ling Tong up to +5.",
+    "icon": "blueInfantry1Blue",
+    "quality": 2
+  },
+  "600": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Xiu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 101,
+    "des": "Collect 15 pieces can summon Zhang Xiu. At the same time, it is also a promotion material Zhang Xiu up to +5.",
+    "icon": "blueMage1Blue",
+    "quality": 2
+  },
+  "608": {
+    "craft_num": 15,
+    "name": "Piece of Pan Shi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 109,
+    "des": "Collect 15 pieces can summon Pan Shi. At the same time, it is also a promotion material Pan Shi up to +5.",
+    "icon": "blueLancer2Red",
+    "quality": 2
+  },
+  "513": {
+    "craft_num": 60,
+    "name": "Piece of God.Fa Zheng",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 14,
+    "des": "Collect 60 pieces can summon God.Fa Zheng. At the same time, it is also a promotion material God.Fa Zheng up to +5.",
+    "icon": "WJ088",
+    "quality": 4
+  },
+  "521": {
+    "craft_num": 30,
+    "name": "Piece of Ma Su",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 22,
+    "des": "Collect 30 pieces can summon Ma Su. At the same time, it is also a promotion material Ma Su up to +5.",
+    "icon": "masu",
+    "quality": 2
+  },
+  "529": {
+    "craft_num": 30,
+    "name": "Piece of Cao Cao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 30,
+    "des": "Collect 30 pieces can summon Cao Cao. At the same time, it is also a promotion material Cao Cao up to +5.",
+    "icon": "caocao",
+    "quality": 3
+  },
+  "537": {
+    "craft_num": 30,
+    "name": "Piece of Xu Huang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 38,
+    "des": "Collect 30 pieces can summon Xu Huang. At the same time, it is also a promotion material Xu Huang up to +5.",
+    "icon": "xuchu",
+    "quality": 3
+  },
+  "545": {
+    "craft_num": 30,
+    "name": "Piece of Gan Ning",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 46,
+    "des": "Collect 30 pieces can summon Gan Ning. At the same time, it is also a promotion material Gan Ning up to +5.",
+    "icon": "ganning",
+    "quality": 3
+  },
+  "553": {
+    "craft_num": 30,
+    "name": "Piece of Lady Sun",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 54,
+    "des": "Collect 30 pieces can summon Lady Sun. At the same time, it is also a promotion material Lady Sun up to +5.",
+    "icon": "daqiao",
+    "quality": 3
+  },
+  "561": {
+    "craft_num": 30,
+    "name": "Piece of Zhang Liao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 62,
+    "des": "Collect 30 pieces can summon Zhang Liao. At the same time, it is also a promotion material Zhang Liao up to +5.",
+    "icon": "zhangliao",
+    "quality": 3
+  },
+  "569": {
+    "craft_num": 15,
+    "name": "Piece of Xu You",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 70,
+    "des": "Collect 15 pieces can summon Xu You. At the same time, it is also a promotion material Xu You up to +5.",
+    "icon": "blueMage1Blue",
+    "quality": 2
+  },
+  "577": {
+    "craft_num": 15,
+    "name": "Piece of Cai Shi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 78,
+    "des": "Collect 15 pieces can summon Cai Shi. At the same time, it is also a promotion material Cai Shi up to +5.",
+    "icon": "blueInfantry2Purple",
+    "quality": 2
+  },
+  "585": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Zhao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 86,
+    "des": "Collect 15 pieces can summon Zhang Zhao. At the same time, it is also a promotion material Zhang Zhao up to +5.",
+    "icon": "blueMage1White",
+    "quality": 2
+  },
+  "593": {
+    "craft_num": 15,
+    "name": "Piece of Kuai Yue",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 94,
+    "des": "Collect 15 pieces can summon Kuai Yue. At the same time, it is also a promotion material Kuai Yue up to +5.",
+    "icon": "blueMage1Red",
+    "quality": 2
+  },
+  "601": {
+    "craft_num": 15,
+    "name": "Piece of Lu Zhi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 102,
+    "des": "Collect 15 pieces can summon Lu Zhi. At the same time, it is also a promotion material Lu Zhi up to +5.",
+    "icon": "blueMage1Red",
+    "quality": 2
+  },
+  "609": {
+    "craft_num": 15,
+    "name": "Piece of Ding Yuan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 110,
+    "des": "Collect 15 pieces can summon Ding Yuan. At the same time, it is also a promotion material Ding Yuan up to +5.",
+    "icon": "blueArcher1Blue",
+    "quality": 2
+  },
+  "501": {
+    "craft_num": 30,
+    "name": "Piece of Chen Gong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 2,
+    "des": "Collect 30 pieces can summon Chen Gong. At the same time, it is also a promotion material Chen Gong up to +5.",
+    "icon": "zhangjiao",
+    "quality": 3
+  },
+  "505": {
+    "craft_num": 30,
+    "name": "Piece of Hou Tou",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 6,
+    "des": "Collect 30 pieces can summon Hou Tou. At the same time, it is also a promotion material Hou Tou up to +5.",
+    "icon": "huatuo",
+    "quality": 3
+  },
+  "509": {
+    "craft_num": 30,
+    "name": "Piece of Yu Ji",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 10,
+    "des": "Collect 30 pieces can summon Yu Ji. At the same time, it is also a promotion material Yu Ji up to +5.",
+    "icon": "yuji",
+    "quality": 3
+  },
+  "514": {
+    "craft_num": 30,
+    "name": "Piece of Guan Yuan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 15,
+    "des": "Collect 30 pieces can summon Guan Yuan. At the same time, it is also a promotion material Guan Yuan up to +5.",
+    "icon": "guansuo",
+    "quality": 2
+  },
+  "522": {
+    "craft_num": 30,
+    "name": "Piece of Meng Huo",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 23,
+    "des": "Collect 30 pieces can summon Meng Huo. At the same time, it is also a promotion material Meng Huo up to +5.",
+    "icon": "menghuo",
+    "quality": 3
+  },
+  "530": {
+    "craft_num": 30,
+    "name": "Piece of Cao Rén",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 31,
+    "des": "Collect 30 pieces can summon Cao Rén. At the same time, it is also a promotion material Cao Rén up to +5.",
+    "icon": "caoren",
+    "quality": 3
+  },
+  "538": {
+    "craft_num": 30,
+    "name": "Piece of Xu Chu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 39,
+    "des": "Collect 30 pieces can summon Xu Chu. At the same time, it is also a promotion material Xu Chu up to +5.",
+    "icon": "xuchu",
+    "quality": 3
+  },
+  "546": {
+    "craft_num": 30,
+    "name": "Piece of Huang Gai",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 47,
+    "des": "Collect 30 pieces can summon Huang Gai. At the same time, it is also a promotion material Huang Gai up to +5.",
+    "icon": "huanggai",
+    "quality": 3
+  },
+  "554": {
+    "craft_num": 30,
+    "name": "Piece of Taishi Ci",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 55,
+    "des": "Collect 30 pieces can summon Taishi Ci. At the same time, it is also a promotion material Taishi Ci up to +5.",
+    "icon": "zhangfei",
+    "quality": 3
+  },
+  "562": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Chunhua",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 63,
+    "des": "Collect 15 pieces can summon Zhang Chunhua. At the same time, it is also a promotion material Zhang Chunhua up to +5.",
+    "icon": "blueMage2Purple",
+    "quality": 2
+  },
+  "570": {
+    "craft_num": 15,
+    "name": "Piece of Cao Ang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 71,
+    "des": "Collect 15 pieces can summon Cao Ang. At the same time, it is also a promotion material Cao Ang up to +5.",
+    "icon": "blueInfantry1Black",
+    "quality": 2
+  },
+  "578": {
+    "craft_num": 15,
+    "name": "Piece of Queen",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 79,
+    "des": "Collect 15 pieces can summon Queen. At the same time, it is also a promotion material Queen up to +5.",
+    "icon": "blueMage2Blue",
+    "quality": 2
+  },
+  "586": {
+    "craft_num": 15,
+    "name": "Piece of Xing Daorong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 87,
+    "des": "Collect 15 pieces can summon Xing Daorong. At the same time, it is also a promotion material Xing Daorong up to +5.",
+    "icon": "blueInfantry1Blue",
+    "quality": 2
+  },
+  "594": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Wu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 95,
+    "des": "Collect 15 pieces can summon Zhang Wu. At the same time, it is also a promotion material Zhang Wu up to +5.",
+    "icon": "blueLancer1Red",
+    "quality": 2
+  },
+  "602": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Yan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 103,
+    "des": "Collect 15 pieces can summon Zhang Yan. At the same time, it is also a promotion material Zhang Yan up to +5.",
+    "icon": "blueLancer1Blue",
+    "quality": 2
+  },
+  "515": {
+    "craft_num": 30,
+    "name": "Piece of Guan Yu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 16,
+    "des": "Collect 30 pieces can summon Guan Yu. At the same time, it is also a promotion material Guan Yu up to +5.",
+    "icon": "guanyu",
+    "quality": 3
+  },
+  "523": {
+    "craft_num": 30,
+    "name": "Piece of Wei Yan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 24,
+    "des": "Collect 30 pieces can summon Wei Yan. At the same time, it is also a promotion material Wei Yan up to +5.",
+    "icon": "ganning",
+    "quality": 3
+  },
+  "531": {
+    "craft_num": 30,
+    "name": "Piece of Cao Pi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 32,
+    "des": "Collect 30 pieces can summon Cao Pi. At the same time, it is also a promotion material Cao Pi up to +5.",
+    "icon": "zhanghe",
+    "quality": 3
+  },
+  "539": {
+    "craft_num": 30,
+    "name": "Piece of Yang Xiu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 40,
+    "des": "Collect 30 pieces can summon Yang Xiu. At the same time, it is also a promotion material Yang Xiu up to +5.",
+    "icon": "yangxiu",
+    "quality": 3
+  },
+  "547": {
+    "craft_num": 60,
+    "name": "Piece of God.Lu Su",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 48,
+    "des": "Collect 60 pieces can summon God.Lu Su. At the same time, it is also a promotion material God.Lu Su up to +5.",
+    "icon": "WJ097",
+    "quality": 4
+  },
+  "555": {
+    "craft_num": 30,
+    "name": "Piece of Xiao Qiao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 56,
+    "des": "Collect 30 pieces can summon Xiao Qiao. At the same time, it is also a promotion material Xiao Qiao up to +5.",
+    "icon": "xiaoqiao",
+    "quality": 3
+  },
+  "563": {
+    "craft_num": 15,
+    "name": "Piece of Empress Dowager Bian",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 64,
+    "des": "Collect 15 pieces can summon Empress Dowager Bian. At the same time, it is also a promotion material Empress Dowager Bian up to +5.",
+    "icon": "blueArcher4Red",
+    "quality": 2
+  },
+  "571": {
+    "craft_num": 15,
+    "name": "Piece of Cao Hong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 72,
+    "des": "Collect 15 pieces can summon Cao Hong. At the same time, it is also a promotion material Cao Hong up to +5.",
+    "icon": "blueInfantry1White",
+    "quality": 2
+  },
+  "579": {
+    "craft_num": 15,
+    "name": "Piece of Ma Dai",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 80,
+    "des": "Collect 15 pieces can summon Ma Dai. At the same time, it is also a promotion material Ma Dai up to +5.",
+    "icon": "blueCavalry1Red",
+    "quality": 2
+  },
+  "587": {
+    "craft_num": 15,
+    "name": "Piece of Wu Tao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 88,
+    "des": "Collect 15 pieces can summon Wu Tao. At the same time, it is also a promotion material Wu Tao up to +5.",
+    "icon": "blueMage2Blue",
+    "quality": 2
+  },
+  "595": {
+    "craft_num": 15,
+    "name": "Piece of Huang Zu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 96,
+    "des": "Collect 15 pieces can summon Huang Zu. At the same time, it is also a promotion material Huang Zu up to +5.",
+    "icon": "blueInfantry1Black",
+    "quality": 2
+  },
+  "603": {
+    "craft_num": 15,
+    "name": "Piece of Wang Yun",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 104,
+    "des": "Collect 15 pieces can summon Wang Yun. At the same time, it is also a promotion material Wang Yun up to +5.",
+    "icon": "blueMage1Blue",
+    "quality": 2
+  },
+  "502": {
+    "craft_num": 30,
+    "name": "Piece of Dong Zhuo",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 3,
+    "des": "Collect 30 pieces can summon Dong Zhuo. At the same time, it is also a promotion material Dong Zhuo up to +5.",
+    "icon": "dongzhuo",
+    "quality": 3
+  },
+  "506": {
+    "craft_num": 30,
+    "name": "Piece of Jia Xu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 7,
+    "des": "Collect 30 pieces can summon Jia Xu. At the same time, it is also a promotion material Jia Xu up to +5.",
+    "icon": "jiaxu",
+    "quality": 3
+  },
+  "510": {
+    "craft_num": 30,
+    "name": "Piece of Yuan Shao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 11,
+    "des": "Collect 30 pieces can summon Yuan Shao. At the same time, it is also a promotion material Yuan Shao up to +5.",
+    "icon": "yuanshao",
+    "quality": 3
+  },
+  "516": {
+    "craft_num": 30,
+    "name": "Piece of Huang Yueying",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 17,
+    "des": "Collect 30 pieces can summon Huang Yueying. At the same time, it is also a promotion material Huang Yueying up to +5.",
+    "icon": "huangyueying",
+    "quality": 3
+  },
+  "524": {
+    "craft_num": 30,
+    "name": "Piece of Xiahou Shi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 25,
+    "des": "Collect 30 pieces can summon Xiahou Shi. At the same time, it is also a promotion material Xiahou Shi up to +5.",
+    "icon": "xiahoushi",
+    "quality": 2
+  },
+  "532": {
+    "craft_num": 30,
+    "name": "Piece of Dian Wei",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 33,
+    "des": "Collect 30 pieces can summon Dian Wei. At the same time, it is also a promotion material Dian Wei up to +5.",
+    "icon": "ganning",
+    "quality": 3
+  },
+  "540": {
+    "craft_num": 30,
+    "name": "Piece of Yu Jin",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 41,
+    "des": "Collect 30 pieces can summon Yu Jin. At the same time, it is also a promotion material Yu Jin up to +5.",
+    "icon": "xuchu",
+    "quality": 3
+  },
+  "548": {
+    "craft_num": 60,
+    "name": "Piece of God.Lu Xun",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 49,
+    "des": "Collect 60 pieces can summon God.Lu Xun. At the same time, it is also a promotion material God.Lu Xun up to +5.",
+    "icon": "WJ090",
+    "quality": 4
+  },
+  "556": {
+    "craft_num": 30,
+    "name": "Piece of Xu Sheng",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 57,
+    "des": "Collect 30 pieces can summon Xu Sheng. At the same time, it is also a promotion material Xu Sheng up to +5.",
+    "icon": "ganning",
+    "quality": 3
+  },
+  "564": {
+    "craft_num": 15,
+    "name": "Piece of Guo Nüwang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 65,
+    "des": "Collect 15 pieces can summon Guo Nüwang. At the same time, it is also a promotion material Guo Nüwang up to +5.",
+    "icon": "blueInfantry2Purple",
+    "quality": 2
+  },
+  "572": {
+    "craft_num": 15,
+    "name": "Piece of Quan anping",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 73,
+    "des": "Collect 15 pieces can summon Quan anping. At the same time, it is also a promotion material Quan anping up to +5.",
+    "icon": "blueArcher4Red",
+    "quality": 2
+  },
+  "580": {
+    "craft_num": 15,
+    "name": "Piece of Lady Mi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 81,
+    "des": "Collect 15 pieces can summon Lady Mi. At the same time, it is also a promotion material Lady Mi up to +5.",
+    "icon": "blueInfantry2Purple",
+    "quality": 2
+  },
+  "588": {
+    "craft_num": 15,
+    "name": "Piece of Lu Kang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 89,
+    "des": "Collect 15 pieces can summon Lu Kang. At the same time, it is also a promotion material Lu Kang up to +5.",
+    "icon": "blueInfantry1Black",
+    "quality": 2
+  },
+  "596": {
+    "craft_num": 15,
+    "name": "Piece of Ji Ling",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 97,
+    "des": "Collect 15 pieces can summon Ji Ling. At the same time, it is also a promotion material Ji Ling up to +5.",
+    "icon": "blueLancer1Red",
+    "quality": 2
+  },
+  "604": {
+    "craft_num": 15,
+    "name": "Piece of Huangfu Song",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 105,
+    "des": "Collect 15 pieces can summon Huangfu Song. At the same time, it is also a promotion material Huangfu Song up to +5.",
+    "icon": "blueCavalry1Blue",
+    "quality": 2
+  },
+  "517": {
+    "craft_num": 30,
+    "name": "Piece of Huang Zhong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 18,
+    "des": "Collect 30small piece can summon Huang Zhong. At the same time, it is also a promotion material Huang Zhong up to +5.",
+    "icon": "huangzhong",
+    "quality": 3
+  },
+  "525": {
+    "craft_num": 30,
+    "name": "Piece of Xu Shu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 26,
+    "des": "Collect 30 pieces can summon Xu Shu. At the same time, it is also a promotion material Xu Shu up to +5.",
+    "icon": "xushu",
+    "quality": 2
+  },
+  "533": {
+    "craft_num": 30,
+    "name": "Piece of Guo Jia",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 34,
+    "des": "Collect 30 pieces can summon Guo Jia. At the same time, it is also a promotion material Guo Jia up to +5.",
+    "icon": "guojia",
+    "quality": 3
+  },
+  "541": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Liang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 42,
+    "des": "Collect 15 pieces can summon Zhang Liang. At the same time, it is also a promotion material Zhang Liang up to +5.",
+    "icon": "blueLancer1Black",
+    "quality": 2
+  },
+  "549": {
+    "craft_num": 60,
+    "name": "Piece of God.Lu Meng",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 50,
+    "des": "Collect 60 pieces can summon God.Lu Meng. At the same time, it is also a promotion material God.Lu Meng up to +5.",
+    "icon": "WJ106",
+    "quality": 4
+  },
+  "557": {
+    "craft_num": 30,
+    "name": "Piece of Zhou Tai",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 58,
+    "des": "Collect 30 pieces can summon Zhou Tai. At the same time, it is also a promotion material Zhou Tai up to +5.",
+    "icon": "zhoutai",
+    "quality": 3
+  },
+  "565": {
+    "craft_num": 15,
+    "name": "Piece of Li Dian",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 66,
+    "des": "Collect 15 pieces can summon Li Dian. At the same time, it is also a promotion material Li Dian up to +5.",
+    "icon": "blueInfantry1White",
+    "quality": 2
+  },
+  "573": {
+    "craft_num": 15,
+    "name": "Piece of Guan Xing",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 74,
+    "des": "Collect 15 pieces can summon Guan Xing. At the same time, it is also a promotion material Guan Xing up to +5.",
+    "icon": "blueLancer1Black",
+    "quality": 2
+  },
+  "581": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Bao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 82,
+    "des": "Collect 15 pieces can summon Zhang Bao. At the same time, it is also a promotion material Zhang Bao up to +5.",
+    "icon": "blueLancer1Red",
+    "quality": 2
+  },
+  "589": {
+    "craft_num": 15,
+    "name": "Piece of Cheng Pu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 90,
+    "des": "Collect 15 pieces can summon Cheng Pu. At the same time, it is also a promotion material Cheng Pu up to +5.",
+    "icon": "blueArcher1Blue",
+    "quality": 2
+  },
+  "597": {
+    "craft_num": 15,
+    "name": "Piece of Liu Biao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 98,
+    "des": "Collect 15 pieces can summon Liu Biao. At the same time, it is also a promotion material Liu Biao up to +5.",
+    "icon": "blueInfantry1Black",
+    "quality": 2
+  },
+  "605": {
+    "craft_num": 15,
+    "name": "Piece of Chunyu Qiong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 106,
+    "des": "Collect 15 pieces can summon Chunyu Qiong. At the same time, it is also a promotion material Chunyu Qiong up to +5.",
+    "icon": "blueInfantry1Blue",
+    "quality": 2
+  },
+  "503": {
+    "craft_num": 30,
+    "name": "Piece of Gao Shun",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 4,
+    "des": "Collect 30 pieces can summon Gao Shun. At the same time, it is also a promotion material Gao Shun up to +5.",
+    "icon": "xuchu",
+    "quality": 3
+  },
+  "507": {
+    "craft_num": 30,
+    "name": "Piece of Xiao foru",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 8,
+    "des": "Collect 30 pieces can summon Xiao foru. At the same time, it is also a promotion material Xiao foru up to +5.",
+    "icon": "wenchou",
+    "quality": 3
+  },
+  "511": {
+    "craft_num": 30,
+    "name": "Piece of Zhang Jue",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 12,
+    "des": "Collect 30 pieces can summon Zhang Jue. At the same time, it is also a promotion material Zhang Jue up to +5.",
+    "icon": "zhangjiao",
+    "quality": 3
+  },
+  "518": {
+    "craft_num": 60,
+    "name": "Piece of God.Jiang Wei",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 19,
+    "des": "Collect 60 pieces can summon God.Jiang Wei. At the same time, it is also a promotion material God.Jiang Wei up to +5.",
+    "icon": "WJ072",
+    "quality": 4
+  },
+  "526": {
+    "craft_num": 30,
+    "name": "Piece of Zhang Fei",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 27,
+    "des": "Collect 30 pieces can summon Zhang Fei. At the same time, it is also a promotion material Zhang Fei up to +5.",
+    "icon": "zhangfei",
+    "quality": 3
+  },
+  "534": {
+    "craft_num": 30,
+    "name": "Piece of Yue Jin",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 35,
+    "des": "Collect 30 pieces can summon Yue Jin. At the same time, it is also a promotion material Yue Jin up to +5.",
+    "icon": "zhanghe",
+    "quality": 2
+  },
+  "542": {
+    "craft_num": 30,
+    "name": "Piece of Lady Zhen",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 43,
+    "des": "Collect 30 pieces can summon Lady Zhen. At the same time, it is also a promotion material Lady Zhen up to +5.",
+    "icon": "daqiao",
+    "quality": 3
+  },
+  "550": {
+    "craft_num": 30,
+    "name": "Piece of Pan Zhang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 51,
+    "des": "Collect 30 pieces can summon Pan Zhang. At the same time, it is also a promotion material Pan Zhang up to +5.",
+    "icon": "ganning",
+    "quality": 3
+  },
+  "558": {
+    "craft_num": 30,
+    "name": "Piece of Zhou Yu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 59,
+    "des": "Collect 30 pieces can summon Zhou Yu. At the same time, it is also a promotion material Zhou Yu up to +5.",
+    "icon": "zhouyu",
+    "quality": 3
+  },
+  "566": {
+    "craft_num": 15,
+    "name": "Piece of Wen Ping",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 67,
+    "des": "Collect 15 pieces can summon Wen Ping. At the same time, it is also a promotion material Wen Ping up to +5.",
+    "icon": "blueArcher1Blue",
+    "quality": 2
+  },
+  "574": {
+    "craft_num": 15,
+    "name": "Piece of Guan Ping",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 75,
+    "des": "Collect 15 pieces can summon Guan Ping. At the same time, it is also a promotion material Guan Ping up to +5.",
+    "icon": "blueLancer1Blue",
+    "quality": 2
+  },
+  "582": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Tinh",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 83,
+    "des": "Collect 15 pieces can summon Zhang Tinh. At the same time, it is also a promotion material Zhang Tinh up to +5.",
+    "icon": "blueLancer2Red",
+    "quality": 2
+  },
+  "590": {
+    "craft_num": 15,
+    "name": "Piece of Bu Lianshi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 91,
+    "des": "Collect 15 pieces can summon Bu Lianshi. At the same time, it is also a promotion material Bu Lianshi up to +5.",
+    "icon": "blueMage2Purple",
+    "quality": 2
+  },
+  "598": {
+    "craft_num": 15,
+    "name": "Piece of Lady Ha",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 99,
+    "des": "Collect 15 pieces can summon Lady Ha. At the same time, it is also a promotion material Lady Ha up to +5.",
+    "icon": "blueLancer2Red",
+    "quality": 2
+  },
+  "606": {
+    "craft_num": 15,
+    "name": "Piece of Zhang Bao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 107,
+    "des": "Collect 15 pieces can summon Zhang Bao. At the same time, it is also a promotion material Zhang Bao up to +5.",
+    "icon": "blueArcher1Red",
+    "quality": 2
+  },
+  "647": {
+    "craft_num": 30,
+    "name": "Piece of Lu Bu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 148,
+    "des": "Collect 30 pieces can summon Lu Bu. At the same time, it is also a promotion material Lu Bu up to +5.",
+    "icon": "lvbu",
+    "quality": 3
+  },
+  "519": {
+    "craft_num": 30,
+    "name": "Piece of Liu Bei",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 20,
+    "des": "Collect 30 pieces can summon Liu Bei. At the same time, it is also a promotion material Liu Bei up to +5.",
+    "icon": "liubei",
+    "quality": 3
+  },
+  "527": {
+    "craft_num": 60,
+    "name": "Piece of God.Zhuge Liang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 28,
+    "des": "Collect 60 pieces can summon God.Zhuge Liang. At the same time, it is also a promotion material God.Zhuge Liang up to +5.",
+    "icon": "WJ105",
+    "quality": 4
+  },
+  "535": {
+    "craft_num": 60,
+    "name": "Piece of God.Sima Yi",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 36,
+    "des": "Collect 60 pieces can summon God.Sima Yi. At the same time, it is also a promotion material God.Sima Yi up to +5.",
+    "icon": "WJ100",
+    "quality": 4
+  },
+  "543": {
+    "craft_num": 30,
+    "name": "Piece of Da Qiao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 44,
+    "des": "Collect 30 pieces can summon Da Qiao. At the same time, it is also a promotion material Da Qiao up to +5.",
+    "icon": "daqiao",
+    "quality": 3
+  },
+  "551": {
+    "craft_num": 60,
+    "name": "Piece of God.Sun Jian",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 52,
+    "des": "Collect 60 pieces can summon God.Sun Jian. At the same time, it is also a promotion material God.Sun Jian up to +5.",
+    "icon": "WJ080",
+    "quality": 4
+  },
+  "559": {
+    "craft_num": 30,
+    "name": "Piece of Cai Yan",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 60,
+    "des": "Collect 30 pieces can summon Cai Yan. At the same time, it is also a promotion material Cai Yan up to +5.",
+    "icon": "blueMage2Purple",
+    "quality": 3
+  },
+  "567": {
+    "craft_num": 15,
+    "name": "Piece of Man forng",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 68,
+    "des": "Collect 15 pieces can summon Man forng. At the same time, it is also a promotion material Man forng up to +5.",
+    "icon": "blueArcher1Blue",
+    "quality": 2
+  },
+  "646": {
+    "craft_num": 30,
+    "name": "Piece of Zhao Yun",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 147,
+    "des": "Collect 30 pieces can summon Zhao Yun. At the same time, it is also a promotion material Zhao Yun up to +5.",
+    "icon": "zhaoyun",
+    "quality": 3
+  },
+  "610": {
+    "craft_num": 60,
+    "name": "Piece of God.Hou Tou",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 192,
+    "des": "Collect 60 pieces can summon God.Hou Tou. At the same time, it is also a promotion material God.Hou Tou up to +5.",
+    "icon": "WJ033",
+    "quality": 4
+  },
+  "611": {
+    "craft_num": 60,
+    "name": "Piece of God.Guan Yu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 193,
+    "des": "Collect 60 pieces can summon God.Guan Yu. At the same time, it is also a promotion material God.Guan Yu up to +5.",
+    "icon": "WJ034",
+    "quality": 4
+  },
+  "612": {
+    "craft_num": 60,
+    "name": "Piece of God.Zhang Fei",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 194,
+    "des": "Collect 60 pieces can summon God.Zhang Fei. At the same time, it is also a promotion material God.Zhang Fei up to +5.",
+    "icon": "WJ035",
+    "quality": 4
+  },
+  "613": {
+    "craft_num": 60,
+    "name": "Piece of God.Lu Bu",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 196,
+    "des": "Collect 60 pieces can summon God.Lu Bu. At the same time, it is also a promotion material God.Lu Bu up to +5.",
+    "icon": "WJ027",
+    "quality": 4
+  },
+  "614": {
+    "craft_num": 60,
+    "name": "Piece of God.Taishi Ci",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 198,
+    "des": "Collect 60 pieces can summon God.Taishi Ci. At the same time, it is also a promotion material God.Taishi Ci up to +5.",
+    "icon": "WJ077",
+    "quality": 4
+  },
+  "615": {
+    "craft_num": 60,
+    "name": "Piece of God.Zhao Yun",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 199,
+    "des": "Collect 60 pieces can summon God.Zhao Yun. At the same time, it is also a promotion material God.Zhao Yun up to +5.",
+    "icon": "WJ036",
+    "quality": 4
+  },
+  "616": {
+    "craft_num": 60,
+    "name": "Piece of Guo Nüwang",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 195,
+    "des": "Collect 60 pieces can summon Guo Nüwang. At the same time, it is also a promotion material Guo Nüwang up to +5.",
+    "icon": "WJ085",
+    "quality": 4
+  },
+  "617": {
+    "craft_num": 60,
+    "name": "Piece of God.Sun Ce",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 184,
+    "des": "Collect 60 pieces can summon God.Sun Ce. At the same time, it is also a promotion material God.Sun Ce up to +5.",
+    "icon": "WJ086_1",
+    "quality": 4
+  },
+  "618": {
+    "craft_num": 60,
+    "name": "Piece of God.Ma Chao",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 214,
+    "des": "Collect 60 pieces can summon God.Ma Chao. At the same time, it is also a promotion material God.Ma Chao up to +5.",
+    "icon": "WJ039",
+    "quality": 4
+  },
+  "619": {
+    "craft_num": 60,
+    "name": "Piece of God.Huang Zhong",
+    "bind_stages": [
+      101,
+      102
+    ],
+    "card_id": 215,
+    "des": "Collect 60 pieces can summon God.Huang Zhong. At the same time, it is also a promotion material God.Huang Zhong up to +5.",
+    "icon": "WJ087",
+    "quality": 4
+  }
+}

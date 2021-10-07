@@ -1,0 +1,333 @@
+[
+  {
+    "order": 1,
+    "text": [
+      "Congratulations【%s】achieves epic hero【%s】！"
+    ]
+  },
+  {
+    "order": 2,
+    "text": [
+      "Congratulations【%s】achieves epic hero in shop【%s】！"
+    ]
+  },
+  {
+    "order": 2,
+    "text": [
+      "Congratulations【%s】hero【%s】upgrade to level %s"
+    ],
+    "parameters": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "order": 3,
+    "text": [
+      "Congratulations【%s】finished【%s】- Normal"
+    ],
+    "parameters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "order": 4,
+    "text": [
+      "Congratulations【%s】finished【%s - Elite】"
+    ],
+    "parameters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "order": 5,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete training hero stage: Battle of Changban",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 5,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete training hero stage: Battle of Guandu",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 5,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete training hero stage: Burning Camp",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 5,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete training hero stage: War of All Heroes",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 5,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete training hero stage: War of Vassal",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 5,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete training hero stage: Good soldier good hourse",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 6,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete Epic Campaign：Battle of Red Cliffs",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 6,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Complete Epic Campaign：The Battle of Jingzhou",
+      "p2"
+    ],
+    "parameters": [
+      4,
+      5
+    ]
+  },
+  {
+    "order": 7,
+    "text": [
+      "Congratulations【%s】receive equipment epic【%s】"
+    ]
+  },
+  {
+    "order": 7,
+    "text": [
+      "Congratulations【%s】receive Museum piece epic【%s】"
+    ]
+  },
+  {
+    "order": 8,
+    "text": [
+      "Congratulations【%s】 hero epic upgrade to level 【%s】"
+    ],
+    "parameters": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "order": 9,
+    "text": [
+      "Congratulations【%s】 in arena reached rank 【%s】"
+    ],
+    "parameters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "order": 10,
+    "text": [
+      "Congratulations【%s】receive Museum piece epic【%d】"
+    ],
+    "parameters": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Congratulations",
+      "p1",
+      "Guild up to level",
+      "p2",
+      "level"
+    ],
+    "parameters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Congratulations【%s】play the golden hand to receive the critical reward, receive 【X%s】 copper"
+    ],
+    "parameters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Congratulations【%s】 Equip runes to get the effect 【%s】, you try too！"
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Congratulations【%s】in the secret base receive blue rune, really fan！"
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "BOSS world reborn challenges the whole world！The time for fame has come！"
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "World BOSS fell down, 【%s】 we won！"
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Congratulations【%s】receive golden hero【%s】！I also want！"
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Bigbang！【%s-%s】 the king returns, enjoy everyone's worship！"
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Congratulations【%s nation】 destroy enemy's soldiers, complete unification of the world！"
+    ]
+  },
+  {
+    "order": 11,
+    "text": [
+      "Congratulations【%s】 have great luck, Join in the amazing activity and win a big prize！"
+    ]
+  }
+]

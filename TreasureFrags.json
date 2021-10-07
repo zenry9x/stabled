@@ -1,0 +1,1416 @@
+{
+  "3594": {
+    "treasure": 3101,
+    "name": "Black Wind small piece 1",
+    "quality": 1,
+    "icon": "3101_1.png",
+    "des": "Used to combine Black Wind"
+  },
+  "3595": {
+    "treasure": 3101,
+    "name": "Black Wind small piece 2",
+    "quality": 1,
+    "icon": "3101_2.png",
+    "des": "Used to combine Black Wind"
+  },
+  "3596": {
+    "treasure": 3101,
+    "name": "Black Wind small piece 3",
+    "quality": 1,
+    "icon": "3101_3.png",
+    "des": "Used to combine Black Wind"
+  },
+  "3597": {
+    "treasure": 3101,
+    "name": "Black Wind small piece 4",
+    "quality": 1,
+    "icon": "3101_4.png",
+    "des": "Used to combine Black Wind"
+  },
+  "3598": {
+    "treasure": 3102,
+    "name": "Thunder small piece 1",
+    "quality": 1,
+    "icon": "3102_1.png",
+    "des": "Used to combine Thunder"
+  },
+  "3599": {
+    "treasure": 3102,
+    "name": "Thunder small piece 2",
+    "quality": 1,
+    "icon": "3102_2.png",
+    "des": "Used to combine Thunder"
+  },
+  "3600": {
+    "treasure": 3102,
+    "name": "Thunder small piece 3",
+    "quality": 1,
+    "icon": "3102_3.png",
+    "des": "Used to combine Thunder"
+  },
+  "3601": {
+    "treasure": 3102,
+    "name": "Thunder small piece 4",
+    "quality": 1,
+    "icon": "3102_4.png",
+    "des": "Used to combine Thunder"
+  },
+  "3602": {
+    "treasure": 3103,
+    "name": "White flamingoes small piece 1",
+    "quality": 1,
+    "icon": "3103_1.png",
+    "des": "Used to combine White flamingoes"
+  },
+  "3603": {
+    "treasure": 3103,
+    "name": "White flamingoes small piece 2",
+    "quality": 1,
+    "icon": "3103_2.png",
+    "des": "Used to combine White flamingoes"
+  },
+  "3604": {
+    "treasure": 3103,
+    "name": "White flamingoes small piece 3",
+    "quality": 1,
+    "icon": "3103_3.png",
+    "des": "Used to combine White flamingoes"
+  },
+  "3605": {
+    "treasure": 3103,
+    "name": "White flamingoes small piece 4",
+    "quality": 1,
+    "icon": "3103_4.png",
+    "des": "Used to combine White flamingoes"
+  },
+  "3606": {
+    "treasure": 3104,
+    "name": "Black Cloud small piece 1",
+    "quality": 1,
+    "icon": "3104_1.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3607": {
+    "treasure": 3104,
+    "name": "Black Cloud small piece 2",
+    "quality": 1,
+    "icon": "3104_2.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3608": {
+    "treasure": 3104,
+    "name": "Black Cloud small piece 3",
+    "quality": 1,
+    "icon": "3104_3.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3609": {
+    "treasure": 3104,
+    "name": "Black Cloud small piece 4",
+    "quality": 1,
+    "icon": "3104_4.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3610": {
+    "treasure": 3105,
+    "name": "White Snow small piece 1",
+    "quality": 1,
+    "icon": "3105_1.png",
+    "des": "Used to combine White Snow"
+  },
+  "3611": {
+    "treasure": 3105,
+    "name": "White Snow small piece 2",
+    "quality": 1,
+    "icon": "3105_2.png",
+    "des": "Used to combine White Snow"
+  },
+  "3612": {
+    "treasure": 3105,
+    "name": "White Snow small piece 3",
+    "quality": 1,
+    "icon": "3105_3.png",
+    "des": "Used to combine White Snow"
+  },
+  "3613": {
+    "treasure": 3105,
+    "name": "White Snow small piece 4",
+    "quality": 1,
+    "icon": "3105_4.png",
+    "des": "Used to combine White Snow"
+  },
+  "3614": {
+    "treasure": 3106,
+    "name": "Black small piece 1",
+    "quality": 2,
+    "icon": "3106_1.png",
+    "des": "Used to combine Black"
+  },
+  "3615": {
+    "treasure": 3106,
+    "name": "Black small piece 2",
+    "quality": 2,
+    "icon": "3106_2.png",
+    "des": "Used to combine Black"
+  },
+  "3616": {
+    "treasure": 3106,
+    "name": "Black small piece 3",
+    "quality": 2,
+    "icon": "3106_3.png",
+    "des": "Used to combine Black"
+  },
+  "3617": {
+    "treasure": 3106,
+    "name": "Black small piece 4",
+    "quality": 2,
+    "icon": "3106_4.png",
+    "des": "Used to combine Black"
+  },
+  "3618": {
+    "treasure": 3106,
+    "name": "Black small piece 5",
+    "quality": 2,
+    "icon": "3106_1.png",
+    "des": "Used to combine Black"
+  },
+  "3619": {
+    "treasure": 3107,
+    "name": "White Dragon small piece 1",
+    "quality": 2,
+    "icon": "3107_1.png",
+    "des": "Used to combine White Dragon"
+  },
+  "3620": {
+    "treasure": 3107,
+    "name": "White Dragon small piece 2",
+    "quality": 2,
+    "icon": "3107_2.png",
+    "des": "Used to combine White Dragon"
+  },
+  "3621": {
+    "treasure": 3107,
+    "name": "White Dragon small piece 3",
+    "quality": 2,
+    "icon": "3107_3.png",
+    "des": "Used to combine White Dragon"
+  },
+  "3622": {
+    "treasure": 3107,
+    "name": "White Dragon small piece 4",
+    "quality": 2,
+    "icon": "3107_4.png",
+    "des": "Used to combine White Dragon"
+  },
+  "3623": {
+    "treasure": 3107,
+    "name": "White Dragon small piece 5",
+    "quality": 2,
+    "icon": "3107_1.png",
+    "des": "Used to combine White Dragon"
+  },
+  "3624": {
+    "treasure": 3108,
+    "name": "Shapi small piece 1",
+    "quality": 2,
+    "icon": "3108_1.png",
+    "des": "Used to combine Shapi"
+  },
+  "3625": {
+    "treasure": 3108,
+    "name": "Shapi small piece 2",
+    "quality": 2,
+    "icon": "3108_2.png",
+    "des": "Used to combine Shapi"
+  },
+  "3626": {
+    "treasure": 3108,
+    "name": "Shapi small piece 3",
+    "quality": 2,
+    "icon": "3108_3.png",
+    "des": "Used to combine Shapi"
+  },
+  "3627": {
+    "treasure": 3108,
+    "name": "Shapi small piece 4",
+    "quality": 2,
+    "icon": "3108_4.png",
+    "des": "Used to combine Shapi"
+  },
+  "3500": {
+    "treasure": 3000,
+    "name": "Chronicles small piece 1",
+    "quality": 1,
+    "icon": "3000_1.png",
+    "des": "Used to combine Chronicles"
+  },
+  "3628": {
+    "treasure": 3108,
+    "name": "Shapi small piece 5",
+    "quality": 2,
+    "icon": "3108_1.png",
+    "des": "Used to combine Shapi"
+  },
+  "3501": {
+    "treasure": 3000,
+    "name": "Chronicles small piece 2",
+    "quality": 1,
+    "icon": "3000_2.png",
+    "des": "Used to combine Chronicles"
+  },
+  "3629": {
+    "treasure": 3109,
+    "name": "Shadow Illusion small piece 1",
+    "quality": 2,
+    "icon": "3109_1.png",
+    "des": "Used to combine Shadow Illusion"
+  },
+  "3502": {
+    "treasure": 3000,
+    "name": "Chronicles small piece 3",
+    "quality": 1,
+    "icon": "3000_3.png",
+    "des": "Used to combine Chronicles"
+  },
+  "3630": {
+    "treasure": 3109,
+    "name": "Shadow Illusion small piece 2",
+    "quality": 2,
+    "icon": "3109_2.png",
+    "des": "Used to combine Shadow Illusion"
+  },
+  "3503": {
+    "treasure": 3000,
+    "name": "Chronicles small piece 4",
+    "quality": 1,
+    "icon": "3000_4.png",
+    "des": "Used to combine Chronicles"
+  },
+  "3631": {
+    "treasure": 3109,
+    "name": "Shadow Illusion small piece 3",
+    "quality": 2,
+    "icon": "3109_3.png",
+    "des": "Used to combine Shadow Illusion"
+  },
+  "3504": {
+    "treasure": 3001,
+    "name": "Book of Documents small piece 1",
+    "quality": 1,
+    "icon": "3001_1.png",
+    "des": "Used to combine Book of Documents"
+  },
+  "3632": {
+    "treasure": 3109,
+    "name": "Shadow Illusion small piece 4",
+    "quality": 2,
+    "icon": "3109_4.png",
+    "des": "Used to combine Shadow Illusion"
+  },
+  "3505": {
+    "treasure": 3001,
+    "name": "Book of Documents small piece 2",
+    "quality": 1,
+    "icon": "3001_2.png",
+    "des": "Used to combine Book of Documents"
+  },
+  "3633": {
+    "treasure": 3109,
+    "name": "Shadow Illusion small piece 5",
+    "quality": 2,
+    "icon": "3109_1.png",
+    "des": "Used to combine Shadow Illusion"
+  },
+  "3506": {
+    "treasure": 3001,
+    "name": "Book of Documents small piece 3",
+    "quality": 1,
+    "icon": "3001_3.png",
+    "des": "Used to combine Book of Documents"
+  },
+  "3634": {
+    "treasure": 3110,
+    "name": "Dragon Gem small piece 1",
+    "quality": 2,
+    "icon": "3110_1.png",
+    "des": "Used to combine Dragon Gem"
+  },
+  "3507": {
+    "treasure": 3001,
+    "name": "Book of Documents small piece 4",
+    "quality": 1,
+    "icon": "3001_4.png",
+    "des": "Used to combine Book of Documents"
+  },
+  "3635": {
+    "treasure": 3110,
+    "name": "Dragon Gem small piece 2",
+    "quality": 2,
+    "icon": "3110_2.png",
+    "des": "Used to combine Dragon Gem"
+  },
+  "3508": {
+    "treasure": 3002,
+    "name": "Wei Gongzi Tactics small piece 1",
+    "quality": 1,
+    "icon": "3002_1.png",
+    "des": "Used to combine Wei Gongzi Tactics"
+  },
+  "3636": {
+    "treasure": 3110,
+    "name": "Dragon Gem small piece 3",
+    "quality": 2,
+    "icon": "3110_3.png",
+    "des": "Used to combine Dragon Gem"
+  },
+  "3509": {
+    "treasure": 3002,
+    "name": "Wei Gongzi Tactics small piece 2",
+    "quality": 1,
+    "icon": "3002_2.png",
+    "des": "Used to combine Wei Gongzi Tactics"
+  },
+  "3637": {
+    "treasure": 3110,
+    "name": "Dragon Gem small piece 4",
+    "quality": 2,
+    "icon": "3110_4.png",
+    "des": "Used to combine Dragon Gem"
+  },
+  "3510": {
+    "treasure": 3002,
+    "name": "Wei Gongzi Tactics small piece 3",
+    "quality": 1,
+    "icon": "3002_3.png",
+    "des": "Used to combine Wei Gongzi Tactics"
+  },
+  "3638": {
+    "treasure": 3110,
+    "name": "Dragon Gem small piece 5",
+    "quality": 2,
+    "icon": "3110_1.png",
+    "des": "Used to combine Dragon Gem"
+  },
+  "3511": {
+    "treasure": 3002,
+    "name": "Wei Gongzi Tactics small piece 4",
+    "quality": 1,
+    "icon": "3002_4.png",
+    "des": "Used to combine Wei Gongzi Tactics"
+  },
+  "3639": {
+    "treasure": 3111,
+    "name": "Jin Fan small piece 1",
+    "quality": 2,
+    "icon": "3111_1.png",
+    "des": "Used to combine Jin Fan"
+  },
+  "3512": {
+    "treasure": 3003,
+    "name": "The Rich small piece 1",
+    "quality": 1,
+    "icon": "3003_1.png",
+    "des": "Used to combine The Rich"
+  },
+  "3640": {
+    "treasure": 3111,
+    "name": "Jin Fan small piece 2",
+    "quality": 2,
+    "icon": "3111_2.png",
+    "des": "Used to combine Jin Fan"
+  },
+  "3513": {
+    "treasure": 3003,
+    "name": "The Rich small piece 2",
+    "quality": 1,
+    "icon": "3003_2.png",
+    "des": "Used to combine The Rich"
+  },
+  "3641": {
+    "treasure": 3111,
+    "name": "Jin Fan small piece 3",
+    "quality": 2,
+    "icon": "3111_3.png",
+    "des": "Used to combine Jin Fan"
+  },
+  "3514": {
+    "treasure": 3003,
+    "name": "The Rich small piece 3",
+    "quality": 1,
+    "icon": "3003_3.png",
+    "des": "Used to combine The Rich"
+  },
+  "3642": {
+    "treasure": 3111,
+    "name": "Jin Fan small piece 4",
+    "quality": 2,
+    "icon": "3111_4.png",
+    "des": "Used to combine Jin Fan"
+  },
+  "3515": {
+    "treasure": 3003,
+    "name": "The Rich small piece 4",
+    "quality": 1,
+    "icon": "3003_4.png",
+    "des": "Used to combine The Rich"
+  },
+  "3643": {
+    "treasure": 3111,
+    "name": "Jin Fan small piece 5",
+    "quality": 2,
+    "icon": "3111_1.png",
+    "des": "Used to combine Jin Fan"
+  },
+  "3516": {
+    "treasure": 3004,
+    "name": "Sima Tactics small piece 1",
+    "quality": 1,
+    "icon": "3004_1.png",
+    "des": "Used to combine Sima Tactics"
+  },
+  "3644": {
+    "treasure": 3112,
+    "name": "The Night of the Lion Jade small piece 1",
+    "quality": 3,
+    "icon": "3112_1.png",
+    "des": "Used to combine The Night of the Lion Jade"
+  },
+  "3517": {
+    "treasure": 3004,
+    "name": "Sima Tactics small piece 2",
+    "quality": 1,
+    "icon": "3004_2.png",
+    "des": "Used to combine Sima Tactics"
+  },
+  "3645": {
+    "treasure": 3112,
+    "name": "The Night of the Lion Jade small piece 2",
+    "quality": 3,
+    "icon": "3112_2.png",
+    "des": "Used to combine The Night of the Lion Jade"
+  },
+  "3518": {
+    "treasure": 3004,
+    "name": "Sima Tactics small piece 3",
+    "quality": 1,
+    "icon": "3004_3.png",
+    "des": "Used to combine Sima Tactics"
+  },
+  "3646": {
+    "treasure": 3112,
+    "name": "The Night of the Lion Jade small piece 3",
+    "quality": 3,
+    "icon": "3112_3.png",
+    "des": "Used to combine The Night of the Lion Jade"
+  },
+  "3519": {
+    "treasure": 3004,
+    "name": "Sima Tactics small piece 4",
+    "quality": 1,
+    "icon": "3004_4.png",
+    "des": "Used to combine Sima Tactics"
+  },
+  "3647": {
+    "treasure": 3112,
+    "name": "The Night of the Lion Jade small piece 4",
+    "quality": 3,
+    "icon": "3112_4.png",
+    "des": "Used to combine The Night of the Lion Jade"
+  },
+  "3520": {
+    "treasure": 3005,
+    "name": "Classic of Poetry small piece 1",
+    "quality": 1,
+    "icon": "3005_1.png",
+    "des": "Used to combine Classic of Poetry"
+  },
+  "3648": {
+    "treasure": 3112,
+    "name": "The Night of the Lion Jade small piece 5",
+    "quality": 3,
+    "icon": "3112_1.png",
+    "des": "Used to combine The Night of the Lion Jade"
+  },
+  "3521": {
+    "treasure": 3005,
+    "name": "Classic of Poetry small piece 2",
+    "quality": 1,
+    "icon": "3005_2.png",
+    "des": "Used to combine Classic of Poetry"
+  },
+  "3649": {
+    "treasure": 3112,
+    "name": "The Night of the Lion Jade small piece 6",
+    "quality": 3,
+    "icon": "3112_2.png",
+    "des": "Used to combine The Night of the Lion Jade"
+  },
+  "3522": {
+    "treasure": 3005,
+    "name": "Classic of Poetry small piece 3",
+    "quality": 1,
+    "icon": "3005_3.png",
+    "des": "Used to combine Classic of Poetry"
+  },
+  "3650": {
+    "treasure": 3113,
+    "name": "Thunder Golden Claw small piece 1",
+    "quality": 3,
+    "icon": "3113_1.png",
+    "des": "Used to combine Thunder Golden Claw"
+  },
+  "3523": {
+    "treasure": 3005,
+    "name": "Classic of Poetry small piece 4",
+    "quality": 1,
+    "icon": "3005_4.png",
+    "des": "Used to combine Classic of Poetry"
+  },
+  "3651": {
+    "treasure": 3113,
+    "name": "Thunder Golden Claw small piece 2",
+    "quality": 3,
+    "icon": "3113_2.png",
+    "des": "Used to combine Thunder Golden Claw"
+  },
+  "3524": {
+    "treasure": 3006,
+    "name": "Way of the Taiping small piece 1",
+    "quality": 2,
+    "icon": "3006_1.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3652": {
+    "treasure": 3113,
+    "name": "Thunder Golden Claw small piece 3",
+    "quality": 3,
+    "icon": "3113_3.png",
+    "des": "Used to combine Thunder Golden Claw"
+  },
+  "3525": {
+    "treasure": 3006,
+    "name": "Way of the Taiping small piece 2",
+    "quality": 2,
+    "icon": "3006_2.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3653": {
+    "treasure": 3113,
+    "name": "Thunder Golden Claw small piece 4",
+    "quality": 3,
+    "icon": "3113_4.png",
+    "des": "Used to combine Thunder Golden Claw"
+  },
+  "3526": {
+    "treasure": 3006,
+    "name": "Way of the Taiping small piece 3",
+    "quality": 2,
+    "icon": "3006_3.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3654": {
+    "treasure": 3113,
+    "name": "Thunder Golden Claw small piece 5",
+    "quality": 3,
+    "icon": "3113_1.png",
+    "des": "Used to combine Thunder Golden Claw"
+  },
+  "3527": {
+    "treasure": 3006,
+    "name": "Way of the Taiping small piece 4",
+    "quality": 2,
+    "icon": "3006_4.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3655": {
+    "treasure": 3113,
+    "name": "Thunder Golden Claw small piece 6",
+    "quality": 3,
+    "icon": "3113_2.png",
+    "des": "Used to combine Thunder Golden Claw"
+  },
+  "3528": {
+    "treasure": 3006,
+    "name": "Way of the Taiping  small piece 5",
+    "quality": 2,
+    "icon": "3006_1.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3656": {
+    "treasure": 3114,
+    "name": "White Horse small piece 1",
+    "quality": 3,
+    "icon": "3114_1.png",
+    "des": "Used to combine White Horse"
+  },
+  "3529": {
+    "treasure": 3007,
+    "name": "Six Secret Teachings small piece 1",
+    "quality": 2,
+    "icon": "3007_1.png",
+    "des": "Used to combine Six Secret Teachings"
+  },
+  "3657": {
+    "treasure": 3114,
+    "name": "White Horse small piece 2",
+    "quality": 3,
+    "icon": "3114_2.png",
+    "des": "Used to combine White Horse"
+  },
+  "3530": {
+    "treasure": 3007,
+    "name": "Six Secret Teachings small piece 2",
+    "quality": 2,
+    "icon": "3007_2.png",
+    "des": "Used to combine Six Secret Teachings"
+  },
+  "3658": {
+    "treasure": 3114,
+    "name": "White Horse small piece 3",
+    "quality": 3,
+    "icon": "3114_3.png",
+    "des": "Used to combine White Horse"
+  },
+  "3531": {
+    "treasure": 3007,
+    "name": "Six Secret Teachings small piece 3",
+    "quality": 2,
+    "icon": "3007_3.png",
+    "des": "Used to combine Six Secret Teachings"
+  },
+  "3659": {
+    "treasure": 3114,
+    "name": "White Horse small piece 4",
+    "quality": 3,
+    "icon": "3114_4.png",
+    "des": "Used to combine White Horse"
+  },
+  "3532": {
+    "treasure": 3007,
+    "name": "Six Secret Teachings small piece 4",
+    "quality": 2,
+    "icon": "3007_4.png",
+    "des": "Used to combine Six Secret Teachings"
+  },
+  "3660": {
+    "treasure": 3114,
+    "name": "White Horse small piece 5",
+    "quality": 3,
+    "icon": "3114_1.png",
+    "des": "Used to combine White Horse"
+  },
+  "3533": {
+    "treasure": 3007,
+    "name": "Six Secret Teachings small piece 5",
+    "quality": 2,
+    "icon": "3007_1.png",
+    "des": "Used to combine Six Secret Teachings"
+  },
+  "3661": {
+    "treasure": 3114,
+    "name": "White Horse small piece 6",
+    "quality": 3,
+    "icon": "3114_2.png",
+    "des": "Used to combine White Horse"
+  },
+  "3534": {
+    "treasure": 3008,
+    "name": " The Three Strategies small piece 1",
+    "quality": 2,
+    "icon": "3008_1.png",
+    "des": "Used to combine  The Three Strategies"
+  },
+  "3662": {
+    "treasure": 3115,
+    "name": "Great Fantasy small piece 1",
+    "quality": 3,
+    "icon": "3115_1.png",
+    "des": "Used to combine Great Fantasy"
+  },
+  "3535": {
+    "treasure": 3008,
+    "name": " The Three Strategies small piece 2",
+    "quality": 2,
+    "icon": "3008_2.png",
+    "des": "Used to combine  The Three Strategies"
+  },
+  "3663": {
+    "treasure": 3115,
+    "name": "Great Fantasy small piece 2",
+    "quality": 3,
+    "icon": "3115_2.png",
+    "des": "Used to combine Great Fantasy"
+  },
+  "3536": {
+    "treasure": 3008,
+    "name": " The Three Strategies small piece 3",
+    "quality": 2,
+    "icon": "3008_3.png",
+    "des": "Used to combine  The Three Strategies"
+  },
+  "3664": {
+    "treasure": 3115,
+    "name": "Great Fantasy small piece 3",
+    "quality": 3,
+    "icon": "3115_3.png",
+    "des": "Used to combine Great Fantasy"
+  },
+  "3537": {
+    "treasure": 3008,
+    "name": " The Three Strategies small piece 4",
+    "quality": 2,
+    "icon": "3008_4.png",
+    "des": "Used to combine  The Three Strategies"
+  },
+  "3665": {
+    "treasure": 3115,
+    "name": "Great Fantasy small piece 4",
+    "quality": 3,
+    "icon": "3115_4.png",
+    "des": "Used to combine Great Fantasy"
+  },
+  "3538": {
+    "treasure": 3008,
+    "name": " The Three Strategies small piece 5",
+    "quality": 2,
+    "icon": "3008_1.png",
+    "des": "Used to combine  The Three Strategies"
+  },
+  "3666": {
+    "treasure": 3115,
+    "name": "Great Fantasy small piece 5",
+    "quality": 3,
+    "icon": "3115_1.png",
+    "des": "Used to combine Great Fantasy"
+  },
+  "3539": {
+    "treasure": 3009,
+    "name": "Sun Bin's Art of War small piece 1",
+    "quality": 2,
+    "icon": "3009_1.png",
+    "des": "Used to combine Sun Bin's Art of War"
+  },
+  "3667": {
+    "treasure": 3115,
+    "name": "Great Fantasy small piece 6",
+    "quality": 3,
+    "icon": "3115_2.png",
+    "des": "Used to combine Great Fantasy"
+  },
+  "3540": {
+    "treasure": 3009,
+    "name": "Sun Bin's Art of War small piece 2",
+    "quality": 2,
+    "icon": "3009_2.png",
+    "des": "Used to combine Sun Bin's Art of War"
+  },
+  "3668": {
+    "treasure": 3116,
+    "name": "Red Hare small piece 1",
+    "quality": 3,
+    "icon": "3116_1.png",
+    "des": "Used to combine Red Hare"
+  },
+  "3541": {
+    "treasure": 3009,
+    "name": "Sun Bin's Art of War small piece 3",
+    "quality": 2,
+    "icon": "3009_3.png",
+    "des": "Used to combine Sun Bin's Art of War"
+  },
+  "3669": {
+    "treasure": 3116,
+    "name": "Red Hare small piece 2",
+    "quality": 3,
+    "icon": "3116_2.png",
+    "des": "Used to combine Red Hare"
+  },
+  "3542": {
+    "treasure": 3009,
+    "name": "Sun Bin's Art of War small piece 4",
+    "quality": 2,
+    "icon": "3009_4.png",
+    "des": "Used to combine Sun Bin's Art of War"
+  },
+  "3670": {
+    "treasure": 3116,
+    "name": "Red Hare small piece 3",
+    "quality": 3,
+    "icon": "3116_3.png",
+    "des": "Used to combine Red Hare"
+  },
+  "3543": {
+    "treasure": 3009,
+    "name": "Sun Bin's Art of War small piece 5",
+    "quality": 2,
+    "icon": "3009_1.png",
+    "des": "Used to combine Sun Bin's Art of War"
+  },
+  "3671": {
+    "treasure": 3116,
+    "name": "Red Hare small piece 4",
+    "quality": 3,
+    "icon": "3116_4.png",
+    "des": "Used to combine Red Hare"
+  },
+  "3544": {
+    "treasure": 3010,
+    "name": "Analects small piece 1",
+    "quality": 2,
+    "icon": "3010_1.png",
+    "des": "Used to combine Analects"
+  },
+  "3672": {
+    "treasure": 3116,
+    "name": "Red Hare small piece 5",
+    "quality": 3,
+    "icon": "3116_1.png",
+    "des": "Used to combine Red Hare"
+  },
+  "3545": {
+    "treasure": 3010,
+    "name": "Analects small piece 2",
+    "quality": 2,
+    "icon": "3010_2.png",
+    "des": "Used to combine Analects"
+  },
+  "3673": {
+    "treasure": 3116,
+    "name": "Red Hare small piece 6",
+    "quality": 3,
+    "icon": "3116_2.png",
+    "des": "Used to combine Red Hare"
+  },
+  "3546": {
+    "treasure": 3010,
+    "name": "Analects small piece 3",
+    "quality": 2,
+    "icon": "3010_3.png",
+    "des": "Used to combine Analects"
+  },
+  "3674": {
+    "treasure": 3117,
+    "name": "Black Cloud small piece 1",
+    "quality": 3,
+    "icon": "3117_1.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3547": {
+    "treasure": 3010,
+    "name": "Analects small piece 4",
+    "quality": 2,
+    "icon": "3010_4.png",
+    "des": "Used to combine Analects"
+  },
+  "3675": {
+    "treasure": 3117,
+    "name": "Black Cloud small piece 2",
+    "quality": 3,
+    "icon": "3117_2.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3548": {
+    "treasure": 3010,
+    "name": "Analects small piece 5",
+    "quality": 2,
+    "icon": "3010_1.png",
+    "des": "Used to combine Analects"
+  },
+  "3676": {
+    "treasure": 3117,
+    "name": "Black Cloud small piece 3",
+    "quality": 3,
+    "icon": "3117_3.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3549": {
+    "treasure": 3011,
+    "name": "I Ching small piece 1",
+    "quality": 2,
+    "icon": "3011_1.png",
+    "des": "Used to combine I Ching"
+  },
+  "3677": {
+    "treasure": 3117,
+    "name": "Black Cloud small piece 4",
+    "quality": 3,
+    "icon": "3117_4.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3550": {
+    "treasure": 3011,
+    "name": "I Ching small piece 2",
+    "quality": 2,
+    "icon": "3011_2.png",
+    "des": "Used to combine I Ching"
+  },
+  "3678": {
+    "treasure": 3117,
+    "name": "Black Cloud small piece 5",
+    "quality": 3,
+    "icon": "3117_1.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3551": {
+    "treasure": 3011,
+    "name": "I Ching small piece 3",
+    "quality": 2,
+    "icon": "3011_3.png",
+    "des": "Used to combine I Ching"
+  },
+  "3679": {
+    "treasure": 3117,
+    "name": "Black Cloud small piece 6",
+    "quality": 3,
+    "icon": "3117_2.png",
+    "des": "Used to combine Black Cloud"
+  },
+  "3552": {
+    "treasure": 3011,
+    "name": "I Ching small piece 4",
+    "quality": 2,
+    "icon": "3011_4.png",
+    "des": "Used to combine I Ching"
+  },
+  "3680": {
+    "treasure": 3098,
+    "name": " Silver Letter small piece 1",
+    "quality": 2,
+    "icon": "3098_1.png",
+    "des": "Used to combine  Silver Letter"
+  },
+  "3553": {
+    "treasure": 3011,
+    "name": "I Ching small piece 5",
+    "quality": 2,
+    "icon": "3011_1.png",
+    "des": "Used to combine I Ching"
+  },
+  "3681": {
+    "treasure": 3098,
+    "name": " Silver Letter small piece 2",
+    "quality": 2,
+    "icon": "3098_2.png",
+    "des": "Used to combine  Silver Letter"
+  },
+  "3554": {
+    "treasure": 3012,
+    "name": "Way of the Taiping small piece 1",
+    "quality": 3,
+    "icon": "3012_1.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3682": {
+    "treasure": 3098,
+    "name": " Silver Letter small piece 3",
+    "quality": 2,
+    "icon": "3098_3.png",
+    "des": "Used to combine  Silver Letter"
+  },
+  "3555": {
+    "treasure": 3012,
+    "name": "Way of the Taiping small piece 2",
+    "quality": 3,
+    "icon": "3012_2.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3683": {
+    "treasure": 3098,
+    "name": " Silver Letter small piece 4",
+    "quality": 2,
+    "icon": "3098_4.png",
+    "des": "Used to combine  Silver Letter"
+  },
+  "3556": {
+    "treasure": 3012,
+    "name": "Way of the Taiping small piece 3",
+    "quality": 3,
+    "icon": "3012_3.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3684": {
+    "treasure": 3098,
+    "name": " Silver Letter small piece 5",
+    "quality": 2,
+    "icon": "3098_1.png",
+    "des": "Used to combine  Silver Letter"
+  },
+  "3557": {
+    "treasure": 3012,
+    "name": "Way of the Taiping small piece 4",
+    "quality": 3,
+    "icon": "3012_4.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3685": {
+    "treasure": 3099,
+    "name": "Golden Card small piece 1",
+    "quality": 3,
+    "icon": "3099_1.png",
+    "des": "Used to combine Golden Card"
+  },
+  "3558": {
+    "treasure": 3012,
+    "name": "Way of the Taiping small piece 5",
+    "quality": 3,
+    "icon": "3012_1.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3686": {
+    "treasure": 3099,
+    "name": "Golden Card small piece 2",
+    "quality": 3,
+    "icon": "3099_2.png",
+    "des": "Used to combine Golden Card"
+  },
+  "3559": {
+    "treasure": 3012,
+    "name": "Way of the Taiping small piece 6",
+    "quality": 3,
+    "icon": "3012_2.png",
+    "des": "Used to combine Way of the Taiping"
+  },
+  "3687": {
+    "treasure": 3099,
+    "name": "Golden Card small piece 3",
+    "quality": 3,
+    "icon": "3099_3.png",
+    "des": "Used to combine Golden Card"
+  },
+  "3560": {
+    "treasure": 3013,
+    "name": "Book of Dunjia Heaven small piece 1",
+    "quality": 3,
+    "icon": "3013_1.png",
+    "des": "Used to combine Book of Dunjia Heaven"
+  },
+  "3688": {
+    "treasure": 3099,
+    "name": "Golden Card small piece 4",
+    "quality": 3,
+    "icon": "3099_4.png",
+    "des": "Used to combine Golden Card"
+  },
+  "3561": {
+    "treasure": 3013,
+    "name": "Book of Dunjia Heaven small piece 2",
+    "quality": 3,
+    "icon": "3013_2.png",
+    "des": "Used to combine Book of Dunjia Heaven"
+  },
+  "3689": {
+    "treasure": 3099,
+    "name": "Golden Card small piece 5",
+    "quality": 3,
+    "icon": "3099_1.png",
+    "des": "Used to combine Golden Card"
+  },
+  "3562": {
+    "treasure": 3013,
+    "name": "Book of Dunjia Heaven small piece 3",
+    "quality": 3,
+    "icon": "3013_3.png",
+    "des": "Used to combine Book of Dunjia Heaven"
+  },
+  "3563": {
+    "treasure": 3013,
+    "name": "Book of Dunjia Heaven small piece 4",
+    "quality": 3,
+    "icon": "3013_4.png",
+    "des": "Used to combine Book of Dunjia Heaven"
+  },
+  "3564": {
+    "treasure": 3013,
+    "name": "Book of Dunjia Heaven small piece 5",
+    "quality": 3,
+    "icon": "3013_1.png",
+    "des": "Used to combine Book of Dunjia Heaven"
+  },
+  "3565": {
+    "treasure": 3013,
+    "name": "Book of Dunjia Heaven small piece 6",
+    "quality": 3,
+    "icon": "3013_2.png",
+    "des": "Used to combine Book of Dunjia Heaven"
+  },
+  "3566": {
+    "treasure": 3014,
+    "name": "Mengde New Book small piece 1",
+    "quality": 3,
+    "icon": "3014_1.png",
+    "des": "Used to combine Mengde New Book"
+  },
+  "3567": {
+    "treasure": 3014,
+    "name": "Mengde New Book small piece 2",
+    "quality": 3,
+    "icon": "3014_2.png",
+    "des": "Used to combine Mengde New Book"
+  },
+  "3568": {
+    "treasure": 3014,
+    "name": "Mengde New Book small piece 3",
+    "quality": 3,
+    "icon": "3014_3.png",
+    "des": "Used to combine Mengde New Book"
+  },
+  "3569": {
+    "treasure": 3014,
+    "name": "Mengde New Book small piece 4",
+    "quality": 3,
+    "icon": "3014_4.png",
+    "des": "Used to combine Mengde New Book"
+  },
+  "3570": {
+    "treasure": 3014,
+    "name": "Mengde New Book small piece 5",
+    "quality": 3,
+    "icon": "3014_1.png",
+    "des": "Used to combine Mengde New Book"
+  },
+  "3571": {
+    "treasure": 3014,
+    "name": "Mengde New Book small piece 6",
+    "quality": 3,
+    "icon": "3014_2.png",
+    "des": "Used to combine Mengde New Book"
+  },
+  "3572": {
+    "treasure": 3015,
+    "name": "The Art of War small piece 1",
+    "quality": 3,
+    "icon": "3015_1.png",
+    "des": "Used to combine The Art of War"
+  },
+  "3700": {
+    "treasure": 3099,
+    "name": "Golden Card small piece 6",
+    "quality": 3,
+    "icon": "3099_2.png",
+    "des": "Used to combine Golden Card"
+  },
+  "3573": {
+    "treasure": 3015,
+    "name": "The Art of War small piece 2",
+    "quality": 3,
+    "icon": "3015_2.png",
+    "des": "Used to combine The Art of War"
+  },
+  "3701": {
+    "treasure": 3198,
+    "name": "Silver Horse Sculpture small piece 1",
+    "quality": 2,
+    "icon": "3198_1.png",
+    "des": "Used to combine Silver Horse Sculpture"
+  },
+  "3574": {
+    "treasure": 3015,
+    "name": "The Art of War small piece 3",
+    "quality": 3,
+    "icon": "3015_3.png",
+    "des": "Used to combine The Art of War"
+  },
+  "3702": {
+    "treasure": 3198,
+    "name": "Silver Horse Sculpture small piece 2",
+    "quality": 2,
+    "icon": "3198_2.png",
+    "des": "Used to combine Silver Horse Sculpture"
+  },
+  "3575": {
+    "treasure": 3015,
+    "name": "The Art of War small piece 4",
+    "quality": 3,
+    "icon": "3015_4.png",
+    "des": "Used to combine The Art of War"
+  },
+  "3703": {
+    "treasure": 3198,
+    "name": "Silver Horse Sculpture small piece 3",
+    "quality": 2,
+    "icon": "3198_3.png",
+    "des": "Used to combine Silver Horse Sculpture"
+  },
+  "3576": {
+    "treasure": 3015,
+    "name": "The Art of War small piece 5",
+    "quality": 3,
+    "icon": "3015_1.png",
+    "des": "Used to combine The Art of War"
+  },
+  "3704": {
+    "treasure": 3198,
+    "name": "Silver Horse Sculpture small piece 4",
+    "quality": 2,
+    "icon": "3198_4.png",
+    "des": "Used to combine Silver Horse Sculpture"
+  },
+  "3577": {
+    "treasure": 3015,
+    "name": "The Art of War small piece 6",
+    "quality": 3,
+    "icon": "3015_2.png",
+    "des": "Used to combine The Art of War"
+  },
+  "3705": {
+    "treasure": 3198,
+    "name": "Silver Horse Sculpture small piece 5",
+    "quality": 2,
+    "icon": "3198_1.png",
+    "des": "Used to combine Silver Horse Sculpture"
+  },
+  "3578": {
+    "treasure": 3016,
+    "name": "Blue Book small piece 1",
+    "quality": 3,
+    "icon": "3016_1.png",
+    "des": "Used to combine Blue Book"
+  },
+  "3706": {
+    "treasure": 3199,
+    "name": "Golden Horse Sculpture small piece 1",
+    "quality": 3,
+    "icon": "3199_1.png",
+    "des": "Used to combine Golden Horse Sculpture"
+  },
+  "3579": {
+    "treasure": 3016,
+    "name": "Blue Book small piece 2",
+    "quality": 3,
+    "icon": "3016_2.png",
+    "des": "Used to combine Blue Book"
+  },
+  "3707": {
+    "treasure": 3199,
+    "name": "Golden Horse Sculpture small piece 2",
+    "quality": 3,
+    "icon": "3199_2.png",
+    "des": "Used to combine Golden Horse Sculpture"
+  },
+  "3580": {
+    "treasure": 3016,
+    "name": "Blue Book small piece 3",
+    "quality": 3,
+    "icon": "3016_3.png",
+    "des": "Used to combine Blue Book"
+  },
+  "3708": {
+    "treasure": 3199,
+    "name": "Golden Horse Sculpture small piece 3",
+    "quality": 3,
+    "icon": "3199_3.png",
+    "des": "Used to combine Golden Horse Sculpture"
+  },
+  "3581": {
+    "treasure": 3016,
+    "name": "Blue Book small piece 4",
+    "quality": 3,
+    "icon": "3016_4.png",
+    "des": "Used to combine Blue Book"
+  },
+  "3709": {
+    "treasure": 3199,
+    "name": "Golden Horse Sculpture small piece 4",
+    "quality": 3,
+    "icon": "3199_4.png",
+    "des": "Used to combine Golden Horse Sculpture"
+  },
+  "3582": {
+    "treasure": 3016,
+    "name": "Blue Book small piece 5",
+    "quality": 3,
+    "icon": "3016_1.png",
+    "des": "Used to combine Blue Book"
+  },
+  "3710": {
+    "treasure": 3199,
+    "name": "Golden Horse Sculpture small piece 5",
+    "quality": 3,
+    "icon": "3199_1.png",
+    "des": "Used to combine Golden Horse Sculpture"
+  },
+  "3583": {
+    "treasure": 3016,
+    "name": "Blue Book small piece 6",
+    "quality": 3,
+    "icon": "3016_2.png",
+    "des": "Used to combine Blue Book"
+  },
+  "3711": {
+    "treasure": 3199,
+    "name": "Golden Horse Sculpture small piece 6",
+    "quality": 3,
+    "icon": "3199_2.png",
+    "des": "Used to combine Golden Horse Sculpture"
+  },
+  "3584": {
+    "treasure": 3017,
+    "name": "Thirty-Six Stratagems small piece 1",
+    "quality": 3,
+    "icon": "3017_1.png",
+    "des": "Used to combine Thirty-Six Stratagems"
+  },
+  "3585": {
+    "treasure": 3017,
+    "name": "Thirty-Six Stratagems small piece 2",
+    "quality": 3,
+    "icon": "3017_2.png",
+    "des": "Used to combine Thirty-Six Stratagems"
+  },
+  "3586": {
+    "treasure": 3017,
+    "name": "Thirty-Six Stratagems small piece 3",
+    "quality": 3,
+    "icon": "3017_3.png",
+    "des": "Used to combine Thirty-Six Stratagems"
+  },
+  "3587": {
+    "treasure": 3017,
+    "name": "Thirty-Six Stratagems small piece 4",
+    "quality": 3,
+    "icon": "3017_4.png",
+    "des": "Used to combine Thirty-Six Stratagems"
+  },
+  "3588": {
+    "treasure": 3017,
+    "name": "Thirty-Six Stratagems small piece 5",
+    "quality": 3,
+    "icon": "3017_1.png",
+    "des": "Used to combine Thirty-Six Stratagems"
+  },
+  "3589": {
+    "treasure": 3017,
+    "name": "Thirty-Six Stratagems small piece 6",
+    "quality": 3,
+    "icon": "3017_2.png",
+    "des": "Used to combine Thirty-Six Stratagems"
+  },
+  "3590": {
+    "treasure": 3100,
+    "name": "Silver Horse small piece 1",
+    "quality": 1,
+    "icon": "3100_1.png",
+    "des": "Used to combine Silver Horse"
+  },
+  "3591": {
+    "treasure": 3100,
+    "name": "Silver Horse small piece 2",
+    "quality": 1,
+    "icon": "3100_2.png",
+    "des": "Used to combine Silver Horse"
+  },
+  "3592": {
+    "treasure": 3100,
+    "name": "Silver Horse small piece 3",
+    "quality": 1,
+    "icon": "3100_3.png",
+    "des": "Used to combine Silver Horse"
+  },
+  "3593": {
+    "treasure": 3100,
+    "name": "Silver Horse small piece 4",
+    "quality": 1,
+    "icon": "3100_4.png",
+    "des": "Used to combine Silver Horse"
+  }
+}

@@ -1,0 +1,1090 @@
+{
+  "logs": {
+    "win": {
+      "passive": [
+        "%t %s challenge you！You defeated the enemy！Rank unchanged！",
+        "%t %s challenge you！Victory in a nutshell！Rank unchanged！"
+      ],
+      "active": [
+        "%t You challenged %s ！Defeat the enemy！Your rank is going up %n！",
+        "%t You challenged %s ！Victory in a nutshell！Ranking skyrocketed %n！"
+      ]
+    },
+    "lose": {
+      "passive": [
+        "%t %s challenge you！Failure！Ranking drops %n！"
+      ],
+      "active": [
+        "%t You challenged %s failure! Rank unchanged！"
+      ]
+    }
+  },
+  "lucky_rank": [
+    [
+      1,
+      20,
+      2,
+      100
+    ],
+    [
+      21,
+      100,
+      5,
+      25
+    ]
+  ],
+  "win": [
+    {
+      "items": [
+        [
+          1002,
+          1,
+          115
+        ],
+        [
+          1002,
+          3,
+          115
+        ],
+        [
+          1002,
+          5,
+          58
+        ],
+        [
+          1004,
+          1,
+          58
+        ],
+        [
+          1004,
+          1,
+          58
+        ],
+        [
+          1004,
+          5,
+          25
+        ],
+        [
+          1600,
+          1,
+          190
+        ],
+        [
+          1601,
+          1,
+          190
+        ],
+        [
+          1602,
+          1,
+          125
+        ],
+        [
+          1603,
+          1,
+          60
+        ]
+      ],
+      "gamemoney_coef": 50,
+      "honor": 20,
+      "exp": 100
+    },
+    {
+      "items": [
+        [
+          1002,
+          1,
+          115
+        ],
+        [
+          1002,
+          3,
+          115
+        ],
+        [
+          1002,
+          5,
+          58
+        ],
+        [
+          1004,
+          1,
+          58
+        ],
+        [
+          1004,
+          1,
+          58
+        ],
+        [
+          1004,
+          5,
+          25
+        ],
+        [
+          1600,
+          1,
+          190
+        ],
+        [
+          1601,
+          1,
+          190
+        ],
+        [
+          1602,
+          1,
+          125
+        ],
+        [
+          1603,
+          1,
+          60
+        ]
+      ],
+      "gamemoney_coef": 50,
+      "honor": 10,
+      "exp": 100
+    }
+  ],
+  "reward_time": "22:00",
+  "rewards": [
+    {
+      "rank_range": [
+        1,
+        1
+      ],
+      "mat": 40,
+      "gamemoney": 100000,
+      "honor": 4000,
+      "money": 200,
+      "items": [
+        4502,
+        8
+      ],
+      "des": "One Star Field Marshal"
+    },
+    {
+      "rank_range": [
+        2,
+        2
+      ],
+      "mat": 30,
+      "gamemoney": 95000,
+      "honor": 3500,
+      "money": 150,
+      "items": [
+        4502,
+        6
+      ],
+      "des": "One Star Great General"
+    },
+    {
+      "rank_range": [
+        3,
+        3
+      ],
+      "mat": 20,
+      "gamemoney": 90000,
+      "honor": 3200,
+      "money": 120,
+      "items": [
+        4502,
+        4
+      ],
+      "des": "One Star Lieutenant General"
+    },
+    {
+      "rank_range": [
+        4,
+        4
+      ],
+      "mat": 10,
+      "gamemoney": 85000,
+      "honor": 3000,
+      "money": 110,
+      "items": [
+        4502,
+        3
+      ],
+      "des": "One Star Adventure General"
+    },
+    {
+      "rank_range": [
+        5,
+        5
+      ],
+      "mat": 10,
+      "gamemoney": 82000,
+      "honor": 2800,
+      "money": 100,
+      "items": [
+        4502,
+        3
+      ],
+      "des": "One Star Cavalry General"
+    },
+    {
+      "rank_range": [
+        6,
+        6
+      ],
+      "mat": 10,
+      "gamemoney": 80000,
+      "honor": 2600,
+      "money": 95,
+      "items": [
+        4502,
+        2
+      ],
+      "des": "One Star Guardian General"
+    },
+    {
+      "rank_range": [
+        7,
+        7
+      ],
+      "mat": 10,
+      "gamemoney": 78000,
+      "honor": 2400,
+      "money": 90,
+      "items": [
+        4502,
+        2
+      ],
+      "des": "One Star Major General"
+    },
+    {
+      "rank_range": [
+        8,
+        8
+      ],
+      "mat": 10,
+      "gamemoney": 76000,
+      "honor": 2200,
+      "money": 85,
+      "items": [
+        4502,
+        2
+      ],
+      "des": "One Star Leftist General"
+    },
+    {
+      "rank_range": [
+        9,
+        9
+      ],
+      "mat": 10,
+      "gamemoney": 74000,
+      "honor": 2000,
+      "money": 80,
+      "items": [
+        4502,
+        1
+      ],
+      "des": "One Star Rightist General"
+    },
+    {
+      "rank_range": [
+        10,
+        10
+      ],
+      "mat": 10,
+      "gamemoney": 72000,
+      "honor": 1800,
+      "money": 75,
+      "items": [
+        4502,
+        1
+      ],
+      "des": "One Star General"
+    },
+    {
+      "rank_range": [
+        11,
+        20
+      ],
+      "mat": 8,
+      "gamemoney": 70000,
+      "honor": 1600,
+      "money": 70,
+      "items": [],
+      "des": "Two Star Eastward General"
+    },
+    {
+      "rank_range": [
+        21,
+        30
+      ],
+      "mat": 8,
+      "gamemoney": 68000,
+      "honor": 1400,
+      "money": 65,
+      "items": [],
+      "des": "Two Star Southward General"
+    },
+    {
+      "rank_range": [
+        31,
+        40
+      ],
+      "mat": 8,
+      "gamemoney": 66000,
+      "honor": 1200,
+      "money": 60,
+      "items": [],
+      "des": "Two Star Westward General"
+    },
+    {
+      "rank_range": [
+        41,
+        50
+      ],
+      "mat": 8,
+      "gamemoney": 64000,
+      "honor": 1000,
+      "money": 55,
+      "items": [],
+      "des": "Two Star Northward General"
+    },
+    {
+      "rank_range": [
+        51,
+        70
+      ],
+      "mat": 4,
+      "gamemoney": 62000,
+      "honor": 750,
+      "money": 50,
+      "items": [],
+      "des": "Two Star Military Master General"
+    },
+    {
+      "rank_range": [
+        71,
+        100
+      ],
+      "mat": 4,
+      "gamemoney": 60000,
+      "honor": 600,
+      "money": 40,
+      "items": [],
+      "des": "Two Star Pride General"
+    },
+    {
+      "rank_range": [
+        101,
+        200
+      ],
+      "mat": 2,
+      "gamemoney": 58000,
+      "honor": 450,
+      "money": 30,
+      "items": [],
+      "des": "Three Star Dominion General"
+    },
+    {
+      "rank_range": [
+        201,
+        300
+      ],
+      "mat": 2,
+      "gamemoney": 56000,
+      "honor": 390,
+      "money": 20,
+      "items": [],
+      "des": "Three Star Tiger General"
+    },
+    {
+      "rank_range": [
+        301,
+        400
+      ],
+      "mat": 2,
+      "gamemoney": 54000,
+      "honor": 360,
+      "money": 10,
+      "items": [],
+      "des": "Three Star Fubo General"
+    },
+    {
+      "rank_range": [
+        401,
+        500
+      ],
+      "mat": 2,
+      "gamemoney": 52000,
+      "honor": 330,
+      "money": 0,
+      "items": [],
+      "des": "Three Star Zhenyuan General"
+    },
+    {
+      "rank_range": [
+        501,
+        600
+      ],
+      "mat": 2,
+      "gamemoney": 50000,
+      "honor": 300,
+      "money": 0,
+      "items": [],
+      "des": "Three Star Fugou General"
+    },
+    {
+      "rank_range": [
+        601,
+        700
+      ],
+      "mat": 2,
+      "gamemoney": 48000,
+      "honor": 280,
+      "money": 0,
+      "items": [],
+      "des": "Three Star Weiblin General"
+    },
+    {
+      "rank_range": [
+        701,
+        800
+      ],
+      "mat": 2,
+      "gamemoney": 46000,
+      "honor": 260,
+      "money": 0,
+      "items": [],
+      "des": "Four Star Liete General"
+    },
+    {
+      "rank_range": [
+        801,
+        900
+      ],
+      "mat": 2,
+      "gamemoney": 44000,
+      "honor": 240,
+      "money": 0,
+      "items": [],
+      "des": "Four Star Yangai General"
+    },
+    {
+      "rank_range": [
+        901,
+        1000
+      ],
+      "mat": 2,
+      "gamemoney": 42000,
+      "honor": 220,
+      "money": 0,
+      "items": [],
+      "des": "Four Star Panwu General"
+    },
+    {
+      "rank_range": [
+        1001,
+        1100
+      ],
+      "mat": 0,
+      "gamemoney": 40000,
+      "honor": 200,
+      "money": 0,
+      "items": [],
+      "des": "Five Star Dapo General"
+    },
+    {
+      "rank_range": [
+        1101,
+        1200
+      ],
+      "mat": 0,
+      "gamemoney": 38000,
+      "honor": 190,
+      "money": 0,
+      "items": [],
+      "des": "Five Star Dangkao General"
+    },
+    {
+      "rank_range": [
+        1201,
+        1300
+      ],
+      "mat": 0,
+      "gamemoney": 36000,
+      "honor": 180,
+      "money": 0,
+      "items": [],
+      "des": "Five Star Guerrilla General"
+    },
+    {
+      "rank_range": [
+        1301,
+        1400
+      ],
+      "mat": 0,
+      "gamemoney": 34000,
+      "honor": 170,
+      "money": 0,
+      "items": [],
+      "des": "Six Star Yamen General"
+    },
+    {
+      "rank_range": [
+        1401,
+        1500
+      ],
+      "mat": 0,
+      "gamemoney": 32000,
+      "honor": 160,
+      "money": 0,
+      "items": [],
+      "des": "Six Star Heavenly General"
+    },
+    {
+      "rank_range": [
+        1501,
+        1600
+      ],
+      "mat": 0,
+      "gamemoney": 31000,
+      "honor": 150,
+      "money": 0,
+      "items": [],
+      "des": "Six Star Putong General"
+    },
+    {
+      "rank_range": [
+        1601,
+        1700
+      ],
+      "mat": 0,
+      "gamemoney": 30000,
+      "honor": 140,
+      "money": 0,
+      "items": [],
+      "des": "Six Star Zhong Lang General"
+    },
+    {
+      "rank_range": [
+        1701,
+        1800
+      ],
+      "mat": 0,
+      "gamemoney": 29000,
+      "honor": 130,
+      "money": 0,
+      "items": [],
+      "des": "Seven Star Heroic Colonel"
+    },
+    {
+      "rank_range": [
+        1801,
+        2000
+      ],
+      "mat": 0,
+      "gamemoney": 28000,
+      "honor": 120,
+      "money": 0,
+      "items": [],
+      "des": "Seven Star Longma Colonel"
+    },
+    {
+      "rank_range": [
+        2001,
+        3000
+      ],
+      "mat": 0,
+      "gamemoney": 27000,
+      "honor": 100,
+      "money": 0,
+      "items": [],
+      "des": "Seven Star Xiaqing Colonel"
+    },
+    {
+      "rank_range": [
+        3001,
+        4000
+      ],
+      "mat": 0,
+      "gamemoney": 26000,
+      "honor": 80,
+      "money": 0,
+      "items": [],
+      "des": "Seven Star Zhonglu Colonel"
+    },
+    {
+      "rank_range": [
+        4001,
+        5000
+      ],
+      "mat": 0,
+      "gamemoney": 25000,
+      "honor": 60,
+      "money": 0,
+      "items": [],
+      "des": "Eight Star Zhangcui Colonel"
+    },
+    {
+      "rank_range": [
+        5001,
+        7000
+      ],
+      "mat": 0,
+      "gamemoney": 24000,
+      "honor": 50,
+      "money": 0,
+      "items": [],
+      "des": "Eight Star Yuegong Colonel"
+    },
+    {
+      "rank_range": [
+        7001,
+        10000
+      ],
+      "mat": 0,
+      "gamemoney": 23000,
+      "honor": 40,
+      "money": 0,
+      "items": [],
+      "des": "Eight Star Heji Colonel"
+    },
+    {
+      "rank_range": [
+        10001,
+        15000
+      ],
+      "mat": 0,
+      "gamemoney": 22000,
+      "honor": 30,
+      "money": 0,
+      "items": [],
+      "des": "Eight Star Infantry Colonel"
+    },
+    {
+      "rank_range": [
+        15001,
+        -1
+      ],
+      "mat": 0,
+      "gamemoney": 21000,
+      "honor": 20,
+      "money": 0,
+      "items": [],
+      "des": "Nine Star Captain"
+    }
+  ],
+  "stamina_cost": 2,
+  "exchange": {
+    "1": [
+      1002,
+      10,
+      100,
+      10,
+      1
+    ],
+    "2": [
+      1002,
+      50,
+      500,
+      4,
+      1
+    ],
+    "4": [
+      2001,
+      1,
+      50000,
+      1,
+      1
+    ],
+    "8": [
+      560,
+      1,
+      700,
+      5,
+      1
+    ],
+    "16": [
+      516,
+      1,
+      1500,
+      5,
+      1
+    ],
+    "17": [
+      646,
+      1,
+      2250,
+      2,
+      1
+    ],
+    "9": [
+      538,
+      1,
+      700,
+      5,
+      1
+    ],
+    "5": [
+      2049,
+      1,
+      50000,
+      1,
+      1
+    ],
+    "10": [
+      545,
+      1,
+      700,
+      5,
+      1
+    ],
+    "11": [
+      510,
+      1,
+      700,
+      5,
+      1
+    ],
+    "3": [
+      1002,
+      100,
+      1000,
+      1,
+      1
+    ],
+    "6": [
+      2017,
+      1,
+      25000,
+      1,
+      1
+    ],
+    "12": [
+      555,
+      1,
+      700,
+      5,
+      1
+    ],
+    "13": [
+      83,
+      1,
+      20000,
+      1,
+      1
+    ],
+    "10006": [
+      1018,
+      1,
+      3000,
+      1,
+      55
+    ],
+    "10007": [
+      1019,
+      1,
+      3000,
+      1,
+      65
+    ],
+    "10005": [
+      1016,
+      1,
+      3000,
+      1,
+      45
+    ],
+    "10004": [
+      1015,
+      1,
+      1000,
+      1,
+      35
+    ],
+    "7": [
+      2034,
+      1,
+      25000,
+      1,
+      1
+    ],
+    "14": [
+      73,
+      1,
+      20000,
+      1,
+      1
+    ],
+    "10003": [
+      1014,
+      1,
+      300,
+      1,
+      25
+    ],
+    "10001": [
+      1012,
+      1,
+      10,
+      1,
+      5
+    ],
+    "10002": [
+      1013,
+      1,
+      100,
+      1,
+      15
+    ],
+    "15": [
+      206,
+      1,
+      20000,
+      1,
+      1
+    ]
+  },
+  "guide_robot": [
+    {
+      "cards": [
+        [
+          159,
+          160,
+          161
+        ],
+        [
+          63
+        ],
+        [
+          27
+        ]
+      ],
+      "formations": [
+        1
+      ],
+      "level": 1,
+      "attrs": [
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        },
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        },
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        }
+      ],
+      "card_num": [
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "cards": [
+        [
+          159,
+          160,
+          161
+        ],
+        [
+          63
+        ],
+        [
+          27
+        ]
+      ],
+      "formations": [
+        1
+      ],
+      "level": 1,
+      "attrs": [
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        },
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        },
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        }
+      ],
+      "card_num": [
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "cards": [
+        [
+          159,
+          160,
+          161
+        ],
+        [
+          63
+        ],
+        [
+          27
+        ]
+      ],
+      "formations": [
+        1
+      ],
+      "level": 1,
+      "attrs": [
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        },
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        },
+        {
+          "add_attrs": {
+            "rates": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            },
+            "statics": {
+              "maxhp": 0,
+              "atk": 0,
+              "def": 0
+            }
+          },
+          "unit_grade": 1,
+          "level": 1,
+          "unit_level": 1,
+          "card_grade": 0
+        }
+      ],
+      "card_num": [
+        3,
+        0,
+        0
+      ]
+    }
+  ]
+}

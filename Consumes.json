@@ -1,0 +1,92 @@
+{
+  "1201": {
+    "name": "Ginseng",
+    "mods": {
+      "stamina": 10
+    },
+    "quality": 3,
+    "icon": "1019.png",
+    "des": "Increase stamina up to +10 points after use. Arena challenge consume stamina"
+  },
+  "1205": {
+    "name": "Jade necklace",
+    "mods": {
+      "gamemoney": 100000
+    },
+    "quality": 3,
+    "icon": "1023.png",
+    "des": "Jade Necklace is flawless. Have value 100.000 Copper Coin."
+  },
+  "1209": {
+    "name": "VIP point",
+    "mods": {
+      "VipPoint": 10
+    },
+    "quality": 3,
+    "icon": "1066.png",
+    "des": "Increase 10 point VIP"
+  },
+  "1202": {
+    "name": "A string Copper Coin",
+    "mods": {
+      "gamemoney": 1000
+    },
+    "quality": 0,
+    "icon": "1020.png",
+    "des": "Use receiving 1000 Copper Coin"
+  },
+  "1206": {
+    "name": "Golden Brick",
+    "mods": {
+      "money": 100
+    },
+    "quality": 3,
+    "icon": "1451.png",
+    "des": "Use getting 100 Gold"
+  },
+  "1203": {
+    "name": "Ten Taels of Silver",
+    "mods": {
+      "gamemoney": 5000
+    },
+    "quality": 1,
+    "icon": "1021.png",
+    "des": "Use getting 5000 Copper Coin."
+  },
+  "1207": {
+    "name": "Experience Pills",
+    "mods": {
+      "exp": 100
+    },
+    "quality": 2,
+    "icon": "1452.png",
+    "des": "Receive 100 Experience."
+  },
+  "1200": {
+    "name": "Roasted chicken",
+    "mods": {
+      "energy": 50
+    },
+    "quality": 3,
+    "icon": "1018.png",
+    "des": "Increase 50 point energy."
+  },
+  "1204": {
+    "name": "Gold Leaf",
+    "mods": {
+      "gamemoney": 10000
+    },
+    "quality": 2,
+    "icon": "1022.png",
+    "des": "Gold inlaid into one leaf. After using, get 1 thousand Copper Coin."
+  },
+  "1208": {
+    "name": "Honor Pill",
+    "mods": {
+      "honor": 1000
+    },
+    "quality": 2,
+    "icon": "1455.png",
+    "des": "Receive 1000 honors."
+  }
+}

@@ -1,0 +1,1379 @@
+[
+  {
+    "coefs": [
+      2,
+      3
+    ],
+    "talent_type": 2,
+    "name": "Combative 1",
+    "des": "Attack base Increase 3%"
+  },
+  {
+    "coefs": [
+      2,
+      4
+    ],
+    "talent_type": 2,
+    "name": "Combative 2",
+    "des": "Attack base Increase 4%"
+  },
+  {
+    "coefs": [
+      2,
+      5
+    ],
+    "talent_type": 2,
+    "name": "Combative 3",
+    "des": "Attack base Increase 5%"
+  },
+  {
+    "coefs": [
+      2,
+      6
+    ],
+    "talent_type": 2,
+    "name": "Combative 4",
+    "des": "Attack base Increase 6%"
+  },
+  {
+    "coefs": [
+      2,
+      7
+    ],
+    "talent_type": 2,
+    "name": "Combative 5",
+    "des": "Attack base Increase 7%"
+  },
+  {
+    "coefs": [
+      2,
+      8
+    ],
+    "talent_type": 2,
+    "name": "Combative 6",
+    "des": "Attack base Increase 8%"
+  },
+  {
+    "coefs": [
+      2,
+      9
+    ],
+    "talent_type": 2,
+    "name": "Combative 7",
+    "des": "Attack base Increase 9%"
+  },
+  {
+    "coefs": [
+      2,
+      10
+    ],
+    "talent_type": 2,
+    "name": "Combative 8",
+    "des": "Attack base Increase 10%"
+  },
+  {
+    "coefs": [
+      2,
+      11
+    ],
+    "talent_type": 2,
+    "name": "Combative 9",
+    "des": "Attack base Increase 11%"
+  },
+  {
+    "coefs": [
+      2,
+      12
+    ],
+    "talent_type": 2,
+    "name": "Combative 10",
+    "des": "Attack base Increase 12%"
+  },
+  {
+    "coefs": [
+      3,
+      5
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 1",
+    "des": "Defense base Increase 5%"
+  },
+  {
+    "coefs": [
+      3,
+      6
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 2",
+    "des": "Defense base Increase 6%"
+  },
+  {
+    "coefs": [
+      3,
+      7
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 3",
+    "des": "Defense base Increase 7%"
+  },
+  {
+    "coefs": [
+      3,
+      8
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 4",
+    "des": "Defense base Increase 8%"
+  },
+  {
+    "coefs": [
+      3,
+      9
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 5",
+    "des": "Defense base Increase 9%"
+  },
+  {
+    "coefs": [
+      3,
+      10
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 6",
+    "des": "Defense base Increase 10%"
+  },
+  {
+    "coefs": [
+      3,
+      11
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 7",
+    "des": "Defense base Increase 11%"
+  },
+  {
+    "coefs": [
+      3,
+      12
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 8",
+    "des": "Defense base Increase 12%"
+  },
+  {
+    "coefs": [
+      3,
+      13
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 9",
+    "des": "Defense base Increase 13%"
+  },
+  {
+    "coefs": [
+      3,
+      15
+    ],
+    "talent_type": 2,
+    "name": "Strong-willed 10",
+    "des": "Defense base Increase 15%"
+  },
+  {
+    "coefs": [
+      1,
+      3
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 1",
+    "des": "Hp base Increase 3%"
+  },
+  {
+    "coefs": [
+      1,
+      4
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 2",
+    "des": "Hp base Increase 4%"
+  },
+  {
+    "coefs": [
+      1,
+      5
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 3",
+    "des": "Hp base Increase 5%"
+  },
+  {
+    "coefs": [
+      1,
+      6
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 4",
+    "des": "Hp base Increase 6%"
+  },
+  {
+    "coefs": [
+      1,
+      7
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 5",
+    "des": "Hp base Increase 7%"
+  },
+  {
+    "coefs": [
+      1,
+      8
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 6",
+    "des": "Hp base Increase 8%"
+  },
+  {
+    "coefs": [
+      1,
+      9
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 7",
+    "des": "Hp base Increase 9%"
+  },
+  {
+    "coefs": [
+      1,
+      10
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 8",
+    "des": "Hp base Increase 10%"
+  },
+  {
+    "coefs": [
+      1,
+      11
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 9",
+    "des": "Hp base Increase 11%"
+  },
+  {
+    "coefs": [
+      1,
+      12
+    ],
+    "talent_type": 2,
+    "name": "Blood Pool 10",
+    "des": "Hp base Increase 12%"
+  },
+  {
+    "coefs": [
+      7,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 1",
+    "des": "Dodge Increase 100"
+  },
+  {
+    "coefs": [
+      7,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 2",
+    "des": "Dodge Increase 200"
+  },
+  {
+    "coefs": [
+      7,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 3",
+    "des": "Dodge Increase 300"
+  },
+  {
+    "coefs": [
+      7,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 4",
+    "des": "Dodge Increase 400"
+  },
+  {
+    "coefs": [
+      7,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 5",
+    "des": "Dodge Increase "
+  },
+  {
+    "coefs": [
+      7,
+      600
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 6",
+    "des": "Dodge Increase 600"
+  },
+  {
+    "coefs": [
+      7,
+      700
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 7",
+    "des": "Dodge Increase 700"
+  },
+  {
+    "coefs": [
+      7,
+      800
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 8",
+    "des": "Dodge Increase 800"
+  },
+  {
+    "coefs": [
+      7,
+      900
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 9",
+    "des": "Dodge Increase 900"
+  },
+  {
+    "coefs": [
+      7,
+      1000
+    ],
+    "talent_type": 1,
+    "name": "Sensitivity 10",
+    "des": "Dodge Increase 1000"
+  },
+  {
+    "coefs": [
+      8,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Critical 1",
+    "des": "Critical Increase 100"
+  },
+  {
+    "coefs": [
+      8,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Critical 2",
+    "des": "Critical Increase 200"
+  },
+  {
+    "coefs": [
+      8,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Critical 3",
+    "des": "Critical Increase 300"
+  },
+  {
+    "coefs": [
+      8,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Critical 4",
+    "des": "Critical Increase 400"
+  },
+  {
+    "coefs": [
+      8,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Critical 5",
+    "des": "Critical Increase 500"
+  },
+  {
+    "coefs": [
+      8,
+      600
+    ],
+    "talent_type": 1,
+    "name": "Critical 6",
+    "des": "Critical Increase 600"
+  },
+  {
+    "coefs": [
+      8,
+      700
+    ],
+    "talent_type": 1,
+    "name": "Critical 7",
+    "des": "Critical Increase 700"
+  },
+  {
+    "coefs": [
+      8,
+      800
+    ],
+    "talent_type": 1,
+    "name": "Critical 8",
+    "des": "Critical Increase 800"
+  },
+  {
+    "coefs": [
+      8,
+      900
+    ],
+    "talent_type": 1,
+    "name": "Critical 9",
+    "des": "Critical Increase 900"
+  },
+  {
+    "coefs": [
+      8,
+      1000
+    ],
+    "talent_type": 1,
+    "name": "Critical 10",
+    "des": "Critical Increase 1000"
+  },
+  {
+    "coefs": [
+      11,
+      50
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 1",
+    "des": "Max damage Increase 50"
+  },
+  {
+    "coefs": [
+      11,
+      75
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 2",
+    "des": "Max damage Increase 75"
+  },
+  {
+    "coefs": [
+      11,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 3",
+    "des": "Max damage Increase 100"
+  },
+  {
+    "coefs": [
+      11,
+      125
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 4",
+    "des": "Max damage Increase 125"
+  },
+  {
+    "coefs": [
+      11,
+      150
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 5",
+    "des": "Max damage Increase 150"
+  },
+  {
+    "coefs": [
+      11,
+      175
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 6",
+    "des": "Max damage Increase 175"
+  },
+  {
+    "coefs": [
+      11,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 7",
+    "des": "Max damage Increase 200"
+  },
+  {
+    "coefs": [
+      11,
+      225
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 8",
+    "des": "Max damage Increase 225"
+  },
+  {
+    "coefs": [
+      11,
+      250
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 9",
+    "des": "Max damage Increase 250"
+  },
+  {
+    "coefs": [
+      11,
+      275
+    ],
+    "talent_type": 1,
+    "name": "Strong spear 10",
+    "des": "Max damage Increase 275"
+  },
+  {
+    "coefs": [
+      10,
+      50
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 1",
+    "des": "Min damage Increase 50"
+  },
+  {
+    "coefs": [
+      10,
+      75
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 2",
+    "des": "Min damage Increase 75"
+  },
+  {
+    "coefs": [
+      10,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 3",
+    "des": "Min damage Increase 100"
+  },
+  {
+    "coefs": [
+      10,
+      125
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 4",
+    "des": "Min damage Increase 125"
+  },
+  {
+    "coefs": [
+      10,
+      150
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 5",
+    "des": "Min damage Increase 150"
+  },
+  {
+    "coefs": [
+      10,
+      175
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 6",
+    "des": "Min damage Increase 175"
+  },
+  {
+    "coefs": [
+      10,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 7",
+    "des": "Min damage Increase 200"
+  },
+  {
+    "coefs": [
+      10,
+      225
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 8",
+    "des": "Min damage Increase 225"
+  },
+  {
+    "coefs": [
+      10,
+      250
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 9",
+    "des": "Min damage Increase 250"
+  },
+  {
+    "coefs": [
+      10,
+      275
+    ],
+    "talent_type": 1,
+    "name": "Strong Strike 10",
+    "des": "Min damage Increase 275"
+  },
+  {
+    "coefs": [
+      0,
+      1
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 1",
+    "des": "Number of soldiers Increase +1"
+  },
+  {
+    "coefs": [
+      0,
+      2
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 2",
+    "des": "Number of soldiers Increase +2"
+  },
+  {
+    "coefs": [
+      0,
+      3
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 3",
+    "des": "Number of soldiers Increase +3"
+  },
+  {
+    "coefs": [
+      0,
+      4
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 4",
+    "des": "Number of soldiers Increase +4"
+  },
+  {
+    "coefs": [
+      0,
+      5
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 5",
+    "des": "Number of soldiers Increase +5"
+  },
+  {
+    "coefs": [
+      0,
+      6
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 6",
+    "des": "Number of soldiers Increase +6"
+  },
+  {
+    "coefs": [
+      0,
+      7
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 7",
+    "des": "Number of soldiers Increase +7"
+  },
+  {
+    "coefs": [
+      0,
+      8
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 8",
+    "des": "Number of soldiers Increase +8"
+  },
+  {
+    "coefs": [
+      0,
+      9
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 9",
+    "des": "Number of soldiers Increase +9"
+  },
+  {
+    "coefs": [
+      0,
+      10
+    ],
+    "talent_type": 3,
+    "name": "Great Soldier 10",
+    "des": "Number of soldiers Increase +10"
+  },
+  {
+    "coefs": [
+      4,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Penetration 1",
+    "des": "Armor Break Increase 100"
+  },
+  {
+    "coefs": [
+      4,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Penetration 2",
+    "des": "Armor Break Increase 200"
+  },
+  {
+    "coefs": [
+      4,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Penetration 3",
+    "des": "Armor Break Increase 300"
+  },
+  {
+    "coefs": [
+      4,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Penetration 4",
+    "des": "Armor Break Increase 400"
+  },
+  {
+    "coefs": [
+      4,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Penetration 5",
+    "des": "Armor Break Increase 500"
+  },
+  {
+    "coefs": [
+      4,
+      600
+    ],
+    "talent_type": 1,
+    "name": "Penetration 6",
+    "des": "Armor Break Increase 600"
+  },
+  {
+    "coefs": [
+      4,
+      700
+    ],
+    "talent_type": 1,
+    "name": "Penetration 7",
+    "des": "Armor Break Increase 700"
+  },
+  {
+    "coefs": [
+      4,
+      800
+    ],
+    "talent_type": 1,
+    "name": "Penetration 8",
+    "des": "Armor Break Increase 800"
+  },
+  {
+    "coefs": [
+      4,
+      900
+    ],
+    "talent_type": 1,
+    "name": "Penetration 9",
+    "des": "Armor Break Increase 900"
+  },
+  {
+    "coefs": [
+      4,
+      1000
+    ],
+    "talent_type": 1,
+    "name": "Penetration 10",
+    "des": "Armor Break Increase 1000"
+  },
+  {
+    "coefs": [
+      5,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Blocker 1",
+    "des": "Damage reduce Increase 100"
+  },
+  {
+    "coefs": [
+      5,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Blocker 2",
+    "des": "Damage reduce Increase 200"
+  },
+  {
+    "coefs": [
+      5,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Blocker 3",
+    "des": "Damage reduce Increase 300"
+  },
+  {
+    "coefs": [
+      5,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Blocker 4",
+    "des": "Damage reduce Increase 400"
+  },
+  {
+    "coefs": [
+      5,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Blocker 5",
+    "des": "Damage reduce Increase 500"
+  },
+  {
+    "coefs": [
+      5,
+      600
+    ],
+    "talent_type": 1,
+    "name": "Blocker 6",
+    "des": "Damage reduce Increase 600"
+  },
+  {
+    "coefs": [
+      5,
+      700
+    ],
+    "talent_type": 1,
+    "name": "Blocker 7",
+    "des": "Damage reduce Increase 700"
+  },
+  {
+    "coefs": [
+      5,
+      800
+    ],
+    "talent_type": 1,
+    "name": "Blocker 8",
+    "des": "Damage reduce Increase 800"
+  },
+  {
+    "coefs": [
+      5,
+      900
+    ],
+    "talent_type": 1,
+    "name": "Blocker 9",
+    "des": "Damage reduce Increase 900"
+  },
+  {
+    "coefs": [
+      5,
+      1000
+    ],
+    "talent_type": 1,
+    "name": "Blocker 10",
+    "des": "Damage reduce Increase 1000"
+  },
+  {
+    "coefs": [
+      9,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Rampant 1",
+    "des": "Crit damage Increase 100"
+  },
+  {
+    "coefs": [
+      9,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Rampant 2",
+    "des": "Crit damage Increase 200"
+  },
+  {
+    "coefs": [
+      9,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Rampant 3",
+    "des": "Crit damage Increase 300"
+  },
+  {
+    "coefs": [
+      9,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Rampant 4",
+    "des": "Crit damage Increase 400"
+  },
+  {
+    "coefs": [
+      9,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Rampant 5",
+    "des": "Crit damage Increase 500"
+  },
+  {
+    "coefs": [
+      9,
+      600
+    ],
+    "talent_type": 1,
+    "name": "Rampant 6",
+    "des": "Crit damage Increase 600"
+  },
+  {
+    "coefs": [
+      9,
+      700
+    ],
+    "talent_type": 1,
+    "name": "Rampant 7",
+    "des": "Crit damage Increase 700"
+  },
+  {
+    "coefs": [
+      9,
+      800
+    ],
+    "talent_type": 1,
+    "name": "Rampant 8",
+    "des": "Crit damage Increase 800"
+  },
+  {
+    "coefs": [
+      9,
+      900
+    ],
+    "talent_type": 1,
+    "name": "Rampant 9",
+    "des": "Crit damage Increase 900"
+  },
+  {
+    "coefs": [
+      9,
+      1000
+    ],
+    "talent_type": 1,
+    "name": "Rampant 10",
+    "des": "Crit damage Increase 1000"
+  },
+  {
+    "coefs": [
+      6,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Accurate 1",
+    "des": "Accurate Increase 100"
+  },
+  {
+    "coefs": [
+      6,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Accurate 2",
+    "des": "Accurate Increase 200"
+  },
+  {
+    "coefs": [
+      6,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Accurate 3",
+    "des": "Accurate Increase 300"
+  },
+  {
+    "coefs": [
+      6,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Accurate 4",
+    "des": "Accurate Increase 400"
+  },
+  {
+    "coefs": [
+      6,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Accurate 5",
+    "des": "Accurate Increase 500"
+  },
+  {
+    "coefs": [
+      6,
+      600
+    ],
+    "talent_type": 1,
+    "name": "Accurate 6",
+    "des": "Accurate Increase 600"
+  },
+  {
+    "coefs": [
+      6,
+      700
+    ],
+    "talent_type": 1,
+    "name": "Accurate 7",
+    "des": "Accurate Increase 700"
+  },
+  {
+    "coefs": [
+      6,
+      800
+    ],
+    "talent_type": 1,
+    "name": "Accurate 8",
+    "des": "Accurate Increase 800"
+  },
+  {
+    "coefs": [
+      6,
+      900
+    ],
+    "talent_type": 1,
+    "name": "Accurate 9",
+    "des": "Accurate Increase 900"
+  },
+  {
+    "coefs": [
+      6,
+      1000
+    ],
+    "talent_type": 1,
+    "name": "Accurate 10",
+    "des": "Accurate Increase 1000"
+  },
+  {
+    "coefs": [
+      0,
+      0
+    ],
+    "talent_type": 5,
+    "name": "Molting ",
+    "des": "Unlock second skill "
+  },
+  {
+    "coefs": [
+      0,
+      0
+    ],
+    "talent_type": 6,
+    "name": "Evolution ",
+    "des": "Effect of 1 skill increase strongly "
+  },
+  {
+    "coefs": [
+      0,
+      0
+    ],
+    "talent_type": 7,
+    "name": "Fate",
+    "des": "Active Fate Skill"
+  },
+  {
+    "coefs": [
+      2,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 1",
+    "des": "Increase 100 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      150
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 2",
+    "des": "Increase 150 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 3",
+    "des": "Increase 200 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      250
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 4",
+    "des": "Increase 250 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 5",
+    "des": "Increase 300 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      350
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 6",
+    "des": "Increase 350 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 7",
+    "des": "Increase 400 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      450
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 8",
+    "des": "Increase 450 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 9",
+    "des": "Increase 500 Attack"
+  },
+  {
+    "coefs": [
+      2,
+      550
+    ],
+    "talent_type": 1,
+    "name": "Sharpness 10",
+    "des": "Increase 550 Attack"
+  },
+  {
+    "coefs": [
+      3,
+      100
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 1",
+    "des": "Increase 100 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      150
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor  2",
+    "des": "Increase 150 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 3",
+    "des": "Increase 200 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      250
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 4",
+    "des": "Increase 250 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 5",
+    "des": "Increase 300 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      350
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 6",
+    "des": "Increase 350 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 7",
+    "des": "Increase 400 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      450
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 8",
+    "des": "Increase 450 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 9",
+    "des": "Increase 500 Defense"
+  },
+  {
+    "coefs": [
+      3,
+      550
+    ],
+    "talent_type": 1,
+    "name": "Iron Armor 10",
+    "des": "Increase 550 Defense"
+  },
+  {
+    "coefs": [
+      1,
+      200
+    ],
+    "talent_type": 1,
+    "name": "Robust 1",
+    "des": "Increase 200 HP"
+  },
+  {
+    "coefs": [
+      1,
+      300
+    ],
+    "talent_type": 1,
+    "name": "Robust 2",
+    "des": "Increase 300 HP"
+  },
+  {
+    "coefs": [
+      1,
+      400
+    ],
+    "talent_type": 1,
+    "name": "Robust 3",
+    "des": "Increase 400 HP"
+  },
+  {
+    "coefs": [
+      1,
+      500
+    ],
+    "talent_type": 1,
+    "name": "Robust 4",
+    "des": "Increase 500 HP"
+  },
+  {
+    "coefs": [
+      1,
+      600
+    ],
+    "talent_type": 1,
+    "name": "Robust 5",
+    "des": "Increase 600 HP"
+  },
+  {
+    "coefs": [
+      1,
+      700
+    ],
+    "talent_type": 1,
+    "name": "Robust 6",
+    "des": "Increase 700 HP"
+  },
+  {
+    "coefs": [
+      1,
+      800
+    ],
+    "talent_type": 1,
+    "name": "Robust 7",
+    "des": "Increase 800 HP"
+  },
+  {
+    "coefs": [
+      1,
+      900
+    ],
+    "talent_type": 1,
+    "name": "Robust 8",
+    "des": "Increase 900 HP"
+  },
+  {
+    "coefs": [
+      1,
+      1000
+    ],
+    "talent_type": 1,
+    "name": "Robust 9",
+    "des": "Increase 1000 HP"
+  },
+  {
+    "coefs": [
+      1,
+      1100
+    ],
+    "talent_type": 1,
+    "name": "Robust 10",
+    "des": "Increase 1100 HP"
+  }
+]

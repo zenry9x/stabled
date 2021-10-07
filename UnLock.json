@@ -1,0 +1,274 @@
+[
+  {
+    "des2": "Keep items in hear ",
+    "level": 1,
+    "icon": "cangku.png",
+    "des": "Bag"
+  },
+  {
+    "des2": "Join in campaign, Victory will be rewarded",
+    "level": 1,
+    "icon": "",
+    "des": "War Long"
+  },
+  {
+    "des2": "Arrange the formation, promote the army's superiority",
+    "level": 1,
+    "icon": "",
+    "des": "Strategies"
+  },
+  {
+    "des2": "Choose heroes to go to battle, coordinate the best squad",
+    "level": 1,
+    "icon": "",
+    "des": "Formation"
+  },
+  {
+    "des2": "Manage existing heroes",
+    "level": 1,
+    "icon": "junying.png",
+    "des": "Heroes Barracks"
+  },
+  {
+    "des2": "People come and go, where to recruit heroes",
+    "level": 1,
+    "icon": "",
+    "des": "Tavern"
+  },
+  {
+    "des2": "Complete a variety of tasks, receive rewards",
+    "icon": "renwu.png",
+    "level": 1,
+    "stage": 102,
+    "des": "Mission"
+  },
+  {
+    "des2": "Wear equipment for hero, Increase combat power",
+    "level": 2,
+    "icon": "",
+    "des": "Equipment"
+  },
+  {
+    "des2": "Wear equipment for hero, Increase combat poweru",
+    "level": 2,
+    "icon": "",
+    "des": "Upgrade equipment"
+  },
+  {
+    "des2": "Players can freely fight PK",
+    "level": 10,
+    "icon": "",
+    "des": "Duel"
+  },
+  {
+    "des2": "Increase heroes'level, strengthen legion",
+    "icon": "yingxiongqianghua.png",
+    "level": 1,
+    "stage": 210,
+    "des": "Upgrade hero"
+  },
+  {
+    "des2": "Robbery treasure small piece to combine great treasure",
+    "icon": "duobao.png",
+    "level": 1,
+    "stage": 405,
+    "des": "Robbery treasure"
+  },
+  {
+    "des2": "Everyday complete the event, gain the Experience legion",
+    "icon": "huoyuerenwu.png",
+    "level": 1,
+    "stage": 305,
+    "des": "Quest"
+  },
+  {
+    "des2": "Everyday Check in, Everyday get big rewards！",
+    "level": 1,
+    "icon": "",
+    "des": "Check in"
+  },
+  {
+    "des2": "Who is the strongest army? Daily gift giving",
+    "icon": "jingjichang.png",
+    "level": 1,
+    "stage": 203,
+    "des": "Legion War"
+  },
+  {
+    "des2": "General test! Where to get Copper Coin",
+    "level": 30,
+    "icon": "",
+    "des": "Pass Gate Slash Enemy"
+  },
+  {
+    "des2": "Troops level up or promote, Small soldiers also want to become Heroes",
+    "icon": "lianbing.png",
+    "level": 1,
+    "stage": 207,
+    "des": "Training troop"
+  },
+  {
+    "des2": "Increase legion skill level",
+    "icon": "yanlianchang.png",
+    "level": 1,
+    "stage": 205,
+    "des": "Training Legion"
+  },
+  {
+    "des2": "Replenish combat materials, have a great harvest",
+    "level": 8,
+    "icon": "",
+    "des": "Merchants"
+  },
+  {
+    "des2": "Disassemble unnecessarily the General and the Museum piece into rare items",
+    "level": 25,
+    "icon": "ronglu.png",
+    "des": "Furnace"
+  },
+  {
+    "des2": "A place to view and store important mail",
+    "level": 1,
+    "icon": "",
+    "des": "Mail Box"
+  },
+  {
+    "des2": "With people competing, extremely happy",
+    "level": 1,
+    "icon": "",
+    "des": "Arena"
+  },
+  {
+    "des2": "equipment merge, inscription fusion, crafting the strongest equipment",
+    "icon": "tiejiangpu.png",
+    "level": 1,
+    "stage": 104,
+    "des": "Blacksmith"
+  },
+  {
+    "des2": "The higher the more difficult, at the same time there are many rewards",
+    "icon": "jingyingguanqia.png",
+    "level": 1,
+    "stage": 310,
+    "des": "Elite States"
+  },
+  {
+    "des2": "Daily challenge, collect military equipment and commander's seal",
+    "level": 21,
+    "icon": "",
+    "des": "Training heroes"
+  },
+  {
+    "des2": "Challenge daily, collect Copper Coin and Experience",
+    "level": 19,
+    "icon": "",
+    "des": "Epic Campaign"
+  },
+  {},
+  {},
+  {},
+  {
+    "des2": "",
+    "level": 1,
+    "icon": "",
+    "des": "Formation：Long Snake"
+  },
+  {
+    "des2": "",
+    "level": 10,
+    "icon": "",
+    "des": "Formation：Main Flags"
+  },
+  {
+    "des2": "",
+    "level": 20,
+    "icon": "",
+    "des": "Formation：Falling Star"
+  },
+  {
+    "des2": "",
+    "level": 25,
+    "icon": "",
+    "des": "Formation：Hidden Wind"
+  },
+  {
+    "des2": "",
+    "level": 30,
+    "icon": "",
+    "des": "Formation：Blood Shot"
+  },
+  {
+    "des2": "",
+    "level": 35,
+    "icon": "",
+    "des": "Formation：Poison Scorpion"
+  },
+  {
+    "des2": "",
+    "level": 40,
+    "icon": "",
+    "des": "Formation：Stone Wall"
+  },
+  {
+    "des2": "",
+    "level": 45,
+    "icon": "",
+    "des": "Formation：Swallow Wing"
+  },
+  {
+    "des2": "Promotion can improve the fighting power of heroes",
+    "icon": "yingxiongshengjie.png",
+    "level": 1,
+    "stage": 410,
+    "des": "Promotion hero"
+  },
+  {
+    "des2": "Increase Museum piece Level, increase attribute in percentage",
+    "level": 32,
+    "icon": "",
+    "des": "Upgrade Museum piece"
+  },
+  {
+    "des2": "Enhance has a chance to acquire a rare attribute",
+    "icon": "xilian.png",
+    "level": 1,
+    "stage": 910,
+    "des": "Equipment Enhance"
+  },
+  {
+    "des2": "Increase star level for Museum piece, increase combat power",
+    "level": 35,
+    "icon": "",
+    "des": "Museum piece Refine"
+  },
+  {
+    "des2": "Zuo Ci has a few rare items he wants to change",
+    "level": 99,
+    "icon": "",
+    "des": "Zuo Ci Change"
+  },
+  {
+    "des2": "Roaming in The three kingdoms war, write vast and majestic history, become hegemony,",
+    "level": 40,
+    "icon": "unlock_gz.png",
+    "des": "Nation War"
+  },
+  {
+    "des2": "Steal ore, harvest a large amount of Copper Coin, Gold blocks, dominance the mine",
+    "icon": "kuang_icon.png",
+    "level": 20,
+    "des": "Mine"
+  },
+  {
+    "des2": "Lead soldiers on the battlefield, become a true general",
+    "icon": "secret_icon.png",
+    "level": 25,
+    "des": "Secret Base"
+  },
+  {
+    "des2": "Challenge World BOSS, get rare rewards, receive supreme honor！",
+    "icon": "boss_icon.png",
+    "level": 30,
+    "des": "World Boss"
+  }
+]

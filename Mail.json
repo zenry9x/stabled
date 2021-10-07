@@ -1,0 +1,218 @@
+{
+  "1000": {
+    "id": 1000,
+    "mail_title": "Arena ranking daily rewards",
+    "mail_content": "Dear General, In the arena, you performed very well, Today is due at 22:00, join the arena with the rating of {0}.\nRewards：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Arena Manager"
+  },
+  "1001": {
+    "id": 1001,
+    "mail_title": "Supreme arena ranking reward",
+    "mail_content": "Dear General, you performed very well, defeat the enemy, rank {0}.\nRewards：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Arena Manager"
+  },
+  "1002": {
+    "id": 1002,
+    "mail_title": "Guild Notice",
+    "mail_content": "Congratulations you become {0} member！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "{0}"
+  },
+  "1003": {
+    "id": 1003,
+    "mail_title": "",
+    "mail_content": "You joined in activiy {0} haven't get reward yet. Get reward now!.",
+    "mail_item": "",
+    "deletetime": 5,
+    "sender": "Mail System"
+  },
+  "1004": {
+    "id": 1004,
+    "mail_title": "Guild Notice",
+    "mail_content": "Sorry, you were kicked by guild master.",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1005": {
+    "id": 1005,
+    "mail_title": "Guild Notice",
+    "mail_content": "Sorry, Your guild {0} disbanded, see you guys again！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1006": {
+    "id": 1006,
+    "mail_title": "Leaving PVP Match Punishment",
+    "mail_content": "Because you quit PVP while in battle, so for a period of time can't PVP, also be deducted {0} point",
+    "mail_item": "",
+    "deletetime": 5,
+    "sender": "Mail System"
+  },
+  "1007": {
+    "id": 1007,
+    "mail_title": "PVP Everyday Reward",
+    "mail_content": "Expires today at 22:10, daily ranking {0} in mode PVP. Based on the rank, start giving gifts, hurry to receive！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1008": {
+    "id": 1008,
+    "mail_title": "Quit War of God punishment",
+    "mail_content": "Because you quit a battle of war of god, for a period of time can't join in again",
+    "mail_item": "",
+    "deletetime": 5,
+    "sender": "Mail System"
+  },
+  "1009": {
+    "id": 1009,
+    "mail_title": "Daily Reward",
+    "mail_content": "You are in god of war, achieve rank {0}. Received reward！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1010": {
+    "id": 1010,
+    "mail_title": "The first top up",
+    "mail_content": "Dear General！Thank you for your contribution to maintaining the game, this is your reward, have a good time playing the game.",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1011": {
+    "id": 1011,
+    "mail_title": "Open Dragon arena Reward",
+    "mail_content": "He in Dragon Arena performed well, Rank Dragon Arena {0}, Receive reward！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1012": {
+    "id": 1012,
+    "mail_title": "Open War of God Reward",
+    "mail_content": "Your rank God of War is {0}, this time reward！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1013": {
+    "id": 1013,
+    "mail_title": "Super value VIP shopping rewards",
+    "mail_content": "You bought the VIP {0} package. Achieve reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1014": {
+    "id": 1014,
+    "mail_title": "Strange treasure Reward",
+    "mail_content": "You in strange treasure doing good, receive big reward: ",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1015": {
+    "id": 1015,
+    "mail_title": "Hero item package",
+    "mail_content": "You buy a hero package and get an item bonus, quickly get it：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1016": {
+    "id": 1016,
+    "mail_title": "Boss World Reward",
+    "mail_content": "You complete World Boss. Receive rewards quickly：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1017": {
+    "id": 1017,
+    "mail_title": "Top up Reward",
+    "mail_content": "You puschased {0} gold, ranking {1}, get reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1018": {
+    "id": 1018,
+    "mail_title": "Spending Activities Reward",
+    "mail_content": "In the activity, you spent {0} Gold, Rank {1}, get reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1019": {
+    "id": 1019,
+    "mail_title": "Youth Item Fund",
+    "mail_content": "You are join in youth fund, get rewards：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1020": {
+    "id": 1020,
+    "mail_title": "Dragon Arena lucky rank teward",
+    "mail_content": "In dragon arena, you get lucky rank {0}, Get reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Arena Manager"
+  },
+  "1021": {
+    "id": 1021,
+    "mail_title": "Top Level Reward",
+    "mail_content": "In top level ranking, You upgrade to level {0}, rank {1}, get reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1022": {
+    "id": 1022,
+    "mail_title": "Everyday VIP benefit",
+    "mail_content": "You get Vip level {0}, daily reward：\nBenefit VIP everyday, VIP more higher , receive more gift！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1023": {
+    "id": 1023,
+    "mail_title": "Welcome to the game！",
+    "mail_content": "Salute the marshal！The three kingdoms epic written by you！For you, prepare a few items to help you write history with one hand！",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1024": {
+    "id": 1024,
+    "mail_title": "National War daily ranking Reward",
+    "mail_content": "Congratulations you in nation war, be promoted 【{0}】, is called 【{2} - {1}】, wishing you endless efforts, enlighten your career. Here's the reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1025": {
+    "id": 1025,
+    "mail_title": "National battle for strongholds daily reward",
+    "mail_content": "Congratulations you in 【{0} nation】 win 【{1}】castle, this is the reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  },
+  "1026": {
+    "id": 1026,
+    "mail_title": "National War stronghold won daily rewards",
+    "mail_content": "Congratulations you are in【{0} nation】this is the reward：",
+    "mail_item": "",
+    "deletetime": 30,
+    "sender": "Officials Guan"
+  }
+}

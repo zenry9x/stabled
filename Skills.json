@@ -1,0 +1,6082 @@
+{
+  "20173": {
+    "tri": [
+      1,
+      8
+    ],
+    "effect_1": [
+      [
+        201731,
+        1
+      ],
+      [
+        201733,
+        1.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20173,
+    "buffId": 20173,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 3,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "Indestructible Diamond",
+    "impact_unit": 0,
+    "sound": [
+      "action1012.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20173",
+    "des": "Activation probability is normal, Increase 30% Defense, continuous 6 second"
+  },
+  "50000": {
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        204131,
+        0.5
+      ],
+      [
+        204132,
+        0.5
+      ],
+      [
+        204133,
+        0.7
+      ],
+      [
+        204134,
+        1.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20413,
+    "buffId": 20192,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 3,
+    "name": "Stranger Book",
+    "impact_unit": 1,
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20394",
+    "des": "Average probability of casting, cause magic damage 110% for enemy, healer 10% HP for yourself."
+  },
+  "20314": {
+    "target_type": 6,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        10003,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20314,
+    "buffId": 20314,
+    "rate": {
+      "dmg_coef": -0.99
+    },
+    "impact_unit": 1,
+    "dmg_type": 0,
+    "quality": 2,
+    "name": "Destruction",
+    "effect_2": [
+      [
+        20314,
+        0.7
+      ]
+    ],
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20314",
+    "des": "Average probability of casting, Deal damage continuous in 10 second, total 30% HP."
+  },
+  "20062": {
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20061,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20062,
+    "target_type": 6,
+    "rate": {
+      "dmg_coef": 7.2
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Critical Arrow",
+    "effect_2": [
+      [
+        2006,
+        1.5
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3",
+      1
+    ],
+    "cast_times": 99,
+    "icon": "sk_20062",
+    "des": "Low probability of launching an attack, deal 820% physical damage "
+  },
+  "20191": {
+    "sound": [
+      "skill20191.mp3"
+    ],
+    "tri": [
+      1,
+      6
+    ],
+    "target_type": 5,
+    "target_num": 1,
+    "id": 20191,
+    "buffId": 20192,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 1,
+    "name": "Stone Rain",
+    "effect_2": [
+      [
+        20191,
+        0.3
+      ],
+      [
+        20192,
+        0.5
+      ],
+      [
+        20193,
+        0.7
+      ],
+      [
+        20194,
+        0.9
+      ],
+      [
+        20195,
+        1.1
+      ]
+    ],
+    "target_range": [
+      100,
+      80
+    ],
+    "cast_times": 99,
+    "icon": "sk_20191",
+    "des": "Low probability of launching an attack, deal 150% magic damage, Freeze in 3 second."
+  },
+  "20193": {
+    "sound": [
+      "skill20191.mp3"
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.7
+      ]
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 7,
+    "id": 20193,
+    "buffId": 20169,
+    "buff_with_target": true,
+    "rate": {
+      "dmg_coef": 0.4,
+      "unit_dmg_coef": -1.6
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 3,
+    "target_range": [
+      1000,
+      1000
+    ],
+    "is_interrupt": 4,
+    "name": "Celestial Wind",
+    "cast_times": 99,
+    "icon": "sk_20193",
+    "des": "Average probability of casting, deal nearby hero 140% magic damage, push back.Reduce the opponent's speed 50% continuous 4 second."
+  },
+  "20196": {
+    "sound": [
+      "skill20196.mp3"
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.5
+      ]
+    ],
+    "tri": [
+      2,
+      -50
+    ],
+    "target_type": 7,
+    "target_num": 1,
+    "buffId": 10025,
+    "buff_target": 0,
+    "id": 20196,
+    "rate": {
+      "dmg_coef": 1.2
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 2,
+    "name": "The Eight Trigrams",
+    "target_range": [
+      600,
+      600
+    ],
+    "cast_times": 1,
+    "icon": "sk_20196",
+    "des": "Hp lower than 50% active, to the enemy deal 220% magic damage, Increase for yourself 200% Defense, continuous 10 second."
+  },
+  "20424": {
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        20424,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20424,
+    "buffId": 20192,
+    "rate": {
+      "dmg_coef": 0
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 3,
+    "name": "Red Area",
+    "impact_unit": 1,
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20394",
+    "des": ""
+  },
+  "20072": {
+    "target_num": 1,
+    "playTimes": [
+      1,
+      0.4
+    ],
+    "icon": "sk_20071",
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "id": 20072,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.06
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "target_type": 7,
+    "name": "Giant Stone Falling",
+    "effect_2": [
+      [
+        900,
+        1
+      ],
+      [
+        901,
+        1.4
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20071.mp3",
+      1.3
+    ],
+    "des": "Average probability summon 2 stoning vehicle, deal 188% magic damage and Stun 3 second"
+  },
+  "20201": {
+    "sound": [
+      "skill20201.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 6,
+    "target_num": 1,
+    "id": 20201,
+    "buffId": 20201,
+    "rate": {
+      "dmg_coef": -0.99
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 1,
+    "name": "Poison Air",
+    "effect_2": [
+      [
+        20201,
+        0.3
+      ],
+      [
+        20202,
+        0.4
+      ]
+    ],
+    "target_range": [
+      231,
+      126
+    ],
+    "cast_times": 99,
+    "icon": "sk_20201",
+    "des": "Average probability of casting, HP reduction enemy 15% in 10 second"
+  },
+  "20203": {
+    "sound": [
+      "skill20201.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 6,
+    "target_num": 1,
+    "id": 20203,
+    "buffId": 20203,
+    "rate": {
+      "dmg_coef": -0.99
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Five Dead Poison",
+    "effect_2": [
+      [
+        20201,
+        0.3
+      ],
+      [
+        20202,
+        0.4
+      ]
+    ],
+    "target_range": [
+      231,
+      126
+    ],
+    "cast_times": 99,
+    "icon": "sk_20203",
+    "des": "Release Nanman Poison.Average probability of casting, Reduce 30% HP in 10 second."
+  },
+  "20413": {
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        204131,
+        0.5
+      ],
+      [
+        204132,
+        0.5
+      ],
+      [
+        204133,
+        0.7
+      ],
+      [
+        204134,
+        1.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20413,
+    "buffId": 20192,
+    "rate": {
+      "dmg_coef": 0
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 3,
+    "name": "Stranger Book",
+    "impact_unit": 1,
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20394",
+    "des": "Average probability of casting, throw javelin at the enemy deal 200% magic damage widespread, heal for yourself 10% HP"
+  },
+  "20403": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 5,
+    "target_num": 1,
+    "id": 20403,
+    "buffId": 20403,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Enchanted",
+    "effect_2": [
+      [
+        204031,
+        1.2
+      ],
+      [
+        204032,
+        1.2
+      ]
+    ],
+    "target_range": [
+      210,
+      210
+    ],
+    "cast_times": 99,
+    "icon": "sk_20403",
+    "des": "Average probability of casting, deal 110% magic damage widespread, Cause effect Enchanted in 3 second."
+  },
+  "20082": {
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20081,
+        0
+      ],
+      [
+        20082,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20082,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "sound": [
+      "skill20081.mp3",
+      0.4
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Great Wind Slash",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      112
+    ],
+    "cast_times": 99,
+    "icon": "sk_20082",
+    "des": "Average probability of casting, deal 150% physical damage 4 side, interrupt the opponent's move"
+  },
+  "20211": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20211",
+    "quality": 1,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20211,
+        0.4
+      ]
+    ],
+    "id": 20211,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 1.96
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Trap",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      210,
+      70,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20211.mp3"
+    ],
+    "des": "Low probability active, deal 296% physical damage out 4 sides around"
+  },
+  "20213": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20213",
+    "quality": 3,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20211,
+        0.4
+      ]
+    ],
+    "id": 20213,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 2.6
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Earth Breaker",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      210,
+      70,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20211.mp3"
+    ],
+    "des": "Low probability active, deal 360% physical damage out 4 sides around"
+  },
+  "20394": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 3,
+    "target_num": 1,
+    "id": 20394,
+    "buffId": 20192,
+    "rate": {
+      "dmg_coef": 0
+    },
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Stranger Book",
+    "effect_2": [
+      [
+        20374,
+        0.7
+      ]
+    ],
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20394",
+    "des": "Average probability of casting, deal 100% damage around weakest hero on enemy side, attach Freeze 3 second"
+  },
+  "20344": {
+    "tri": [
+      2,
+      -60
+    ],
+    "effect_1": [
+      [
+        203441,
+        0
+      ],
+      [
+        203442,
+        0.2
+      ]
+    ],
+    "target_num": 1,
+    "id": 20344,
+    "target_type": 0,
+    "rate": {
+      "curHp": 35
+    },
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Soulmender",
+    "impact_unit": 0,
+    "target_range": [
+      210,
+      210
+    ],
+    "cast_times": 1,
+    "icon": "sk_20344",
+    "des": " HP lower than 40% active,heal for yourself and around 35% HP"
+  },
+  "20092": {
+    "target_num": 1,
+    "icon": "sk_20092",
+    "quality": 2,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        20091,
+        0.3
+      ]
+    ],
+    "id": 20092,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.29
+    },
+    "target_type": 5,
+    "dmg_type": 1,
+    "impact_unit": 1,
+    "name": "Arrow Rain",
+    "effect_2": [
+      [
+        200921,
+        1.6
+      ],
+      [
+        200922,
+        1.9
+      ],
+      [
+        200923,
+        2.2
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20091.mp3",
+      0.8
+    ],
+    "des": "High Probability active, deal 216% physical damage in large range"
+  },
+  "20094": {
+    "target_num": 1,
+    "icon": "sk_20094",
+    "quality": 3,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        200941,
+        0.5
+      ]
+    ],
+    "id": 20094,
+    "buffId": 20094,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "target_type": 5,
+    "dmg_type": 2,
+    "impact_unit": 1,
+    "name": "Fire Arrow Rain",
+    "effect_2": [
+      [
+        200942,
+        1.6
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20091.mp3",
+      0.8
+    ],
+    "des": "Shoot fire arrow to 1 area, deal 150% magic damage, Cause effect burning in 10 second burn 10% HP"
+  },
+  "20223": {
+    "target_type": 6,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20221,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20223,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 5
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 1,
+    "name": "Hidden Arrow",
+    "effect_2": [
+      [
+        20222,
+        0
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20223",
+    "des": "15% Probability of deal for any hero enemy 600% physical damage"
+  },
+  "20385": {
+    "quality": 2,
+    "tri": [
+      5,
+      6
+    ],
+    "effect_1": [
+      [
+        20385,
+        0.2
+      ]
+    ],
+    "target_num": 1,
+    "id": 20385,
+    "buffId": 20112,
+    "rate": {
+      "dmg_coef": -0.05
+    },
+    "sound": [
+      "skill20081.mp3",
+      0.4
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Stun",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      210,
+      91,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20385",
+    "des": "Melee was hit, have average probability, deal 95% physical damage, Stun 2 second"
+  },
+  "20093": {
+    "target_num": 1,
+    "icon": "sk_20093",
+    "quality": 3,
+    "tri": [
+      1,
+      10
+    ],
+    "effect_1": [
+      [
+        20091,
+        0.5
+      ]
+    ],
+    "id": 20093,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "target_type": 5,
+    "dmg_type": 1,
+    "impact_unit": 1,
+    "name": "Holy Arrow Rain",
+    "effect_2": [
+      [
+        200921,
+        1.6
+      ],
+      [
+        200922,
+        1.9
+      ],
+      [
+        200923,
+        2.2
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20091.mp3",
+      0.8
+    ],
+    "des": "Arrows shoot like rain. there is a great probability active, deal 110% physical damage in large range"
+  },
+  "20102": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20102",
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "id": 20102,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "target_type": 5,
+    "name": "Sky Thunderer",
+    "effect_2": [
+      [
+        2011,
+        1.1
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20101.mp3",
+      1.1
+    ],
+    "des": "Low probability active, deal 150% magic damage for 3 targets around"
+  },
+  "20022": {
+    "tri": [
+      1,
+      7
+    ],
+    "effect_1": [
+      [
+        20021,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20022,
+    "target_type": 0,
+    "rate": {
+      "curHp": 20
+    },
+    "dmg_type": 0,
+    "quality": 2,
+    "name": "Heal myself",
+    "impact_unit": 0,
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20022",
+    "des": "There is a medium probability heal themself 20% HP"
+  },
+  "20233": {
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        201731,
+        0.3
+      ],
+      [
+        201734,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20233,
+    "buffId": 20173,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 3,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "Breaker Axe",
+    "impact_unit": 0,
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20233",
+    "des": "Attack have 30% Increase defense widespread, continuous 10 second"
+  },
+  "20031": {
+    "quality": 1,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        2003,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20031,
+    "buffId": 20031,
+    "rate": {
+      "curHp": 0
+    },
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Cheer",
+    "impact_unit": 0,
+    "target_range": [
+      350,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20031",
+    "des": "There is an average probability increase Attack 15%, continuous 10 second"
+  },
+  "20333": {
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20333,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20333,
+    "buffId": 20263,
+    "rate": {
+      "dmg_coef": 0
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "King of the three armies",
+    "impact_unit": 1,
+    "target_range": [
+      140,
+      280,
+      63,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20323",
+    "des": "Average probability of casting, deal 100% damage ahead, reduce 20% Attack in 6 second"
+  },
+  "20112": {
+    "quality": 2,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        201111,
+        1
+      ],
+      [
+        201112,
+        0.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20112,
+    "buffId": 20114,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Iron Hit",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "icon": "sk_20112",
+    "des": "Low probability in large range deal 160% physical damage, at the same time deal 3 second stun."
+  },
+  "20114": {
+    "quality": 3,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        201111,
+        1.9
+      ],
+      [
+        201112,
+        1.8
+      ]
+    ],
+    "target_num": 1,
+    "id": 20114,
+    "buffId": 20114,
+    "rate": {
+      "dmg_coef": 0.2
+    },
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Ultimate Break",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "icon": "sk_20114",
+    "des": "Low probability in large range deal 120% physical damage, at the same time deal 3 second stun."
+  },
+  "20243": {
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        202431,
+        1
+      ],
+      [
+        202432,
+        1
+      ],
+      [
+        202433,
+        1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20243,
+    "target_type": 0,
+    "rate": {
+      "curHp": 10
+    },
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Heal Blessing",
+    "impact_unit": 0,
+    "target_range": [
+      210,
+      182
+    ],
+    "cast_times": 99,
+    "icon": "sk_20243",
+    "des": "Average probability of casting, heal hp for 5 Unit around, total 50%"
+  },
+  "20194": {
+    "sound": [
+      "skill20191.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 5,
+    "target_num": 1,
+    "id": 20194,
+    "buffId": 20193,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Divine Punishment",
+    "effect_2": [
+      [
+        201941,
+        1.5
+      ]
+    ],
+    "target_range": [
+      210,
+      168
+    ],
+    "cast_times": 99,
+    "icon": "sk_20194",
+    "des": "Average probability of casting, Attack targets nearby 110% magic damage, Freeze in 3 second."
+  },
+  "20232": {
+    "target_num": 1,
+    "icon": "sk_20232",
+    "quality": 2,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        202321,
+        0.3
+      ]
+    ],
+    "id": 20232,
+    "buffId": 20114,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "target_type": 5,
+    "dmg_type": 2,
+    "impact_unit": 1,
+    "name": "Demon Blessing",
+    "effect_2": [
+      [
+        202322,
+        1.3
+      ],
+      [
+        202323,
+        2
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 0,
+    "sound": [
+      "skill20091.mp3",
+      0.8
+    ],
+    "des": "There is average probability in large range deal 110% magic damage, at the same time deal 3 second stun."
+  },
+  "20234": {
+    "target_num": 1,
+    "icon": "sk_20234",
+    "quality": 2,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        202341,
+        0.3
+      ]
+    ],
+    "id": 20234,
+    "buffId": 20234,
+    "rate": {
+      "dmg_coef": -0.2
+    },
+    "target_type": 14,
+    "dmg_type": 2,
+    "impact_unit": 1,
+    "name": "Burning Arrow",
+    "effect_2": [
+      [
+        202342,
+        0.6
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 0,
+    "sound": [
+      "skill20091.mp3",
+      0.8
+    ],
+    "des": "There is average probability with hero enemy deal 2 waves 80% magic damage, at the same time burning targets, 5 second deal injured 20% HP."
+  },
+  "20122": {
+    "tri": [
+      1,
+      6
+    ],
+    "impact_unit": 1,
+    "target_num": 1,
+    "id": 20122,
+    "target_type": 5,
+    "rate": {
+      "dmg_coef": -0.6
+    },
+    "sound": [
+      "skill20121.mp3",
+      0.2
+    ],
+    "dmg_type": 2,
+    "quality": 2,
+    "name": "Fire Tide",
+    "effect_2": [
+      [
+        20121,
+        0.5
+      ]
+    ],
+    "target_range": [
+      270,
+      120
+    ],
+    "cast_times": 99,
+    "icon": "sk_20122",
+    "des": "There is average probability Flame thrower targets, deal in this area continuous  magic damage, total 400%"
+  },
+  "20293": {
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        202931,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20293,
+    "buffId": 20293,
+    "rate": {
+      "dmg_coef": 0
+    },
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Tiger Attack",
+    "impact_unit": 1,
+    "target_range": [
+      140,
+      280,
+      63,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20293",
+    "des": "Control the tiger to fear the opponent, Average probability of casting, deal 100% damage ahead, at the same time reduce 35% defense in 6 second"
+  },
+  "90021": {
+    "quality": 1,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10021,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 90021,
+    "buffId": 10021,
+    "rate": {
+      "curHp": 0
+    },
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Sin Defense",
+    "impact_unit": 0,
+    "target_range": [
+      210,
+      98,
+      -70,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10021",
+    "des": "Start active, all team Defense increase 12%"
+  },
+  "20045": {
+    "impact_unit": 0,
+    "tri": [
+      1,
+      13
+    ],
+    "effect_1": [
+      [
+        200451,
+        1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20045,
+    "target_type": 3,
+    "rate": {
+      "curHp": 4
+    },
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "dmg_type": 0,
+    "quality": 3,
+    "name": "Moon Stream",
+    "effect_2": [
+      [
+        200452,
+        1.4
+      ]
+    ],
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20045",
+    "des": "There is average probability creat Moon Stream healer HP nearby hero have lowest HP, healer continuous 40% HP in large range"
+  },
+  "20273": {
+    "target_type": 1,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        202731,
+        0
+      ]
+    ],
+    "target_num": 8,
+    "id": 20273,
+    "buffId": 20273,
+    "rate": {
+      "curHp": 15
+    },
+    "impact_unit": 0,
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Ever Success",
+    "effect_2": [
+      [
+        202732,
+        1.8
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20273",
+    "des": "Average probability of casting, restore 15% HP for hero our side at the same time Increase Attack 30%, continuous 6 second"
+  },
+  "20132": {
+    "quality": 2,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        20131,
+        0.8
+      ],
+      [
+        20132,
+        0.8
+      ]
+    ],
+    "target_num": 1,
+    "id": 20132,
+    "buffId": 20111,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "sound": [
+      "skill20131.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Sin Strike Shield",
+    "impact_unit": 1,
+    "target_range": [
+      220,
+      130
+    ],
+    "cast_times": 99,
+    "icon": "sk_20132",
+    "des": "High Probability active, deal 160% damage around himself, at the same time stun in 1 second"
+  },
+  "20134": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20134",
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20134,
+        0.4
+      ]
+    ],
+    "id": 20134,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "New Moon Slash",
+    "impact_unit": 1,
+    "target_range": [
+      98,
+      210,
+      35,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20131.mp3"
+    ],
+    "des": "Average probability of casting, horizontal slash Unit ahead, deal 150% physical damage"
+  },
+  "90061": {
+    "quality": 1,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10061,
+        0
+      ],
+      [
+        10062,
+        1.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 90061,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.6
+    },
+    "sound": [
+      "skill90061.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Chaos Arrow",
+    "impact_unit": 1,
+    "target_range": [
+      2000,
+      150,
+      1000,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10061",
+    "des": "Shoot an arrow through the battlefield, deal 320% physical damage"
+  },
+  "20011": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        2001,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20011,
+    "target_type": 3,
+    "rate": {
+      "curHp": 30
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 1,
+    "name": "Recovery",
+    "effect_2": [
+      [
+        12001,
+        0.6
+      ]
+    ],
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20011",
+    "des": "There is average probability healer 30% HP for hero weakest our side"
+  },
+  "20013": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        2001,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20013,
+    "target_type": 3,
+    "rate": {
+      "curHp": 75
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 3,
+    "name": "Saving Snow",
+    "effect_2": [
+      [
+        12001,
+        0.6
+      ]
+    ],
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20012",
+    "des": "There is average probability healer hero weakest 75% HP"
+  },
+  "20272": {
+    "target_type": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        202721,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20272,
+    "buffId": 20272,
+    "rate": {
+      "curHp": 0
+    },
+    "impact_unit": 0,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Potential explosion",
+    "effect_2": [
+      [
+        202722,
+        1
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20272",
+    "des": "Average probability of casting, in 5 second Increase 15%"
+  },
+  "20263": {
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        202631,
+        0.2
+      ],
+      [
+        202632,
+        0.2
+      ]
+    ],
+    "target_num": 1,
+    "id": 20263,
+    "buffId": 20263,
+    "rate": {
+      "dmg_coef": 0
+    },
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Bear Roar",
+    "impact_unit": 1,
+    "target_range": [
+      140,
+      280,
+      63,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20263",
+    "des": "Control War Bear to fear the opponent, Average probability of casting, ahead deal 100% damage, at the same time reduce 20% Attack 6 second"
+  },
+  "90101": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20101",
+    "quality": 1,
+    "tri": [
+      1,
+      3
+    ],
+    "id": 90101,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.9
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "target_type": 5,
+    "name": "Lost Thunder",
+    "effect_2": [
+      [
+        2011,
+        0.3
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20101.mp3",
+      0.3
+    ],
+    "des": "Low probability active, with 1 targets deal 150% magic damage"
+  },
+  "20021": {
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20021,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20021,
+    "target_type": 0,
+    "rate": {
+      "curHp": 20
+    },
+    "dmg_type": 0,
+    "quality": 1,
+    "name": "Bandage",
+    "impact_unit": 0,
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20021",
+    "des": "There is a medium probability healer 20% HP"
+  },
+  "20023": {
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20021,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20023,
+    "target_type": 0,
+    "rate": {
+      "curHp": 45
+    },
+    "dmg_type": 0,
+    "quality": 3,
+    "name": "Unexpectedly Grows",
+    "impact_unit": 0,
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20023",
+    "des": "There is a medium probability healer 45% HP"
+  },
+  "20152": {
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20152,
+        0.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20152,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 1
+    },
+    "quality": 2,
+    "dmg_type": 2,
+    "target_type": 5,
+    "name": "Black Hole",
+    "impact_unit": 1,
+    "sound": [
+      "skill20151.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20152",
+    "des": "Low probability active, Attack targets deal 200% magic damage"
+  },
+  "20154": {
+    "quality": 2,
+    "tri": [
+      1,
+      7
+    ],
+    "effect_1": [
+      [
+        201541,
+        0.6
+      ]
+    ],
+    "target_num": 1,
+    "id": 20154,
+    "buffId": 20111,
+    "rate": {
+      "dmg_coef": -0.6
+    },
+    "sound": [
+      "skill20154.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Four Strike",
+    "impact_unit": 1,
+    "target_range": [
+      170,
+      130,
+      70,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20154",
+    "des": "Average probability of casting, hit continuous 4 times, each 40% physical damage,at the same time deal 1 second stun"
+  },
+  "20252": {
+    "target_type": 6,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        202521,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20252,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Stream Sword",
+    "effect_2": [
+      [
+        202522,
+        1
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3"
+    ],
+    "cast_times": 0,
+    "icon": "sk_20252",
+    "des": "Average probability of casting, targets 1 hero enemy deal 160% physical damage"
+  },
+  "90022": {
+    "quality": 2,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10022,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 90022,
+    "buffId": 10022,
+    "rate": {
+      "curHp": 0
+    },
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Evil Illusion",
+    "impact_unit": 0,
+    "target_range": [
+      2000,
+      2000,
+      0,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10022",
+    "des": "Start active, all team Defense increase 15%"
+  },
+  "20033": {
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        200331,
+        1.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20033,
+    "buffId": 20033,
+    "rate": {
+      "curHp": 0
+    },
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 1,
+    "name": "Suffering Humiliation",
+    "impact_unit": 0,
+    "target_range": [
+      350,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20033",
+    "des": "Trigger morale.There is average probability increase heroes and troops around Attack 35%, continuous 6 second"
+  },
+  "90165": {
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20165,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 90165,
+    "buffId": 20113,
+    "rate": {
+      "dmg_coef": 2
+    },
+    "sound": [
+      "skill20165.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Lion Roar",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98,
+      98,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20165",
+    "des": "Zhang Fei in here！Average probability of casting, large range deal 180% physical damage, at the same time deal 5 second stun"
+  },
+  "20164": {
+    "target_num": 1,
+    "hurt": "",
+    "icon": "sk_20164",
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        10003,
+        1.1
+      ]
+    ],
+    "id": 20164,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.4
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Tiger Claw",
+    "impact_unit": 1,
+    "target_range": [
+      230,
+      100,
+      100,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20164.mp3"
+    ],
+    "des": "Tiger claw go ahead.Average probability of casting, enemy ahead deal 180% physical damage deal 3 second Stun"
+  },
+  "20166": {
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20166,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20166,
+    "hurt": "hurt2",
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "sound": [
+      "skill20165.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Brave Light",
+    "impact_unit": 1,
+    "target_range": [
+      112,
+      210,
+      35,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20136",
+    "des": "Average probability of casting, large range deal 110% physical damage"
+  },
+  "10021": {
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10021,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10021,
+    "buffId": 10021,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 1,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Sin Defense",
+    "impact_unit": 0,
+    "target_range": [
+      300,
+      140,
+      -100,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10021",
+    "des": "Start active, all team Defense increase 12%"
+  },
+  "10022": {
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10022,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10022,
+    "buffId": 10022,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Turtle Illusion",
+    "impact_unit": 0,
+    "target_range": [
+      300,
+      140,
+      -100,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10022",
+    "des": "Start active, all team Defense increase 15%"
+  },
+  "10023": {
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10022,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10023,
+    "buffId": 10023,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Sin Defense",
+    "impact_unit": 0,
+    "target_range": [
+      300,
+      140,
+      -100,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10023",
+    "des": "Start active, all team Defense increase 20%"
+  },
+  "20174": {
+    "target_type": 1,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20174,
+        0.25
+      ]
+    ],
+    "target_num": 8,
+    "id": 20174,
+    "buffId": 20174,
+    "rate": {
+      "curHp": 0
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 3,
+    "name": "Patience Protects Shield",
+    "effect_2": [
+      [
+        201714,
+        0.3
+      ]
+    ],
+    "sound": [
+      "action1014.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20174",
+    "des": "Average probability of casting, hero our side Defense Increase 25%, continuous 5 second"
+  },
+  "20303": {
+    "target_type": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        203031,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20303,
+    "buffId": 20303,
+    "rate": {
+      "curHp": 0
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 3,
+    "name": "Fire Mastery",
+    "effect_2": [
+      [
+        203032,
+        0.7
+      ]
+    ],
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20303",
+    "des": "Average probability of casting, Transform into demon 1 hero randomly of our side, 15 second increase 45% Attack , at the same time damage 10% HP"
+  },
+  "20043": {
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        20042,
+        1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20043,
+    "target_type": 3,
+    "rate": {
+      "curHp": 60
+    },
+    "impact_unit": 0,
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Spring for Everything",
+    "effect_2": [
+      [
+        20041,
+        1.4
+      ],
+      [
+        20042,
+        1.2
+      ]
+    ],
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20043",
+    "des": "There is average probability hero has lowest HP Increase 60% HP"
+  },
+  "20221": {
+    "target_type": 6,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20221,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20221,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 3.8
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 1,
+    "name": "Stare shoot",
+    "effect_2": [
+      [
+        20222,
+        0
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20221",
+    "des": "15% ratio deal 480% physical damage"
+  },
+  "20172": {
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        201711,
+        0.3
+      ],
+      [
+        201714,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20172,
+    "buffId": 20172,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 2,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "Iron Skin",
+    "impact_unit": 0,
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20172",
+    "des": "Attack There is average probability of casting, Increase 25% Defense, continuous 6 second"
+  },
+  "20212": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20212",
+    "quality": 2,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20211,
+        0.4
+      ]
+    ],
+    "id": 20212,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 2.28
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Earth Mine",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      210,
+      70,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20211.mp3"
+    ],
+    "des": "Low probability active, with 4 side deal 328% physical damage"
+  },
+  "20192": {
+    "sound": [
+      "skill20191.mp3"
+    ],
+    "tri": [
+      1,
+      6
+    ],
+    "target_type": 5,
+    "target_num": 1,
+    "id": 20192,
+    "buffId": 20192,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 2,
+    "name": "Snow Storm",
+    "effect_2": [
+      [
+        20191,
+        0.3
+      ],
+      [
+        20192,
+        0.5
+      ],
+      [
+        20193,
+        0.7
+      ],
+      [
+        20194,
+        0.9
+      ],
+      [
+        20195,
+        1.1
+      ]
+    ],
+    "target_range": [
+      100,
+      80
+    ],
+    "cast_times": 99,
+    "icon": "sk_20192",
+    "des": "Low probability active, deal 160% magic damage, Freeze in 3 second."
+  },
+  "10031": {
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10031,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10031,
+    "buffId": 10031,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 1,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Tiger Figure",
+    "impact_unit": 0,
+    "target_range": [
+      300,
+      140,
+      -100,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10031",
+    "des": "Start active, all team Attack  increase 8%"
+  },
+  "10032": {
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10031,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10032,
+    "buffId": 10032,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Tiger Figure",
+    "impact_unit": 0,
+    "target_range": [
+      300,
+      140,
+      -100,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10032",
+    "des": "Start active, all team Attack increase 20%"
+  },
+  "10033": {
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10031,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10033,
+    "buffId": 10033,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Tiger Figure",
+    "impact_unit": 0,
+    "target_range": [
+      300,
+      140,
+      -100,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10033",
+    "des": "Start active, all team Attack increase 12%"
+  },
+  "10034": {
+    "quality": 3,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        100341,
+        0.5
+      ],
+      [
+        100342,
+        0.6
+      ]
+    ],
+    "target_num": 1,
+    "id": 10034,
+    "buffId": 10034,
+    "rate": {
+      "curHp": 0
+    },
+    "sound": [
+      "action1031.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Western Liang Cataphract",
+    "impact_unit": 0,
+    "target_range": [
+      300,
+      140,
+      -100,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10034",
+    "des": "Encourage troops launch critical hit.Start game Increase magic defence 30% in 20 second."
+  },
+  "20323": {
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20323,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20323,
+    "buffId": 20293,
+    "rate": {
+      "dmg_coef": 0
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "King of the three armies",
+    "impact_unit": 1,
+    "target_range": [
+      140,
+      280,
+      63,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20323",
+    "des": "Average probability of casting, ahead deal 100% damage, at the same time reduce 35% defense 6 second"
+  },
+  "20071": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      6
+    ],
+    "target_type": 7,
+    "target_num": 1,
+    "id": 20071,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "sound": [
+      "skill20071.mp3",
+      1.3
+    ],
+    "dmg_type": 2,
+    "quality": 1,
+    "name": "Stone head",
+    "effect_2": [
+      [
+        900,
+        1
+      ],
+      [
+        901,
+        1.4
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "icon": "sk_20071",
+    "des": "There is average probability summon Stone head attack enemy, deal 140% magic damage 3 second deal stun"
+  },
+  "20073": {
+    "sound": [
+      "skill20071.mp3",
+      1.3
+    ],
+    "tri": [
+      1,
+      6
+    ],
+    "target_type": 6,
+    "target_num": 1,
+    "id": 20073,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.5
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Stone head Giant",
+    "effect_2": [
+      [
+        200731,
+        1.6
+      ],
+      [
+        200732,
+        2
+      ],
+      [
+        200733,
+        2.4
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "icon": "sk_20073",
+    "des": "There is average probability summon Stone head attack enemy, deal 150% magic damage 3 second deal stun"
+  },
+  "20202": {
+    "sound": [
+      "skill20201.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 6,
+    "target_num": 1,
+    "id": 20202,
+    "buffId": 20202,
+    "rate": {
+      "dmg_coef": -0.99
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 2,
+    "name": "Curse Magic",
+    "effect_2": [
+      [
+        20201,
+        0.3
+      ],
+      [
+        20202,
+        0.4
+      ]
+    ],
+    "target_range": [
+      231,
+      126
+    ],
+    "cast_times": 99,
+    "icon": "sk_20202",
+    "des": "Average probability of casting, enemy in 10 second reduce 20% HP"
+  },
+  "202121": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20212",
+    "quality": 2,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20211,
+        0.75
+      ]
+    ],
+    "id": 202121,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 2.28
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Earth Mine",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      210,
+      70,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20211.mp3",
+      1.3
+    ],
+    "des": "Low probability active, 4 sides deal 328% physical damage"
+  },
+  "201121": {
+    "quality": 2,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        201111,
+        1
+      ],
+      [
+        201112,
+        1.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 201121,
+    "buffId": 20114,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Iron Hit",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "icon": "sk_20112",
+    "des": "Low probability in large range deal 160% physical damage, at the same time deal 3 second stun."
+  },
+  "10041": {
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10041,
+        0.5
+      ],
+      [
+        10042,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10041,
+    "buffId": 10041,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 1,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "Heroic",
+    "impact_unit": 0,
+    "sound": [
+      "nahan.mp3"
+    ],
+    "cast_times": 1,
+    "icon": "sk_10041",
+    "des": "Start active,Increase attack 10%"
+  },
+  "90103": {
+    "tri": [
+      1,
+      3
+    ],
+    "impact_unit": 1,
+    "target_num": 1,
+    "id": 90103,
+    "target_type": 5,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "sound": [
+      "skill20102.mp3",
+      1.3
+    ],
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Super Thunderbolts",
+    "effect_2": [
+      [
+        2010,
+        2
+      ]
+    ],
+    "target_range": [
+      280,
+      280
+    ],
+    "cast_times": 99,
+    "icon": "sk_20103",
+    "des": "Low probability active, summon 5 thunderbolts around enemy deal 270% magic damage"
+  },
+  "10043": {
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10041,
+        0.5
+      ],
+      [
+        10042,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10043,
+    "buffId": 10043,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 3,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "War God",
+    "impact_unit": 0,
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "cast_times": 1,
+    "icon": "sk_10043",
+    "des": "Start active,Increase attack 15%"
+  },
+  "20171": {
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        201711,
+        0.3
+      ],
+      [
+        201714,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20171,
+    "buffId": 20171,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 1,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "Tenacious defense",
+    "impact_unit": 0,
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20171",
+    "des": "Attack average probability of casting, Increase 20% Defense, continuous 10 second"
+  },
+  "20343": {
+    "tri": [
+      2,
+      -50
+    ],
+    "effect_1": [
+      [
+        203431,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20343,
+    "buffId": 20343,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Breaker Axe",
+    "impact_unit": 0,
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "cast_times": 1,
+    "icon": "sk_20343",
+    "des": " HP lower than 50% active,reduce 15% defense himself, Increase 30% Attack "
+  },
+  "20091": {
+    "target_num": 1,
+    "icon": "sk_20091",
+    "quality": 1,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        20091,
+        0.3
+      ]
+    ],
+    "id": 20091,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.32
+    },
+    "target_type": 5,
+    "dmg_type": 1,
+    "impact_unit": 1,
+    "name": "Sudden Shot",
+    "effect_2": [
+      [
+        200921,
+        1.6
+      ],
+      [
+        200922,
+        1.9
+      ],
+      [
+        200923,
+        2.2
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20091.mp3",
+      0.8
+    ],
+    "des": "High Probability active, in large range deal 205% physical damage"
+  },
+  "90143": {
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        201434,
+        1.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 90143,
+    "buffId": 20143,
+    "rate": {
+      "curHp": 10
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Evil Chaos Arrow",
+    "impact_unit": 0,
+    "sound": [
+      "skill20143.mp3",
+      1.3
+    ],
+    "cast_times": 99,
+    "icon": "sk_20143",
+    "des": "War God unbeaten Average probability of casting, healer 10% HP, continuous 15 second Increase 20% Attack "
+  },
+  "20222": {
+    "target_type": 6,
+    "tri": [
+      1,
+      5
+    ],
+    "effect_1": [
+      [
+        20221,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20222,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 4.4
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Sharpen Arrow",
+    "effect_2": [
+      [
+        20222,
+        0
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20222",
+    "des": "15% deal 540% physical damage for one hero enemy"
+  },
+  "20162": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20162",
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20161,
+        0.2
+      ]
+    ],
+    "id": 20162,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.36
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Fast Strike",
+    "impact_unit": 1,
+    "target_range": [
+      200,
+      100,
+      90,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20051.mp3"
+    ],
+    "des": "High probability active, ahead deal 136% physical damage"
+  },
+  "20353": {
+    "tri": [
+      6,
+      100
+    ],
+    "effect_1": [
+      [
+        203531,
+        0
+      ],
+      [
+        203532,
+        1.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20353,
+    "target_type": 0,
+    "rate": {
+      "dmg_coef": 1.0
+    },
+    "quality": 2,
+    "dmg_type": 2,
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "name": "Sacrifice Yourself",
+    "impact_unit": 1,
+    "target_range": [
+      560,
+      560
+    ],
+    "cast_times": 1,
+    "icon": "sk_20353",
+    "des": "Death will active,around enemy deal 200% magic damage"
+  },
+  "10051": {
+    "sound": [
+      "skill10051.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10051,
+        1.1
+      ],
+      [
+        100512,
+        1.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 10051,
+    "buffId": 10053,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "quality": 1,
+    "dmg_type": 2,
+    "target_type": 0,
+    "name": "Freeze",
+    "impact_unit": 1,
+    "target_range": [
+      600,
+      150,
+      300,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10051",
+    "des": "Start game frozen enemy 3 second, at the same time deal 60% damage"
+  },
+  "10052": {
+    "sound": [
+      "skill10051.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10051,
+        1.1
+      ],
+      [
+        100512,
+        1.1
+      ],
+      [
+        100513,
+        1.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 10052,
+    "buffId": 10053,
+    "rate": {
+      "dmg_coef": 0.8
+    },
+    "quality": 2,
+    "dmg_type": 2,
+    "target_type": 0,
+    "name": "Snow Storm",
+    "impact_unit": 1,
+    "target_range": [
+      900,
+      150,
+      450,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10052",
+    "des": "Start game frozen enemy 3 second, at the same time deal 60% damage"
+  },
+  "10053": {
+    "sound": [
+      "skill10051.mp3"
+    ],
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10051,
+        1.1
+      ],
+      [
+        100512,
+        1.1
+      ],
+      [
+        100513,
+        1.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 10053,
+    "buffId": 10053,
+    "rate": {
+      "dmg_coef": 1
+    },
+    "quality": 3,
+    "dmg_type": 2,
+    "target_type": 0,
+    "name": "Freeze Sky",
+    "impact_unit": 1,
+    "target_range": [
+      900,
+      150,
+      450,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10053",
+    "des": "Start game frozen enemy 3 second, at the same time deal 60% damage"
+  },
+  "20063": {
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20061,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20063,
+    "target_type": 6,
+    "rate": {
+      "dmg_coef": 8
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Shadow Arrow",
+    "effect_2": [
+      [
+        2006,
+        1.5
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3",
+      1
+    ],
+    "cast_times": 99,
+    "icon": "sk_20063",
+    "des": "Low probability attack 1 hero enemy, deal 900% physical damage"
+  },
+  "20363": {
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20363,
+        0.4
+      ]
+    ],
+    "target_num": 1,
+    "id": 20363,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.47
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Unparalleled Force",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      210,
+      21,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20363",
+    "des": "Average probability of casting, enemy around slash 3 times, deal 160% physical damage"
+  },
+  "20111": {
+    "quality": 1,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        201111,
+        1
+      ],
+      [
+        201112,
+        0.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20111,
+    "buffId": 20114,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Trample",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "icon": "sk_20111",
+    "des": "Low probability in large range deal 140% physical damage, at the same time deal 3 second stun."
+  },
+  "20113": {
+    "quality": 3,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20113,
+        1.4
+      ]
+    ],
+    "target_num": 1,
+    "id": 20113,
+    "buffId": 20113,
+    "rate": {
+      "dmg_coef": 0.2
+    },
+    "sound": [
+      "skill20111.mp3",
+      1
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Fly Cutter",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98,
+      84,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20113",
+    "des": "Fly Cutter！Low probability in large range deal 120% physical damage, at the same time deal 3 second stun."
+  },
+  "20115": {
+    "quality": 3,
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        20113,
+        0.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20115,
+    "buffId": 20113,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "sound": [
+      "skill20115.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Dragon Bite",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98,
+      84,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20115",
+    "des": "Power of Blue Dragon Moon Blade！Low probability in large range deal 160% physical damage, at the same time deal 3 second stun."
+  },
+  "20136": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20136",
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20136,
+        0.2
+      ]
+    ],
+    "id": 20136,
+    "target_type": 0,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "dmg_type": 1,
+    "name": "Brave Light",
+    "impact_unit": 1,
+    "target_range": [
+      98,
+      210,
+      35,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20131.mp3"
+    ],
+    "des": "Average probability of casting, horizontal slash ahead, deal 140% physical damage"
+  },
+  "20121": {
+    "tri": [
+      1,
+      6
+    ],
+    "impact_unit": 1,
+    "target_num": 1,
+    "id": 20121,
+    "target_type": 5,
+    "rate": {
+      "dmg_coef": -0.65
+    },
+    "sound": [
+      "skill20121.mp3",
+      0.2
+    ],
+    "dmg_type": 2,
+    "quality": 1,
+    "name": "Flame thrower",
+    "effect_2": [
+      [
+        20121,
+        0.5
+      ]
+    ],
+    "target_range": [
+      270,
+      120
+    ],
+    "cast_times": 99,
+    "icon": "sk_20121",
+    "des": "There is average probability Flame thrower targets, deal in this area continuous  magic damage, total 350%"
+  },
+  "20123": {
+    "tri": [
+      1,
+      6
+    ],
+    "impact_unit": 1,
+    "target_num": 1,
+    "id": 20123,
+    "target_type": 5,
+    "rate": {
+      "dmg_coef": -0.88
+    },
+    "sound": [
+      "skill20121.mp3",
+      0.2
+    ],
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Hell Fire",
+    "effect_2": [
+      [
+        20121,
+        1.2
+      ]
+    ],
+    "target_range": [
+      270,
+      120
+    ],
+    "cast_times": 99,
+    "icon": "sk_20123",
+    "des": "From Hell.There is average probability Flame thrower targets, deal in this area continuous  magic damage, total 120%"
+  },
+  "20124": {
+    "target_type": 6,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        201241,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20124,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 1
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Shadow Arrow",
+    "effect_2": [
+      [
+        201242,
+        1.2
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3",
+      0.6
+    ],
+    "cast_times": 99,
+    "icon": "sk_20063",
+    "des": "Low probability attack 1 hero enemy, deal 200% magic damage, Stun targets"
+  },
+  "10061": {
+    "quality": 1,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10061,
+        0
+      ],
+      [
+        10062,
+        1.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 10061,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 2.2
+    },
+    "sound": [
+      "skill90061.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Chaos Arrow",
+    "impact_unit": 1,
+    "target_range": [
+      2000,
+      150,
+      1000,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10061",
+    "des": "Start game launch one arrow across the battlefield, deal 320% physical damage"
+  },
+  "10062": {
+    "quality": 2,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10061,
+        0
+      ],
+      [
+        10062,
+        1.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 10062,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 2.6
+    },
+    "sound": [
+      "skill90061.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Penetration Arrow",
+    "impact_unit": 1,
+    "target_range": [
+      2000,
+      150,
+      1000,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10062",
+    "des": "Start game launch one arrow across the battlefield, deal 360% physical damage"
+  },
+  "10063": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_10063",
+    "quality": 3,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10061,
+        0
+      ],
+      [
+        10062,
+        1.3
+      ]
+    ],
+    "id": 10062,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 3
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Triple Shot",
+    "impact_unit": 1,
+    "target_range": [
+      2000,
+      150,
+      1000,
+      0
+    ],
+    "cast_times": 1,
+    "sound": [
+      "skill90061.mp3"
+    ],
+    "des": "Start game launch one arrow across the battlefield, deal 400% physical damage"
+  },
+  "10064": {
+    "quality": 2,
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        100641,
+        0
+      ],
+      [
+        100642,
+        1.2
+      ]
+    ],
+    "target_num": 1,
+    "id": 10064,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "sound": [
+      "skill90061.mp3"
+    ],
+    "dmg_type": 2,
+    "target_type": 0,
+    "name": "Fire Arrow",
+    "impact_unit": 1,
+    "target_range": [
+      2000,
+      150,
+      1000,
+      0
+    ],
+    "cast_times": 1,
+    "icon": "sk_10064",
+    "des": "Start game launch one fire arrow across the battlefield, burning enemy deal 140% magic damage"
+  },
+  "201311": {
+    "quality": 1,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        20131,
+        0.8
+      ],
+      [
+        20132,
+        0.8
+      ]
+    ],
+    "target_num": 1,
+    "id": 201311,
+    "buffId": 20111,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "sound": [
+      "skill20131.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Collision",
+    "impact_unit": 1,
+    "target_range": [
+      220,
+      130
+    ],
+    "cast_times": 99,
+    "icon": "sk_20131",
+    "des": "High probability active, around himself deal 140% physical damage, at the same time Stun 1 second"
+  },
+  "20131": {
+    "quality": 1,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        20131,
+        0.8
+      ],
+      [
+        20132,
+        0.8
+      ]
+    ],
+    "target_num": 1,
+    "id": 20131,
+    "buffId": 20111,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "sound": [
+      "skill20131.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Collision",
+    "impact_unit": 1,
+    "target_range": [
+      220,
+      130
+    ],
+    "cast_times": 99,
+    "icon": "sk_20131",
+    "des": "High probability active, around himself deal 140% physical damage, at the same time Stun 1 second"
+  },
+  "20133": {
+    "quality": 3,
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        20131,
+        0.8
+      ],
+      [
+        20132,
+        0.8
+      ]
+    ],
+    "target_num": 1,
+    "id": 20133,
+    "buffId": 20111,
+    "rate": {
+      "dmg_coef": 0.8
+    },
+    "sound": [
+      "skill20131.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Surging Morale",
+    "impact_unit": 1,
+    "target_range": [
+      220,
+      130
+    ],
+    "cast_times": 99,
+    "icon": "sk_20133",
+    "des": "High probability active, around himself deal 180% damage, at the same time Stun 1 second"
+  },
+  "20135": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20135",
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20135,
+        0.4
+      ]
+    ],
+    "id": 20135,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "dmg_type": 1,
+    "target_type": 8,
+    "name": "War boomerang",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20131.mp3"
+    ],
+    "des": "Average probability of casting, deal around hero of enemy have lowest HP 140% physical damage"
+  },
+  "20103": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20103",
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "id": 20103,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.72
+    },
+    "target_type": 5,
+    "dmg_type": 2,
+    "impact_unit": 1,
+    "name": "Super Thunderbolts",
+    "effect_2": [
+      [
+        2010,
+        2
+      ],
+      [
+        201001,
+        2.3
+      ],
+      [
+        201002,
+        2.6
+      ],
+      [
+        201003,
+        2.9
+      ],
+      [
+        201004,
+        3.2
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20102.mp3",
+      1.3
+    ],
+    "des": "Low probability active, summon 5 thunderbolts deal 140% magic damage"
+  },
+  "20012": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        2001,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20012,
+    "target_type": 3,
+    "rate": {
+      "curHp": 50
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 2,
+    "name": "Heal Team",
+    "effect_2": [
+      [
+        12001,
+        0.6
+      ]
+    ],
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20012",
+    "des": "There is average probability healer hero weakest 50% HP"
+  },
+  "20101": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20101",
+    "quality": 1,
+    "tri": [
+      1,
+      6
+    ],
+    "id": 20101,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "target_type": 5,
+    "name": "Lost Thunder",
+    "effect_2": [
+      [
+        2011,
+        0.3
+      ]
+    ],
+    "target_range": [
+      210,
+      98
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20101.mp3",
+      0.3
+    ],
+    "des": "Low probability active, with 1 targets xung deal 150% magic damage"
+  },
+  "20143": {
+    "tri": [
+      1,
+      8
+    ],
+    "effect_1": [
+      [
+        201434,
+        1.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20143,
+    "buffId": 20143,
+    "rate": {
+      "curHp": 15
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Evil Chaos Arrow",
+    "impact_unit": 0,
+    "sound": [
+      "skill20143.mp3",
+      1.3
+    ],
+    "cast_times": 99,
+    "icon": "sk_20143",
+    "des": "War God unbeaten Average probability of casting, healer 15% HP, continuous 10 second Increase 30% Attack "
+  },
+  "10073": {
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10073,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10073,
+    "buffId": 10073,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 2,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "Courageous Boss",
+    "impact_unit": 0,
+    "sound": [
+      "skill10021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_10073",
+    "des": "Start active, each 5 second heal for yourself 5% max HP, continuous the whole battle"
+  },
+  "20083": {
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20081,
+        1.1
+      ],
+      [
+        20082,
+        1.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20083,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "sound": [
+      "skill20081.mp3",
+      0.4
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Win Storm",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      112
+    ],
+    "cast_times": 99,
+    "icon": "sk_20083",
+    "des": "creat 1 hurricane .Average probability of casting 4 sides himself deal 160% physical damage"
+  },
+  "90113": {
+    "quality": 3,
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20113,
+        1.4
+      ]
+    ],
+    "target_num": 1,
+    "id": 90113,
+    "buffId": 20113,
+    "rate": {
+      "dmg_coef": 2
+    },
+    "sound": [
+      "skill20111.mp3",
+      1
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Fly Cutter",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98,
+      98,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20113",
+    "des": "Fly Cutter！25% probability in large range deal 160% physical damage, at the same time deal 3 second stun."
+  },
+  "20081": {
+    "quality": 1,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20081,
+        0
+      ],
+      [
+        20082,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20081,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": -0.17
+    },
+    "sound": [
+      "skill20081.mp3",
+      0.4
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Consecutive Slash",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      112
+    ],
+    "cast_times": 99,
+    "icon": "sk_20081",
+    "des": "Average probability of casting, 4 sides himself 248% physical damage"
+  },
+  "20153": {
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        201531,
+        0.4
+      ],
+      [
+        201532,
+        0.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20153,
+    "target_type": 0,
+    "rate": {
+      "dmg_coef": 0.3
+    },
+    "sound": [
+      "skill20151.mp3"
+    ],
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Dragon Roar",
+    "impact_unit": 1,
+    "target_range": [
+      200,
+      100,
+      80,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20153",
+    "des": "High probability active, ahead deal 130% physical damage"
+  },
+  "20061": {
+    "tri": [
+      1,
+      3
+    ],
+    "effect_1": [
+      [
+        20061,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20061,
+    "target_type": 6,
+    "rate": {
+      "dmg_coef": 6.4
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 1,
+    "name": "Perfection",
+    "effect_2": [
+      [
+        2006,
+        1.5
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3",
+      1
+    ],
+    "cast_times": 99,
+    "icon": "sk_20061",
+    "des": "Low probability attack 1 hero enemy, deal 740% physical damage"
+  },
+  "20284": {
+    "quality": 2,
+    "tri": [
+      5,
+      6
+    ],
+    "effect_1": [
+      [
+        202841,
+        0.7
+      ],
+      [
+        202842,
+        0.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20284,
+    "buffId": 20112,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "sound": [
+      "skill20081.mp3",
+      0.4
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Storm Counterattack",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      112
+    ],
+    "cast_times": 99,
+    "icon": "sk_20284",
+    "des": "Melee was hit, There is average probability counterattack enemy around, deal 160% physical damage, Stun 2 second"
+  },
+  "20032": {
+    "quality": 2,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        2003,
+        0.5
+      ],
+      [
+        10011,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20032,
+    "buffId": 20032,
+    "rate": {
+      "curHp": 0
+    },
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Fierce Warrior",
+    "impact_unit": 0,
+    "target_range": [
+      350,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20032",
+    "des": "There is average probability increase troops and heroes around Attack 20%, continuous 5 second"
+  },
+  "20161": {
+    "target_num": 1,
+    "hurt": "hurt2",
+    "icon": "sk_20161",
+    "quality": 1,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20161,
+        0.2
+      ]
+    ],
+    "id": 20161,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.25
+    },
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Sudden Mine",
+    "impact_unit": 1,
+    "target_range": [
+      200,
+      100,
+      90,
+      0
+    ],
+    "cast_times": 99,
+    "sound": [
+      "skill20051.mp3"
+    ],
+    "des": "High probability active, ahead deal 125% physical damage"
+  },
+  "20163": {
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20161,
+        0.2
+      ]
+    ],
+    "target_num": 1,
+    "id": 20163,
+    "hurt": "hurt2",
+    "rate": {
+      "dmg_coef": 0.47
+    },
+    "sound": [
+      "skill20051.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Dragon Spear",
+    "impact_unit": 1,
+    "target_range": [
+      200,
+      100,
+      90,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20163",
+    "des": "High probability active, ahead deal 147% physical damage"
+  },
+  "20165": {
+    "quality": 3,
+    "tri": [
+      1,
+      6
+    ],
+    "effect_1": [
+      [
+        20165,
+        0.3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20165,
+    "buffId": 20113,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "sound": [
+      "skill20165.mp3"
+    ],
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Lion Roar",
+    "impact_unit": 1,
+    "target_range": [
+      210,
+      98,
+      98,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20165",
+    "des": "Zhang Fei in here！Average probability of casting, large range deal 110% physical damage, at the same time deal 3 second stun"
+  },
+  "20167": {
+    "tri": [
+      2,
+      -60
+    ],
+    "effect_1": [
+      [
+        1000,
+        1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20167,
+    "buffId": 20167,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "dmg_free": true,
+    "name": "The Dead Ground Strikes Back",
+    "impact_unit": 0,
+    "sound": [
+      "skill20111.mp3"
+    ],
+    "cast_times": 1,
+    "icon": "sk_20167",
+    "des": " HP lower than 40% active, skill active immune damage, Increase 60% Attack ,Increase 50% speed Attack"
+  },
+  "20168": {
+    "target_type": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        20168,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20168,
+    "buffId": 20114,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "All Attack",
+    "sound": [
+      "skill20168.mp3"
+    ],
+    "target_range": [
+      1200,
+      160,
+      600,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20168",
+    "des": " summon Obsess Cavalry go forward ahead, deal 3 waves magic damage, each waves 140% damage, Stun 3 second"
+  },
+  "20170": {
+    "sound": [
+      "skill20170.mp3",
+      0.9
+    ],
+    "tri": [
+      1,
+      9
+    ],
+    "effect_1": [
+      [
+        202041,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20170,
+    "buffId": 20094,
+    "target_type": 14,
+    "rate": {
+      "dmg_coef": 0.4
+    },
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 2,
+    "name": "Slash Heaven",
+    "effect_2": [
+      [
+        202042,
+        0.3
+      ],
+      [
+        202043,
+        0.7
+      ]
+    ],
+    "cast_times": 99,
+    "target_range": [
+      130,
+      130
+    ],
+    "icon": "sk_20170",
+    "des": "High Probability deal 140% magic damage, at the same time burning targets"
+  },
+  "20041": {
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        20042,
+        0.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20041,
+    "target_type": 3,
+    "rate": {
+      "curHp": 24
+    },
+    "impact_unit": 0,
+    "dmg_type": 1,
+    "quality": 1,
+    "name": "Aid",
+    "effect_2": [
+      [
+        20041,
+        1.3
+      ],
+      [
+        20042,
+        1
+      ]
+    ],
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20041",
+    "des": "There is average probability troops weakest our side healer 24% HP"
+  },
+  "20042": {
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        20042,
+        0.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20042,
+    "target_type": 3,
+    "rate": {
+      "curHp": 40
+    },
+    "impact_unit": 0,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Medicine Camp",
+    "effect_2": [
+      [
+        20041,
+        1.3
+      ],
+      [
+        20042,
+        1
+      ]
+    ],
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20042",
+    "des": "There is average probability troops weakest our side healer 40% HP"
+  },
+  "20044": {
+    "target_type": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        200441,
+        0.4
+      ]
+    ],
+    "target_num": 8,
+    "id": 20044,
+    "buffId": 20044,
+    "rate": {
+      "curHp": 25
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 3,
+    "name": "Revived Bleesing",
+    "effect_2": [
+      [
+        200442,
+        0.6
+      ]
+    ],
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20044",
+    "des": "There is average probability hero our side healer 25% HP, at the same time 5 second Increase 15% Defense"
+  },
+  "20046": {
+    "target_type": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        200441,
+        0.4
+      ]
+    ],
+    "target_num": 8,
+    "id": 20046,
+    "buffId": 20046,
+    "remove_bad_buff": true,
+    "rate": {
+      "curHp": 5
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 3,
+    "name": "Revived Bleesing",
+    "effect_2": [
+      [
+        200442,
+        0.6
+      ]
+    ],
+    "sound": [
+      "skill20021.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20044",
+    "des": "There is average probability hero our side healer 5% HP, remove disadvantage effects, at the same time in 5 second Increase 30% Defense"
+  },
+  "10042": {
+    "tri": [
+      0,
+      100
+    ],
+    "effect_1": [
+      [
+        10041,
+        0.5
+      ],
+      [
+        10042,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 10042,
+    "buffId": 10042,
+    "rate": {
+      "curHp": 0
+    },
+    "quality": 2,
+    "dmg_type": 0,
+    "target_type": 0,
+    "name": "War Dog",
+    "impact_unit": 0,
+    "sound": [
+      "skill10031.mp3"
+    ],
+    "cast_times": 1,
+    "icon": "sk_10042",
+    "des": "Start active,Increase attack 25%"
+  },
+  "10044": {
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        1000,
+        1.2
+      ]
+    ],
+    "target_num": 1,
+    "id": 10044,
+    "rate": {
+      "dmg_coef": 0.6,
+      "blood_get": 0.1
+    },
+    "is_interrupt": 1,
+    "dmg_free": true,
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Half Moon Slash",
+    "target_range": [
+      180,
+      160,
+      100,
+      0
+    ],
+    "impact_unit": 1,
+    "sound": [
+      "skill10044.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_10044",
+    "des": "Average probability of casting, Half Moon Slash deal 160% damage, cancel casting, at the same time absorb hp enemy, immortal when casting."
+  },
+  "20084": {
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.4
+      ]
+    ],
+    "target_num": 1,
+    "id": 20084,
+    "rate": {
+      "dmg_coef": 0.3
+    },
+    "is_interrupt": 1,
+    "move2target": true,
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 12,
+    "name": "Tiger Slash",
+    "target_range": [
+      220,
+      220
+    ],
+    "impact_unit": 1,
+    "sound": [
+      "skill20084.mp3",
+      0.55
+    ],
+    "cast_times": 99,
+    "icon": "sk_20084",
+    "des": "Average probability of casting, shoot towards ranger troops of enemy, deal around 130% damage, at the same time cancel skill enemy."
+  },
+  "20001": {
+    "tri": [
+      1,
+      13
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.5
+      ]
+    ],
+    "target_num": 1,
+    "id": 20001,
+    "rate": {
+      "dmg_coef": 1.1
+    },
+    "switch_target": true,
+    "quality": 3,
+    "dmg_type": 2,
+    "target_type": 12,
+    "name": "Teleport",
+    "buffId": 10024,
+    "buff_target": 0,
+    "effect_2": [
+      [
+        202042,
+        0.3
+      ]
+    ],
+    "impact_unit": 1,
+    "sound": [
+      "skill20001.mp3",
+      0.55
+    ],
+    "cast_times": 4,
+    "icon": "sk_20001",
+    "des": "Average probability of casting, deal 210% magic damage, at the same time swap himself with ranger troops enemy, Increase 400% Defense continuous 6 second."
+  },
+  "20002": {
+    "tri": [
+      1,
+      18
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.7
+      ]
+    ],
+    "target_num": 2,
+    "id": 20002,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "is_interrupt": 1,
+    "quality": 2,
+    "dmg_type": 2,
+    "target_type": 6,
+    "effect_2": [
+      [
+        200023,
+        0.4
+      ]
+    ],
+    "name": "Queen of Wrath",
+    "impact_unit": 1,
+    "sound": [
+      "skill20002.mp3",
+      0.4
+    ],
+    "cast_times": 99,
+    "icon": "sk_20002",
+    "des": "Average probability of casting, with 2 hero enemy deal 150% magic damage, at the same time cancel skill enemy."
+  },
+  "20003": {
+    "tri": [
+      1,
+      10
+    ],
+    "effect_1": [
+      [
+        1000,
+        2
+      ],
+      [
+        1000,
+        3
+      ]
+    ],
+    "target_num": 1,
+    "id": 20003,
+    "rate": {
+      "dmg_coef": -0.5,
+      "unit_dmg_coef": -1.1
+    },
+    "is_interrupt": 2,
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 7,
+    "name": "Extinction of God and Demons",
+    "impact_unit": 1,
+    "target_range": [
+      2300,
+      2300
+    ],
+    "is_damage_all": true,
+    "dmg_free": true,
+    "sound": [
+      "skill20003.mp3",
+      2.9
+    ],
+    "cast_times": 99,
+    "icon": "sk_20003",
+    "des": "deal 2 shoots 50% physical damage for enemy, at the same time drop bombs enemy."
+  },
+  "20004": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.5
+      ],
+      [
+        1000,
+        1.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20004,
+    "rate": {
+      "dmg_coef": -0.15
+    },
+    "is_interrupt": 2,
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 5,
+    "name": "Nonpareil Strike",
+    "impact_unit": 1,
+    "target_range": [
+      320,
+      160,
+      190,
+      0
+    ],
+    "sound": [
+      "skill20004.mp3",
+      0.6
+    ],
+    "cast_times": 99,
+    "icon": "sk_20004",
+    "des": "Repel enemy around, deal 80% and 90% physical damage."
+  },
+  "20005": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        1000,
+        1.2
+      ]
+    ],
+    "target_num": 1,
+    "id": 20005,
+    "buffId": 20292,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "is_interrupt": 1,
+    "move2target": true,
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 14,
+    "name": "Heaven Strike",
+    "target_range": [
+      260,
+      260
+    ],
+    "impact_unit": 1,
+    "sound": [
+      "skill20005.mp3",
+      1.3
+    ],
+    "cast_times": 99,
+    "icon": "sk_20005",
+    "des": "Average probability of casting, shoot towards targets melee deal 160% physical damage, at the same time deal effect breaking armor."
+  },
+  "20006": {
+    "target_type": 5,
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.9
+      ]
+    ],
+    "target_num": 1,
+    "id": 20006,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "is_interrupt": 2,
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Ancient Blade",
+    "sound": [
+      "skill20006.mp3",
+      0.85
+    ],
+    "target_range": [
+      520,
+      140,
+      280,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20006",
+    "des": "Deal 160% physical damage, at the same time repel enemy, cancel skill enemy."
+  },
+  "20007": {
+    "target_type": 5,
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        1000,
+        1.1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20007,
+    "buffId": 20168,
+    "buff_target": 0,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "interrupt_action": [
+      3,
+      0.2
+    ],
+    "is_interrupt": 1,
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Dragon Tail",
+    "sound": [
+      "skill20007.mp3",
+      0.6
+    ],
+    "target_range": [
+      180,
+      180,
+      120,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20007",
+    "des": "Hit enemy push back, deal mass 160% physical damage, at the same time in 10 second Increase 30% speed Attack"
+  },
+  "20008": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.2
+      ],
+      [
+        1000,
+        0.5
+      ],
+      [
+        1000,
+        0.8
+      ],
+      [
+        1000,
+        1.1
+      ],
+      [
+        1000,
+        1.4
+      ]
+    ],
+    "target_num": 1,
+    "id": 20008,
+    "rate": {
+      "dmg_coef": -0.76
+    },
+    "is_interrupt": 1,
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 7,
+    "name": "Dragon Strike",
+    "impact_unit": 1,
+    "target_range": [
+      260,
+      240,
+      150,
+      0
+    ],
+    "dmg_free": true,
+    "sound": [
+      "skill20008.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20008",
+    "des": "Slash 5 damage large range enemy, each waves 24% physical damage.Immortal when casting."
+  },
+  "20009": {
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.4
+      ],
+      [
+        1000,
+        0.6
+      ],
+      [
+        1000,
+        0.8
+      ],
+      [
+        1000,
+        1
+      ],
+      [
+        1000,
+        1.2
+      ],
+      [
+        1000,
+        1.4
+      ],
+      [
+        1000,
+        1.6
+      ],
+      [
+        1000,
+        1.8
+      ],
+      [
+        1000,
+        2.4
+      ]
+    ],
+    "target_num": 1,
+    "id": 20009,
+    "buffId": 10044,
+    "buff_target": 0,
+    "rate": {
+      "dmg_coef": -0.7
+    },
+    "is_interrupt": 1,
+    "move2target_delay": 0.15,
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 12,
+    "name": "Crazy Storm",
+    "impact_unit": 0,
+    "dmg_free": true,
+    "sound": [
+      "skill20009.mp3",
+      0.6
+    ],
+    "cast_times": 99,
+    "icon": "sk_20009",
+    "des": "Toward enemy direction, aim far distance enemy deal continuous damage, each times 30% physical damage, cancel casting, at the same time Increase critical 2500 point.Immortal when casting."
+  },
+  "20010": {
+    "target_type": 5,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        1000,
+        1.7
+      ]
+    ],
+    "target_num": 1,
+    "id": 20006,
+    "rate": {
+      "dmg_coef": 0.5
+    },
+    "is_interrupt": 2,
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "One Shot",
+    "sound": [
+      "skill20010.mp3",
+      0.2
+    ],
+    "target_range": [
+      1200,
+      140,
+      650,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20010",
+    "des": "deal 150% physical damage in a straight line, at the same time Repel targets."
+  },
+  "20015": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.7
+      ]
+    ],
+    "target_num": 20016,
+    "id": 20015,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "is_interrupt": 1,
+    "quality": 3,
+    "dmg_type": 2,
+    "target_type": 15,
+    "effect_2": [
+      [
+        200152,
+        0.4
+      ]
+    ],
+    "name": "Dead Target",
+    "impact_unit": 1,
+    "sound": [
+      "skill20015.mp3",
+      0.4
+    ],
+    "cast_times": 99,
+    "icon": "sk_20015",
+    "des": "Mark target enemy deal 160% magic damage."
+  },
+  "20016": {
+    "tri": [
+      1,
+      15
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.9
+      ]
+    ],
+    "target_num": 3,
+    "id": 20016,
+    "buffId": 20016,
+    "rate": {
+      "dmg_coef": 0.3
+    },
+    "quality": 2,
+    "dmg_type": 2,
+    "target_type": 6,
+    "effect_2": [
+      [
+        200163,
+        0.6
+      ]
+    ],
+    "name": "Tough like chicken tendons",
+    "impact_unit": 1,
+    "sound": [
+      "skill20016.mp3",
+      0.5
+    ],
+    "cast_times": 99,
+    "icon": "sk_20016",
+    "des": "Mark target 3 enemy hero, deal 130% magic damage, at the same time reduce  Attack 40%, continuous 8 second."
+  },
+  "20017": {
+    "target_type": 13,
+    "tri": [
+      1,
+      11
+    ],
+    "target_num": 8,
+    "id": 20017,
+    "effect_1": [
+      [
+        1000,
+        0.3
+      ]
+    ],
+    "buffId": 20017,
+    "rate": {
+      "curHp": 10
+    },
+    "impact_unit": 0,
+    "dmg_type": 0,
+    "quality": 3,
+    "effect_2": [
+      [
+        200172,
+        0.4
+      ]
+    ],
+    "name": "Phantom Demon",
+    "sound": [
+      "skill20017.mp3",
+      0.1
+    ],
+    "cast_times": 99,
+    "icon": "sk_20017",
+    "des": "Average probability of casting, Increase melee hero our side 35% Attack Increase 2000 point critical, continuous 6 second."
+  },
+  "20018": {
+    "tri": [
+      1,
+      13
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.6
+      ]
+    ],
+    "target_num": 1,
+    "id": 20018,
+    "rate": {
+      "dmg_coef": 0.8,
+      "blood_get": 0.1
+    },
+    "is_interrupt": 1,
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 7,
+    "name": "Cataphract",
+    "impact_unit": 1,
+    "target_range": [
+      240,
+      240,
+      0,
+      0
+    ],
+    "sound": [
+      "skill20018.mp3",
+      0.2
+    ],
+    "cast_times": 99,
+    "icon": "sk_20018",
+    "des": "Avarage probability of casting, 4 sides himself deal 180% physical damage, damage healer 10% HP."
+  },
+  "20019": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 6,
+    "target_num": 2,
+    "id": 20019,
+    "buffId": 20019,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "sound": [
+      "skill20019.mp3"
+    ],
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Poision Cloud",
+    "target_range": [
+      230,
+      230
+    ],
+    "effect_2": [
+      [
+        200191,
+        0.7
+      ]
+    ],
+    "cast_times": 99,
+    "icon": "sk_20019",
+    "des": "Average probability of casting, with 2 hero enemy deal 160% magic damage widespread, at the same time slient 6 second."
+  },
+  "20020": {
+    "target_type": 6,
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        10003,
+        0.5
+      ]
+    ],
+    "target_num": 3,
+    "id": 20020,
+    "buffId": 20020,
+    "remove_good_buff": true,
+    "rate": {
+      "dmg_coef": -0.99
+    },
+    "impact_unit": 1,
+    "dmg_type": 0,
+    "quality": 2,
+    "name": "Poision Air",
+    "effect_2": [
+      [
+        20314,
+        0.7
+      ]
+    ],
+    "sound": [
+      "skill20020.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20020",
+    "des": "Launch Poision Air, poison 3 any enemy, removed buff of enemy, at the same time deal 10 second continuous damage, total 40% HP"
+  },
+  "20025": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 5,
+    "target_num": 1,
+    "id": 20403,
+    "rate": {
+      "dmg_coef": 0.8,
+      "hp_dmg_coef": 1.5
+    },
+    "sound": [
+      "skill20025.mp3"
+    ],
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Dead Fire",
+    "effect_2": [
+      [
+        200251,
+        0.4
+      ]
+    ],
+    "target_range": [
+      200,
+      200
+    ],
+    "cast_times": 99,
+    "icon": "sk_20025",
+    "des": "Average probability of casting, with targets around deal 180% magic damage, HP more lower damage more higher, highest Increase 150% damage."
+  },
+  "20026": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 14,
+    "target_num": 1,
+    "id": 20026,
+    "buffId": 20026,
+    "rate": {
+      "dmg_coef": 0.8
+    },
+    "sound": [
+      "skill20026.mp3"
+    ],
+    "dmg_type": 2,
+    "quality": 2,
+    "name": "Burning Camp",
+    "target_range": [
+      230,
+      230
+    ],
+    "effect_2": [
+      [
+        200261,
+        0.4
+      ]
+    ],
+    "cast_times": 99,
+    "icon": "sk_20026",
+    "des": "Average probability of casting, with hero melee enemy deal 180% magic damage widespread, at the same time reduce soldier's will 50%(probability launch skill low), continuous 10 second."
+  },
+  "20027": {
+    "target_type": 11,
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        202731,
+        0
+      ]
+    ],
+    "target_num": 8,
+    "id": 20027,
+    "buffId": 20274,
+    "rate": {
+      "curHp": 30
+    },
+    "impact_unit": 0,
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Respect Talented",
+    "effect_2": [
+      [
+        202732,
+        1.8
+      ]
+    ],
+    "sound": [
+      "skill20027.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20027",
+    "des": "Average probability of casting, ranger hero our side restore 30% HP at the same time increase attack 30% continuous 8 second"
+  },
+  "20028": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      13
+    ],
+    "target_type": 1,
+    "target_num": 8,
+    "id": 20028,
+    "buffId": 20028,
+    "rate": {
+      "dmg_coef": -0.8
+    },
+    "sound": [
+      "skill20028.mp3"
+    ],
+    "dmg_type": 2,
+    "quality": 2,
+    "name": "Mind Fighting",
+    "effect_2": [
+      [
+        200281,
+        0.8
+      ]
+    ],
+    "cast_times": 99,
+    "icon": "sk_20028",
+    "des": "High Probability active, sacrifice HP, Increase whole general Defense 40%, Increase resistance 50%, at the same time  increase hero soldier's will(launch skill probability) 100%, continuous 8 second."
+  },
+  "20029": {
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.4
+      ],
+      [
+        1000,
+        0.8
+      ]
+    ],
+    "target_num": 1,
+    "id": 20029,
+    "rate": {
+      "dmg_coef": 0.6
+    },
+    "is_interrupt": 2,
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Wind Strike",
+    "target_range": [
+      300,
+      300
+    ],
+    "impact_unit": 1,
+    "sound": [
+      "skill20029.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20029",
+    "des": "Average probability of casting, release a circular tornado deal 2 waves 80% physical damage each wave, do enemy Repel."
+  },
+  "20030": {
+    "tri": [
+      1,
+      10
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.8
+      ]
+    ],
+    "target_num": 1,
+    "id": 20030,
+    "rate": {
+      "curHp": 5
+    },
+    "far_switch_target": true,
+    "buffId": 20030,
+    "dmg_free": true,
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 0,
+    "name": "Avoid Trouble",
+    "impact_unit": 1,
+    "sound": [
+      "skill20030.mp3"
+    ],
+    "cast_times": 99,
+    "icon": "sk_20030",
+    "des": "Low probability active, hide himself, get unbeaten status.at the same time Increase avoid himself 2000, continuous 6 second."
+  },
+  "20035": {
+    "target_type": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "target_num": 8,
+    "id": 20035,
+    "effect_1": [
+      [
+        1000,
+        0.3
+      ]
+    ],
+    "buffId": 20035,
+    "rate": {
+      "curHp": 10
+    },
+    "impact_unit": 0,
+    "dmg_free": true,
+    "dmg_type": 0,
+    "quality": 3,
+    "effect_2": [
+      [
+        200172,
+        0.4
+      ]
+    ],
+    "name": "Bodhisattva Bless",
+    "sound": [
+      "skill20035.mp3",
+      0.1
+    ],
+    "cast_times": 99,
+    "icon": "sk_20035",
+    "des": "Average probability of casting, protect all of your general, get unbeaten status in 2 second, at the same time healer 10% HP."
+  },
+  "20036": {
+    "sound": [
+      "skill20025.mp3",
+      0.3
+    ],
+    "tri": [
+      1,
+      13
+    ],
+    "effect_1": [
+      [
+        1000,
+        1
+      ]
+    ],
+    "target_num": 1,
+    "id": 20036,
+    "buffId": 20170,
+    "rate": {
+      "dmg_coef": 0.8
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 5,
+    "name": "Wipe Your Eyes And See",
+    "impact_unit": 1,
+    "target_range": [
+      180,
+      180,
+      90,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20036",
+    "des": "Average probability of casting, deal 180% Wide area physical damage, at the same time reduce 60% speed moverment speed Attack 6 second."
+  },
+  "20037": {
+    "target_type": 6,
+    "tri": [
+      1,
+      12
+    ],
+    "target_num": 8,
+    "id": 20037,
+    "effect_1": [
+      [
+        1000,
+        0.3
+      ],
+      [
+        1000,
+        0.55
+      ],
+      [
+        1000,
+        0.7
+      ],
+      [
+        1000,
+        0.85
+      ],
+      [
+        1000,
+        0.1
+      ],
+      [
+        1000,
+        1.15
+      ],
+      [
+        1000,
+        1.3
+      ],
+      [
+        1000,
+        1.45
+      ],
+      [
+        1000,
+        1.6
+      ],
+      [
+        1000,
+        1.7
+      ]
+    ],
+    "rate": {
+      "dmg_coef": -0.8
+    },
+    "impact_unit": 0,
+    "dmg_type": 1,
+    "far_attack": true,
+    "quality": 3,
+    "name": "Zhuge Crossbow",
+    "sound": [
+      "skill20008.mp3",
+      0.2
+    ],
+    "cast_times": 99,
+    "icon": "sk_20037",
+    "des": "Average probability of casting, continuous launching 10 arrows become rain arrow, each deal 20% physical damage."
+  },
+  "20038": {
+    "sound": [
+      "skill20025.mp3",
+      0.3
+    ],
+    "tri": [
+      1,
+      12
+    ],
+    "effect_1": [
+      [
+        200381,
+        0
+      ]
+    ],
+    "target_num": 1,
+    "id": 20038,
+    "buffId": 20175,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "quality": 2,
+    "dmg_type": 1,
+    "target_type": 5,
+    "name": "Slow Swamp",
+    "impact_unit": 1,
+    "target_range": [
+      500,
+      600,
+      250,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20038",
+    "des": "Average probability of casting, ahead deal 110% physical damage widespread, at the same time reduce 30% speed moverment speed Attack 6 second."
+  },
+  "20039": {
+    "target_type": 6,
+    "tri": [
+      1,
+      12
+    ],
+    "target_num": 1,
+    "id": 20039,
+    "rate": {
+      "dmg_coef": 0.5,
+      "no_buff_dmg_coef": 0.3
+    },
+    "buffId": 1002,
+    "impact_unit": 1,
+    "dmg_type": 2,
+    "quality": 3,
+    "name": "Super Boat",
+    "sound": [
+      "skill20039.mp3",
+      0.2
+    ],
+    "effect_2": [
+      [
+        200391,
+        0.5
+      ]
+    ],
+    "target_range": [
+      350,
+      200,
+      -50,
+      0
+    ],
+    "cast_times": 99,
+    "icon": "sk_20039",
+    "des": "Summon super ship rush towards enemy deal 150% magic damage, at the same time  deal stun 2 second. if enemy dont have buff, damage increase 30%."
+  },
+  "20040": {
+    "impact_unit": 1,
+    "tri": [
+      1,
+      12
+    ],
+    "target_type": 6,
+    "target_num": 1,
+    "id": 20040,
+    "rate": {
+      "dmg_coef": 0.8
+    },
+    "sound": [
+      "skill20040.mp3"
+    ],
+    "dmg_type": 2,
+    "quality": 2,
+    "remove_good_buff": true,
+    "buffId": 20176,
+    "name": "Wave Strike",
+    "effect_2": [
+      [
+        200401,
+        0.2
+      ]
+    ],
+    "target_range": [
+      220,
+      220
+    ],
+    "cast_times": 99,
+    "icon": "sk_20040",
+    "des": "Average probability of casting, deal 180% magic damage widespread, at the same time removed buff enemy, Reduce 50% speed, continuous 5 second."
+  },
+  "20047": {
+    "target_type": 6,
+    "tri": [
+      1,
+      12
+    ],
+    "target_num": 3,
+    "id": 20047,
+    "buffId": 1000,
+    "rate": {
+      "dmg_coef": 0.1
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 3,
+    "name": "Snake Dance",
+    "effect_2": [
+      [
+        10063,
+        0.5
+      ]
+    ],
+    "target_range": [
+      1200,
+      150,
+      -300,
+      0
+    ],
+    "sound": [
+      "skill20018.mp3",
+      0.1
+    ],
+    "cast_times": 99,
+    "icon": "sk_20047",
+    "des": "Average probability of casting, accumulate Honghuang force, continuous launching 3 shoots penetration arrow, deal 110% physical damage, at the same time cancel casting."
+  },
+  "20048": {
+    "target_type": 6,
+    "tri": [
+      1,
+      12
+    ],
+    "target_num": 1,
+    "id": 20048,
+    "buffId": 1002,
+    "rate": {
+      "dmg_coef": 0.8,
+      "hp_dmg_coef": 1.2
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 2,
+    "name": "Critical Hit",
+    "effect_2": [
+      [
+        201242,
+        0.5
+      ]
+    ],
+    "sound": [
+      "skill20061.mp3",
+      0.6
+    ],
+    "cast_times": 99,
+    "icon": "sk_20048",
+    "des": "Have normal probability Stare shoot 1 hero enemy, deal 180% physical damage, Stun targets.HP more lower damage more higher, highest Increase 120% damage."
+  },
+  "20049": {
+    "tri": [
+      1,
+      11
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.4
+      ]
+    ],
+    "target_num": 1,
+    "id": 20049,
+    "rate": {
+      "dmg_coef": 0.3,
+      "unit_num_dmg_coef": [
+        12,
+        30,
+        2
+      ]
+    },
+    "is_interrupt": 1,
+    "move2target": true,
+    "dmg_free": true,
+    "quality": 3,
+    "dmg_type": 1,
+    "target_type": 12,
+    "name": "Waves Arrow",
+    "target_range": [
+      320,
+      320
+    ],
+    "impact_unit": 1,
+    "sound": [
+      "skill20005.mp3",
+      0.8
+    ],
+    "cast_times": 99,
+    "icon": "sk_20049",
+    "des": "Average probability of casting, shoot towards ranger troops enemy, deal 130% Wide area physical damage, waves touch a lot of enemy, damage more higher. in launching process immune damage."
+  },
+  "20050": {
+    "sound": [
+      "skill20191.mp3"
+    ],
+    "effect_1": [
+      [
+        1000,
+        0.4
+      ],
+      [
+        1000,
+        0.8
+      ]
+    ],
+    "tri": [
+      1,
+      13
+    ],
+    "target_type": 5,
+    "target_num": 1,
+    "id": 20050,
+    "buffId": 20175,
+    "rate": {
+      "dmg_coef": -0.2,
+      "unit_dmg_coef": -1.2
+    },
+    "impact_unit": 1,
+    "dmg_type": 1,
+    "quality": 2,
+    "target_range": [
+      320,
+      200,
+      130,
+      0
+    ],
+    "is_interrupt": 4,
+    "name": "Slaughter Slash",
+    "cast_times": 99,
+    "icon": "sk_20050",
+    "des": "Average probability of casting, ahead deal 2 waves 80% Wide area physical damage each wave, push back. Reduce the opponent's speed 30% continuous 6 second."
+  }
+}

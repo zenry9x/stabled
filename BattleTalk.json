@@ -1,0 +1,1397 @@
+{
+  "Message": {
+    "210": [
+      [
+        {
+          "talk": "Although it was a bit rushed, I was well prepared; Last time you defeated me, now you have to taste my Super Thunderbolts!",
+          "roleId": 5,
+          "dir": "R"
+        },
+        {
+          "talk": "Looks like Zhang Jue is ready, we have to be careful!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Our boss says there must be thunder! We immediately sent out thunder!",
+          "roleId": 18,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Following in the footsteps of Our boss!",
+          "roleId": 18,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "So great! Ambush army really counters ranged army! Zhang Jue probably won't be able to revive this time?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "There are more skills, and the enemies are getting stronger. You must use every skill to win!",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Playing thunderbolts is the most fun hahaha!",
+          "roleId": 18,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Too strong, this is really Super Thunderbolts, what to do?",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "710": [
+      [
+        {
+          "talk": "Angry at the Cao enemy, he secretly attacked Guandu and burned me with food. If the great power is lost, right now, you can only risk your life once",
+          "roleId": 31,
+          "dir": "R"
+        },
+        {
+          "talk": "Although you are stupid, you seem a loyal vassal to the Han Dynasty, how about disarming and surrendering?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Don't even dream of taking advantage of me, come! Kill me!",
+          "roleId": 31,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "So determined to fight, how can it be without Zhang Liao",
+          "roleId": 27,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Boss ordered Cao Ren to assist, Yuan Shao quickly surrendered!",
+          "roleId": 30,
+          "dir": "L"
+        },
+        {
+          "talk": "Looks like Guandu is where we failed...  ...",
+          "roleId": 32,
+          "dir": "R"
+        }
+      ]
+    ],
+    "901": [
+      [
+        {
+          "talk": "Lu Meng is a Hero in Jiangdong, but it seems that he hasn't created a battle yet, his strength is far from enough.!",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Please don't hesitate, Marshal, the mighty Jiangdong is gathering, so we attack as soon as possible.",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ]
+    ],
+    "903": [
+      [
+        {
+          "talk": "Eastern Wu hero, protect Jiangdong!",
+          "roleId": 39,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "It can't be defeated so easily, the entire army is on the spot for treatment",
+          "roleId": 40,
+          "dir": "R"
+        }
+      ]
+    ],
+    "905": [
+      [
+        {
+          "talk": "Careful marshals! Huang Gai have much experience in the field, will not arbitrarily go into battle when he has only group soldiers, there is definitely a trap.",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Agree! We also want to see what's in the gourd.",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "The ambush has arrived, retreat now",
+          "roleId": 41,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Who said Jiangnan has no Cataphract? destroy enemy's army!",
+          "roleId": 42,
+          "dir": "R"
+        },
+        {
+          "talk": "No shame is the Eastern Wu old general, you use the combo Ambush army's is really top!!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "907": [
+      [
+        {
+          "talk": "Today is really Jiangdong's brotherhood party, another pair of long-time friends, they are all heroes, looking at this situation, it is a tough battle.",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Lu Meng and Zhou Tai are good at close combat, now there are Master Mind to help them, we must eliminate the accomplice as soon as possible.",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ]
+    ],
+    "301": [
+      [
+        {
+          "talk": "The Yellow Turban army has begun to disperse, but the remaining Well trained forces are still determined to fight to the death! Marshals, you must be careful fighting",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Hey, all roads are cucumbers, I really want to know a little Yellow Turban Well trained a, ha ha ha",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "You have defeated Zhang Jue-sama, accept our revenge!",
+          "roleId": 19,
+          "dir": "R"
+        }
+      ]
+    ],
+    "305": [
+      [
+        {
+          "talk": "Unexpectedly, I became the last general of the Yellow Turban Army!",
+          "roleId": 20,
+          "dir": "R"
+        },
+        {
+          "talk": "... Is this also worth mentioning? After this battle, there was no one in the Yellow Turban team with the surname Zhang",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "...",
+          "roleId": 21,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Meet the devil... Is it really possible that this world has this kind of sacred and illusory object??",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Marshals can go from the future to the present, what is impossible??",
+          "roleId": 7,
+          "dir": "L"
+        },
+        {
+          "talk": "...... (It seems that whatever happens in the battle later it is not strange.)",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Lord Zhang Jue is sacred in heaven, give all brothers divine power!",
+          "roleId": 20,
+          "dir": "R"
+        }
+      ]
+    ],
+    "610": [
+      [
+        {
+          "talk": "Talking too much, let's see the real strength of the four continents army!",
+          "roleId": 31,
+          "dir": "R"
+        },
+        {
+          "talk": "I didn't expect the intensity of this battle. obviously BOSS is getting stronger and stronger....",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Marshal, what does BOSS mean?",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "... KILL!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "310": [
+      [
+        {
+          "talk": "Huh? Isn't Zhou Cang the Deputy General carrying Guan Yu's blade? How to do Yellow Turbans rebellation",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Just like you want to defeat me?",
+          "roleId": 22,
+          "dir": "R"
+        },
+        {
+          "talk": "Is it true that when every loser go upper stage they says miscellaneous? If I win, what are you going to do?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Huh! If you can win, I'll go carry your sword!",
+          "roleId": 22,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Real danger! But in the end we won. Could it be that Zhou Cang and Guan Yu are coincidentally made by me??",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "you're very good, Zhou Cang I will what I promise, now I'm going to find Guan Yu!",
+          "roleId": 22,
+          "dir": "R"
+        },
+        {
+          "talk": "...",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "The battle is getting more and more interesting, I learned the four great skills, it's my turn to perform!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Great strength! But what... (scratches head)",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "805": [
+      [
+        {
+          "talk": "General Cao Ren said that was also his order to bring me back to meet the prime minister, right?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "You are The brave general was outstanding, Cao Ren did not dare to mess around, if the general refused to give up, we could only entrench ourselves..",
+          "roleId": 30,
+          "dir": "R"
+        },
+        {
+          "talk": "I hear you are The famous defense general in the world, I will come and try it today! Guilty already!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "809": [
+      [
+        {
+          "talk": "Marshals stop! The prime minister wanted to say goodbye to the marshal, and sent a special order to bring Tiger Cavalry to guard!",
+          "roleId": 28,
+          "dir": "R"
+        },
+        {
+          "talk": "I know you're Wei Tiger Cavalry Well trained division, but today I want to stop you, I'll show you the real Tiger!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "505": [
+      [
+        {
+          "talk": "Huh, don't think that you can defeat me like this, Archers prepare!",
+          "roleId": 45,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Not good! Get ambushed by Diaochan, quickly retreat!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "508": [
+      [
+        {
+          "talk": "Rub! Are you the legendary general Zhang Liao? I'm still your fan",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "I'm Zhang Liao, just following the Emperor's words, who are you?",
+          "roleId": 27,
+          "dir": "R"
+        },
+        {
+          "talk": "Completely unable to communicate, defeat him first, ask for his autograph later!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "509": [
+      [
+        {
+          "talk": "Breaking into the battlefield was General Gao Shun, a Well trained army trained by Lu Bu. Seeing them see them proves that Lu Bu is nearby.",
+          "roleId": 7,
+          "dir": "L"
+        },
+        {
+          "talk": "Indeed, the training is very good, please teach me a bit",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "510": [
+      [
+        {
+          "talk": "The squad is very strong, not ashamed of being the devil God.Lu Bu, this battle I have been waiting for a long time!",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "I am the number one strong general, but I was forced to this step by you. So let's have a good fight, Kill! Kill! Kill!",
+          "roleId": 10,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "I didn't think that Lu Bu had a heroic life, but today I failed and wanted to leave the battlefield ...",
+          "roleId": 10,
+          "dir": "R"
+        },
+        {
+          "talk": "Lu Bu! I respect you as God. General, if you have the opportunity, come to the tavern, I will invite you a drink!",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Good! Let's go to the tavern to recruit the army, look forward to fighting with the marshals side by side!",
+          "roleId": 10,
+          "dir": "R"
+        }
+      ]
+    ],
+    "701": [
+      [
+        {
+          "talk": "Saying to come to support, Cao Cao did not keep his word, let us face the enemy alone, not even a puncher was sent.",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "… Fortunately, we and Yuan Shao's army met, not to the point of being defeated in an instant.",
+          "roleId": 7,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Marshals don't panic! At the command of the master, I come to assist in the battle.",
+          "roleId": 28,
+          "dir": "L"
+        },
+        {
+          "talk": "Good thing General Xiahou came! They will come back",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "703": [
+      [
+        {
+          "talk": "Be careful marshal, it's Zhang He again, last time reluctantly beat him, now it seems he's prepared, don't be careless.",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Scalp stretch still has to be faced, it's not enough to hide anyway.",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "That's great, General Cao Hong came to the rescue",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "If we don't come again, we guess we've been fooled",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "705": [
+      [
+        {
+          "talk": "No, it is not! Yuan Shao also cheated? One time sending two generals, it's not fair.",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "How can there be fairness on the battlefield? According to me Cao Cao will not sit and ignore.",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Damn Cao Cao, where are the reinforcements?",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Sorry, I'm late, luckily I can catch up, Marshal is worried about killing the enemy, Guo Jia makes sure you're okay!",
+          "roleId": 29,
+          "dir": "L"
+        }
+      ]
+    ],
+    "100": [
+      [
+        {
+          "talk": "Uncle, what are you doing?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "The hero, Yellow Turban dog bandit rebelled, Zhang Jue led a trusted underling to challenge. Our reinforcements are still on the way, reluctantly, please lead the team ahead, I will stay behind to protect you....",
+          "roleId": 1,
+          "dir": "R"
+        },
+        {
+          "talk": "I $%@#, Zhang Jue has a lot of soldiers, I am just a small soldier, tell me how to go first?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "The situation is urgent, please don't refuse! Zhang Jue has already killed me, I am before Retreat, take care of, I believe in you!",
+          "roleId": 1,
+          "dir": "R"
+        },
+        {
+          "talk": "I $%@# ... What a headache...",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "The three generals are truly divine martial arts! (It seems that in order to maintain history, it is indispensable for the help of the god general!)",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "The campaign is a great victory, I hope that the hero can be victorious and rush forward to pursue and break through the world! In front of danger, minor general Gao Lan is willing to follow, hoping that master doesn't have to refuse!",
+          "roleId": 1,
+          "dir": "R"
+        },
+        {
+          "talk": "Haha! Good! (Mosquito's feet are also meat, maybe they will use them sometime.)",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "So great! It is said that Zuo Ci is already in the city waiting for the hero, rest in order and then we can march!",
+          "roleId": 1,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Little child Zhang Jue, dare to wake up my spring dream! Let's teach him for a bit!",
+          "roleId": 8,
+          "dir": "L"
+        },
+        {
+          "talk": "Hero, our boss said he wanted me bring you back alive, and give the rest to me!",
+          "roleId": 9,
+          "dir": "L"
+        },
+        {
+          "talk": "Zhang Jue! Recognize me, Lu Bu?",
+          "roleId": 10,
+          "dir": "L"
+        },
+        {
+          "talk": "Hey... at first glance, these three reinforcements are still very reliable! Coming from despair, brothers, kill!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "God of Martial arts here! Stop me with death!",
+          "roleId": 8,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Zhang Jue! Do not run! Fight a domination battle!",
+          "roleId": 10,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "No, we can't stand it, where are the good reinforcements?",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Kid, recognize Yan Ren Zhang Fei?",
+          "roleId": 9,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Try this Super Thunderbolts!",
+          "roleId": 5,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Cowards can only shoot arrows in the back!",
+          "roleId": 8,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "This is because you like to hide in the back!",
+          "roleId": 9,
+          "dir": "L"
+        }
+      ]
+    ],
+    "1010": [
+      [
+        {
+          "talk": "Main character: Thought that defeating them would be enough to complete the escort, it seems that history can't be easily changed, killing six generals at once, reverting history, who ~~",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Guan Yu: Marshals don't have a woman's heart, these six people can't stop us, returning is also a way of death, it's better to give them a surprise before leaving!",
+          "roleId": 8,
+          "dir": "L"
+        },
+        {
+          "talk": "Main character: The ancients, although science and technology are backward, but civil servants mostly do their jobs, they would rather die and also want to complete their tasks......",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "801": [
+      [
+        {
+          "talk": "There is a large army blocking the road ahead, led by General Pang De, the situation seems to be a bit difficult to solve.",
+          "roleId": 7,
+          "dir": "L"
+        },
+        {
+          "talk": "The Prime Minister has orders, no one is allowed to leave arbitrarily, pls the marshal to return",
+          "roleId": 33,
+          "dir": "R"
+        },
+        {
+          "talk": "I have an important matter to leave, ask General Pang for a vehicle!",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Sr,Something for hard to obey!",
+          "roleId": 33,
+          "dir": "R"
+        },
+        {
+          "talk": "So I had to have you failded!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Cao Cao is a crook, there are bound to be many obstacles along the way, we have to be careful!",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Don't always say useless things, notice? How to notice? I hate this kind of dry drama dialogue.",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "drama?",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Nothing……",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "101": [
+      [
+        {
+          "talk": "Kid, I'm Yellow Turban Captian, if you want to go through the door, leave your money",
+          "roleId": 6,
+          "dir": "R"
+        },
+        {
+          "talk": "Marshal, don't be afraid, it's just a little bit of war, I'll help you win!",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Oh! Skills are useful.",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "The legion skill is so powerful, having it is like a tiger with extra wings!",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Marshals must remember to use them often! There will be more powerful skills waiting for us in the future.",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ]
+    ],
+    "1005": [
+      [
+        {
+          "talk": "Bian Xi: Guan Yu is bold, dared to kill a general, today I will take your head and sacrifice ten thousand troops!",
+          "roleId": 37,
+          "dir": "R"
+        },
+        {
+          "talk": "Guan Yu: Good for Bian Xi who doesn't know that how the sky is high and the earth is thick, if you have the courage, just gallop over here.",
+          "roleId": 8,
+          "dir": "L"
+        },
+        {
+          "talk": "Main character: Looks like the General also killed the red eyes, the enemy is getting stronger, everyone protects the Guardian General and the chariot!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "201": [
+      [
+        {
+          "talk": "I heard that you have defeated Zhang Jue-sama, we have been ordered to lure the enemy!",
+          "roleId": 11,
+          "dir": "R"
+        },
+        {
+          "talk": "...... (To lure the enemy like without saying it?)",
+          "roleId": 16,
+          "dir": "R"
+        }
+      ]
+    ],
+    "601": [
+      [
+        {
+          "talk": "Marshal, this battle welcomes the Lu brothers, Jizhou is good at long-range combat, priority is to destroy Archers to destroy the enemy!",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ]
+    ],
+    "102": [
+      [
+        {
+          "talk": "Ahahahaha, your can't go back!",
+          "roleId": 0,
+          "dir": "R"
+        },
+        {
+          "talk": "Bad marshal! Archers are most afraid of being approached by melee troops!",
+          "roleId": 4,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Daughter, don't panic! I'm here to save you!",
+          "roleId": 8,
+          "dir": "L"
+        }
+      ]
+    ],
+    "401": [
+      [
+        {
+          "talk": "Marshal, this person is Dong Zhuo's son-in-law, it seems Dong Zhuo has nothing left to send!",
+          "roleId": 3,
+          "dir": "L"
+        },
+        {
+          "talk": "What do you mean? Are you saying I'm very powerful?",
+          "roleId": 23,
+          "dir": "R"
+        },
+        {
+          "talk": "Quickly chase Dong Zhuo, block me, kill it!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "607": [
+      [
+        {
+          "talk": "Looking at this game, needless to say, Jing Zhou is important to Cavalry?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "he marshal is smart, but the battle is getting more and more dangerous, the general of Yuan Shao has gone to war, this time is Yan Liang a..",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ]
+    ],
+    "909": [
+      [
+        {
+          "talk": "Taishi Ci is here, the enemy quickly surrender! If the iron heel does not step over, there is not a blade of grass left!",
+          "roleId": 43,
+          "dir": "R"
+        },
+        {
+          "talk": "It's so loud, you're so arrogant, come and fight for a while!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "103": [
+      [
+        {
+          "talk": "Zhang He served to assist the battle, the Marshal could rest assured to kill the enemy, there was support behind me!",
+          "roleId": 44,
+          "dir": "L"
+        }
+      ]
+    ],
+    "405": [
+      [
+        {
+          "talk": "Marshal, this person is Dong Zhuo's son-in-law... it's like he said it before",
+          "roleId": 7,
+          "dir": "L"
+        },
+        {
+          "talk": "Don't compare me with the Bull, give you a little insight into the true son-in-law ... No, the real fierce general ...",
+          "roleId": 24,
+          "dir": "R"
+        },
+        {
+          "talk": "...... If I lose to this guy, I'll get drunk too",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "205": [
+      [
+        {
+          "talk": "Can see my Ba Tai, you should stop here!",
+          "roleId": 13,
+          "dir": "R"
+        },
+        {
+          "talk": "Sir, we don't seem to be his match! Is it really okay to be so arrogant?",
+          "roleId": 15,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "...... Even if you win against me, Zhang Gian's thunder formation will make you miserable!",
+          "roleId": 13,
+          "dir": "R"
+        },
+        {
+          "talk": "Is the Yellow Turban army really that stupid? Suddenly taking the initiative to act ...",
+          "roleId": 7,
+          "dir": "L"
+        }
+      ]
+    ],
+    "1001": [
+      [
+        {
+          "talk": "Kong Xiu: Who is the person coming? Why bring troops to the door?",
+          "roleId": 34,
+          "dir": "R"
+        },
+        {
+          "talk": "Guan Yu: Under Guan Yunchang, escort the staff to Yuan Shao territory, find brother Liu Bei, hope the general will let it go!",
+          "roleId": 8,
+          "dir": "L"
+        },
+        {
+          "talk": "Kong Xiu: Yuan Shao is the enemy of Prime Minister Cao Xiu and cannot be controlled!",
+          "roleId": 34,
+          "dir": "R"
+        },
+        {
+          "talk": "Main character: The general doesn't need to get involved with him, let me come and raze them!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Main character: The general has a bumpy road, thorns, Pass Gate Slash Enemy the quest let me go!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "104": [
+      [
+        {
+          "talk": "Hahaha, Archers are powerful, but when they're close, they're scum! Kill me!",
+          "roleId": 46,
+          "dir": "L"
+        },
+        {
+          "talk": "Shoot them into beehives, General Orange has come, level them!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "910": [
+      [
+        {
+          "talk": "Cut the way of retreat, destroy the enemy army!",
+          "roleId": 41,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "The kind of person who is brave and unscrupulous, can he change the opponent of our army Jiangdong, kill!",
+          "roleId": 42,
+          "dir": "R"
+        },
+        {
+          "talk": "Not good, hit by ambush, don't panic, use your skills ...",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "410": [
+      [
+        {
+          "talk": "Finally catching up with Dong Zhuo, could that majestic general be Lu Bu?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Haha, in the beginning I saved your life, didn't expect you to grow up so quickly, let's have a good fight today!",
+          "roleId": 10,
+          "dir": "R"
+        },
+        {
+          "talk": "My son Lu Bu, protect me well, win I will give you son-in-law!",
+          "roleId": 25,
+          "dir": "R"
+        },
+        {
+          "talk": "......",
+          "roleId": 10,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Unfortunately, it's still late, Dong Zhuo is dead, it seems I'm the only one to take care of Diaochan...",
+          "roleId": 10,
+          "dir": "R"
+        },
+        {
+          "talk": "Lu Bu has retreat, can't release the tiger to the forest, marshal, must quickly eliminate Lu Bu as soon as possible!",
+          "roleId": 4,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Lu Bu, my son, you can't take it anymore!",
+          "roleId": 25,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Lu Bu, my son, quickly save the price, I can't stand it!",
+          "roleId": 10,
+          "dir": "R"
+        },
+        {
+          "talk": "Demon God.Lu Bu is here, don't touch my Father ...",
+          "roleId": 4,
+          "dir": "L"
+        }
+      ]
+    ],
+    "1003": [
+      [
+        {
+          "talk": "Main character: Kong Xiu Duc failed to stop my General. The two of you also want to follow?",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Han Fu: Having heard the great marshal and Guan Yu for a long time, we don't dare to mess around anymore, please come back first to clear the official documents, then come back, how?",
+          "roleId": 35,
+          "dir": "R"
+        },
+        {
+          "talk": "Main character: It seems that you also know a little bit of rules, force is also unbearable, if we don't let us pass customs today, don't bbluee the army for inadvertently.",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Meng Tan: Han Fu, don't hang out with him, take Guan Yu's head and send it to the prime minister to ask for merit! Kill!!!",
+          "roleId": 36,
+          "dir": "R"
+        }
+      ]
+    ],
+    "105": [
+      [
+        {
+          "talk": "Our boss, these people are chasing!",
+          "roleId": 17,
+          "dir": "R"
+        },
+        {
+          "talk": "The master of the sword can't enter, but there are still enemies who dare to be in my area? ! Today, I will show up for you!",
+          "roleId": 5,
+          "dir": "R"
+        },
+        {
+          "talk": "Who is the person coming? Get me five lightning!",
+          "roleId": 5,
+          "dir": "R"
+        },
+        {
+          "talk": "I'm sorry! This Taoist is really annoying ...",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "That... He is Zhang Jue Tianshi... As soon as he saw him, his whole body was uncomfortable, that one... I went to rest first",
+          "roleId": 7,
+          "dir": "L"
+        },
+        {
+          "talk": "Hey -_-|||",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "The ants, feel the wrath of the emperor!",
+          "roleId": 5,
+          "dir": "R"
+        }
+      ],
+      [
+        {
+          "talk": "Hahaha! Lead the powerful lesson of the old man's bravery!",
+          "roleId": 5,
+          "dir": "R"
+        },
+        {
+          "talk": "If you don't want to get out of here",
+          "roleId": 5,
+          "dir": "R"
+        },
+        {
+          "talk": "Huh!",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Don't panic, soldiers are not used to battle.",
+          "roleId": 7,
+          "dir": "L"
+        },
+        {
+          "talk": "Let's go back and train the Troops well, Strengthen the heroes and fight again",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Okay!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "You are powerful! Retreat to Thanh Son, sooner or later you will come to take revenge! We will see you again later...",
+          "roleId": 5,
+          "dir": "R"
+        },
+        {
+          "talk": "The marshal is powerful! But the arrogant Zhang Jue is beaten back!",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Fortunately, there is a great Dharma revival, otherwise, you will really die tragically ...",
+          "roleId": 2,
+          "dir": "L"
+        },
+        {
+          "talk": "Yeah! Spring can heal soldiers in range, it's a good healer skill!",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ],
+      [
+        {
+          "talk": "Our army has suffered casualties, please marshal quickly save the army! ；",
+          "roleId": 4,
+          "dir": "L"
+        },
+        {
+          "talk": "Treatment? I have never studied medicine, how can I save?",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "1007": [
+      [
+        {
+          "talk": "Wang Zhi: Under Prime Minister Wang Zhi, he admitted that he was not an opponent of the two generals, but even if he died, it would be worth it to lose at the hands of the two generals!",
+          "roleId": 38,
+          "dir": "R"
+        },
+        {
+          "talk": "Guan Yu: Enjoy! General Wang is also considered a heroic hero, Quan Mo will definitely win quickly.",
+          "roleId": 8,
+          "dir": "L"
+        },
+        {
+          "talk": "Main character: Hey ... the old people while cutting each other can still say such a deep love, I'm tired too.",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "605": [
+      [
+        {
+          "talk": "Marshal, although Youzhou is relatively normal, don't underestimate the army leader, General Zhang He, use your skills to the fullest.",
+          "roleId": 3,
+          "dir": "L"
+        },
+        {
+          "talk": "Zhang He is a historical Hero, all heroes are brave, can't be negligent!",
+          "roleId": 2,
+          "dir": "L"
+        }
+      ]
+    ],
+    "603": [
+      [
+        {
+          "talk": "Soldiers of Qing Zhou are brave, Infantry's front is very difficult to break, marshal fighting",
+          "roleId": 3,
+          "dir": "L"
+        }
+      ]
+    ],
+    "208": [
+      [
+        {
+          "talk": "Stand firm brothers, the great county is in front of us, we can only fight to the end!",
+          "roleId": 14,
+          "dir": "R"
+        },
+        {
+          "talk": "Boom rumbling rumbling!",
+          "roleId": 12,
+          "dir": "R"
+        },
+        {
+          "talk": "Marshal! At first glance Yellow Turbans rebellation has lost its morale, let's win the chase!",
+          "roleId": 4,
+          "dir": "L"
+        }
+      ]
+    ]
+  },
+  "Role": {
+    "0": [
+      "Cavalry Yellow Turban",
+      "ui/Guide/xiongguang.png"
+    ],
+    "2": [
+      "Main character",
+      ""
+    ],
+    "38": [
+      "Wang Zhi",
+      "ui/Guide/xiongguang.png"
+    ],
+    "3": [
+      "Zuo Ci",
+      "ui/Guide/zuoci_1.png"
+    ],
+    "4": [
+      "Zuo Ci",
+      "ui/Guide/zuoci_2.png"
+    ],
+    "5": [
+      "Zhang Jue",
+      "ui/Guide/zhangjiao.png"
+    ],
+    "6": [
+      "Guan Hai",
+      "ui/Guide/xiongguang.png"
+    ],
+    "7": [
+      "Zuo Ci",
+      "ui/Guide/zuoci_3.png"
+    ],
+    "8": [
+      "Guan Yu",
+      "ui/Guide/guanyu.png"
+    ],
+    "10": [
+      "Lu Bu",
+      "ui/Guide/lvbu.png"
+    ],
+    "12": [
+      "Yellow Turban Archery",
+      "ui/Guide/xiongguang.png"
+    ],
+    "14": [
+      "Zhang Yan",
+      "ui/Guide/xiongguang.png"
+    ],
+    "16": [
+      "Yellow Turban Archery",
+      "ui/Guide/jiong.png"
+    ],
+    "20": [
+      "Zhang Man Cheng",
+      "ui/Guide/xiongguang.png"
+    ],
+    "24": [
+      "Li Ru",
+      "ui/Guide/jianxiao.png"
+    ],
+    "28": [
+      "Xiahou Yuan",
+      "ui/Guide/xiongguang.png"
+    ],
+    "32": [
+      "Yuan Shao",
+      "ui/Guide/jiong.png"
+    ],
+    "40": [
+      "Lu Fan",
+      "ui/Guide/xiongguang.png"
+    ],
+    "33": [
+      "Pang De",
+      "ui/Guide/xiongguang.png"
+    ],
+    "41": [
+      "Cheng Pu",
+      "ui/Guide/xiongguang.png"
+    ],
+    "17": [
+      "Military Master Yellow Turban",
+      "ui/Guide/jiong.png"
+    ],
+    "21": [
+      "Zhang Man Cheng",
+      "ui/Guide/jiong.png"
+    ],
+    "25": [
+      "Dong Zhuo",
+      "ui/Guide/dongzhuo.png"
+    ],
+    "29": [
+      "Guo Jia",
+      "ui/Guide/guojia.png"
+    ],
+    "34": [
+      "Kong Xiu",
+      "ui/Guide/xiongguang.png"
+    ],
+    "42": [
+      "Huang Gai",
+      "ui/Guide/huanggai.png"
+    ],
+    "9": [
+      "Zhang Fei",
+      "ui/Guide/zhangfei.png"
+    ],
+    "11": [
+      "Infantry Yellow Turban",
+      "ui/Guide/jianxiao.png"
+    ],
+    "13": [
+      "Ba Tai",
+      "ui/Guide/jianxiao.png"
+    ],
+    "15": [
+      "Infantry Yellow Turban",
+      "ui/Guide/jiong.png"
+    ],
+    "18": [
+      "Military Master Yellow Turban",
+      "ui/Guide/xiongguang.png"
+    ],
+    "22": [
+      "Zhou Cang",
+      "ui/Guide/xiongguang.png"
+    ],
+    "26": [
+      "Chen Gong",
+      "ui/Guide/xiongguang.png"
+    ],
+    "30": [
+      "Cao Ren",
+      "ui/Guide/caoren.png"
+    ],
+    "36": [
+      "Meng Tan",
+      "ui/Guide/xiongguang.png"
+    ],
+    "44": [
+      "Zhang He",
+      "ui/Guide/zhanghe.png"
+    ],
+    "46": [
+      "Gan Ning",
+      "ui/Guide/ganning.png"
+    ],
+    "35": [
+      "Han Fu",
+      "ui/Guide/xiongguang.png"
+    ],
+    "43": [
+      "Taishi Ci",
+      "ui/Guide/xiongguang.png"
+    ],
+    "39": [
+      "Chen Wu",
+      "ui/Guide/xiongguang.png"
+    ],
+    "37": [
+      "Bian Xi",
+      "ui/Guide/xiongguang.png"
+    ],
+    "45": [
+      "Diaochan",
+      "ui/Guide/diaochan.png"
+    ],
+    "31": [
+      "Yuan Shao",
+      "ui/Guide/yuanshao.png"
+    ],
+    "1": [
+      "Liu Bei",
+      "ui/Guide/liubei.png"
+    ],
+    "19": [
+      "Pei Yuanshao",
+      "ui/Guide/xiongguang.png"
+    ],
+    "23": [
+      "Niu Fu",
+      "ui/Guide/jianxiao.png"
+    ],
+    "27": [
+      "Zhang Liao",
+      "ui/Guide/zhangliao.png"
+    ]
+  }
+}
